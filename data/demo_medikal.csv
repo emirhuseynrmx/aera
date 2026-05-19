@@ -1,0 +1,355 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-05,Soğuk zincir taşıma,0,8350,Lojistik
+2024-01-06,Özel klinik sipariş geliri,78968,0,Satış
+2024-01-08,Elektrik,0,3908,Fatura
+2024-01-09,Özel klinik sipariş geliri,83820,0,Satış
+2024-01-09,KDV,0,10229,Vergi
+2024-01-10,Soğuk zincir taşıma,0,6829,Lojistik
+2024-01-10,Kongre ve fuar katılımı,0,15722,Pazarlama
+2024-01-13,Eczane toptan satış,65626,0,Satış
+2024-01-15,SGK ödeme tahsilatı,71049,0,Satış
+2024-01-15,Yedek parça stoğu,0,29352,Tedarik
+2024-01-15,Soğuk zincir taşıma,0,8169,Lojistik
+2024-01-16,Sarf malzeme alımı,0,32906,Tedarik
+2024-01-17,Bayi sipariş ödemesi,73731,0,Satış
+2024-01-17,Satış temsilcisi maaşları,0,108533,Maaş
+2024-01-18,Eğitim ve demo geliri,19879,0,Diğer Gelir
+2024-01-18,Yedek parça stoğu,0,32379,Tedarik
+2024-01-19,Saha ziyaret yakıt,0,6987,Lojistik
+2024-01-20,Yedek parça stoğu,0,30322,Tedarik
+2024-01-21,SGK ödeme tahsilatı,65012,0,Satış
+2024-01-24,Sarf malzeme alımı,0,31011,Tedarik
+2024-01-24,Ürün sorumluluk sigortası,0,15092,Sigorta
+2024-01-24,Elektrik,0,4218,Fatura
+2024-01-29,Stopaj,0,12844,Vergi
+2024-01-31,Ofis ve depo kira,0,20054,Kira
+2024-02-02,Eczane toptan satış,87839,0,Satış
+2024-02-02,İthalat medikal cihaz,0,29665,Tedarik
+2024-02-05,Özel klinik sipariş geliri,95311,0,Satış
+2024-02-07,Yedek parça stoğu,0,24558,Tedarik
+2024-02-09,Sarf malzeme alımı,0,30617,Tedarik
+2024-02-10,Hastane sipariş tahsilatı,101119,0,Satış
+2024-02-10,Satış temsilcisi maaşları,0,45664,Maaş
+2024-02-11,SGK ödeme tahsilatı,108780,0,Satış
+2024-02-12,İthalat medikal cihaz,0,29068,Tedarik
+2024-02-14,Bayi sipariş ödemesi,92274,0,Satış
+2024-02-15,Kargo gönderim ücreti,0,30600,Lojistik
+2024-02-15,Elektrik,0,3698,Fatura
+2024-02-15,Elektrik,0,4134,Fatura
+2024-02-16,Satış temsilcisi maaşları,0,46292,Maaş
+2024-02-20,İthalat medikal cihaz,0,25844,Tedarik
+2024-02-23,Ofis ve depo kira,0,23927,Kira
+2024-02-25,KDV,0,25308,Vergi
+2024-02-26,Eğitim ve demo geliri,26750,0,Diğer Gelir
+2024-02-29,Yedek parça stoğu,0,31398,Tedarik
+2024-03-03,Yedek parça stoğu,0,22068,Tedarik
+2024-03-06,SGK ödeme tahsilatı,63484,0,Satış
+2024-03-06,SGK ödeme tahsilatı,43663,0,Satış
+2024-03-06,Bayi sipariş ödemesi,53139,0,Satış
+2024-03-07,Hastane sipariş tahsilatı,47801,0,Satış
+2024-03-07,Teknik servis maaşı,0,94162,Maaş
+2024-03-07,Saha ziyaret yakıt,0,11079,Lojistik
+2024-03-08,Özel klinik sipariş geliri,56710,0,Satış
+2024-03-10,Sarf malzeme alımı,0,28644,Tedarik
+2024-03-10,Yedek parça stoğu,0,28624,Tedarik
+2024-03-11,Elektrik,0,8722,Fatura
+2024-03-12,Kargo gönderim ücreti,0,10976,Lojistik
+2024-03-13,Yedek parça stoğu,0,27962,Tedarik
+2024-03-14,Soğuk zincir taşıma,0,11414,Lojistik
+2024-03-16,Hastane sipariş tahsilatı,61295,0,Satış
+2024-03-16,Yedek parça stoğu,0,23153,Tedarik
+2024-03-17,Hastane sipariş tahsilatı,52740,0,Satış
+2024-03-22,SGK ödeme tahsilatı,48897,0,Satış
+2024-03-23,Özel klinik sipariş geliri,47102,0,Satış
+2024-03-23,Sarf malzeme alımı,0,22540,Tedarik
+2024-03-25,Ofis ve depo kira,0,21611,Kira
+2024-03-26,İthalat medikal cihaz,0,22180,Tedarik
+2024-03-28,Gümrük vergisi,0,13613,Vergi
+2024-03-29,KDV,0,10670,Vergi
+2024-03-31,Ürün sorumluluk sigortası,0,15316,Sigorta
+2024-04-02,Soğuk zincir taşıma,0,9534,Lojistik
+2024-04-02,Ürün sorumluluk sigortası,0,17374,Sigorta
+2024-04-02,İnternet,0,3309,Fatura
+2024-04-04,Hastane sipariş tahsilatı,45784,0,Satış
+2024-04-04,Özel klinik sipariş geliri,42812,0,Satış
+2024-04-04,Sarf malzeme alımı,0,27661,Tedarik
+2024-04-05,İthalat medikal cihaz,0,27012,Tedarik
+2024-04-05,Saha ziyaret yakıt,0,9077,Lojistik
+2024-04-07,SGK ödeme tahsilatı,43919,0,Satış
+2024-04-07,Bayi sipariş ödemesi,34395,0,Satış
+2024-04-08,Saha ziyaret yakıt,0,9333,Lojistik
+2024-04-09,Ofis ve depo kira,0,21919,Kira
+2024-04-10,Hastane sipariş tahsilatı,49516,0,Satış
+2024-04-13,Yedek parça stoğu,0,20802,Tedarik
+2024-04-14,Doktor eğitim semineri,0,7181,Pazarlama
+2024-04-15,SGK ödeme tahsilatı,35764,0,Satış
+2024-04-16,Yedek parça stoğu,0,24581,Tedarik
+2024-04-18,Elektrik,0,3953,Fatura
+2024-04-19,Yedek parça stoğu,0,27875,Tedarik
+2024-04-20,Satış temsilcisi maaşları,0,98731,Maaş
+2024-04-20,KDV,0,19425,Vergi
+2024-04-23,Bayi sipariş ödemesi,46644,0,Satış
+2024-04-24,Hastane sipariş tahsilatı,39891,0,Satış
+2024-04-25,Bayi sipariş ödemesi,47611,0,Satış
+2024-04-28,Özel klinik sipariş geliri,48878,0,Satış
+2024-04-30,Bayi sipariş ödemesi,34562,0,Satış
+2024-04-30,Sarf malzeme alımı,0,21126,Tedarik
+2024-04-30,İthalat medikal cihaz,0,21936,Tedarik
+2024-04-30,Doktor eğitim semineri,0,7988,Pazarlama
+2024-05-02,Saha ziyaret yakıt,0,15967,Lojistik
+2024-05-04,Bayi sipariş ödemesi,39980,0,Satış
+2024-05-06,Teknik servis maaşı,0,83170,Maaş
+2024-05-13,SGK ödeme tahsilatı,42673,0,Satış
+2024-05-13,Yedek parça stoğu,0,57449,Tedarik
+2024-05-15,Özel klinik sipariş geliri,37693,0,Satış
+2024-05-18,Sarf malzeme alımı,0,50929,Tedarik
+2024-05-19,Saha ziyaret yakıt,0,13141,Lojistik
+2024-05-19,Stopaj,0,20058,Vergi
+2024-05-21,Eczane toptan satış,52221,0,Satış
+2024-05-23,Özel klinik sipariş geliri,36899,0,Satış
+2024-05-23,Hastane sipariş tahsilatı,40868,0,Satış
+2024-05-23,Eczane toptan satış,42317,0,Satış
+2024-05-24,Ofis ve depo kira,0,24206,Kira
+2024-05-25,İthalat medikal cihaz,0,46941,Tedarik
+2024-05-29,Özel klinik sipariş geliri,49258,0,Satış
+2024-05-30,Hastane sipariş tahsilatı,43661,0,Satış
+2024-05-30,İnternet,0,7836,Fatura
+2024-05-31,Özel klinik sipariş geliri,37823,0,Satış
+2024-06-01,Özel klinik sipariş geliri,49489,0,Satış
+2024-06-01,İthalat medikal cihaz,0,29353,Tedarik
+2024-06-02,Sarf malzeme alımı,0,34244,Tedarik
+2024-06-03,Yedek parça stoğu,0,27831,Tedarik
+2024-06-03,Kongre ve fuar katılımı,0,7745,Pazarlama
+2024-06-04,Eğitim ve demo geliri,13006,0,Diğer Gelir
+2024-06-05,İthalat medikal cihaz,0,29719,Tedarik
+2024-06-06,Saha ziyaret yakıt,0,14779,Lojistik
+2024-06-08,Hastane sipariş tahsilatı,42064,0,Satış
+2024-06-08,Bayi sipariş ödemesi,35207,0,Satış
+2024-06-09,Eczane toptan satış,39723,0,Satış
+2024-06-09,Yedek parça stoğu,0,31373,Tedarik
+2024-06-11,Soğuk zincir taşıma,0,11679,Lojistik
+2024-06-13,Özel klinik sipariş geliri,38888,0,Satış
+2024-06-15,Bayi sipariş ödemesi,41731,0,Satış
+2024-06-15,Stopaj,0,9846,Vergi
+2024-06-16,Ofis ve depo kira,0,21347,Kira
+2024-06-16,Elektrik,0,7649,Fatura
+2024-06-18,Bayi sipariş ödemesi,45365,0,Satış
+2024-06-18,Eczane toptan satış,45473,0,Satış
+2024-06-18,Özel klinik sipariş geliri,45710,0,Satış
+2024-06-19,Kongre ve fuar katılımı,0,6567,Pazarlama
+2024-06-23,Stopaj,0,9120,Vergi
+2024-06-24,Teknik servis maaşı,0,89026,Maaş
+2024-06-25,Eğitim ve demo geliri,9000,0,Diğer Gelir
+2024-06-27,Bayi sipariş ödemesi,41106,0,Satış
+2024-07-01,İthalat medikal cihaz,0,23745,Tedarik
+2024-07-05,Ürün sorumluluk sigortası,0,11446,Sigorta
+2024-07-09,İthalat medikal cihaz,0,25778,Tedarik
+2024-07-13,Hastane sipariş tahsilatı,55458,0,Satış
+2024-07-14,SGK ödeme tahsilatı,77777,0,Satış
+2024-07-15,Eczane toptan satış,54007,0,Satış
+2024-07-15,Elektrik,0,2889,Fatura
+2024-07-15,İnternet,0,3532,Fatura
+2024-07-16,Teknik servis maaşı,0,86791,Maaş
+2024-07-17,İthalat medikal cihaz,0,22854,Tedarik
+2024-07-17,Sarf malzeme alımı,0,24007,Tedarik
+2024-07-20,Ofis ve depo kira,0,21576,Kira
+2024-07-22,Kargo gönderim ücreti,0,8377,Lojistik
+2024-07-23,İthalat medikal cihaz,0,25443,Tedarik
+2024-07-23,Kargo gönderim ücreti,0,9424,Lojistik
+2024-07-24,Hastane sipariş tahsilatı,62991,0,Satış
+2024-07-24,Gümrük vergisi,0,8933,Vergi
+2024-07-27,Özel klinik sipariş geliri,57887,0,Satış
+2024-07-30,SGK ödeme tahsilatı,59239,0,Satış
+2024-07-30,Yedek parça stoğu,0,21625,Tedarik
+2024-07-30,Saha ziyaret yakıt,0,9368,Lojistik
+2024-07-30,Gümrük vergisi,0,8491,Vergi
+2024-07-31,Eğitim ve demo geliri,21548,0,Diğer Gelir
+2024-08-01,Bayi sipariş ödemesi,37444,0,Satış
+2024-08-01,Eğitim ve demo geliri,12475,0,Diğer Gelir
+2024-08-02,Teknik servis maaşı,0,46338,Maaş
+2024-08-02,Ofis ve depo kira,0,23563,Kira
+2024-08-02,KDV,0,17511,Vergi
+2024-08-04,İnternet,0,3249,Fatura
+2024-08-06,Bayi sipariş ödemesi,44361,0,Satış
+2024-08-07,Teknik servis maaşı,0,37462,Maaş
+2024-08-08,SGK ödeme tahsilatı,53645,0,Satış
+2024-08-09,Özel klinik sipariş geliri,50568,0,Satış
+2024-08-09,İthalat medikal cihaz,0,29416,Tedarik
+2024-08-11,Ürün sorumluluk sigortası,0,14904,Sigorta
+2024-08-13,Bayi sipariş ödemesi,49118,0,Satış
+2024-08-14,Hastane sipariş tahsilatı,55225,0,Satış
+2024-08-14,Eğitim ve demo geliri,10893,0,Diğer Gelir
+2024-08-15,Yedek parça stoğu,0,33523,Tedarik
+2024-08-16,Sarf malzeme alımı,0,32600,Tedarik
+2024-08-17,Eczane toptan satış,44357,0,Satış
+2024-08-19,İthalat medikal cihaz,0,31864,Tedarik
+2024-08-19,Kargo gönderim ücreti,0,13588,Lojistik
+2024-08-21,Yedek parça stoğu,0,30094,Tedarik
+2024-08-22,Kongre ve fuar katılımı,0,5901,Pazarlama
+2024-08-24,SGK ödeme tahsilatı,45192,0,Satış
+2024-08-27,Elektrik,0,3201,Fatura
+2024-08-28,Eczane toptan satış,36925,0,Satış
+2024-08-30,Soğuk zincir taşıma,0,12712,Lojistik
+2024-08-30,Doktor eğitim semineri,0,6112,Pazarlama
+2024-09-01,Hastane sipariş tahsilatı,48071,0,Satış
+2024-09-01,İnternet,0,7886,Fatura
+2024-09-02,Ofis ve depo kira,0,22984,Kira
+2024-09-04,Kongre ve fuar katılımı,0,8494,Pazarlama
+2024-09-05,SGK ödeme tahsilatı,42805,0,Satış
+2024-09-06,Eczane toptan satış,46955,0,Satış
+2024-09-06,Gümrük vergisi,0,25143,Vergi
+2024-09-07,İthalat medikal cihaz,0,29068,Tedarik
+2024-09-09,Eczane toptan satış,42544,0,Satış
+2024-09-09,Saha ziyaret yakıt,0,14015,Lojistik
+2024-09-10,Bayi sipariş ödemesi,37443,0,Satış
+2024-09-10,SGK ödeme tahsilatı,50290,0,Satış
+2024-09-12,İthalat medikal cihaz,0,24183,Tedarik
+2024-09-13,SGK ödeme tahsilatı,38247,0,Satış
+2024-09-13,Bayi sipariş ödemesi,48487,0,Satış
+2024-09-14,Özel klinik sipariş geliri,47897,0,Satış
+2024-09-15,Bayi sipariş ödemesi,50206,0,Satış
+2024-09-16,Ofis personeli,0,89453,Maaş
+2024-09-20,İthalat medikal cihaz,0,26762,Tedarik
+2024-09-20,Saha ziyaret yakıt,0,14805,Lojistik
+2024-09-20,Doktor eğitim semineri,0,7426,Pazarlama
+2024-09-26,İthalat medikal cihaz,0,28881,Tedarik
+2024-09-27,Eğitim ve demo geliri,27705,0,Diğer Gelir
+2024-09-27,Sarf malzeme alımı,0,27576,Tedarik
+2024-09-30,Sarf malzeme alımı,0,32447,Tedarik
+2024-10-01,İthalat medikal cihaz,0,41399,Tedarik
+2024-10-03,Bayi sipariş ödemesi,67651,0,Satış
+2024-10-03,Eczane toptan satış,77913,0,Satış
+2024-10-03,İthalat medikal cihaz,0,47230,Tedarik
+2024-10-03,Stopaj,0,10570,Vergi
+2024-10-10,Özel klinik sipariş geliri,86443,0,Satış
+2024-10-11,Ofis ve depo kira,0,19372,Kira
+2024-10-12,Eczane toptan satış,84955,0,Satış
+2024-10-14,Stopaj,0,10747,Vergi
+2024-10-15,Elektrik,0,3673,Fatura
+2024-10-16,Teknik servis maaşı,0,102104,Maaş
+2024-10-19,Elektrik,0,3884,Fatura
+2024-10-23,SGK ödeme tahsilatı,70217,0,Satış
+2024-10-23,Sarf malzeme alımı,0,39994,Tedarik
+2024-10-25,Özel klinik sipariş geliri,91541,0,Satış
+2024-10-30,Eğitim ve demo geliri,25256,0,Diğer Gelir
+2024-10-31,Yedek parça stoğu,0,36299,Tedarik
+2024-10-31,Kargo gönderim ücreti,0,32300,Lojistik
+2024-11-02,Elektrik,0,4001,Fatura
+2024-11-07,Elektrik,0,3974,Fatura
+2024-11-08,Bayi sipariş ödemesi,59906,0,Satış
+2024-11-13,Hastane sipariş tahsilatı,63939,0,Satış
+2024-11-13,Satış temsilcisi maaşları,0,53792,Maaş
+2024-11-14,İthalat medikal cihaz,0,64763,Tedarik
+2024-11-14,Gümrük vergisi,0,23325,Vergi
+2024-11-15,İthalat medikal cihaz,0,58682,Tedarik
+2024-11-15,Saha ziyaret yakıt,0,13676,Lojistik
+2024-11-18,İthalat medikal cihaz,0,59485,Tedarik
+2024-11-19,Ofis ve depo kira,0,25684,Kira
+2024-11-20,Hastane sipariş tahsilatı,68013,0,Satış
+2024-11-20,Saha ziyaret yakıt,0,17336,Lojistik
+2024-11-21,Hastane sipariş tahsilatı,67147,0,Satış
+2024-11-21,Eczane toptan satış,51889,0,Satış
+2024-11-22,Teknik servis maaşı,0,53676,Maaş
+2024-11-25,Eğitim ve demo geliri,26301,0,Diğer Gelir
+2024-11-26,Bayi sipariş ödemesi,61177,0,Satış
+2024-11-26,Özel klinik sipariş geliri,47583,0,Satış
+2024-11-29,Özel klinik sipariş geliri,59663,0,Satış
+2024-12-01,Elektrik,0,8826,Fatura
+2024-12-03,Ürün sorumluluk sigortası,0,17177,Sigorta
+2024-12-05,Yedek parça stoğu,0,35341,Tedarik
+2024-12-05,Yedek parça stoğu,0,35908,Tedarik
+2024-12-07,Sarf malzeme alımı,0,36619,Tedarik
+2024-12-08,Bayi sipariş ödemesi,72245,0,Satış
+2024-12-10,Özel klinik sipariş geliri,71028,0,Satış
+2024-12-11,İthalat medikal cihaz,0,32960,Tedarik
+2024-12-12,Satış temsilcisi maaşları,0,51218,Maaş
+2024-12-12,Ofis ve depo kira,0,23359,Kira
+2024-12-13,SGK ödeme tahsilatı,60629,0,Satış
+2024-12-19,Eczane toptan satış,72954,0,Satış
+2024-12-19,Bayi sipariş ödemesi,74167,0,Satış
+2024-12-19,Sarf malzeme alımı,0,38170,Tedarik
+2024-12-22,Eczane toptan satış,73358,0,Satış
+2024-12-29,Bayi sipariş ödemesi,63502,0,Satış
+2024-12-29,Soğuk zincir taşıma,0,30741,Lojistik
+2024-12-29,Doktor eğitim semineri,0,18086,Pazarlama
+2024-12-30,Teknik servis maaşı,0,47793,Maaş
+2024-12-31,Gümrük vergisi,0,12793,Vergi
+2024-12-31,Stopaj,0,11377,Vergi
+2025-01-01,Sarf malzeme alımı,0,26972,Tedarik
+2025-01-01,İthalat medikal cihaz,0,20803,Tedarik
+2025-01-02,İnternet,0,4065,Fatura
+2025-01-04,Özel klinik sipariş geliri,45242,0,Satış
+2025-01-04,Yedek parça stoğu,0,20944,Tedarik
+2025-01-05,Hastane sipariş tahsilatı,52811,0,Satış
+2025-01-05,Satış temsilcisi maaşları,0,50428,Maaş
+2025-01-07,Soğuk zincir taşıma,0,8580,Lojistik
+2025-01-08,Elektrik,0,3728,Fatura
+2025-01-13,Yedek parça stoğu,0,24836,Tedarik
+2025-01-15,Satış temsilcisi maaşları,0,47242,Maaş
+2025-01-17,SGK ödeme tahsilatı,53366,0,Satış
+2025-01-17,Soğuk zincir taşıma,0,10749,Lojistik
+2025-01-18,İthalat medikal cihaz,0,23061,Tedarik
+2025-01-18,Ürün sorumluluk sigortası,0,15065,Sigorta
+2025-01-19,Stopaj,0,9650,Vergi
+2025-01-23,Hastane sipariş tahsilatı,50088,0,Satış
+2025-01-23,SGK ödeme tahsilatı,50495,0,Satış
+2025-01-24,Eczane toptan satış,36948,0,Satış
+2025-01-25,Sarf malzeme alımı,0,20756,Tedarik
+2025-01-26,Eczane toptan satış,43858,0,Satış
+2025-01-28,SGK ödeme tahsilatı,41789,0,Satış
+2025-01-29,Ofis ve depo kira,0,24365,Kira
+2025-01-30,Bayi sipariş ödemesi,39063,0,Satış
+2025-01-30,Kargo gönderim ücreti,0,10381,Lojistik
+2025-01-31,Eczane toptan satış,54495,0,Satış
+2025-01-31,Sarf malzeme alımı,0,21312,Tedarik
+2025-01-31,Gümrük vergisi,0,11303,Vergi
+2025-02-01,Eczane toptan satış,52221,0,Satış
+2025-02-01,Ofis ve depo kira,0,25774,Kira
+2025-02-03,Soğuk zincir taşıma,0,7709,Lojistik
+2025-02-05,Gümrük vergisi,0,11056,Vergi
+2025-02-06,Yedek parça stoğu,0,30055,Tedarik
+2025-02-07,Kargo gönderim ücreti,0,7816,Lojistik
+2025-02-07,İnternet,0,4195,Fatura
+2025-02-09,Hastane sipariş tahsilatı,46273,0,Satış
+2025-02-10,Gümrük vergisi,0,12838,Vergi
+2025-02-10,Ürün sorumluluk sigortası,0,14870,Sigorta
+2025-02-11,Yedek parça stoğu,0,24587,Tedarik
+2025-02-12,Hastane sipariş tahsilatı,53027,0,Satış
+2025-02-12,SGK ödeme tahsilatı,52963,0,Satış
+2025-02-12,Yedek parça stoğu,0,26543,Tedarik
+2025-02-13,Bayi sipariş ödemesi,45970,0,Satış
+2025-02-13,Eğitim ve demo geliri,24736,0,Diğer Gelir
+2025-02-14,SGK ödeme tahsilatı,43528,0,Satış
+2025-02-14,Kongre ve fuar katılımı,0,6957,Pazarlama
+2025-02-15,Yedek parça stoğu,0,32587,Tedarik
+2025-02-17,Ofis personeli,0,51348,Maaş
+2025-02-19,Eczane toptan satış,46583,0,Satış
+2025-02-22,Sarf malzeme alımı,0,31826,Tedarik
+2025-02-23,Yedek parça stoğu,0,26533,Tedarik
+2025-02-25,Kargo gönderim ücreti,0,7846,Lojistik
+2025-02-27,Eczane toptan satış,42772,0,Satış
+2025-02-27,Ofis personeli,0,51355,Maaş
+2025-02-27,Soğuk zincir taşıma,0,7479,Lojistik
+2025-02-28,SGK ödeme tahsilatı,42603,0,Satış
+2025-02-28,Doktor eğitim semineri,0,8677,Pazarlama
+2025-02-28,Elektrik,0,3276,Fatura
+2025-03-01,Hastane sipariş tahsilatı,108260,0,Satış
+2025-03-02,Özel klinik sipariş geliri,88219,0,Satış
+2025-03-03,Sarf malzeme alımı,0,25141,Tedarik
+2025-03-04,İthalat medikal cihaz,0,24207,Tedarik
+2025-03-05,Stopaj,0,10513,Vergi
+2025-03-10,Özel klinik sipariş geliri,78565,0,Satış
+2025-03-10,Sarf malzeme alımı,0,25747,Tedarik
+2025-03-14,Hastane sipariş tahsilatı,94050,0,Satış
+2025-03-14,SGK ödeme tahsilatı,104218,0,Satış
+2025-03-15,Kongre ve fuar katılımı,0,14449,Pazarlama
+2025-03-18,İthalat medikal cihaz,0,23389,Tedarik
+2025-03-21,Satış temsilcisi maaşları,0,56723,Maaş
+2025-03-23,Yedek parça stoğu,0,24246,Tedarik
+2025-03-23,Kargo gönderim ücreti,0,31556,Lojistik
+2025-03-23,Ofis ve depo kira,0,23259,Kira
+2025-03-27,İthalat medikal cihaz,0,24717,Tedarik
+2025-03-27,KDV,0,11433,Vergi
+2025-03-27,Elektrik,0,7948,Fatura
+2025-03-29,İthalat medikal cihaz,0,25633,Tedarik
+2025-03-29,Ofis personeli,0,43359,Maaş

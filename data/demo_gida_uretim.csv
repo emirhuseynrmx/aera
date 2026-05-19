@@ -1,0 +1,439 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Bayi sipariş ödemesi,40505,0,Satış
+2024-01-02,Meyve ve sebze hammadde,0,42701,Tedarik
+2024-01-03,Un ve şeker alımı,0,39283,Tedarik
+2024-01-03,Üretim işçileri maaşları,0,52984,Maaş
+2024-01-03,Stopaj,0,23954,Vergi
+2024-01-05,Zincir market tahsilatı,44669,0,Satış
+2024-01-05,Su,0,7514,Fatura
+2024-01-06,Makine bakımı,0,14698,Üretim
+2024-01-06,Üretim tesisi kirası,0,23109,Kira
+2024-01-07,Online satış geliri,37726,0,Satış
+2024-01-08,Online satış geliri,50531,0,Satış
+2024-01-10,Sterilizasyon,0,14634,Üretim
+2024-01-11,Restoran toptan tedarik geliri,41019,0,Satış
+2024-01-11,Süt tedariği (çiftlik),0,46997,Tedarik
+2024-01-12,Ambalaj malzemesi,0,47380,Tedarik
+2024-01-12,Soğuk zincir nakliye,0,15962,Lojistik
+2024-01-14,Şehir içi dağıtım yakıt,0,19153,Lojistik
+2024-01-15,Un ve şeker alımı,0,39851,Tedarik
+2024-01-16,Yerel bakkal toptan satış,50114,0,Satış
+2024-01-16,Zincir market tahsilatı,43792,0,Satış
+2024-01-16,Lojistik ekibi,0,63421,Maaş
+2024-01-19,Restoran toptan tedarik geliri,45955,0,Satış
+2024-01-19,Yerel bakkal toptan satış,52721,0,Satış
+2024-01-22,Restoran toptan tedarik geliri,40873,0,Satış
+2024-01-22,Elektrik (soğutma yüksek),0,8540,Fatura
+2024-01-24,Soğutma ünitesi bakımı,0,13994,Üretim
+2024-01-27,Sterilizasyon,0,13574,Üretim
+2024-01-28,Restoran toptan tedarik geliri,52547,0,Satış
+2024-01-28,İhracat tahsilatı,41753,0,Satış
+2024-01-28,Meyve ve sebze hammadde,0,40535,Tedarik
+2024-01-29,Elektrik (soğutma yüksek),0,9196,Fatura
+2024-01-30,Yerel bakkal toptan satış,40169,0,Satış
+2024-01-30,Hurda ambalaj satışı,30655,0,Diğer Gelir
+2024-02-02,Zincir market tahsilatı,58163,0,Satış
+2024-02-03,Restoran toptan tedarik geliri,45373,0,Satış
+2024-02-04,Hurda ambalaj satışı,16052,0,Diğer Gelir
+2024-02-04,Ambalaj malzemesi,0,32834,Tedarik
+2024-02-04,Yağ ve katkı maddesi,0,31590,Tedarik
+2024-02-04,Un ve şeker alımı,0,35164,Tedarik
+2024-02-04,Ambalaj malzemesi,0,32458,Tedarik
+2024-02-05,Online satış geliri,43080,0,Satış
+2024-02-05,Sterilizasyon,0,16986,Üretim
+2024-02-05,Makine bakımı,0,19214,Üretim
+2024-02-06,Restoran toptan tedarik geliri,54366,0,Satış
+2024-02-07,Doğal gaz,0,11332,Fatura
+2024-02-08,Sterilizasyon,0,18878,Üretim
+2024-02-09,İhracat tahsilatı,50526,0,Satış
+2024-02-10,İhracat tahsilatı,56995,0,Satış
+2024-02-11,Doğal gaz,0,13534,Fatura
+2024-02-12,Hurda ambalaj satışı,14902,0,Diğer Gelir
+2024-02-12,Un ve şeker alımı,0,29671,Tedarik
+2024-02-12,Üretim tesisi kirası,0,21372,Kira
+2024-02-15,Online satış geliri,39309,0,Satış
+2024-02-16,Soğuk zincir nakliye,0,8386,Lojistik
+2024-02-17,Restoran toptan tedarik geliri,47581,0,Satış
+2024-02-18,Un ve şeker alımı,0,32296,Tedarik
+2024-02-20,Yerel bakkal toptan satış,53246,0,Satış
+2024-02-21,Süt tedariği (çiftlik),0,34173,Tedarik
+2024-02-22,Kalite kontrol maaşı,0,111063,Maaş
+2024-02-22,Soğuk zincir nakliye,0,10254,Lojistik
+2024-02-23,Meyve ve sebze hammadde,0,27337,Tedarik
+2024-02-24,Restoran toptan tedarik geliri,39708,0,Satış
+2024-02-25,Stopaj,0,19252,Vergi
+2024-02-26,Şehir içi dağıtım yakıt,0,8318,Lojistik
+2024-02-29,Yerel bakkal toptan satış,40656,0,Satış
+2024-02-29,Restoran toptan tedarik geliri,47232,0,Satış
+2024-02-29,Şehir içi dağıtım yakıt,0,8465,Lojistik
+2024-03-01,Online satış geliri,77192,0,Satış
+2024-03-01,Şehir içi dağıtım yakıt,0,9931,Lojistik
+2024-03-02,Online satış geliri,62751,0,Satış
+2024-03-03,Yerel bakkal toptan satış,70137,0,Satış
+2024-03-03,Devlet teşvik ödemesi,38443,0,Diğer Gelir
+2024-03-04,Ambalaj malzemesi,0,68251,Tedarik
+2024-03-05,Üretim tesisi kirası,0,24559,Kira
+2024-03-07,Restoran toptan tedarik geliri,71991,0,Satış
+2024-03-07,Şehir içi dağıtım yakıt,0,10181,Lojistik
+2024-03-08,Bayi sipariş ödemesi,69231,0,Satış
+2024-03-08,Ambalaj malzemesi,0,71022,Tedarik
+2024-03-08,Soğutma ünitesi bakımı,0,20200,Üretim
+2024-03-08,Su,0,9688,Fatura
+2024-03-09,Ambalaj malzemesi,0,69605,Tedarik
+2024-03-09,Su,0,9184,Fatura
+2024-03-12,Restoran toptan tedarik geliri,77625,0,Satış
+2024-03-12,İhracat tahsilatı,77930,0,Satış
+2024-03-14,Yağ ve katkı maddesi,0,67925,Tedarik
+2024-03-16,Online satış geliri,56313,0,Satış
+2024-03-18,Kalite kontrol maaşı,0,64744,Maaş
+2024-03-21,Kalite kontrol maaşı,0,60098,Maaş
+2024-03-22,Soğutma ünitesi bakımı,0,20178,Üretim
+2024-03-22,Su,0,9607,Fatura
+2024-03-24,Makine bakımı,0,18865,Üretim
+2024-03-24,Şehir içi dağıtım yakıt,0,9011,Lojistik
+2024-03-25,KDV,0,21221,Vergi
+2024-03-28,Soğuk zincir nakliye,0,9862,Lojistik
+2024-03-29,Restoran toptan tedarik geliri,80001,0,Satış
+2024-04-02,Un ve şeker alımı,0,52945,Tedarik
+2024-04-03,Yerel bakkal toptan satış,54576,0,Satış
+2024-04-03,Online satış geliri,43339,0,Satış
+2024-04-04,Elektrik (soğutma yüksek),0,8936,Fatura
+2024-04-05,Sterilizasyon,0,27790,Üretim
+2024-04-07,Zincir market tahsilatı,54233,0,Satış
+2024-04-07,Meyve ve sebze hammadde,0,52760,Tedarik
+2024-04-08,Un ve şeker alımı,0,55810,Tedarik
+2024-04-08,Şehir içi dağıtım yakıt,0,13273,Lojistik
+2024-04-09,Zincir market tahsilatı,57633,0,Satış
+2024-04-10,Online satış geliri,51318,0,Satış
+2024-04-10,Yerel bakkal toptan satış,49073,0,Satış
+2024-04-12,Yerel bakkal toptan satış,54769,0,Satış
+2024-04-16,Süt tedariği (çiftlik),0,49738,Tedarik
+2024-04-19,Soğuk zincir nakliye,0,13369,Lojistik
+2024-04-21,Yerel bakkal toptan satış,55900,0,Satış
+2024-04-21,Üretim tesisi kirası,0,19972,Kira
+2024-04-22,Yerel bakkal toptan satış,54750,0,Satış
+2024-04-22,Doğal gaz,0,9591,Fatura
+2024-04-24,İhracat tahsilatı,48557,0,Satış
+2024-04-24,Bayi sipariş ödemesi,47943,0,Satış
+2024-04-24,Sterilizasyon,0,22755,Üretim
+2024-04-24,Elektrik (soğutma yüksek),0,9462,Fatura
+2024-04-25,Ambalaj malzemesi,0,54793,Tedarik
+2024-04-26,Online satış geliri,45847,0,Satış
+2024-04-26,Stopaj,0,23831,Vergi
+2024-04-28,Üretim işçileri maaşları,0,66008,Maaş
+2024-04-28,Şehir içi dağıtım yakıt,0,11513,Lojistik
+2024-04-30,Kalite kontrol maaşı,0,63779,Maaş
+2024-05-03,KDV,0,18619,Vergi
+2024-05-04,Elektrik (soğutma yüksek),0,8221,Fatura
+2024-05-05,Zincir market tahsilatı,48700,0,Satış
+2024-05-05,Meyve ve sebze hammadde,0,53834,Tedarik
+2024-05-06,Zincir market tahsilatı,48501,0,Satış
+2024-05-07,İhracat tahsilatı,41520,0,Satış
+2024-05-09,Soğutma ünitesi bakımı,0,11608,Üretim
+2024-05-10,Doğal gaz,0,7469,Fatura
+2024-05-12,Zincir market tahsilatı,42434,0,Satış
+2024-05-12,Yağ ve katkı maddesi,0,48578,Tedarik
+2024-05-12,Şehir içi dağıtım yakıt,0,8242,Lojistik
+2024-05-13,Meyve ve sebze hammadde,0,51507,Tedarik
+2024-05-14,Makine bakımı,0,14690,Üretim
+2024-05-16,Şehir içi dağıtım yakıt,0,8779,Lojistik
+2024-05-17,Üretim tesisi kirası,0,20938,Kira
+2024-05-18,Online satış geliri,46928,0,Satış
+2024-05-18,İhracat tahsilatı,41088,0,Satış
+2024-05-18,Zincir market tahsilatı,46757,0,Satış
+2024-05-19,İhracat tahsilatı,45856,0,Satış
+2024-05-20,Online satış geliri,46013,0,Satış
+2024-05-20,Restoran toptan tedarik geliri,50097,0,Satış
+2024-05-21,Şehir içi dağıtım yakıt,0,8715,Lojistik
+2024-05-22,Zincir market tahsilatı,37937,0,Satış
+2024-05-23,Bayi sipariş ödemesi,53890,0,Satış
+2024-05-24,Meyve ve sebze hammadde,0,57371,Tedarik
+2024-05-25,Yerel bakkal toptan satış,36730,0,Satış
+2024-05-26,Su,0,7459,Fatura
+2024-05-27,Meyve ve sebze hammadde,0,54779,Tedarik
+2024-05-29,Kalite kontrol maaşı,0,54965,Maaş
+2024-05-30,Lojistik ekibi,0,60880,Maaş
+2024-05-30,Makine bakımı,0,11733,Üretim
+2024-05-31,Soğutma ünitesi bakımı,0,11213,Üretim
+2024-05-31,Şehir içi dağıtım yakıt,0,9037,Lojistik
+2024-06-01,Meyve ve sebze hammadde,0,52567,Tedarik
+2024-06-02,Yerel bakkal toptan satış,71919,0,Satış
+2024-06-02,Üretim işçileri maaşları,0,116418,Maaş
+2024-06-05,Zincir market tahsilatı,73274,0,Satış
+2024-06-05,Hurda ambalaj satışı,17539,0,Diğer Gelir
+2024-06-05,Makine bakımı,0,27934,Üretim
+2024-06-05,Şehir içi dağıtım yakıt,0,18922,Lojistik
+2024-06-05,Üretim tesisi kirası,0,25248,Kira
+2024-06-06,Restoran toptan tedarik geliri,58213,0,Satış
+2024-06-06,Soğuk zincir nakliye,0,19825,Lojistik
+2024-06-09,Meyve ve sebze hammadde,0,47274,Tedarik
+2024-06-13,Online satış geliri,69742,0,Satış
+2024-06-14,Online satış geliri,58270,0,Satış
+2024-06-14,Doğal gaz,0,11719,Fatura
+2024-06-16,Stopaj,0,23830,Vergi
+2024-06-19,İhracat tahsilatı,77694,0,Satış
+2024-06-22,İhracat tahsilatı,62401,0,Satış
+2024-06-22,Devlet teşvik ödemesi,19305,0,Diğer Gelir
+2024-06-23,Ambalaj malzemesi,0,48275,Tedarik
+2024-06-25,Doğal gaz,0,13928,Fatura
+2024-06-26,İhracat tahsilatı,59432,0,Satış
+2024-06-28,Restoran toptan tedarik geliri,71667,0,Satış
+2024-06-29,Süt tedariği (çiftlik),0,51645,Tedarik
+2024-06-29,Soğutma ünitesi bakımı,0,25208,Üretim
+2024-06-30,Un ve şeker alımı,0,48753,Tedarik
+2024-07-01,Un ve şeker alımı,0,32085,Tedarik
+2024-07-04,Soğuk zincir nakliye,0,17072,Lojistik
+2024-07-05,Restoran toptan tedarik geliri,47901,0,Satış
+2024-07-06,Devlet teşvik ödemesi,34115,0,Diğer Gelir
+2024-07-06,Üretim işçileri maaşları,0,62101,Maaş
+2024-07-07,Online satış geliri,47000,0,Satış
+2024-07-07,Yağ ve katkı maddesi,0,29431,Tedarik
+2024-07-10,Meyve ve sebze hammadde,0,37052,Tedarik
+2024-07-11,Online satış geliri,45002,0,Satış
+2024-07-12,Yağ ve katkı maddesi,0,39053,Tedarik
+2024-07-12,Sterilizasyon,0,12687,Üretim
+2024-07-14,Zincir market tahsilatı,54091,0,Satış
+2024-07-14,Yerel bakkal toptan satış,55567,0,Satış
+2024-07-14,Un ve şeker alımı,0,39330,Tedarik
+2024-07-14,Makine bakımı,0,13890,Üretim
+2024-07-15,Online satış geliri,51774,0,Satış
+2024-07-15,Soğutma ünitesi bakımı,0,11650,Üretim
+2024-07-16,Soğuk zincir nakliye,0,17131,Lojistik
+2024-07-17,Bayi sipariş ödemesi,60051,0,Satış
+2024-07-18,Doğal gaz,0,11229,Fatura
+2024-07-19,Zincir market tahsilatı,56894,0,Satış
+2024-07-19,Üretim tesisi kirası,0,17377,Kira
+2024-07-20,Un ve şeker alımı,0,37373,Tedarik
+2024-07-20,KDV,0,20350,Vergi
+2024-07-21,Elektrik (soğutma yüksek),0,11287,Fatura
+2024-07-24,Üretim işçileri maaşları,0,52926,Maaş
+2024-07-26,Bayi sipariş ödemesi,51817,0,Satış
+2024-07-27,Soğutma ünitesi bakımı,0,11229,Üretim
+2024-07-28,Restoran toptan tedarik geliri,59412,0,Satış
+2024-07-28,Zincir market tahsilatı,46741,0,Satış
+2024-07-31,Meyve ve sebze hammadde,0,33074,Tedarik
+2024-08-01,Yerel bakkal toptan satış,62360,0,Satış
+2024-08-01,Zincir market tahsilatı,64786,0,Satış
+2024-08-02,Su,0,7717,Fatura
+2024-08-04,Zincir market tahsilatı,58839,0,Satış
+2024-08-06,Restoran toptan tedarik geliri,70406,0,Satış
+2024-08-06,Lojistik ekibi,0,109919,Maaş
+2024-08-07,Online satış geliri,58124,0,Satış
+2024-08-14,Soğutma ünitesi bakımı,0,26135,Üretim
+2024-08-14,Soğuk zincir nakliye,0,9335,Lojistik
+2024-08-15,Zincir market tahsilatı,54337,0,Satış
+2024-08-15,Soğutma ünitesi bakımı,0,23395,Üretim
+2024-08-16,Üretim tesisi kirası,0,23397,Kira
+2024-08-17,Zincir market tahsilatı,54107,0,Satış
+2024-08-17,Zincir market tahsilatı,50105,0,Satış
+2024-08-17,Şehir içi dağıtım yakıt,0,9324,Lojistik
+2024-08-18,Şehir içi dağıtım yakıt,0,9445,Lojistik
+2024-08-24,Zincir market tahsilatı,52634,0,Satış
+2024-08-24,Doğal gaz,0,7785,Fatura
+2024-08-25,Yağ ve katkı maddesi,0,71723,Tedarik
+2024-08-25,Elektrik (soğutma yüksek),0,8167,Fatura
+2024-08-26,Süt tedariği (çiftlik),0,71104,Tedarik
+2024-08-27,Yağ ve katkı maddesi,0,56775,Tedarik
+2024-08-28,Ambalaj malzemesi,0,66968,Tedarik
+2024-08-29,Restoran toptan tedarik geliri,66725,0,Satış
+2024-08-29,Stopaj,0,21849,Vergi
+2024-08-30,Soğuk zincir nakliye,0,9850,Lojistik
+2024-09-02,Restoran toptan tedarik geliri,104358,0,Satış
+2024-09-03,Sterilizasyon,0,30993,Üretim
+2024-09-04,Bayi sipariş ödemesi,75463,0,Satış
+2024-09-05,Soğuk zincir nakliye,0,9531,Lojistik
+2024-09-06,Süt tedariği (çiftlik),0,59806,Tedarik
+2024-09-07,İhracat tahsilatı,102148,0,Satış
+2024-09-07,Şehir içi dağıtım yakıt,0,8832,Lojistik
+2024-09-08,Doğal gaz,0,10096,Fatura
+2024-09-09,Stopaj,0,23453,Vergi
+2024-09-10,Zincir market tahsilatı,78099,0,Satış
+2024-09-10,Hurda ambalaj satışı,15064,0,Diğer Gelir
+2024-09-10,Su,0,10018,Fatura
+2024-09-12,Online satış geliri,74910,0,Satış
+2024-09-13,Elektrik (soğutma yüksek),0,9321,Fatura
+2024-09-14,Sterilizasyon,0,29725,Üretim
+2024-09-15,Kalite kontrol maaşı,0,53158,Maaş
+2024-09-15,Üretim tesisi kirası,0,21780,Kira
+2024-09-16,Bayi sipariş ödemesi,89131,0,Satış
+2024-09-19,Lojistik ekibi,0,62815,Maaş
+2024-09-20,Devlet teşvik ödemesi,14125,0,Diğer Gelir
+2024-09-20,Meyve ve sebze hammadde,0,56426,Tedarik
+2024-09-22,Yerel bakkal toptan satış,91885,0,Satış
+2024-09-25,Un ve şeker alımı,0,49532,Tedarik
+2024-09-27,Meyve ve sebze hammadde,0,45379,Tedarik
+2024-09-29,Yağ ve katkı maddesi,0,60446,Tedarik
+2024-09-29,Şehir içi dağıtım yakıt,0,10090,Lojistik
+2024-09-30,Şehir içi dağıtım yakıt,0,9028,Lojistik
+2024-10-02,Online satış geliri,55854,0,Satış
+2024-10-08,Online satış geliri,77303,0,Satış
+2024-10-08,Süt tedariği (çiftlik),0,53709,Tedarik
+2024-10-10,İhracat tahsilatı,58396,0,Satış
+2024-10-11,Şehir içi dağıtım yakıt,0,23039,Lojistik
+2024-10-12,Restoran toptan tedarik geliri,63288,0,Satış
+2024-10-15,Süt tedariği (çiftlik),0,61529,Tedarik
+2024-10-16,Yerel bakkal toptan satış,69204,0,Satış
+2024-10-16,Restoran toptan tedarik geliri,53574,0,Satış
+2024-10-17,Süt tedariği (çiftlik),0,61185,Tedarik
+2024-10-18,Zincir market tahsilatı,54323,0,Satış
+2024-10-18,Un ve şeker alımı,0,50422,Tedarik
+2024-10-20,KDV,0,25812,Vergi
+2024-10-21,Yerel bakkal toptan satış,64174,0,Satış
+2024-10-21,Üretim tesisi kirası,0,25803,Kira
+2024-10-22,Restoran toptan tedarik geliri,55139,0,Satış
+2024-10-22,Online satış geliri,59970,0,Satış
+2024-10-22,Makine bakımı,0,30384,Üretim
+2024-10-26,Doğal gaz,0,14929,Fatura
+2024-10-27,Süt tedariği (çiftlik),0,47528,Tedarik
+2024-10-27,Soğuk zincir nakliye,0,19378,Lojistik
+2024-10-27,Elektrik (soğutma yüksek),0,12877,Fatura
+2024-10-30,Soğutma ünitesi bakımı,0,30127,Üretim
+2024-10-31,Üretim işçileri maaşları,0,122941,Maaş
+2024-11-03,Soğuk zincir nakliye,0,22275,Lojistik
+2024-11-04,Restoran toptan tedarik geliri,122140,0,Satış
+2024-11-04,Un ve şeker alımı,0,28523,Tedarik
+2024-11-05,Un ve şeker alımı,0,35127,Tedarik
+2024-11-10,Meyve ve sebze hammadde,0,30188,Tedarik
+2024-11-11,Zincir market tahsilatı,89899,0,Satış
+2024-11-11,Un ve şeker alımı,0,33100,Tedarik
+2024-11-11,Şehir içi dağıtım yakıt,0,21334,Lojistik
+2024-11-11,Doğal gaz,0,15564,Fatura
+2024-11-11,Stopaj,0,25529,Vergi
+2024-11-12,Soğutma ünitesi bakımı,0,26562,Üretim
+2024-11-13,Yağ ve katkı maddesi,0,30443,Tedarik
+2024-11-14,Ambalaj malzemesi,0,29289,Tedarik
+2024-11-15,Restoran toptan tedarik geliri,100773,0,Satış
+2024-11-15,Üretim tesisi kirası,0,21435,Kira
+2024-11-16,Zincir market tahsilatı,114157,0,Satış
+2024-11-19,Süt tedariği (çiftlik),0,30326,Tedarik
+2024-11-19,Kalite kontrol maaşı,0,128478,Maaş
+2024-11-21,Yağ ve katkı maddesi,0,33339,Tedarik
+2024-11-21,Un ve şeker alımı,0,34745,Tedarik
+2024-11-24,Sterilizasyon,0,33135,Üretim
+2024-11-26,Yerel bakkal toptan satış,88070,0,Satış
+2024-11-26,Elektrik (soğutma yüksek),0,15567,Fatura
+2024-11-29,Online satış geliri,126076,0,Satış
+2024-12-03,Un ve şeker alımı,0,55828,Tedarik
+2024-12-04,Un ve şeker alımı,0,56594,Tedarik
+2024-12-04,Su,0,15994,Fatura
+2024-12-05,Bayi sipariş ödemesi,68511,0,Satış
+2024-12-09,Bayi sipariş ödemesi,81350,0,Satış
+2024-12-09,Devlet teşvik ödemesi,14946,0,Diğer Gelir
+2024-12-11,Yerel bakkal toptan satış,80589,0,Satış
+2024-12-11,Lojistik ekibi,0,67265,Maaş
+2024-12-12,Restoran toptan tedarik geliri,79696,0,Satış
+2024-12-12,Soğuk zincir nakliye,0,16680,Lojistik
+2024-12-15,Bayi sipariş ödemesi,82782,0,Satış
+2024-12-16,Soğuk zincir nakliye,0,13429,Lojistik
+2024-12-18,Yerel bakkal toptan satış,62705,0,Satış
+2024-12-18,Devlet teşvik ödemesi,17376,0,Diğer Gelir
+2024-12-19,Üretim işçileri maaşları,0,79381,Maaş
+2024-12-20,Restoran toptan tedarik geliri,80660,0,Satış
+2024-12-20,Elektrik (soğutma yüksek),0,14477,Fatura
+2024-12-21,Makine bakımı,0,28367,Üretim
+2024-12-21,KDV,0,21720,Vergi
+2024-12-22,Restoran toptan tedarik geliri,59015,0,Satış
+2024-12-22,Online satış geliri,83681,0,Satış
+2024-12-22,Sterilizasyon,0,34729,Üretim
+2024-12-22,Soğuk zincir nakliye,0,13666,Lojistik
+2024-12-24,Ambalaj malzemesi,0,56936,Tedarik
+2024-12-24,Üretim tesisi kirası,0,24106,Kira
+2024-12-26,Bayi sipariş ödemesi,62403,0,Satış
+2024-12-26,Un ve şeker alımı,0,57713,Tedarik
+2024-12-27,Un ve şeker alımı,0,50629,Tedarik
+2024-12-31,Meyve ve sebze hammadde,0,47608,Tedarik
+2025-01-01,Meyve ve sebze hammadde,0,30909,Tedarik
+2025-01-01,KDV,0,21934,Vergi
+2025-01-02,Süt tedariği (çiftlik),0,39571,Tedarik
+2025-01-03,Restoran toptan tedarik geliri,65158,0,Satış
+2025-01-05,Bayi sipariş ödemesi,65176,0,Satış
+2025-01-05,Ambalaj malzemesi,0,40073,Tedarik
+2025-01-07,Şehir içi dağıtım yakıt,0,9462,Lojistik
+2025-01-08,Online satış geliri,52009,0,Satış
+2025-01-10,Elektrik (soğutma yüksek),0,11538,Fatura
+2025-01-11,Meyve ve sebze hammadde,0,36741,Tedarik
+2025-01-11,Soğutma ünitesi bakımı,0,28456,Üretim
+2025-01-13,Ambalaj malzemesi,0,32702,Tedarik
+2025-01-14,Şehir içi dağıtım yakıt,0,9779,Lojistik
+2025-01-15,Yerel bakkal toptan satış,64309,0,Satış
+2025-01-19,Online satış geliri,60062,0,Satış
+2025-01-19,İhracat tahsilatı,57748,0,Satış
+2025-01-20,Online satış geliri,70094,0,Satış
+2025-01-20,Süt tedariği (çiftlik),0,33897,Tedarik
+2025-01-20,Şehir içi dağıtım yakıt,0,10269,Lojistik
+2025-01-21,Üretim işçileri maaşları,0,100693,Maaş
+2025-01-21,Su,0,15027,Fatura
+2025-01-22,Makine bakımı,0,30100,Üretim
+2025-01-23,Zincir market tahsilatı,51571,0,Satış
+2025-01-23,Soğuk zincir nakliye,0,8729,Lojistik
+2025-01-24,Üretim tesisi kirası,0,17958,Kira
+2025-01-26,Bayi sipariş ödemesi,59294,0,Satış
+2025-01-27,Yerel bakkal toptan satış,65952,0,Satış
+2025-01-29,Un ve şeker alımı,0,37367,Tedarik
+2025-02-01,Yerel bakkal toptan satış,48766,0,Satış
+2025-02-02,Restoran toptan tedarik geliri,45769,0,Satış
+2025-02-03,Süt tedariği (çiftlik),0,36060,Tedarik
+2025-02-04,İhracat tahsilatı,45309,0,Satış
+2025-02-04,Un ve şeker alımı,0,32463,Tedarik
+2025-02-05,Bayi sipariş ödemesi,57157,0,Satış
+2025-02-05,Kalite kontrol maaşı,0,63797,Maaş
+2025-02-08,Su,0,14754,Fatura
+2025-02-09,Süt tedariği (çiftlik),0,31885,Tedarik
+2025-02-10,Makine bakımı,0,15702,Üretim
+2025-02-10,KDV,0,19422,Vergi
+2025-02-13,Elektrik (soğutma yüksek),0,14594,Fatura
+2025-02-17,Un ve şeker alımı,0,30751,Tedarik
+2025-02-18,İhracat tahsilatı,48389,0,Satış
+2025-02-19,Restoran toptan tedarik geliri,60316,0,Satış
+2025-02-19,Meyve ve sebze hammadde,0,28006,Tedarik
+2025-02-19,Şehir içi dağıtım yakıt,0,11158,Lojistik
+2025-02-22,Restoran toptan tedarik geliri,62209,0,Satış
+2025-02-22,Üretim tesisi kirası,0,24105,Kira
+2025-02-23,Bayi sipariş ödemesi,46565,0,Satış
+2025-02-23,Ambalaj malzemesi,0,27792,Tedarik
+2025-02-24,Yerel bakkal toptan satış,59554,0,Satış
+2025-02-24,Bayi sipariş ödemesi,44827,0,Satış
+2025-02-24,Soğuk zincir nakliye,0,11933,Lojistik
+2025-02-25,Kalite kontrol maaşı,0,55778,Maaş
+2025-02-25,Makine bakımı,0,15650,Üretim
+2025-02-26,Süt tedariği (çiftlik),0,33561,Tedarik
+2025-02-27,Un ve şeker alımı,0,28699,Tedarik
+2025-02-27,Soğutma ünitesi bakımı,0,17060,Üretim
+2025-02-28,Bayi sipariş ödemesi,45619,0,Satış
+2025-02-28,Soğuk zincir nakliye,0,12897,Lojistik
+2025-03-04,Meyve ve sebze hammadde,0,37967,Tedarik
+2025-03-05,Elektrik (soğutma yüksek),0,13740,Fatura
+2025-03-06,Bayi sipariş ödemesi,47206,0,Satış
+2025-03-07,Bayi sipariş ödemesi,49926,0,Satış
+2025-03-07,Online satış geliri,55407,0,Satış
+2025-03-08,Restoran toptan tedarik geliri,52288,0,Satış
+2025-03-08,Hurda ambalaj satışı,15546,0,Diğer Gelir
+2025-03-09,Zincir market tahsilatı,50056,0,Satış
+2025-03-09,Süt tedariği (çiftlik),0,34264,Tedarik
+2025-03-09,Üretim tesisi kirası,0,22172,Kira
+2025-03-10,Sterilizasyon,0,13490,Üretim
+2025-03-12,Elektrik (soğutma yüksek),0,14244,Fatura
+2025-03-15,Süt tedariği (çiftlik),0,34442,Tedarik
+2025-03-16,Lojistik ekibi,0,58009,Maaş
+2025-03-16,Soğutma ünitesi bakımı,0,12434,Üretim
+2025-03-17,Sterilizasyon,0,12204,Üretim
+2025-03-17,Soğuk zincir nakliye,0,10626,Lojistik
+2025-03-18,Un ve şeker alımı,0,28287,Tedarik
+2025-03-18,Sterilizasyon,0,12740,Üretim
+2025-03-19,Zincir market tahsilatı,61760,0,Satış
+2025-03-19,Hurda ambalaj satışı,13406,0,Diğer Gelir
+2025-03-19,Şehir içi dağıtım yakıt,0,9240,Lojistik
+2025-03-20,Restoran toptan tedarik geliri,60258,0,Satış
+2025-03-20,Yağ ve katkı maddesi,0,35299,Tedarik
+2025-03-20,KDV,0,22860,Vergi
+2025-03-21,Online satış geliri,57544,0,Satış
+2025-03-22,Zincir market tahsilatı,50409,0,Satış
+2025-03-22,Zincir market tahsilatı,44173,0,Satış
+2025-03-24,Un ve şeker alımı,0,36808,Tedarik
+2025-03-24,Ambalaj malzemesi,0,30852,Tedarik
+2025-03-28,Un ve şeker alımı,0,34662,Tedarik
+2025-03-28,Soğuk zincir nakliye,0,8564,Lojistik
+2025-03-29,Bayi sipariş ödemesi,55263,0,Satış
+2025-03-29,Lojistik ekibi,0,53842,Maaş
+2025-03-30,Restoran toptan tedarik geliri,53642,0,Satış
+2025-03-31,Soğuk zincir nakliye,0,10168,Lojistik

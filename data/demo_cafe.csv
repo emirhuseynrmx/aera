@@ -1,0 +1,499 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Kahve ve içecek satışı,6434,0,Satış
+2024-01-02,Su faturası,0,2877,Fatura
+2024-01-02,Google Maps reklamı,0,2853,Pazarlama
+2024-01-03,Su faturası,0,2841,Fatura
+2024-01-05,Mevsim limonata satışı,7253,0,Satış
+2024-01-05,Sıcak içecek satışı,5696,0,Satış
+2024-01-05,Şurup ve sos toptan alım,0,4085,Tedarik
+2024-01-07,Tatlı ve pasta geliri,6873,0,Satış
+2024-01-07,Mekan etkinlik kiralama,3542,0,Diğer Gelir
+2024-01-08,Kahvaltı menüsü satışı,6812,0,Satış
+2024-01-09,Brunch hafta sonu geliri,7369,0,Satış
+2024-01-10,Sıcak içecek satışı,5798,0,Satış
+2024-01-11,Brunch hafta sonu geliri,7634,0,Satış
+2024-01-11,Pastane ürünleri alımı,0,4872,Tedarik
+2024-01-11,Google Maps reklamı,0,3039,Pazarlama
+2024-01-12,Kahvaltı menüsü satışı,7482,0,Satış
+2024-01-13,Şurup ve sos toptan alım,0,4628,Tedarik
+2024-01-14,Şurup ve sos toptan alım,0,5289,Tedarik
+2024-01-16,Elektrik faturası,0,2729,Fatura
+2024-01-18,Servis personeli maaşı,0,34497,Maaş
+2024-01-19,Aylık kafe kirası,0,12751,Kira
+2024-01-20,Brunch hafta sonu geliri,6916,0,Satış
+2024-01-20,Tatlı malzemesi tedariği,0,4180,Tedarik
+2024-01-21,Tatlı ve pasta geliri,7175,0,Satış
+2024-01-21,Brunch hafta sonu geliri,6841,0,Satış
+2024-01-22,Tatlı ve pasta geliri,7842,0,Satış
+2024-01-23,Kahve ve içecek satışı,6432,0,Satış
+2024-01-23,Kahve çekirdeği alımı,0,4422,Tedarik
+2024-01-25,Pastane ürünleri alımı,0,4520,Tedarik
+2024-01-26,Temizlik malzemeleri,0,1107,Sarf
+2024-01-27,Brunch hafta sonu geliri,7811,0,Satış
+2024-01-28,Kahvaltı menüsü satışı,5718,0,Satış
+2024-01-28,Kahve çekirdeği alımı,0,4966,Tedarik
+2024-01-28,Temizlik malzemeleri,0,1208,Sarf
+2024-01-29,Brunch hafta sonu geliri,5360,0,Satış
+2024-01-30,Mekan etkinlik kiralama,2724,0,Diğer Gelir
+2024-01-30,Stopaj vergisi,0,4335,Vergi
+2024-01-31,Brunch hafta sonu geliri,7674,0,Satış
+2024-02-02,Soğuk kahve serisi,7296,0,Satış
+2024-02-02,Barista maaşları,0,36096,Maaş
+2024-02-03,Kahvaltı menüsü satışı,5269,0,Satış
+2024-02-04,Tatlı ve pasta geliri,6136,0,Satış
+2024-02-04,Mekan etkinlik kiralama,3809,0,Diğer Gelir
+2024-02-04,Kahve çekirdeği alımı,0,5694,Tedarik
+2024-02-05,Karton bardak ve ambalaj,0,1100,Sarf
+2024-02-06,KDV ödemesi,0,4052,Vergi
+2024-02-07,Kahve ve içecek satışı,6665,0,Satış
+2024-02-08,Kahve ve içecek satışı,7358,0,Satış
+2024-02-10,Tatlı ve pasta geliri,6221,0,Satış
+2024-02-10,Soğuk kahve serisi,5308,0,Satış
+2024-02-11,Kahvaltı menüsü satışı,5307,0,Satış
+2024-02-11,Süt ve süt ürünleri tedarik,0,6190,Tedarik
+2024-02-12,İnternet aboneliği,0,4599,Fatura
+2024-02-13,Şurup ve sos toptan alım,0,6528,Tedarik
+2024-02-14,Tatlı ve pasta geliri,7074,0,Satış
+2024-02-15,Kahvaltı menüsü satışı,6529,0,Satış
+2024-02-15,Süt ve süt ürünleri tedarik,0,5882,Tedarik
+2024-02-16,Sıcak içecek satışı,6640,0,Satış
+2024-02-17,Soğuk kahve serisi,7027,0,Satış
+2024-02-17,Mekan etkinlik kiralama,3196,0,Diğer Gelir
+2024-02-18,Kahve ve içecek satışı,6541,0,Satış
+2024-02-19,Mevsim limonata satışı,5892,0,Satış
+2024-02-19,Tatlı ve pasta geliri,7220,0,Satış
+2024-02-21,Kahve çekirdeği alımı,0,6867,Tedarik
+2024-02-21,Aylık kafe kirası,0,15614,Kira
+2024-02-24,Sıcak içecek satışı,6149,0,Satış
+2024-02-26,Soğuk kahve serisi,6850,0,Satış
+2024-02-26,Karton bardak ve ambalaj,0,1141,Sarf
+2024-02-27,Kahvaltı menüsü satışı,6919,0,Satış
+2024-02-27,Brunch hafta sonu geliri,5542,0,Satış
+2024-02-28,Soğuk kahve serisi,5443,0,Satış
+2024-02-28,Pastane ürünleri alımı,0,6226,Tedarik
+2024-02-29,İnternet aboneliği,0,5092,Fatura
+2024-03-01,Mevsim limonata satışı,6497,0,Satış
+2024-03-02,Süt ve süt ürünleri tedarik,0,7105,Tedarik
+2024-03-04,Tatlı ve pasta geliri,5415,0,Satış
+2024-03-04,Kahve ve içecek satışı,7205,0,Satış
+2024-03-04,Mug ve aksesuar satışı,7288,0,Diğer Gelir
+2024-03-04,Aylık kafe kirası,0,19761,Kira
+2024-03-04,Karton bardak ve ambalaj,0,1116,Sarf
+2024-03-05,Brunch hafta sonu geliri,7568,0,Satış
+2024-03-05,Kahve çekirdeği alımı,0,6173,Tedarik
+2024-03-06,Kahvaltı menüsü satışı,7765,0,Satış
+2024-03-07,Kahve ve içecek satışı,6418,0,Satış
+2024-03-08,Sıcak içecek satışı,6792,0,Satış
+2024-03-09,Sıcak içecek satışı,7041,0,Satış
+2024-03-09,Pastane ürünleri alımı,0,5371,Tedarik
+2024-03-11,Sıcak içecek satışı,5438,0,Satış
+2024-03-11,Barista maaşları,0,34919,Maaş
+2024-03-13,Süt ve süt ürünleri tedarik,0,6430,Tedarik
+2024-03-14,Brunch hafta sonu geliri,6417,0,Satış
+2024-03-15,Tatlı ve pasta geliri,5575,0,Satış
+2024-03-15,Kahve ve içecek satışı,7563,0,Satış
+2024-03-15,Kahve çekirdeği alımı,0,6037,Tedarik
+2024-03-16,Tatlı ve pasta geliri,6659,0,Satış
+2024-03-16,Tatlı malzemesi tedariği,0,7033,Tedarik
+2024-03-17,Kahvaltı menüsü satışı,6919,0,Satış
+2024-03-18,Mevsim limonata satışı,6010,0,Satış
+2024-03-19,Tatlı ve pasta geliri,7830,0,Satış
+2024-03-20,Pastane ürünleri alımı,0,6454,Tedarik
+2024-03-20,Elektrik faturası,0,3286,Fatura
+2024-03-20,KDV ödemesi,0,5080,Vergi
+2024-03-21,Kahve ve içecek satışı,6500,0,Satış
+2024-03-22,Kahvaltı menüsü satışı,6970,0,Satış
+2024-03-24,Soğuk kahve serisi,7541,0,Satış
+2024-03-25,Temizlik malzemeleri,0,1231,Sarf
+2024-03-26,Su faturası,0,3288,Fatura
+2024-03-26,Google Maps reklamı,0,2988,Pazarlama
+2024-03-27,İnternet aboneliği,0,3626,Fatura
+2024-03-28,Brunch hafta sonu geliri,5446,0,Satış
+2024-03-29,Brunch hafta sonu geliri,6078,0,Satış
+2024-03-31,Google Maps reklamı,0,3389,Pazarlama
+2024-04-03,Brunch hafta sonu geliri,10408,0,Satış
+2024-04-04,Soğuk kahve serisi,9474,0,Satış
+2024-04-04,Mevsim limonata satışı,7968,0,Satış
+2024-04-04,Servis personeli maaşı,0,21393,Maaş
+2024-04-05,Mevsim limonata satışı,10075,0,Satış
+2024-04-05,Şurup ve sos toptan alım,0,8613,Tedarik
+2024-04-05,Servis personeli maaşı,0,18034,Maaş
+2024-04-06,Temizlik malzemeleri,0,2271,Sarf
+2024-04-07,Sıcak içecek satışı,8731,0,Satış
+2024-04-08,Tatlı ve pasta geliri,10306,0,Satış
+2024-04-11,Sıcak içecek satışı,7729,0,Satış
+2024-04-12,Mevsim limonata satışı,10209,0,Satış
+2024-04-14,Şurup ve sos toptan alım,0,7922,Tedarik
+2024-04-16,Sıcak içecek satışı,8467,0,Satış
+2024-04-16,Kahve çekirdeği alımı,0,7901,Tedarik
+2024-04-18,Brunch hafta sonu geliri,7765,0,Satış
+2024-04-18,KDV ödemesi,0,5385,Vergi
+2024-04-19,Kahvaltı menüsü satışı,10795,0,Satış
+2024-04-19,Elektrik faturası,0,3736,Fatura
+2024-04-20,Kahve ve içecek satışı,9152,0,Satış
+2024-04-22,Kahve çekirdeği alımı,0,7122,Tedarik
+2024-04-23,Brunch hafta sonu geliri,7946,0,Satış
+2024-04-24,Elektrik faturası,0,3478,Fatura
+2024-04-26,Aylık kafe kirası,0,15772,Kira
+2024-04-27,Sıcak içecek satışı,9445,0,Satış
+2024-04-27,Su faturası,0,3146,Fatura
+2024-04-28,Pastane ürünleri alımı,0,8109,Tedarik
+2024-04-29,Tatlı ve pasta geliri,7631,0,Satış
+2024-04-30,Tatlı ve pasta geliri,8666,0,Satış
+2024-04-30,Tatlı malzemesi tedariği,0,6454,Tedarik
+2024-05-02,Mevsim limonata satışı,7256,0,Satış
+2024-05-02,Temizlik malzemeleri,0,1201,Sarf
+2024-05-03,Pastane ürünleri alımı,0,10533,Tedarik
+2024-05-04,Soğuk kahve serisi,9592,0,Satış
+2024-05-05,Kahve çekirdeği alımı,0,10494,Tedarik
+2024-05-07,Brunch hafta sonu geliri,9197,0,Satış
+2024-05-07,Mevsim limonata satışı,7283,0,Satış
+2024-05-08,Tatlı ve pasta geliri,8390,0,Satış
+2024-05-10,Mevsim limonata satışı,8542,0,Satış
+2024-05-10,Soğuk kahve serisi,7612,0,Satış
+2024-05-11,Süt ve süt ürünleri tedarik,0,10744,Tedarik
+2024-05-11,Instagram reklam,0,7781,Pazarlama
+2024-05-12,Sıcak içecek satışı,9183,0,Satış
+2024-05-12,Sıcak içecek satışı,9812,0,Satış
+2024-05-12,Karton bardak ve ambalaj,0,1156,Sarf
+2024-05-14,Su faturası,0,6167,Fatura
+2024-05-16,Brunch hafta sonu geliri,8805,0,Satış
+2024-05-17,Süt ve süt ürünleri tedarik,0,8192,Tedarik
+2024-05-18,Elektrik faturası,0,6047,Fatura
+2024-05-19,Barista maaşları,0,37725,Maaş
+2024-05-22,Tatlı malzemesi tedariği,0,9723,Tedarik
+2024-05-22,Aylık kafe kirası,0,18184,Kira
+2024-05-23,Mevsim limonata satışı,10283,0,Satış
+2024-05-26,KDV ödemesi,0,4939,Vergi
+2024-05-27,Sıcak içecek satışı,8191,0,Satış
+2024-05-28,Tatlı ve pasta geliri,9454,0,Satış
+2024-05-29,Mevsim limonata satışı,10444,0,Satış
+2024-05-31,Mevsim limonata satışı,8533,0,Satış
+2024-05-31,Tatlı ve pasta geliri,10386,0,Satış
+2024-05-31,Kahvaltı menüsü satışı,10350,0,Satış
+2024-06-01,Tatlı ve pasta geliri,7956,0,Satış
+2024-06-01,Tatlı ve pasta geliri,6158,0,Satış
+2024-06-03,Soğuk kahve serisi,6532,0,Satış
+2024-06-04,Brunch hafta sonu geliri,6084,0,Satış
+2024-06-06,Kahvaltı menüsü satışı,6046,0,Satış
+2024-06-06,Mevsim limonata satışı,6410,0,Satış
+2024-06-06,Kahve çekirdeği alımı,0,7917,Tedarik
+2024-06-06,Su faturası,0,3804,Fatura
+2024-06-06,Temizlik malzemeleri,0,1376,Sarf
+2024-06-07,Brunch hafta sonu geliri,7303,0,Satış
+2024-06-08,Instagram reklam,0,3684,Pazarlama
+2024-06-09,KDV ödemesi,0,4867,Vergi
+2024-06-11,Mevsim limonata satışı,6159,0,Satış
+2024-06-12,Mevsim limonata satışı,6431,0,Satış
+2024-06-12,Sıcak içecek satışı,8233,0,Satış
+2024-06-12,Pastane ürünleri alımı,0,8496,Tedarik
+2024-06-12,Elektrik faturası,0,3300,Fatura
+2024-06-14,Kahve ve içecek satışı,5571,0,Satış
+2024-06-15,Sıcak içecek satışı,7895,0,Satış
+2024-06-17,Mevsim limonata satışı,5847,0,Satış
+2024-06-17,Servis personeli maaşı,0,21601,Maaş
+2024-06-17,Su faturası,0,3625,Fatura
+2024-06-18,Servis personeli maaşı,0,21936,Maaş
+2024-06-19,Kahvaltı menüsü satışı,7058,0,Satış
+2024-06-20,Tatlı ve pasta geliri,5908,0,Satış
+2024-06-20,Pastane ürünleri alımı,0,7381,Tedarik
+2024-06-20,Instagram reklam,0,2826,Pazarlama
+2024-06-21,Temizlik malzemeleri,0,1315,Sarf
+2024-06-22,Sıcak içecek satışı,5528,0,Satış
+2024-06-22,Şurup ve sos toptan alım,0,7135,Tedarik
+2024-06-23,Kahve ve içecek satışı,5581,0,Satış
+2024-06-24,Mevsim limonata satışı,6137,0,Satış
+2024-06-26,Kahvaltı menüsü satışı,7720,0,Satış
+2024-06-26,Mevsim limonata satışı,5618,0,Satış
+2024-06-26,Aylık kafe kirası,0,17046,Kira
+2024-06-28,Şurup ve sos toptan alım,0,7396,Tedarik
+2024-06-28,Kahve çekirdeği alımı,0,8544,Tedarik
+2024-06-29,Sıcak içecek satışı,6992,0,Satış
+2024-07-02,Sıcak içecek satışı,9900,0,Satış
+2024-07-03,Kahvaltı menüsü satışı,9758,0,Satış
+2024-07-05,Tatlı malzemesi tedariği,0,5623,Tedarik
+2024-07-05,Instagram reklam,0,3028,Pazarlama
+2024-07-07,İnternet aboneliği,0,4816,Fatura
+2024-07-08,Pastane ürünleri alımı,0,6317,Tedarik
+2024-07-09,Süt ve süt ürünleri tedarik,0,5831,Tedarik
+2024-07-10,Kahvaltı menüsü satışı,10114,0,Satış
+2024-07-12,Sıcak içecek satışı,9293,0,Satış
+2024-07-12,Kahve ve içecek satışı,9641,0,Satış
+2024-07-12,Mevsim limonata satışı,9207,0,Satış
+2024-07-14,Kahve ve içecek satışı,8940,0,Satış
+2024-07-14,Tatlı malzemesi tedariği,0,7052,Tedarik
+2024-07-14,Servis personeli maaşı,0,45416,Maaş
+2024-07-14,KDV ödemesi,0,4776,Vergi
+2024-07-15,Kahve ve içecek satışı,10100,0,Satış
+2024-07-16,Elektrik faturası,0,5193,Fatura
+2024-07-17,Brunch hafta sonu geliri,9996,0,Satış
+2024-07-17,Temizlik malzemeleri,0,1139,Sarf
+2024-07-18,Kahve ve içecek satışı,7177,0,Satış
+2024-07-19,Şurup ve sos toptan alım,0,6056,Tedarik
+2024-07-20,Süt ve süt ürünleri tedarik,0,6772,Tedarik
+2024-07-21,Aylık kafe kirası,0,17181,Kira
+2024-07-24,Mevsim limonata satışı,10014,0,Satış
+2024-07-24,Sıcak içecek satışı,9578,0,Satış
+2024-07-25,Brunch hafta sonu geliri,8286,0,Satış
+2024-07-28,Tatlı ve pasta geliri,8672,0,Satış
+2024-07-29,Tatlı ve pasta geliri,8338,0,Satış
+2024-07-29,Mevsim limonata satışı,8817,0,Satış
+2024-07-30,Google Maps reklamı,0,3009,Pazarlama
+2024-07-31,Tatlı malzemesi tedariği,0,5283,Tedarik
+2024-07-31,Karton bardak ve ambalaj,0,1212,Sarf
+2024-08-01,Kahve çekirdeği alımı,0,7062,Tedarik
+2024-08-02,Su faturası,0,2982,Fatura
+2024-08-03,Barista maaşları,0,37416,Maaş
+2024-08-04,Tatlı ve pasta geliri,9710,0,Satış
+2024-08-04,KDV ödemesi,0,5524,Vergi
+2024-08-05,Tatlı malzemesi tedariği,0,7079,Tedarik
+2024-08-07,Brunch hafta sonu geliri,7856,0,Satış
+2024-08-07,Pastane ürünleri alımı,0,7044,Tedarik
+2024-08-08,Elektrik faturası,0,2995,Fatura
+2024-08-09,Tatlı ve pasta geliri,9243,0,Satış
+2024-08-09,Brunch hafta sonu geliri,7089,0,Satış
+2024-08-10,Tatlı ve pasta geliri,7996,0,Satış
+2024-08-10,Aylık kafe kirası,0,18841,Kira
+2024-08-10,Karton bardak ve ambalaj,0,2682,Sarf
+2024-08-11,Tatlı ve pasta geliri,10224,0,Satış
+2024-08-11,Brunch hafta sonu geliri,7519,0,Satış
+2024-08-12,Soğuk kahve serisi,7421,0,Satış
+2024-08-13,Tatlı malzemesi tedariği,0,7047,Tedarik
+2024-08-15,Kahvaltı menüsü satışı,8819,0,Satış
+2024-08-17,Soğuk kahve serisi,7617,0,Satış
+2024-08-18,Sıcak içecek satışı,7583,0,Satış
+2024-08-18,Brunch hafta sonu geliri,10298,0,Satış
+2024-08-19,İnternet aboneliği,0,3637,Fatura
+2024-08-20,Soğuk kahve serisi,8506,0,Satış
+2024-08-21,Kahve ve içecek satışı,10303,0,Satış
+2024-08-21,Şurup ve sos toptan alım,0,7022,Tedarik
+2024-08-26,Mevsim limonata satışı,9224,0,Satış
+2024-08-29,Şurup ve sos toptan alım,0,6502,Tedarik
+2024-08-31,Kahve ve içecek satışı,9319,0,Satış
+2024-09-01,Kahvaltı menüsü satışı,6158,0,Satış
+2024-09-01,Kahvaltı menüsü satışı,6592,0,Satış
+2024-09-03,Tatlı malzemesi tedariği,0,7243,Tedarik
+2024-09-04,Sıcak içecek satışı,7294,0,Satış
+2024-09-04,Soğuk kahve serisi,6528,0,Satış
+2024-09-04,Aylık kafe kirası,0,16784,Kira
+2024-09-07,Kahve çekirdeği alımı,0,6219,Tedarik
+2024-09-08,Süt ve süt ürünleri tedarik,0,5747,Tedarik
+2024-09-11,Brunch hafta sonu geliri,5541,0,Satış
+2024-09-11,Brunch hafta sonu geliri,7560,0,Satış
+2024-09-11,Tatlı malzemesi tedariği,0,6752,Tedarik
+2024-09-11,Su faturası,0,4720,Fatura
+2024-09-14,Mevsim limonata satışı,6897,0,Satış
+2024-09-14,Tatlı ve pasta geliri,6165,0,Satış
+2024-09-14,Mevsim limonata satışı,5704,0,Satış
+2024-09-14,Kahve çekirdeği alımı,0,6091,Tedarik
+2024-09-16,Tatlı ve pasta geliri,7410,0,Satış
+2024-09-19,Elektrik faturası,0,5486,Fatura
+2024-09-20,Soğuk kahve serisi,6443,0,Satış
+2024-09-20,Tatlı ve pasta geliri,7486,0,Satış
+2024-09-20,Karton bardak ve ambalaj,0,1230,Sarf
+2024-09-21,KDV ödemesi,0,4946,Vergi
+2024-09-22,Barista maaşları,0,36144,Maaş
+2024-09-22,Temizlik malzemeleri,0,1431,Sarf
+2024-09-24,Soğuk kahve serisi,6326,0,Satış
+2024-09-25,Soğuk kahve serisi,5943,0,Satış
+2024-09-26,Mevsim limonata satışı,7720,0,Satış
+2024-09-26,Instagram reklam,0,3301,Pazarlama
+2024-09-27,Soğuk kahve serisi,8149,0,Satış
+2024-09-27,Kahve çekirdeği alımı,0,6851,Tedarik
+2024-09-28,Kahve ve içecek satışı,5830,0,Satış
+2024-09-28,Mekan etkinlik kiralama,7524,0,Diğer Gelir
+2024-09-28,Instagram reklam,0,3314,Pazarlama
+2024-09-29,Tatlı malzemesi tedariği,0,5880,Tedarik
+2024-09-30,Tatlı ve pasta geliri,5608,0,Satış
+2024-09-30,Mevsim limonata satışı,6530,0,Satış
+2024-09-30,Tatlı ve pasta geliri,6351,0,Satış
+2024-09-30,Soğuk kahve serisi,6993,0,Satış
+2024-10-01,Soğuk kahve serisi,10993,0,Satış
+2024-10-01,Şurup ve sos toptan alım,0,6568,Tedarik
+2024-10-02,Pastane ürünleri alımı,0,6971,Tedarik
+2024-10-03,Şurup ve sos toptan alım,0,6567,Tedarik
+2024-10-03,Su faturası,0,3778,Fatura
+2024-10-04,Su faturası,0,4072,Fatura
+2024-10-05,Brunch hafta sonu geliri,10171,0,Satış
+2024-10-05,Tatlı malzemesi tedariği,0,6168,Tedarik
+2024-10-06,Brunch hafta sonu geliri,10050,0,Satış
+2024-10-06,Servis personeli maaşı,0,21185,Maaş
+2024-10-08,Tatlı ve pasta geliri,10017,0,Satış
+2024-10-08,Tatlı ve pasta geliri,12305,0,Satış
+2024-10-08,Servis personeli maaşı,0,24451,Maaş
+2024-10-09,İnternet aboneliği,0,3532,Fatura
+2024-10-09,Temizlik malzemeleri,0,1174,Sarf
+2024-10-10,Tatlı ve pasta geliri,12171,0,Satış
+2024-10-11,Kahve ve içecek satışı,8865,0,Satış
+2024-10-14,Sıcak içecek satışı,12727,0,Satış
+2024-10-14,Tatlı ve pasta geliri,9196,0,Satış
+2024-10-17,Kahve ve içecek satışı,11430,0,Satış
+2024-10-21,Sıcak içecek satışı,10258,0,Satış
+2024-10-23,Brunch hafta sonu geliri,9938,0,Satış
+2024-10-23,KDV ödemesi,0,4969,Vergi
+2024-10-24,Aylık kafe kirası,0,17289,Kira
+2024-10-25,Mevsim limonata satışı,10722,0,Satış
+2024-10-27,Şurup ve sos toptan alım,0,7437,Tedarik
+2024-10-27,Karton bardak ve ambalaj,0,1417,Sarf
+2024-10-28,Brunch hafta sonu geliri,10513,0,Satış
+2024-10-29,Pastane ürünleri alımı,0,7155,Tedarik
+2024-10-31,Kahve çekirdeği alımı,0,7158,Tedarik
+2024-11-01,Brunch hafta sonu geliri,10121,0,Satış
+2024-11-03,Soğuk kahve serisi,8116,0,Satış
+2024-11-04,Tatlı ve pasta geliri,9305,0,Satış
+2024-11-05,İnternet aboneliği,0,3242,Fatura
+2024-11-05,Temizlik malzemeleri,0,1377,Sarf
+2024-11-07,Brunch hafta sonu geliri,9283,0,Satış
+2024-11-08,Sıcak içecek satışı,10182,0,Satış
+2024-11-08,Su faturası,0,3738,Fatura
+2024-11-09,Sıcak içecek satışı,10044,0,Satış
+2024-11-10,Şurup ve sos toptan alım,0,8539,Tedarik
+2024-11-11,İnternet aboneliği,0,3292,Fatura
+2024-11-12,Kahve ve içecek satışı,10776,0,Satış
+2024-11-12,Kahve çekirdeği alımı,0,8659,Tedarik
+2024-11-12,Stopaj vergisi,0,5531,Vergi
+2024-11-13,Mevsim limonata satışı,11425,0,Satış
+2024-11-13,Aylık kafe kirası,0,16019,Kira
+2024-11-14,Soğuk kahve serisi,9321,0,Satış
+2024-11-14,Tatlı malzemesi tedariği,0,6777,Tedarik
+2024-11-18,Tatlı malzemesi tedariği,0,6743,Tedarik
+2024-11-19,Tatlı ve pasta geliri,9403,0,Satış
+2024-11-21,Kahve çekirdeği alımı,0,8505,Tedarik
+2024-11-22,Mevsim limonata satışı,11112,0,Satış
+2024-11-23,Sıcak içecek satışı,8176,0,Satış
+2024-11-23,Temizlik malzemeleri,0,1410,Sarf
+2024-11-25,Soğuk kahve serisi,8855,0,Satış
+2024-11-26,Kahve çekirdeği alımı,0,8269,Tedarik
+2024-11-27,Mevsim limonata satışı,10297,0,Satış
+2024-11-27,Brunch hafta sonu geliri,10383,0,Satış
+2024-11-27,Barista maaşları,0,46471,Maaş
+2024-11-28,Instagram reklam,0,5545,Pazarlama
+2024-12-02,Brunch hafta sonu geliri,6377,0,Satış
+2024-12-02,Sıcak içecek satışı,7230,0,Satış
+2024-12-04,Sıcak içecek satışı,9147,0,Satış
+2024-12-04,Kahvaltı menüsü satışı,8443,0,Satış
+2024-12-04,Şurup ve sos toptan alım,0,9173,Tedarik
+2024-12-04,Tatlı malzemesi tedariği,0,7847,Tedarik
+2024-12-04,Temizlik malzemeleri,0,1510,Sarf
+2024-12-05,Soğuk kahve serisi,7676,0,Satış
+2024-12-06,Servis personeli maaşı,0,44300,Maaş
+2024-12-07,Soğuk kahve serisi,9114,0,Satış
+2024-12-07,Karton bardak ve ambalaj,0,1397,Sarf
+2024-12-09,Brunch hafta sonu geliri,9202,0,Satış
+2024-12-09,Aylık kafe kirası,0,19308,Kira
+2024-12-09,İnternet aboneliği,0,5262,Fatura
+2024-12-10,İnternet aboneliği,0,5780,Fatura
+2024-12-11,Mug ve aksesuar satışı,9645,0,Diğer Gelir
+2024-12-13,Mevsim limonata satışı,8908,0,Satış
+2024-12-14,Kahvaltı menüsü satışı,8905,0,Satış
+2024-12-14,Tatlı ve pasta geliri,8601,0,Satış
+2024-12-14,Kahvaltı menüsü satışı,9301,0,Satış
+2024-12-14,Süt ve süt ürünleri tedarik,0,7526,Tedarik
+2024-12-16,Kahvaltı menüsü satışı,6642,0,Satış
+2024-12-18,Kahve çekirdeği alımı,0,7026,Tedarik
+2024-12-19,Brunch hafta sonu geliri,7201,0,Satış
+2024-12-19,KDV ödemesi,0,5834,Vergi
+2024-12-20,Mevsim limonata satışı,7629,0,Satış
+2024-12-21,Süt ve süt ürünleri tedarik,0,9225,Tedarik
+2024-12-25,Brunch hafta sonu geliri,8681,0,Satış
+2024-12-27,Sıcak içecek satışı,8603,0,Satış
+2024-12-27,Soğuk kahve serisi,8147,0,Satış
+2024-12-28,Kahvaltı menüsü satışı,6317,0,Satış
+2024-12-28,Brunch hafta sonu geliri,8935,0,Satış
+2024-12-29,Süt ve süt ürünleri tedarik,0,8631,Tedarik
+2024-12-30,Soğuk kahve serisi,8356,0,Satış
+2025-01-01,Kahve ve içecek satışı,7381,0,Satış
+2025-01-01,Aylık kafe kirası,0,13087,Kira
+2025-01-02,Brunch hafta sonu geliri,7346,0,Satış
+2025-01-02,Instagram reklam,0,5266,Pazarlama
+2025-01-02,Temizlik malzemeleri,0,2210,Sarf
+2025-01-03,Tatlı malzemesi tedariği,0,9211,Tedarik
+2025-01-03,Servis personeli maaşı,0,18281,Maaş
+2025-01-04,Mevsim limonata satışı,5774,0,Satış
+2025-01-04,Süt ve süt ürünleri tedarik,0,10515,Tedarik
+2025-01-07,Kahve ve içecek satışı,7615,0,Satış
+2025-01-07,İnternet aboneliği,0,4510,Fatura
+2025-01-08,Brunch hafta sonu geliri,5320,0,Satış
+2025-01-12,Tatlı ve pasta geliri,7834,0,Satış
+2025-01-12,Pastane ürünleri alımı,0,8282,Tedarik
+2025-01-13,Brunch hafta sonu geliri,6266,0,Satış
+2025-01-13,Sıcak içecek satışı,6640,0,Satış
+2025-01-17,Sıcak içecek satışı,7292,0,Satış
+2025-01-17,Kahve çekirdeği alımı,0,9672,Tedarik
+2025-01-19,Soğuk kahve serisi,5970,0,Satış
+2025-01-22,Tatlı ve pasta geliri,7795,0,Satış
+2025-01-23,Servis personeli maaşı,0,14930,Maaş
+2025-01-24,Mevsim limonata satışı,5709,0,Satış
+2025-01-24,Kahvaltı menüsü satışı,5953,0,Satış
+2025-01-24,Tatlı ve pasta geliri,5993,0,Satış
+2025-01-25,İnternet aboneliği,0,4606,Fatura
+2025-01-25,Stopaj vergisi,0,3983,Vergi
+2025-01-27,Soğuk kahve serisi,6379,0,Satış
+2025-01-30,Kahvaltı menüsü satışı,5640,0,Satış
+2025-01-30,Kahve ve içecek satışı,7202,0,Satış
+2025-01-31,Tatlı ve pasta geliri,5642,0,Satış
+2025-02-01,Aylık kafe kirası,0,13887,Kira
+2025-02-02,Sıcak içecek satışı,7024,0,Satış
+2025-02-03,Sıcak içecek satışı,7197,0,Satış
+2025-02-04,Tatlı ve pasta geliri,7951,0,Satış
+2025-02-04,Tatlı ve pasta geliri,6367,0,Satış
+2025-02-06,Süt ve süt ürünleri tedarik,0,6332,Tedarik
+2025-02-06,Tatlı malzemesi tedariği,0,5753,Tedarik
+2025-02-08,Soğuk kahve serisi,6499,0,Satış
+2025-02-09,Kahve ve içecek satışı,7014,0,Satış
+2025-02-09,KDV ödemesi,0,4639,Vergi
+2025-02-10,İnternet aboneliği,0,3280,Fatura
+2025-02-10,Google Maps reklamı,0,2831,Pazarlama
+2025-02-10,Karton bardak ve ambalaj,0,2345,Sarf
+2025-02-11,Mevsim limonata satışı,7372,0,Satış
+2025-02-11,Mevsim limonata satışı,6071,0,Satış
+2025-02-12,Sıcak içecek satışı,7439,0,Satış
+2025-02-12,Brunch hafta sonu geliri,6528,0,Satış
+2025-02-12,Mevsim limonata satışı,7365,0,Satış
+2025-02-12,Kahve ve içecek satışı,7848,0,Satış
+2025-02-13,Kahvaltı menüsü satışı,6699,0,Satış
+2025-02-13,İnternet aboneliği,0,2917,Fatura
+2025-02-13,Su faturası,0,3067,Fatura
+2025-02-14,Barista maaşları,0,31625,Maaş
+2025-02-15,Soğuk kahve serisi,7058,0,Satış
+2025-02-16,Tatlı malzemesi tedariği,0,5597,Tedarik
+2025-02-16,Instagram reklam,0,3159,Pazarlama
+2025-02-17,Şurup ve sos toptan alım,0,6090,Tedarik
+2025-02-18,Tatlı malzemesi tedariği,0,5929,Tedarik
+2025-02-20,Tatlı ve pasta geliri,7611,0,Satış
+2025-02-25,Kahve çekirdeği alımı,0,6679,Tedarik
+2025-02-26,Kahve ve içecek satışı,5911,0,Satış
+2025-02-27,Tatlı ve pasta geliri,7471,0,Satış
+2025-03-01,Kahvaltı menüsü satışı,8257,0,Satış
+2025-03-01,Brunch hafta sonu geliri,8780,0,Satış
+2025-03-01,Mevsim limonata satışı,8299,0,Satış
+2025-03-05,Google Maps reklamı,0,3062,Pazarlama
+2025-03-05,Karton bardak ve ambalaj,0,2771,Sarf
+2025-03-06,Barista maaşları,0,42261,Maaş
+2025-03-06,Aylık kafe kirası,0,17947,Kira
+2025-03-07,Kahve ve içecek satışı,7516,0,Satış
+2025-03-08,Kahve ve içecek satışı,10147,0,Satış
+2025-03-08,Mevsim limonata satışı,9052,0,Satış
+2025-03-11,Tatlı malzemesi tedariği,0,5968,Tedarik
+2025-03-11,Kahve çekirdeği alımı,0,6127,Tedarik
+2025-03-11,İnternet aboneliği,0,4735,Fatura
+2025-03-11,Elektrik faturası,0,4823,Fatura
+2025-03-12,Pastane ürünleri alımı,0,5591,Tedarik
+2025-03-14,Kahve çekirdeği alımı,0,5624,Tedarik
+2025-03-15,Mekan etkinlik kiralama,4028,0,Diğer Gelir
+2025-03-18,Süt ve süt ürünleri tedarik,0,4799,Tedarik
+2025-03-18,Tatlı malzemesi tedariği,0,4630,Tedarik
+2025-03-20,Kahve ve içecek satışı,9888,0,Satış
+2025-03-20,Mevsim limonata satışı,8496,0,Satış
+2025-03-21,Tatlı ve pasta geliri,9675,0,Satış
+2025-03-22,Brunch hafta sonu geliri,10126,0,Satış
+2025-03-23,Mevsim limonata satışı,8203,0,Satış
+2025-03-23,Mekan etkinlik kiralama,4323,0,Diğer Gelir
+2025-03-23,Stopaj vergisi,0,5440,Vergi
+2025-03-24,Kahve ve içecek satışı,9078,0,Satış
+2025-03-24,Brunch hafta sonu geliri,9310,0,Satış
+2025-03-24,Kahvaltı menüsü satışı,9059,0,Satış
+2025-03-24,Kahve ve içecek satışı,8272,0,Satış
+2025-03-25,Süt ve süt ürünleri tedarik,0,5261,Tedarik
+2025-03-27,Süt ve süt ürünleri tedarik,0,4813,Tedarik
+2025-03-27,Google Maps reklamı,0,3343,Pazarlama

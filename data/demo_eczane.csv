@@ -1,0 +1,734 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Yardımcı personel maaşı,0,36777,Maaş
+2024-01-01,Stopaj,0,20107,Vergi
+2024-01-03,Elektrik,0,4545,Fatura
+2024-01-05,Yardımcı personel maaşı,0,41472,Maaş
+2024-01-08,Bebek bakım ürünleri,28919,0,Satış
+2024-01-09,Eczane kira ödemesi,0,33021,Kira
+2024-01-10,SGK reçete tahsilatı,28440,0,Satış
+2024-01-10,SGK reçete tahsilatı,25542,0,Satış
+2024-01-10,Bebek bakım ürünleri,29174,0,Satış
+2024-01-10,İlaç toptancı sipariş (depo),0,64546,Tedarik
+2024-01-11,Reçeteli ilaç satışı,30303,0,Satış
+2024-01-12,Bebek bakım ürünleri,30142,0,Satış
+2024-01-13,Eczane otomasyon yazılım abonelik,0,5532,Teknoloji
+2024-01-15,SGK reçete tahsilatı,29613,0,Satış
+2024-01-15,Medikal ürün satışı,24947,0,Satış
+2024-01-15,Reçetesiz ürün stoğu,0,54859,Tedarik
+2024-01-15,İnternet,0,5625,Fatura
+2024-01-17,Reçeteli ilaç satışı,32947,0,Satış
+2024-01-17,Dermokozmetik satış,25278,0,Satış
+2024-01-17,OTC ilaç satışı,28521,0,Satış
+2024-01-20,Poşet ve ambalaj,0,5298,Sarf
+2024-01-22,Bebek bakım ürünleri,31371,0,Satış
+2024-01-23,Bebek ürünleri stoğu,0,62270,Tedarik
+2024-01-24,Reçeteli ilaç satışı,31342,0,Satış
+2024-01-24,OTC ilaç satışı,33066,0,Satış
+2024-01-24,Medikal sarf tedariği,0,64148,Tedarik
+2024-01-25,OTC ilaç satışı,32963,0,Satış
+2024-01-26,Reçeteli ilaç satışı,32817,0,Satış
+2024-01-26,Reçetesiz ürün geliri,26393,0,Satış
+2024-01-27,İlaç toptancı sipariş (depo),0,52348,Tedarik
+2024-01-29,SGK reçete tahsilatı,26717,0,Satış
+2024-01-29,Elektrik,0,5287,Fatura
+2024-01-30,Reçeteli ilaç satışı,31574,0,Satış
+2024-01-31,Reçetesiz ürün stoğu,0,62775,Tedarik
+2024-02-01,SGK reçete tahsilatı,25011,0,Satış
+2024-02-01,İnternet,0,4365,Fatura
+2024-02-02,Dermokozmetik satış,32979,0,Satış
+2024-02-02,Eczane kira ödemesi,0,38172,Kira
+2024-02-02,Elektrik,0,4992,Fatura
+2024-02-04,OTC ilaç satışı,26551,0,Satış
+2024-02-04,Reçeteli ilaç satışı,33102,0,Satış
+2024-02-04,Reçetesiz ürün stoğu,0,31869,Tedarik
+2024-02-04,Elektrik,0,4220,Fatura
+2024-02-05,KDV,0,18671,Vergi
+2024-02-07,Medikal ürün satışı,29554,0,Satış
+2024-02-09,Bebek ürünleri stoğu,0,38358,Tedarik
+2024-02-09,Poşet ve ambalaj,0,2806,Sarf
+2024-02-10,Yardımcı personel maaşı,0,80457,Maaş
+2024-02-11,Reçetesiz ürün geliri,26028,0,Satış
+2024-02-11,Bebek bakım ürünleri,30003,0,Satış
+2024-02-11,Eczane otomasyon yazılım abonelik,0,5133,Teknoloji
+2024-02-13,Bebek bakım ürünleri,28488,0,Satış
+2024-02-14,Dermokozmetik tedarik,0,36907,Tedarik
+2024-02-15,Dermokozmetik tedarik,0,36040,Tedarik
+2024-02-16,Reçetesiz ürün geliri,33003,0,Satış
+2024-02-16,Poşet ve ambalaj,0,2716,Sarf
+2024-02-17,Dermokozmetik tedarik,0,34432,Tedarik
+2024-02-18,OTC ilaç satışı,28992,0,Satış
+2024-02-19,Reçeteli ilaç satışı,29303,0,Satış
+2024-02-20,Reçetesiz ürün geliri,32022,0,Satış
+2024-02-20,Bebek ürünleri stoğu,0,36422,Tedarik
+2024-02-21,Reçeteli ilaç satışı,33069,0,Satış
+2024-02-21,Bebek ürünleri stoğu,0,29920,Tedarik
+2024-02-22,Bebek bakım ürünleri,31431,0,Satış
+2024-02-24,Medikal sarf tedariği,0,31639,Tedarik
+2024-02-25,OTC ilaç satışı,26163,0,Satış
+2024-02-26,Dermokozmetik satış,23688,0,Satış
+2024-02-27,OTC ilaç satışı,30643,0,Satış
+2024-02-28,Bebek ürünleri stoğu,0,32676,Tedarik
+2024-02-28,Reçetesiz ürün stoğu,0,36086,Tedarik
+2024-02-29,Medikal ürün satışı,25182,0,Satış
+2024-03-01,SGK reçete tahsilatı,23463,0,Satış
+2024-03-01,SGK reçete tahsilatı,23644,0,Satış
+2024-03-04,OTC ilaç satışı,16703,0,Satış
+2024-03-04,İnternet,0,4818,Fatura
+2024-03-05,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",9063,0,Diğer Gelir
+2024-03-05,Reçetesiz ürün stoğu,0,36601,Tedarik
+2024-03-08,Bebek bakım ürünleri,19147,0,Satış
+2024-03-09,Dermokozmetik satış,19188,0,Satış
+2024-03-09,Kırtasiye,0,2445,Sarf
+2024-03-10,Dermokozmetik tedarik,0,36973,Tedarik
+2024-03-10,Eczane otomasyon yazılım abonelik,0,4478,Teknoloji
+2024-03-11,Medikal ürün satışı,21728,0,Satış
+2024-03-11,OTC ilaç satışı,19531,0,Satış
+2024-03-11,Yardımcı personel maaşı,0,34709,Maaş
+2024-03-12,Dermokozmetik satış,18513,0,Satış
+2024-03-12,Medikal sarf tedariği,0,35116,Tedarik
+2024-03-13,OTC ilaç satışı,16695,0,Satış
+2024-03-13,Dermokozmetik tedarik,0,36427,Tedarik
+2024-03-13,Poşet ve ambalaj,0,1925,Sarf
+2024-03-14,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",11104,0,Diğer Gelir
+2024-03-14,Reçetesiz ürün stoğu,0,38010,Tedarik
+2024-03-14,Elektrik,0,4350,Fatura
+2024-03-17,Reçetesiz ürün geliri,24222,0,Satış
+2024-03-17,SGK reçete tahsilatı,22264,0,Satış
+2024-03-17,SGK reçete tahsilatı,19994,0,Satış
+2024-03-19,Bebek bakım ürünleri,20253,0,Satış
+2024-03-19,Dermokozmetik tedarik,0,35084,Tedarik
+2024-03-19,Stopaj,0,17207,Vergi
+2024-03-22,OTC ilaç satışı,20609,0,Satış
+2024-03-22,Medikal sarf tedariği,0,36337,Tedarik
+2024-03-23,OTC ilaç satışı,19450,0,Satış
+2024-03-23,Eczacı kalfası maaşı,0,36866,Maaş
+2024-03-23,Eczane kira ödemesi,0,30122,Kira
+2024-03-24,Dermokozmetik satış,23778,0,Satış
+2024-03-24,Reçeteli ilaç satışı,18916,0,Satış
+2024-03-24,Dermokozmetik tedarik,0,33784,Tedarik
+2024-03-25,SGK reçete tahsilatı,18074,0,Satış
+2024-03-25,SGK reçete tahsilatı,22106,0,Satış
+2024-03-25,İnternet,0,4503,Fatura
+2024-03-26,Reçeteli ilaç satışı,17790,0,Satış
+2024-03-26,Dermokozmetik satış,24337,0,Satış
+2024-03-27,Medikal ürün satışı,23469,0,Satış
+2024-03-29,OTC ilaç satışı,16305,0,Satış
+2024-03-31,Dermokozmetik tedarik,0,29579,Tedarik
+2024-04-01,Reçetesiz ürün geliri,24016,0,Satış
+2024-04-02,SGK reçete tahsilatı,22358,0,Satış
+2024-04-03,Dermokozmetik tedarik,0,32281,Tedarik
+2024-04-03,Elektrik,0,4466,Fatura
+2024-04-04,Reçetesiz ürün geliri,23408,0,Satış
+2024-04-06,Dermokozmetik satış,24101,0,Satış
+2024-04-07,Dermokozmetik satış,18932,0,Satış
+2024-04-07,OTC ilaç satışı,23206,0,Satış
+2024-04-07,Reçetesiz ürün geliri,18359,0,Satış
+2024-04-08,Bebek bakım ürünleri,22633,0,Satış
+2024-04-08,Bebek ürünleri stoğu,0,28106,Tedarik
+2024-04-08,İnternet,0,4575,Fatura
+2024-04-08,Eczane otomasyon yazılım abonelik,0,3870,Teknoloji
+2024-04-09,Yardımcı personel maaşı,0,32288,Maaş
+2024-04-11,İlaç toptancı sipariş (depo),0,28804,Tedarik
+2024-04-11,Eczacı kalfası maaşı,0,30175,Maaş
+2024-04-12,Kırtasiye,0,2197,Sarf
+2024-04-13,Reçeteli ilaç satışı,21127,0,Satış
+2024-04-13,Bebek ürünleri stoğu,0,28138,Tedarik
+2024-04-14,Medikal sarf tedariği,0,30447,Tedarik
+2024-04-15,Bebek bakım ürünleri,19239,0,Satış
+2024-04-15,Dermokozmetik satış,23530,0,Satış
+2024-04-15,Reçeteli ilaç satışı,18759,0,Satış
+2024-04-15,Reçetesiz ürün stoğu,0,27882,Tedarik
+2024-04-15,Stopaj,0,14105,Vergi
+2024-04-17,Reçeteli ilaç satışı,17451,0,Satış
+2024-04-18,İlaç toptancı sipariş (depo),0,33015,Tedarik
+2024-04-19,Poşet ve ambalaj,0,1750,Sarf
+2024-04-20,Bebek bakım ürünleri,22068,0,Satış
+2024-04-20,SGK ödeme farkı,18126,0,Diğer Gelir
+2024-04-21,Dermokozmetik satış,22140,0,Satış
+2024-04-21,Medikal ürün satışı,17440,0,Satış
+2024-04-23,Reçeteli ilaç satışı,20333,0,Satış
+2024-04-23,İnternet,0,4193,Fatura
+2024-04-24,Eczane kira ödemesi,0,32265,Kira
+2024-04-26,İlaç toptancı sipariş (depo),0,35169,Tedarik
+2024-04-27,Bebek bakım ürünleri,18778,0,Satış
+2024-04-27,Dermokozmetik satış,24197,0,Satış
+2024-04-28,Reçetesiz ürün geliri,19820,0,Satış
+2024-04-30,Reçetesiz ürün stoğu,0,34630,Tedarik
+2024-05-01,İlaç toptancı sipariş (depo),0,40498,Tedarik
+2024-05-01,Elektrik,0,4468,Fatura
+2024-05-02,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",6893,0,Diğer Gelir
+2024-05-03,Medikal ürün satışı,14840,0,Satış
+2024-05-04,Reçeteli ilaç satışı,18783,0,Satış
+2024-05-04,Medikal ürün satışı,19145,0,Satış
+2024-05-05,Poşet ve ambalaj,0,3814,Sarf
+2024-05-07,Eczane kira ödemesi,0,30418,Kira
+2024-05-09,OTC ilaç satışı,15947,0,Satış
+2024-05-11,Reçeteli ilaç satışı,14376,0,Satış
+2024-05-11,Bebek bakım ürünleri,18923,0,Satış
+2024-05-12,Reçetesiz ürün stoğu,0,42485,Tedarik
+2024-05-14,Dermokozmetik satış,13154,0,Satış
+2024-05-14,Bebek bakım ürünleri,18533,0,Satış
+2024-05-16,Medikal ürün satışı,17279,0,Satış
+2024-05-16,Bebek bakım ürünleri,15318,0,Satış
+2024-05-16,OTC ilaç satışı,19084,0,Satış
+2024-05-16,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",6746,0,Diğer Gelir
+2024-05-16,Eczane otomasyon yazılım abonelik,0,4450,Teknoloji
+2024-05-17,Bebek bakım ürünleri,17884,0,Satış
+2024-05-18,Reçetesiz ürün stoğu,0,45911,Tedarik
+2024-05-19,OTC ilaç satışı,18910,0,Satış
+2024-05-20,SGK reçete tahsilatı,15856,0,Satış
+2024-05-20,İnternet,0,4193,Fatura
+2024-05-23,Medikal sarf tedariği,0,41647,Tedarik
+2024-05-23,Elektrik,0,4450,Fatura
+2024-05-25,OTC ilaç satışı,15562,0,Satış
+2024-05-25,Reçetesiz ürün geliri,17199,0,Satış
+2024-05-25,Bebek bakım ürünleri,13536,0,Satış
+2024-05-26,Medikal ürün satışı,15455,0,Satış
+2024-05-26,Bebek ürünleri stoğu,0,50702,Tedarik
+2024-05-26,Yardımcı personel maaşı,0,70678,Maaş
+2024-05-26,Stopaj,0,14540,Vergi
+2024-05-27,Reçeteli ilaç satışı,17746,0,Satış
+2024-05-27,Medikal ürün satışı,14871,0,Satış
+2024-05-29,Medikal sarf tedariği,0,50199,Tedarik
+2024-05-30,SGK reçete tahsilatı,14929,0,Satış
+2024-05-31,OTC ilaç satışı,12901,0,Satış
+2024-05-31,Dermokozmetik satış,17305,0,Satış
+2024-05-31,Reçetesiz ürün geliri,16880,0,Satış
+2024-05-31,Medikal ürün satışı,16089,0,Satış
+2024-06-01,Reçetesiz ürün geliri,14987,0,Satış
+2024-06-01,Dermokozmetik tedarik,0,24499,Tedarik
+2024-06-04,Bebek bakım ürünleri,16327,0,Satış
+2024-06-04,Bebek ürünleri stoğu,0,21486,Tedarik
+2024-06-05,Reçetesiz ürün geliri,15632,0,Satış
+2024-06-05,SGK ödeme farkı,16279,0,Diğer Gelir
+2024-06-06,Reçetesiz ürün stoğu,0,21965,Tedarik
+2024-06-07,OTC ilaç satışı,14144,0,Satış
+2024-06-07,Poşet ve ambalaj,0,3386,Sarf
+2024-06-08,OTC ilaç satışı,15721,0,Satış
+2024-06-08,Bebek bakım ürünleri,13791,0,Satış
+2024-06-08,Dermokozmetik satış,15057,0,Satış
+2024-06-08,İlaç toptancı sipariş (depo),0,23300,Tedarik
+2024-06-08,Elektrik,0,3621,Fatura
+2024-06-09,Eczane kira ödemesi,0,27080,Kira
+2024-06-10,Eczacı kalfası maaşı,0,33436,Maaş
+2024-06-11,OTC ilaç satışı,15645,0,Satış
+2024-06-11,Bebek bakım ürünleri,17651,0,Satış
+2024-06-12,OTC ilaç satışı,13172,0,Satış
+2024-06-12,Reçeteli ilaç satışı,17302,0,Satış
+2024-06-12,Medikal ürün satışı,14861,0,Satış
+2024-06-12,Eczacı kalfası maaşı,0,30043,Maaş
+2024-06-13,Reçetesiz ürün geliri,13288,0,Satış
+2024-06-13,Reçetesiz ürün geliri,17529,0,Satış
+2024-06-13,Dermokozmetik tedarik,0,20525,Tedarik
+2024-06-15,Reçeteli ilaç satışı,14237,0,Satış
+2024-06-15,Dermokozmetik satış,12495,0,Satış
+2024-06-17,İlaç toptancı sipariş (depo),0,26145,Tedarik
+2024-06-18,Reçeteli ilaç satışı,12628,0,Satış
+2024-06-18,SGK reçete tahsilatı,14386,0,Satış
+2024-06-18,Bebek bakım ürünleri,16032,0,Satış
+2024-06-19,İnternet,0,3579,Fatura
+2024-06-19,Eczane otomasyon yazılım abonelik,0,3527,Teknoloji
+2024-06-20,OTC ilaç satışı,17435,0,Satış
+2024-06-20,Reçetesiz ürün stoğu,0,23579,Tedarik
+2024-06-20,İlaç toptancı sipariş (depo),0,21051,Tedarik
+2024-06-20,Reçetesiz ürün stoğu,0,20555,Tedarik
+2024-06-21,SGK reçete tahsilatı,14252,0,Satış
+2024-06-21,Bebek bakım ürünleri,15613,0,Satış
+2024-06-21,Dermokozmetik tedarik,0,25697,Tedarik
+2024-06-22,Reçetesiz ürün geliri,15767,0,Satış
+2024-06-24,OTC ilaç satışı,15023,0,Satış
+2024-06-24,Bebek bakım ürünleri,17559,0,Satış
+2024-06-24,Medikal sarf tedariği,0,24735,Tedarik
+2024-06-27,Stopaj,0,17797,Vergi
+2024-06-27,Elektrik,0,4052,Fatura
+2024-06-28,Medikal ürün satışı,17450,0,Satış
+2024-06-29,Dermokozmetik satış,13019,0,Satış
+2024-07-01,SGK reçete tahsilatı,20700,0,Satış
+2024-07-01,İnternet,0,6142,Fatura
+2024-07-02,Dermokozmetik satış,21775,0,Satış
+2024-07-02,Medikal ürün satışı,21562,0,Satış
+2024-07-03,Medikal sarf tedariği,0,28332,Tedarik
+2024-07-03,Medikal sarf tedariği,0,29047,Tedarik
+2024-07-05,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",6575,0,Diğer Gelir
+2024-07-07,OTC ilaç satışı,18062,0,Satış
+2024-07-09,Reçeteli ilaç satışı,24329,0,Satış
+2024-07-09,Dermokozmetik tedarik,0,29215,Tedarik
+2024-07-11,Reçetesiz ürün geliri,18817,0,Satış
+2024-07-12,SGK reçete tahsilatı,21732,0,Satış
+2024-07-13,Eczane kira ödemesi,0,29326,Kira
+2024-07-13,KDV,0,12956,Vergi
+2024-07-14,Eczacı kalfası maaşı,0,26953,Maaş
+2024-07-14,Poşet ve ambalaj,0,1882,Sarf
+2024-07-15,İlaç toptancı sipariş (depo),0,24591,Tedarik
+2024-07-17,SGK reçete tahsilatı,17272,0,Satış
+2024-07-17,Dermokozmetik satış,17686,0,Satış
+2024-07-18,Reçetesiz ürün stoğu,0,30009,Tedarik
+2024-07-19,Dermokozmetik satış,25043,0,Satış
+2024-07-19,Elektrik,0,5775,Fatura
+2024-07-20,SGK reçete tahsilatı,17569,0,Satış
+2024-07-20,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",8039,0,Diğer Gelir
+2024-07-23,OTC ilaç satışı,17481,0,Satış
+2024-07-23,OTC ilaç satışı,18037,0,Satış
+2024-07-23,Eczacı kalfası maaşı,0,29512,Maaş
+2024-07-23,Eczane otomasyon yazılım abonelik,0,3865,Teknoloji
+2024-07-25,Bebek bakım ürünleri,17435,0,Satış
+2024-07-26,Dermokozmetik tedarik,0,28183,Tedarik
+2024-07-26,Bebek ürünleri stoğu,0,26594,Tedarik
+2024-07-27,Bebek ürünleri stoğu,0,25186,Tedarik
+2024-07-28,Poşet ve ambalaj,0,2001,Sarf
+2024-07-29,SGK reçete tahsilatı,25348,0,Satış
+2024-07-29,Reçeteli ilaç satışı,18209,0,Satış
+2024-07-31,Dermokozmetik satış,17521,0,Satış
+2024-07-31,Dermokozmetik satış,25196,0,Satış
+2024-07-31,Dermokozmetik tedarik,0,25249,Tedarik
+2024-08-04,Elektrik,0,4980,Fatura
+2024-08-05,SGK reçete tahsilatı,20332,0,Satış
+2024-08-05,Reçetesiz ürün geliri,21667,0,Satış
+2024-08-05,Medikal ürün satışı,18357,0,Satış
+2024-08-06,Dermokozmetik satış,22333,0,Satış
+2024-08-06,Reçetesiz ürün geliri,23055,0,Satış
+2024-08-07,Dermokozmetik satış,24431,0,Satış
+2024-08-07,Yardımcı personel maaşı,0,61458,Maaş
+2024-08-08,OTC ilaç satışı,21835,0,Satış
+2024-08-08,OTC ilaç satışı,24076,0,Satış
+2024-08-12,Eczane kira ödemesi,0,24997,Kira
+2024-08-15,Dermokozmetik tedarik,0,41555,Tedarik
+2024-08-16,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",6995,0,Diğer Gelir
+2024-08-17,Medikal ürün satışı,20497,0,Satış
+2024-08-18,SGK reçete tahsilatı,25313,0,Satış
+2024-08-19,Bebek bakım ürünleri,19539,0,Satış
+2024-08-20,Elektrik,0,6097,Fatura
+2024-08-20,Eczane otomasyon yazılım abonelik,0,4215,Teknoloji
+2024-08-21,OTC ilaç satışı,19230,0,Satış
+2024-08-21,SGK ödeme farkı,7378,0,Diğer Gelir
+2024-08-23,Medikal sarf tedariği,0,41509,Tedarik
+2024-08-25,Reçetesiz ürün geliri,19109,0,Satış
+2024-08-25,Stopaj,0,15730,Vergi
+2024-08-25,Kırtasiye,0,3926,Sarf
+2024-08-26,Medikal ürün satışı,24161,0,Satış
+2024-08-27,Bebek ürünleri stoğu,0,48055,Tedarik
+2024-08-28,Reçetesiz ürün geliri,24115,0,Satış
+2024-08-29,Reçeteli ilaç satışı,25852,0,Satış
+2024-08-29,Medikal sarf tedariği,0,42893,Tedarik
+2024-08-29,Bebek ürünleri stoğu,0,42870,Tedarik
+2024-08-30,OTC ilaç satışı,19033,0,Satış
+2024-08-30,Medikal ürün satışı,24640,0,Satış
+2024-08-31,Dermokozmetik tedarik,0,44235,Tedarik
+2024-09-01,Reçetesiz ürün geliri,19083,0,Satış
+2024-09-01,Bebek bakım ürünleri,23277,0,Satış
+2024-09-01,Eczacı kalfası maaşı,0,35407,Maaş
+2024-09-02,OTC ilaç satışı,25840,0,Satış
+2024-09-03,OTC ilaç satışı,26252,0,Satış
+2024-09-03,Medikal sarf tedariği,0,21526,Tedarik
+2024-09-05,Stopaj,0,15167,Vergi
+2024-09-05,Poşet ve ambalaj,0,3802,Sarf
+2024-09-07,OTC ilaç satışı,20730,0,Satış
+2024-09-07,Reçetesiz ürün stoğu,0,23833,Tedarik
+2024-09-07,Bebek ürünleri stoğu,0,22083,Tedarik
+2024-09-11,Dermokozmetik tedarik,0,25988,Tedarik
+2024-09-12,Medikal ürün satışı,19833,0,Satış
+2024-09-12,OTC ilaç satışı,27885,0,Satış
+2024-09-12,OTC ilaç satışı,19840,0,Satış
+2024-09-13,Dermokozmetik satış,27446,0,Satış
+2024-09-13,Medikal ürün satışı,23480,0,Satış
+2024-09-13,Medikal sarf tedariği,0,21117,Tedarik
+2024-09-14,Reçeteli ilaç satışı,24805,0,Satış
+2024-09-14,Reçetesiz ürün stoğu,0,22197,Tedarik
+2024-09-15,OTC ilaç satışı,25098,0,Satış
+2024-09-15,Eczane otomasyon yazılım abonelik,0,3745,Teknoloji
+2024-09-19,Dermokozmetik tedarik,0,21376,Tedarik
+2024-09-21,Bebek bakım ürünleri,26584,0,Satış
+2024-09-21,Medikal sarf tedariği,0,24301,Tedarik
+2024-09-22,Reçeteli ilaç satışı,26046,0,Satış
+2024-09-22,İlaç toptancı sipariş (depo),0,22243,Tedarik
+2024-09-22,Elektrik,0,6869,Fatura
+2024-09-24,Medikal sarf tedariği,0,25262,Tedarik
+2024-09-25,İnternet,0,5978,Fatura
+2024-09-26,SGK reçete tahsilatı,27781,0,Satış
+2024-09-26,Reçeteli ilaç satışı,25750,0,Satış
+2024-09-26,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",9327,0,Diğer Gelir
+2024-09-27,Medikal ürün satışı,25102,0,Satış
+2024-09-27,Eczane kira ödemesi,0,28275,Kira
+2024-09-28,Bebek ürünleri stoğu,0,22278,Tedarik
+2024-09-28,Yardımcı personel maaşı,0,31875,Maaş
+2024-09-29,Bebek bakım ürünleri,19135,0,Satış
+2024-09-29,Bebek ürünleri stoğu,0,23908,Tedarik
+2024-09-30,Medikal ürün satışı,26493,0,Satış
+2024-09-30,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",9089,0,Diğer Gelir
+2024-10-01,İlaç toptancı sipariş (depo),0,45914,Tedarik
+2024-10-01,İnternet,0,6181,Fatura
+2024-10-03,Medikal ürün satışı,15810,0,Satış
+2024-10-04,Bebek ürünleri stoğu,0,48398,Tedarik
+2024-10-05,Reçeteli ilaç satışı,14941,0,Satış
+2024-10-06,Medikal ürün satışı,15722,0,Satış
+2024-10-07,Reçeteli ilaç satışı,14387,0,Satış
+2024-10-07,Dermokozmetik satış,18426,0,Satış
+2024-10-07,Reçetesiz ürün geliri,16367,0,Satış
+2024-10-07,Medikal ürün satışı,18816,0,Satış
+2024-10-07,Eczane kira ödemesi,0,29999,Kira
+2024-10-08,Reçetesiz ürün geliri,13523,0,Satış
+2024-10-08,OTC ilaç satışı,13451,0,Satış
+2024-10-10,SGK reçete tahsilatı,18857,0,Satış
+2024-10-10,Reçetesiz ürün geliri,19054,0,Satış
+2024-10-10,İnternet,0,7686,Fatura
+2024-10-11,Dermokozmetik satış,17426,0,Satış
+2024-10-12,Dermokozmetik satış,19483,0,Satış
+2024-10-13,Medikal ürün satışı,17724,0,Satış
+2024-10-15,Bebek bakım ürünleri,16959,0,Satış
+2024-10-15,Medikal sarf tedariği,0,45161,Tedarik
+2024-10-16,Reçetesiz ürün geliri,19965,0,Satış
+2024-10-16,Eczacı kalfası maaşı,0,33385,Maaş
+2024-10-17,OTC ilaç satışı,14441,0,Satış
+2024-10-17,Eczane otomasyon yazılım abonelik,0,4284,Teknoloji
+2024-10-18,Dermokozmetik satış,18808,0,Satış
+2024-10-18,Reçetesiz ürün geliri,13362,0,Satış
+2024-10-19,Dermokozmetik satış,14243,0,Satış
+2024-10-19,Reçetesiz ürün stoğu,0,50482,Tedarik
+2024-10-20,Bebek ürünleri stoğu,0,49204,Tedarik
+2024-10-21,SGK reçete tahsilatı,19666,0,Satış
+2024-10-21,Dermokozmetik satış,18978,0,Satış
+2024-10-21,Reçetesiz ürün geliri,18617,0,Satış
+2024-10-22,Yardımcı personel maaşı,0,30930,Maaş
+2024-10-23,Reçeteli ilaç satışı,16685,0,Satış
+2024-10-25,Poşet ve ambalaj,0,2513,Sarf
+2024-10-25,Kırtasiye,0,2573,Sarf
+2024-10-27,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",20055,0,Diğer Gelir
+2024-10-27,Dermokozmetik tedarik,0,53900,Tedarik
+2024-10-28,Bebek bakım ürünleri,18675,0,Satış
+2024-10-29,Dermokozmetik satış,16148,0,Satış
+2024-10-30,OTC ilaç satışı,19487,0,Satış
+2024-10-30,Medikal ürün satışı,14294,0,Satış
+2024-10-31,Stopaj,0,18912,Vergi
+2024-11-01,Reçeteli ilaç satışı,26349,0,Satış
+2024-11-01,SGK reçete tahsilatı,21895,0,Satış
+2024-11-02,Medikal sarf tedariği,0,28447,Tedarik
+2024-11-03,Medikal sarf tedariği,0,23202,Tedarik
+2024-11-04,Elektrik,0,7916,Fatura
+2024-11-05,Dermokozmetik tedarik,0,24524,Tedarik
+2024-11-08,Bebek bakım ürünleri,30071,0,Satış
+2024-11-09,SGK reçete tahsilatı,29315,0,Satış
+2024-11-09,Medikal sarf tedariği,0,30699,Tedarik
+2024-11-11,OTC ilaç satışı,31672,0,Satış
+2024-11-12,SGK reçete tahsilatı,29085,0,Satış
+2024-11-12,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",8773,0,Diğer Gelir
+2024-11-12,Dermokozmetik tedarik,0,26993,Tedarik
+2024-11-13,İlaç toptancı sipariş (depo),0,23114,Tedarik
+2024-11-13,Eczane kira ödemesi,0,35111,Kira
+2024-11-14,Medikal sarf tedariği,0,26710,Tedarik
+2024-11-14,Dermokozmetik tedarik,0,25479,Tedarik
+2024-11-15,Bebek bakım ürünleri,22550,0,Satış
+2024-11-15,İnternet,0,7449,Fatura
+2024-11-16,Reçetesiz ürün geliri,31607,0,Satış
+2024-11-18,SGK reçete tahsilatı,25159,0,Satış
+2024-11-18,Medikal ürün satışı,26083,0,Satış
+2024-11-20,Dermokozmetik satış,24847,0,Satış
+2024-11-20,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",8820,0,Diğer Gelir
+2024-11-21,Medikal ürün satışı,24845,0,Satış
+2024-11-21,Bebek ürünleri stoğu,0,23534,Tedarik
+2024-11-21,Yardımcı personel maaşı,0,41468,Maaş
+2024-11-22,Stopaj,0,18337,Vergi
+2024-11-23,Dermokozmetik satış,31037,0,Satış
+2024-11-23,SGK reçete tahsilatı,26080,0,Satış
+2024-11-26,Medikal ürün satışı,25158,0,Satış
+2024-11-26,Reçetesiz ürün stoğu,0,28326,Tedarik
+2024-11-27,SGK reçete tahsilatı,22487,0,Satış
+2024-11-27,Reçeteli ilaç satışı,27125,0,Satış
+2024-11-28,Yardımcı personel maaşı,0,41731,Maaş
+2024-11-28,Eczane otomasyon yazılım abonelik,0,4683,Teknoloji
+2024-11-29,OTC ilaç satışı,23844,0,Satış
+2024-11-29,Medikal sarf tedariği,0,27964,Tedarik
+2024-11-30,Bebek ürünleri stoğu,0,25744,Tedarik
+2024-11-30,Kırtasiye,0,4034,Sarf
+2024-12-02,Bebek bakım ürünleri,19231,0,Satış
+2024-12-03,SGK reçete tahsilatı,25191,0,Satış
+2024-12-03,Eczacı kalfası maaşı,0,45374,Maaş
+2024-12-06,Reçeteli ilaç satışı,25926,0,Satış
+2024-12-07,Reçetesiz ürün geliri,21936,0,Satış
+2024-12-07,OTC ilaç satışı,23389,0,Satış
+2024-12-07,Dermokozmetik satış,19302,0,Satış
+2024-12-07,Reçeteli ilaç satışı,22160,0,Satış
+2024-12-08,Dermokozmetik satış,27318,0,Satış
+2024-12-08,SGK reçete tahsilatı,26546,0,Satış
+2024-12-08,İlaç toptancı sipariş (depo),0,43903,Tedarik
+2024-12-11,Poşet ve ambalaj,0,5799,Sarf
+2024-12-12,Dermokozmetik satış,28266,0,Satış
+2024-12-12,Bebek ürünleri stoğu,0,36938,Tedarik
+2024-12-12,Reçetesiz ürün stoğu,0,34925,Tedarik
+2024-12-15,Dermokozmetik satış,24772,0,Satış
+2024-12-15,Bebek bakım ürünleri,25369,0,Satış
+2024-12-16,Dermokozmetik tedarik,0,43312,Tedarik
+2024-12-17,OTC ilaç satışı,19681,0,Satış
+2024-12-18,Reçeteli ilaç satışı,28304,0,Satış
+2024-12-18,Dermokozmetik satış,21533,0,Satış
+2024-12-19,Bebek bakım ürünleri,22842,0,Satış
+2024-12-19,İnternet,0,4873,Fatura
+2024-12-20,Reçetesiz ürün geliri,21372,0,Satış
+2024-12-20,Reçetesiz ürün stoğu,0,37941,Tedarik
+2024-12-21,İlaç toptancı sipariş (depo),0,38165,Tedarik
+2024-12-22,Eczane kira ödemesi,0,39901,Kira
+2024-12-23,Medikal ürün satışı,28312,0,Satış
+2024-12-23,OTC ilaç satışı,25648,0,Satış
+2024-12-23,Eczacı kalfası maaşı,0,43052,Maaş
+2024-12-24,OTC ilaç satışı,25291,0,Satış
+2024-12-25,Eczane otomasyon yazılım abonelik,0,5197,Teknoloji
+2024-12-27,Medikal ürün satışı,24361,0,Satış
+2024-12-27,Elektrik,0,6120,Fatura
+2024-12-28,Reçetesiz ürün geliri,24216,0,Satış
+2024-12-28,Dermokozmetik tedarik,0,40083,Tedarik
+2024-12-28,İlaç toptancı sipariş (depo),0,39987,Tedarik
+2024-12-28,Medikal sarf tedariği,0,44375,Tedarik
+2024-12-28,KDV,0,23958,Vergi
+2024-12-29,İnternet,0,4945,Fatura
+2024-12-31,Bebek bakım ürünleri,22455,0,Satış
+2025-01-01,OTC ilaç satışı,21936,0,Satış
+2025-01-01,Bebek bakım ürünleri,29769,0,Satış
+2025-01-03,Reçeteli ilaç satışı,25129,0,Satış
+2025-01-03,Reçetesiz ürün geliri,29495,0,Satış
+2025-01-03,Dermokozmetik satış,26868,0,Satış
+2025-01-03,İlaç toptancı sipariş (depo),0,49277,Tedarik
+2025-01-05,SGK reçete tahsilatı,24371,0,Satış
+2025-01-06,Reçetesiz ürün stoğu,0,39902,Tedarik
+2025-01-07,Reçetesiz ürün stoğu,0,43031,Tedarik
+2025-01-07,İnternet,0,7805,Fatura
+2025-01-08,Dermokozmetik satış,24436,0,Satış
+2025-01-08,Reçeteli ilaç satışı,27487,0,Satış
+2025-01-13,Bebek bakım ürünleri,26054,0,Satış
+2025-01-13,Eczane kira ödemesi,0,36731,Kira
+2025-01-13,KDV,0,17863,Vergi
+2025-01-14,Medikal ürün satışı,28954,0,Satış
+2025-01-14,Bebek ürünleri stoğu,0,37231,Tedarik
+2025-01-17,Medikal ürün satışı,27247,0,Satış
+2025-01-17,Bebek bakım ürünleri,22490,0,Satış
+2025-01-17,Eczane otomasyon yazılım abonelik,0,4477,Teknoloji
+2025-01-18,SGK reçete tahsilatı,29566,0,Satış
+2025-01-18,Dermokozmetik satış,22625,0,Satış
+2025-01-18,Reçeteli ilaç satışı,21299,0,Satış
+2025-01-18,Bebek ürünleri stoğu,0,41544,Tedarik
+2025-01-18,İnternet,0,7277,Fatura
+2025-01-19,Reçeteli ilaç satışı,29867,0,Satış
+2025-01-22,Poşet ve ambalaj,0,5215,Sarf
+2025-01-23,Reçetesiz ürün geliri,25146,0,Satış
+2025-01-25,OTC ilaç satışı,22468,0,Satış
+2025-01-26,Reçeteli ilaç satışı,24403,0,Satış
+2025-01-26,Bebek ürünleri stoğu,0,40374,Tedarik
+2025-01-26,Bebek ürünleri stoğu,0,49991,Tedarik
+2025-01-26,Eczacı kalfası maaşı,0,46920,Maaş
+2025-01-27,Bebek ürünleri stoğu,0,40498,Tedarik
+2025-01-28,SGK ödeme farkı,20318,0,Diğer Gelir
+2025-01-28,Eczacı kalfası maaşı,0,46934,Maaş
+2025-01-29,SGK reçete tahsilatı,22420,0,Satış
+2025-02-01,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",9517,0,Diğer Gelir
+2025-02-02,SGK reçete tahsilatı,20312,0,Satış
+2025-02-03,Medikal ürün satışı,16702,0,Satış
+2025-02-03,Medikal sarf tedariği,0,54443,Tedarik
+2025-02-05,OTC ilaç satışı,14609,0,Satış
+2025-02-05,Reçeteli ilaç satışı,18265,0,Satış
+2025-02-06,Reçeteli ilaç satışı,18188,0,Satış
+2025-02-06,Poşet ve ambalaj,0,2177,Sarf
+2025-02-07,Bebek ürünleri stoğu,0,53902,Tedarik
+2025-02-08,İlaç toptancı sipariş (depo),0,53586,Tedarik
+2025-02-09,Bebek bakım ürünleri,21447,0,Satış
+2025-02-09,Reçeteli ilaç satışı,18296,0,Satış
+2025-02-10,OTC ilaç satışı,20451,0,Satış
+2025-02-10,Reçeteli ilaç satışı,21799,0,Satış
+2025-02-10,Poşet ve ambalaj,0,2271,Sarf
+2025-02-11,Medikal ürün satışı,20877,0,Satış
+2025-02-13,Reçeteli ilaç satışı,17766,0,Satış
+2025-02-14,OTC ilaç satışı,17789,0,Satış
+2025-02-14,Reçetesiz ürün geliri,16536,0,Satış
+2025-02-14,Dermokozmetik satış,20655,0,Satış
+2025-02-14,Bebek bakım ürünleri,19611,0,Satış
+2025-02-14,Medikal sarf tedariği,0,59109,Tedarik
+2025-02-15,Reçetesiz ürün geliri,18640,0,Satış
+2025-02-16,KDV,0,17563,Vergi
+2025-02-17,Medikal ürün satışı,21200,0,Satış
+2025-02-18,Reçetesiz ürün geliri,17749,0,Satış
+2025-02-19,Medikal ürün satışı,19326,0,Satış
+2025-02-20,Bebek bakım ürünleri,15460,0,Satış
+2025-02-20,Elektrik,0,7045,Fatura
+2025-02-21,Reçetesiz ürün geliri,18428,0,Satış
+2025-02-21,Eczane kira ödemesi,0,29657,Kira
+2025-02-22,Dermokozmetik satış,15718,0,Satış
+2025-02-22,Reçetesiz ürün stoğu,0,48537,Tedarik
+2025-02-24,SGK reçete tahsilatı,16025,0,Satış
+2025-02-24,Eczane otomasyon yazılım abonelik,0,5550,Teknoloji
+2025-02-25,Reçetesiz ürün geliri,16111,0,Satış
+2025-02-25,Medikal ürün satışı,19362,0,Satış
+2025-02-26,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",8709,0,Diğer Gelir
+2025-02-26,Yardımcı personel maaşı,0,70144,Maaş
+2025-02-27,OTC ilaç satışı,20952,0,Satış
+2025-02-27,Dermokozmetik satış,16822,0,Satış
+2025-02-27,SGK reçete tahsilatı,21084,0,Satış
+2025-02-27,Dermokozmetik tedarik,0,49260,Tedarik
+2025-02-28,Elektrik,0,8292,Fatura
+2025-03-01,Bebek bakım ürünleri,17621,0,Satış
+2025-03-01,Elektrik,0,4746,Fatura
+2025-03-02,Dermokozmetik satış,15594,0,Satış
+2025-03-02,Elektrik,0,4193,Fatura
+2025-03-03,SGK reçete tahsilatı,19479,0,Satış
+2025-03-03,Reçetesiz ürün geliri,14395,0,Satış
+2025-03-03,Reçeteli ilaç satışı,17992,0,Satış
+2025-03-03,Reçetesiz ürün geliri,15371,0,Satış
+2025-03-03,Medikal ürün satışı,19327,0,Satış
+2025-03-03,Dermokozmetik tedarik,0,28896,Tedarik
+2025-03-04,Reçeteli ilaç satışı,19419,0,Satış
+2025-03-04,İlaç toptancı sipariş (depo),0,24455,Tedarik
+2025-03-05,OTC ilaç satışı,13681,0,Satış
+2025-03-05,Reçeteli ilaç satışı,13396,0,Satış
+2025-03-05,İlaç toptancı sipariş (depo),0,25585,Tedarik
+2025-03-06,Yardımcı personel maaşı,0,41283,Maaş
+2025-03-07,Bebek ürünleri stoğu,0,25488,Tedarik
+2025-03-07,Dermokozmetik tedarik,0,27129,Tedarik
+2025-03-08,Elektrik,0,4635,Fatura
+2025-03-08,Poşet ve ambalaj,0,2046,Sarf
+2025-03-10,Reçetesiz ürün geliri,14439,0,Satış
+2025-03-11,Bebek bakım ürünleri,18416,0,Satış
+2025-03-11,SGK reçete tahsilatı,17889,0,Satış
+2025-03-11,Medikal sarf tedariği,0,22061,Tedarik
+2025-03-11,Eczane otomasyon yazılım abonelik,0,3854,Teknoloji
+2025-03-11,Poşet ve ambalaj,0,1975,Sarf
+2025-03-12,Reçeteli ilaç satışı,16079,0,Satış
+2025-03-14,Reçetesiz ürün geliri,18605,0,Satış
+2025-03-15,Dermokozmetik satış,17922,0,Satış
+2025-03-16,Bebek ürünleri stoğu,0,25676,Tedarik
+2025-03-16,İlaç toptancı sipariş (depo),0,28636,Tedarik
+2025-03-17,Reçeteli ilaç satışı,19214,0,Satış
+2025-03-17,KDV,0,16086,Vergi
+2025-03-19,SGK reçete tahsilatı,14487,0,Satış
+2025-03-19,Reçetesiz ürün stoğu,0,24810,Tedarik
+2025-03-21,Medikal ürün satışı,17820,0,Satış
+2025-03-23,SGK reçete tahsilatı,18171,0,Satış
+2025-03-23,SGK reçete tahsilatı,16418,0,Satış
+2025-03-24,Reçetesiz ürün geliri,16014,0,Satış
+2025-03-24,Eczane kira ödemesi,0,32603,Kira
+2025-03-25,Bebek ürünleri stoğu,0,23738,Tedarik
+2025-03-26,Dermokozmetik satış,17586,0,Satış
+2025-03-26,Dermokozmetik satış,18283,0,Satış
+2025-03-26,Medikal ürün satışı,18185,0,Satış
+2025-03-27,Dermokozmetik satış,14744,0,Satış
+2025-03-29,Bebek ürünleri stoğu,0,23701,Tedarik
+2025-03-30,Reçetesiz ürün geliri,18383,0,Satış
+2025-03-31,Reçetesiz ürün geliri,15539,0,Satış
+2025-03-31,Medikal sarf tedariği,0,26817,Tedarik
+2025-03-31,Yardımcı personel maaşı,0,35601,Maaş
+2025-04-02,SGK reçete tahsilatı,25778,0,Satış
+2025-04-03,OTC ilaç satışı,26002,0,Satış
+2025-04-03,Reçetesiz ürün geliri,20309,0,Satış
+2025-04-03,Medikal ürün satışı,26088,0,Satış
+2025-04-05,Medikal ürün satışı,23825,0,Satış
+2025-04-05,Reçetesiz ürün geliri,25869,0,Satış
+2025-04-06,Bebek ürünleri stoğu,0,39721,Tedarik
+2025-04-07,OTC ilaç satışı,24465,0,Satış
+2025-04-07,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",9736,0,Diğer Gelir
+2025-04-07,Bebek ürünleri stoğu,0,30136,Tedarik
+2025-04-07,Reçetesiz ürün stoğu,0,36898,Tedarik
+2025-04-07,Elektrik,0,5323,Fatura
+2025-04-09,Eczane kira ödemesi,0,24819,Kira
+2025-04-10,Reçetesiz ürün stoğu,0,35313,Tedarik
+2025-04-12,Bebek bakım ürünleri,25204,0,Satış
+2025-04-12,Reçeteli ilaç satışı,19385,0,Satış
+2025-04-12,Dermokozmetik tedarik,0,33846,Tedarik
+2025-04-15,OTC ilaç satışı,20578,0,Satış
+2025-04-15,Bebek bakım ürünleri,19221,0,Satış
+2025-04-15,SGK reçete tahsilatı,18974,0,Satış
+2025-04-16,SGK reçete tahsilatı,23776,0,Satış
+2025-04-17,Elektrik,0,6262,Fatura
+2025-04-17,Eczane otomasyon yazılım abonelik,0,3661,Teknoloji
+2025-04-19,Medikal ürün satışı,24624,0,Satış
+2025-04-19,Stopaj,0,16777,Vergi
+2025-04-19,Poşet ve ambalaj,0,4025,Sarf
+2025-04-20,İlaç toptancı sipariş (depo),0,35472,Tedarik
+2025-04-20,Yardımcı personel maaşı,0,70062,Maaş
+2025-04-22,Reçeteli ilaç satışı,18963,0,Satış
+2025-04-23,Dermokozmetik satış,21670,0,Satış
+2025-04-24,Medikal ürün satışı,21168,0,Satış
+2025-04-25,Dermokozmetik satış,25056,0,Satış
+2025-04-26,Dermokozmetik tedarik,0,33581,Tedarik
+2025-04-26,Bebek ürünleri stoğu,0,31091,Tedarik
+2025-04-29,SGK ödeme farkı,10532,0,Diğer Gelir
+2025-04-30,OTC ilaç satışı,22033,0,Satış
+2025-05-01,Medikal ürün satışı,21827,0,Satış
+2025-05-01,SGK reçete tahsilatı,17280,0,Satış
+2025-05-02,Dermokozmetik satış,16055,0,Satış
+2025-05-02,Reçeteli ilaç satışı,20417,0,Satış
+2025-05-03,Reçeteli ilaç satışı,16274,0,Satış
+2025-05-03,Elektrik,0,5778,Fatura
+2025-05-03,Poşet ve ambalaj,0,1869,Sarf
+2025-05-04,Medikal ürün satışı,18461,0,Satış
+2025-05-04,Reçetesiz ürün geliri,20484,0,Satış
+2025-05-04,Reçetesiz ürün geliri,18141,0,Satış
+2025-05-08,"Ölçüm hizmet ücreti (tansiyon, kan şekeri)",19334,0,Diğer Gelir
+2025-05-08,Reçetesiz ürün stoğu,0,26907,Tedarik
+2025-05-08,Stopaj,0,14180,Vergi
+2025-05-11,Bebek ürünleri stoğu,0,25142,Tedarik
+2025-05-12,Medikal ürün satışı,15389,0,Satış
+2025-05-12,İlaç toptancı sipariş (depo),0,33268,Tedarik
+2025-05-12,Reçetesiz ürün stoğu,0,30689,Tedarik
+2025-05-13,OTC ilaç satışı,18539,0,Satış
+2025-05-13,Medikal sarf tedariği,0,31342,Tedarik
+2025-05-16,Medikal ürün satışı,20021,0,Satış
+2025-05-16,İlaç toptancı sipariş (depo),0,26265,Tedarik
+2025-05-17,Reçeteli ilaç satışı,21819,0,Satış
+2025-05-18,Reçeteli ilaç satışı,17958,0,Satış
+2025-05-18,Dermokozmetik satış,16102,0,Satış
+2025-05-18,Eczacı kalfası maaşı,0,55684,Maaş
+2025-05-18,Eczane kira ödemesi,0,29267,Kira
+2025-05-20,Reçetesiz ürün geliri,18665,0,Satış
+2025-05-20,Medikal sarf tedariği,0,28505,Tedarik
+2025-05-21,İnternet,0,6655,Fatura
+2025-05-24,Bebek bakım ürünleri,16411,0,Satış
+2025-05-25,İlaç toptancı sipariş (depo),0,33757,Tedarik
+2025-05-28,OTC ilaç satışı,16891,0,Satış
+2025-05-28,SGK reçete tahsilatı,16208,0,Satış
+2025-05-28,Reçetesiz ürün geliri,15322,0,Satış
+2025-05-28,Bebek ürünleri stoğu,0,32541,Tedarik
+2025-05-29,Poşet ve ambalaj,0,1663,Sarf
+2025-05-30,Reçeteli ilaç satışı,16809,0,Satış
+2025-05-30,SGK reçete tahsilatı,15047,0,Satış
+2025-05-30,Reçetesiz ürün geliri,18462,0,Satış
+2025-05-30,Eczane otomasyon yazılım abonelik,0,3826,Teknoloji
+2025-06-01,Dermokozmetik satış,13421,0,Satış
+2025-06-01,İlaç toptancı sipariş (depo),0,22448,Tedarik
+2025-06-01,Dermokozmetik tedarik,0,21730,Tedarik
+2025-06-04,Medikal ürün satışı,19017,0,Satış
+2025-06-05,Bebek bakım ürünleri,13804,0,Satış
+2025-06-05,İlaç toptancı sipariş (depo),0,19981,Tedarik
+2025-06-06,Medikal sarf tedariği,0,21268,Tedarik
+2025-06-07,OTC ilaç satışı,14735,0,Satış
+2025-06-07,Bebek bakım ürünleri,17629,0,Satış
+2025-06-07,Stopaj,0,14335,Vergi
+2025-06-08,Reçetesiz ürün geliri,16710,0,Satış
+2025-06-08,Reçetesiz ürün geliri,17696,0,Satış
+2025-06-08,Reçetesiz ürün stoğu,0,20476,Tedarik
+2025-06-09,Medikal ürün satışı,13816,0,Satış
+2025-06-09,SGK reçete tahsilatı,16543,0,Satış
+2025-06-11,OTC ilaç satışı,18270,0,Satış
+2025-06-11,Reçetesiz ürün geliri,14714,0,Satış
+2025-06-11,Medikal sarf tedariği,0,20985,Tedarik
+2025-06-12,Dermokozmetik satış,16974,0,Satış
+2025-06-12,Eczane otomasyon yazılım abonelik,0,3799,Teknoloji
+2025-06-13,Bebek bakım ürünleri,13797,0,Satış
+2025-06-13,Dermokozmetik satış,15266,0,Satış
+2025-06-13,Yardımcı personel maaşı,0,28310,Maaş
+2025-06-14,Medikal ürün satışı,13295,0,Satış
+2025-06-14,Reçetesiz ürün stoğu,0,23777,Tedarik
+2025-06-14,Eczacı kalfası maaşı,0,29881,Maaş
+2025-06-14,Kırtasiye,0,3609,Sarf
+2025-06-15,Dermokozmetik satış,14319,0,Satış
+2025-06-16,Elektrik,0,6337,Fatura
+2025-06-17,Reçetesiz ürün stoğu,0,19848,Tedarik
+2025-06-18,SGK reçete tahsilatı,13930,0,Satış
+2025-06-19,Bebek bakım ürünleri,13012,0,Satış
+2025-06-20,SGK reçete tahsilatı,17197,0,Satış
+2025-06-20,Bebek ürünleri stoğu,0,24396,Tedarik
+2025-06-20,Eczane kira ödemesi,0,24438,Kira
+2025-06-21,Reçeteli ilaç satışı,17319,0,Satış
+2025-06-22,Medikal ürün satışı,18504,0,Satış
+2025-06-24,OTC ilaç satışı,13669,0,Satış
+2025-06-25,Reçeteli ilaç satışı,14018,0,Satış
+2025-06-26,İlaç toptancı sipariş (depo),0,22353,Tedarik
+2025-06-26,Elektrik,0,5113,Fatura
+2025-06-28,OTC ilaç satışı,19287,0,Satış
+2025-06-28,Bebek bakım ürünleri,15461,0,Satış
+2025-06-28,Dermokozmetik tedarik,0,19243,Tedarik
+2025-06-29,Bebek ürünleri stoğu,0,20866,Tedarik

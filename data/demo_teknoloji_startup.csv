@@ -1,0 +1,332 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Kurumsal müşteri ödemesi,14260,0,Satış
+2024-01-02,LinkedIn Ads,0,32217,Pazarlama
+2024-01-04,Coworking ofis kirası,0,23099,Kira
+2024-01-06,Telefon hatları,0,6788,Fatura
+2024-01-07,SaaS aylık abonelik (Pro paket),15954,0,Satış
+2024-01-07,Geçici vergi taksiti,0,10885,Vergi
+2024-01-18,SaaS aylık abonelik (Pro paket),18601,0,Satış
+2024-01-18,KOSGEB Ar-Ge hibe,5992,0,Devlet Desteği
+2024-01-19,Datadog monitoring,0,17009,Teknoloji
+2024-01-24,Enterprise lisans satışı,14293,0,Satış
+2024-01-25,Vercel + GitHub abonelik,0,18484,Teknoloji
+2024-01-26,Yazılım geliştirici maaşları (x5),0,143307,Maaş
+2024-01-28,SaaS aylık abonelik (Pro paket),16556,0,Satış
+2024-01-31,İnternet aboneliği,0,6769,Fatura
+2024-02-01,Mixpanel analytics,0,14904,Teknoloji
+2024-02-02,Ofis elektrik,0,6495,Fatura
+2024-02-08,Hukuk danışmanlık,0,9218,Danışmanlık
+2024-02-10,PR ajans aylık ödeme,0,16620,Pazarlama
+2024-02-14,Enterprise lisans satışı,18573,0,Satış
+2024-02-14,İnternet aboneliği,0,7063,Fatura
+2024-02-16,Coworking ofis kirası,0,21881,Kira
+2024-02-18,Mali müşavir ücreti,0,10042,Danışmanlık
+2024-02-19,Stopaj vergi ödemesi,0,11293,Vergi
+2024-02-21,AWS bulut altyapısı,0,16144,Teknoloji
+2024-02-23,SaaS aylık abonelik (Pro paket),14133,0,Satış
+2024-02-24,Google Ads kampanya,0,15744,Pazarlama
+2024-02-25,TÜBİTAK 1507 hibe taksiti,6169,0,Devlet Desteği
+2024-02-28,SaaS aylık abonelik (Pro paket),16776,0,Satış
+2024-02-28,Ürün ve tasarım ekibi,0,91579,Maaş
+2024-02-29,Yıllık abonelik tahsilatı,19368,0,Satış
+2024-02-29,Enterprise lisans satışı,18564,0,Satış
+2024-02-29,Pazarlama uzmanı maaşı,0,74986,Maaş
+2024-03-02,Kurumsal müşteri ödemesi,10631,0,Satış
+2024-03-02,Ürün ve tasarım ekibi,0,93284,Maaş
+2024-03-03,Yıllık abonelik tahsilatı,13432,0,Satış
+2024-03-04,Mixpanel analytics,0,9033,Teknoloji
+2024-03-05,SaaS aylık abonelik (Pro paket),11334,0,Satış
+2024-03-05,Stopaj vergi ödemesi,0,14192,Vergi
+2024-03-06,Yazılım geliştirici maaşları (x5),0,89358,Maaş
+2024-03-06,Hukuk danışmanlık,0,18345,Danışmanlık
+2024-03-10,Enterprise lisans satışı,9176,0,Satış
+2024-03-10,Enterprise lisans satışı,12173,0,Satış
+2024-03-12,Coworking ofis kirası,0,27925,Kira
+2024-03-13,Kurumsal müşteri ödemesi,10571,0,Satış
+2024-03-14,Content marketing ajans,0,26740,Pazarlama
+2024-03-15,AWS bulut altyapısı,0,8517,Teknoloji
+2024-03-17,Kurumsal müşteri ödemesi,9028,0,Satış
+2024-03-17,Mixpanel analytics,0,10439,Teknoloji
+2024-03-18,Ofis elektrik,0,13811,Fatura
+2024-03-21,Yıllık abonelik tahsilatı,11356,0,Satış
+2024-03-24,KOSGEB Ar-Ge hibe,7975,0,Devlet Desteği
+2024-03-27,Pre-seed sermaye girişi,77438,0,Yatırım
+2024-03-27,Datadog monitoring,0,8529,Teknoloji
+2024-04-01,Pre-seed sermaye girişi,77622,0,Yatırım
+2024-04-03,Telefon hatları,0,17866,Fatura
+2024-04-08,Stratejik danışmanlık,0,19671,Danışmanlık
+2024-04-09,Datadog monitoring,0,20089,Teknoloji
+2024-04-13,Yıllık abonelik tahsilatı,9574,0,Satış
+2024-04-13,Founder maaşları,0,165585,Maaş
+2024-04-14,LinkedIn Ads,0,30116,Pazarlama
+2024-04-16,Mixpanel analytics,0,18738,Teknoloji
+2024-04-19,API kullanım faturası,9838,0,Satış
+2024-04-19,Enterprise lisans satışı,9989,0,Satış
+2024-04-20,SaaS aylık abonelik (Pro paket),11240,0,Satış
+2024-04-22,Coworking ofis kirası,0,26945,Kira
+2024-04-23,Stopaj vergi ödemesi,0,14054,Vergi
+2024-04-25,Kurumsal müşteri ödemesi,10256,0,Satış
+2024-04-26,Kurumsal müşteri ödemesi,9815,0,Satış
+2024-04-26,Yıllık abonelik tahsilatı,11917,0,Satış
+2024-04-27,Enterprise lisans satışı,10616,0,Satış
+2024-04-27,Kurumsal müşteri ödemesi,8687,0,Satış
+2024-05-01,API kullanım faturası,10558,0,Satış
+2024-05-03,Kurumsal müşteri ödemesi,11077,0,Satış
+2024-05-09,Levent ofis kirası,0,23180,Kira
+2024-05-10,Google Ads kampanya,0,27696,Pazarlama
+2024-05-12,Enterprise lisans satışı,11082,0,Satış
+2024-05-14,Ürün ve tasarım ekibi,0,99883,Maaş
+2024-05-17,Yıllık abonelik tahsilatı,12157,0,Satış
+2024-05-18,Mixpanel analytics,0,9195,Teknoloji
+2024-05-19,Telefon hatları,0,9031,Fatura
+2024-05-21,SaaS aylık abonelik (Pro paket),9125,0,Satış
+2024-05-21,Ürün ve tasarım ekibi,0,89570,Maaş
+2024-05-22,Mixpanel analytics,0,8533,Teknoloji
+2024-05-23,OpenAI API kullanımı,0,9224,Teknoloji
+2024-05-24,SaaS aylık abonelik (Pro paket),9240,0,Satış
+2024-05-24,Yıllık abonelik tahsilatı,11284,0,Satış
+2024-05-24,Mixpanel analytics,0,8363,Teknoloji
+2024-05-26,Yıllık abonelik tahsilatı,9549,0,Satış
+2024-05-27,Yıllık abonelik tahsilatı,12416,0,Satış
+2024-05-29,Ofis elektrik,0,8595,Fatura
+2024-05-30,Stopaj vergi ödemesi,0,14082,Vergi
+2024-05-31,KOSGEB Ar-Ge hibe,9498,0,Devlet Desteği
+2024-06-03,OpenAI API kullanımı,0,8544,Teknoloji
+2024-06-05,İnternet aboneliği,0,8831,Fatura
+2024-06-07,Datadog monitoring,0,8728,Teknoloji
+2024-06-08,SaaS aylık abonelik (Pro paket),13238,0,Satış
+2024-06-08,Content marketing ajans,0,14600,Pazarlama
+2024-06-12,API kullanım faturası,9814,0,Satış
+2024-06-12,KOSGEB Ar-Ge hibe,8573,0,Devlet Desteği
+2024-06-12,AWS bulut altyapısı,0,9301,Teknoloji
+2024-06-12,Telefon hatları,0,8805,Fatura
+2024-06-14,Stratejik danışmanlık,0,20677,Danışmanlık
+2024-06-14,Stopaj vergi ödemesi,0,13237,Vergi
+2024-06-16,Enterprise lisans satışı,12895,0,Satış
+2024-06-16,Yıllık abonelik tahsilatı,10533,0,Satış
+2024-06-17,Datadog monitoring,0,8496,Teknoloji
+2024-06-19,Kurumsal müşteri ödemesi,12915,0,Satış
+2024-06-19,SaaS aylık abonelik (Pro paket),10434,0,Satış
+2024-06-19,Pazarlama uzmanı maaşı,0,187047,Maaş
+2024-06-20,SaaS aylık abonelik (Pro paket),12467,0,Satış
+2024-06-24,API kullanım faturası,12338,0,Satış
+2024-06-24,PR ajans aylık ödeme,0,14300,Pazarlama
+2024-06-27,Levent ofis kirası,0,22427,Kira
+2024-07-02,Yıllık abonelik tahsilatı,11103,0,Satış
+2024-07-03,Founder maaşları,0,85082,Maaş
+2024-07-04,SaaS aylık abonelik (Pro paket),11426,0,Satış
+2024-07-08,Yıllık abonelik tahsilatı,11951,0,Satış
+2024-07-10,Enterprise lisans satışı,15077,0,Satış
+2024-07-15,Stratejik danışmanlık,0,17178,Danışmanlık
+2024-07-17,TÜBİTAK 1507 hibe taksiti,6848,0,Devlet Desteği
+2024-07-17,Google Ads kampanya,0,13277,Pazarlama
+2024-07-21,Kurumsal müşteri ödemesi,12169,0,Satış
+2024-07-22,Yıllık abonelik tahsilatı,13625,0,Satış
+2024-07-23,SaaS aylık abonelik (Pro paket),13771,0,Satış
+2024-07-24,OpenAI API kullanımı,0,20687,Teknoloji
+2024-07-27,Vercel + GitHub abonelik,0,16888,Teknoloji
+2024-07-27,Content marketing ajans,0,15092,Pazarlama
+2024-07-28,Geçici vergi taksiti,0,13731,Vergi
+2024-07-28,Telefon hatları,0,16347,Fatura
+2024-07-29,Levent ofis kirası,0,21760,Kira
+2024-07-31,Ürün ve tasarım ekibi,0,77596,Maaş
+2024-08-02,Kurumsal müşteri ödemesi,9280,0,Satış
+2024-08-02,OpenAI API kullanımı,0,19887,Teknoloji
+2024-08-03,Levent ofis kirası,0,22631,Kira
+2024-08-04,Mixpanel analytics,0,18937,Teknoloji
+2024-08-07,SaaS aylık abonelik (Pro paket),10487,0,Satış
+2024-08-07,Founder maaşları,0,177316,Maaş
+2024-08-08,API kullanım faturası,11457,0,Satış
+2024-08-10,SaaS aylık abonelik (Pro paket),9722,0,Satış
+2024-08-10,Mali müşavir ücreti,0,21350,Danışmanlık
+2024-08-17,SaaS aylık abonelik (Pro paket),10728,0,Satış
+2024-08-17,Content marketing ajans,0,28303,Pazarlama
+2024-08-18,İnternet aboneliği,0,7803,Fatura
+2024-08-20,SaaS aylık abonelik (Pro paket),11074,0,Satış
+2024-08-21,Yıllık abonelik tahsilatı,9041,0,Satış
+2024-08-22,API kullanım faturası,9287,0,Satış
+2024-08-25,Seed round melek yatırımcı transferi,57096,0,Yatırım
+2024-08-28,Ofis elektrik,0,7983,Fatura
+2024-08-29,Yıllık abonelik tahsilatı,8473,0,Satış
+2024-08-29,Stopaj vergi ödemesi,0,11824,Vergi
+2024-09-02,OpenAI API kullanımı,0,21649,Teknoloji
+2024-09-05,Ofis elektrik,0,10110,Fatura
+2024-09-12,API kullanım faturası,19158,0,Satış
+2024-09-14,Yıllık abonelik tahsilatı,16654,0,Satış
+2024-09-17,Enterprise lisans satışı,15523,0,Satış
+2024-09-18,SaaS aylık abonelik (Pro paket),19009,0,Satış
+2024-09-18,AWS bulut altyapısı,0,19494,Teknoloji
+2024-09-19,İnternet aboneliği,0,10040,Fatura
+2024-09-22,Google Ads kampanya,0,34743,Pazarlama
+2024-09-22,Geçici vergi taksiti,0,12078,Vergi
+2024-09-23,Yıllık abonelik tahsilatı,21034,0,Satış
+2024-09-28,SaaS aylık abonelik (Pro paket),17134,0,Satış
+2024-09-28,Levent ofis kirası,0,30589,Kira
+2024-09-29,Pazarlama uzmanı maaşı,0,202508,Maaş
+2024-09-29,Mali müşavir ücreti,0,19602,Danışmanlık
+2024-10-01,Ofis elektrik,0,17178,Fatura
+2024-10-05,Levent ofis kirası,0,27515,Kira
+2024-10-10,OpenAI API kullanımı,0,24061,Teknoloji
+2024-10-14,Hukuk danışmanlık,0,19967,Danışmanlık
+2024-10-15,Enterprise lisans satışı,33937,0,Satış
+2024-10-16,Content marketing ajans,0,37650,Pazarlama
+2024-10-18,Yıllık abonelik tahsilatı,32603,0,Satış
+2024-10-23,Ürün ve tasarım ekibi,0,191063,Maaş
+2024-10-24,API kullanım faturası,25452,0,Satış
+2024-10-26,TÜBİTAK 1507 hibe taksiti,12067,0,Devlet Desteği
+2024-10-27,API kullanım faturası,30057,0,Satış
+2024-10-28,Stopaj vergi ödemesi,0,14456,Vergi
+2024-10-30,Pre-seed sermaye girişi,89485,0,Yatırım
+2024-10-31,AWS bulut altyapısı,0,24852,Teknoloji
+2024-11-03,Google Ads kampanya,0,37890,Pazarlama
+2024-11-05,Stratejik danışmanlık,0,10115,Danışmanlık
+2024-11-07,API kullanım faturası,16358,0,Satış
+2024-11-09,Coworking ofis kirası,0,31345,Kira
+2024-11-11,Yıllık abonelik tahsilatı,14388,0,Satış
+2024-11-12,Enterprise lisans satışı,14579,0,Satış
+2024-11-12,OpenAI API kullanımı,0,16967,Teknoloji
+2024-11-13,SaaS aylık abonelik (Pro paket),12005,0,Satış
+2024-11-17,SaaS aylık abonelik (Pro paket),12874,0,Satış
+2024-11-18,Ofis elektrik,0,21875,Fatura
+2024-11-19,Kurumsal müşteri ödemesi,16578,0,Satış
+2024-11-21,Datadog monitoring,0,14953,Teknoloji
+2024-11-24,Enterprise lisans satışı,13248,0,Satış
+2024-11-25,Pre-seed sermaye girişi,71831,0,Yatırım
+2024-11-25,Mixpanel analytics,0,16572,Teknoloji
+2024-11-25,Geçici vergi taksiti,0,13631,Vergi
+2024-11-28,SaaS aylık abonelik (Pro paket),12037,0,Satış
+2024-11-30,Founder maaşları,0,239073,Maaş
+2024-11-30,Stratejik danışmanlık,0,10373,Danışmanlık
+2024-12-02,OpenAI API kullanımı,0,12740,Teknoloji
+2024-12-03,SaaS aylık abonelik (Pro paket),11604,0,Satış
+2024-12-03,Stratejik danışmanlık,0,10446,Danışmanlık
+2024-12-04,SaaS aylık abonelik (Pro paket),15665,0,Satış
+2024-12-04,Convertible note ödemesi,85275,0,Yatırım
+2024-12-05,SaaS aylık abonelik (Pro paket),13284,0,Satış
+2024-12-05,Stopaj vergi ödemesi,0,14263,Vergi
+2024-12-11,API kullanım faturası,12453,0,Satış
+2024-12-12,Founder maaşları,0,216938,Maaş
+2024-12-13,Yıllık abonelik tahsilatı,16819,0,Satış
+2024-12-14,API kullanım faturası,11643,0,Satış
+2024-12-14,Hukuk danışmanlık,0,9943,Danışmanlık
+2024-12-19,Levent ofis kirası,0,28387,Kira
+2024-12-20,Vercel + GitHub abonelik,0,11173,Teknoloji
+2024-12-21,Mixpanel analytics,0,12785,Teknoloji
+2024-12-25,SaaS aylık abonelik (Pro paket),12085,0,Satış
+2024-12-25,İnternet aboneliği,0,9952,Fatura
+2024-12-26,Mixpanel analytics,0,9488,Teknoloji
+2024-12-26,Google Ads kampanya,0,35294,Pazarlama
+2024-12-26,Telefon hatları,0,8717,Fatura
+2024-12-27,SaaS aylık abonelik (Pro paket),12009,0,Satış
+2025-01-01,Mixpanel analytics,0,12469,Teknoloji
+2025-01-02,Yıllık abonelik tahsilatı,24264,0,Satış
+2025-01-03,Enterprise lisans satışı,29228,0,Satış
+2025-01-06,Enterprise lisans satışı,28395,0,Satış
+2025-01-07,Content marketing ajans,0,33958,Pazarlama
+2025-01-09,Yazılım geliştirici maaşları (x5),0,99745,Maaş
+2025-01-11,Levent ofis kirası,0,26609,Kira
+2025-01-12,Founder maaşları,0,87457,Maaş
+2025-01-12,AWS bulut altyapısı,0,12392,Teknoloji
+2025-01-14,Kurumsal müşteri ödemesi,24324,0,Satış
+2025-01-16,İnternet aboneliği,0,8868,Fatura
+2025-01-24,İnternet aboneliği,0,9139,Fatura
+2025-01-27,Datadog monitoring,0,14801,Teknoloji
+2025-01-28,Geçici vergi taksiti,0,15602,Vergi
+2025-02-01,Yazılım geliştirici maaşları (x5),0,183077,Maaş
+2025-02-01,OpenAI API kullanımı,0,11738,Teknoloji
+2025-02-02,Yıllık abonelik tahsilatı,14112,0,Satış
+2025-02-03,Mixpanel analytics,0,10425,Teknoloji
+2025-02-04,Pre-seed sermaye girişi,100189,0,Yatırım
+2025-02-05,Kurumsal müşteri ödemesi,10825,0,Satış
+2025-02-05,PR ajans aylık ödeme,0,17709,Pazarlama
+2025-02-06,Ofis elektrik,0,16986,Fatura
+2025-02-08,SaaS aylık abonelik (Pro paket),10518,0,Satış
+2025-02-09,Mali müşavir ücreti,0,12051,Danışmanlık
+2025-02-10,Levent ofis kirası,0,32505,Kira
+2025-02-10,Hukuk danışmanlık,0,10453,Danışmanlık
+2025-02-11,TÜBİTAK 1507 hibe taksiti,12531,0,Devlet Desteği
+2025-02-15,AWS bulut altyapısı,0,11210,Teknoloji
+2025-02-17,Enterprise lisans satışı,10336,0,Satış
+2025-02-17,Yıllık abonelik tahsilatı,13841,0,Satış
+2025-02-19,Mixpanel analytics,0,11172,Teknoloji
+2025-02-21,Yıllık abonelik tahsilatı,13805,0,Satış
+2025-02-21,Enterprise lisans satışı,10906,0,Satış
+2025-02-22,API kullanım faturası,13508,0,Satış
+2025-02-22,Yıllık abonelik tahsilatı,11233,0,Satış
+2025-02-26,Stopaj vergi ödemesi,0,14702,Vergi
+2025-02-28,Content marketing ajans,0,17305,Pazarlama
+2025-03-01,Kurumsal müşteri ödemesi,15625,0,Satış
+2025-03-02,API kullanım faturası,14733,0,Satış
+2025-03-05,AWS bulut altyapısı,0,10504,Teknoloji
+2025-03-11,Yıllık abonelik tahsilatı,17847,0,Satış
+2025-03-11,Mali müşavir ücreti,0,22752,Danışmanlık
+2025-03-12,Content marketing ajans,0,17022,Pazarlama
+2025-03-12,Ofis elektrik,0,9141,Fatura
+2025-03-13,Enterprise lisans satışı,14570,0,Satış
+2025-03-13,TÜBİTAK 1507 hibe taksiti,13454,0,Devlet Desteği
+2025-03-14,API kullanım faturası,15516,0,Satış
+2025-03-14,LinkedIn Ads,0,19123,Pazarlama
+2025-03-17,Kurumsal müşteri ödemesi,18501,0,Satış
+2025-03-17,Coworking ofis kirası,0,30718,Kira
+2025-03-19,Datadog monitoring,0,11426,Teknoloji
+2025-03-20,API kullanım faturası,16599,0,Satış
+2025-03-21,Geçici vergi taksiti,0,16689,Vergi
+2025-03-24,OpenAI API kullanımı,0,10211,Teknoloji
+2025-03-25,Telefon hatları,0,8995,Fatura
+2025-03-26,Pazarlama uzmanı maaşı,0,218370,Maaş
+2025-03-30,Vercel + GitHub abonelik,0,11178,Teknoloji
+2025-04-01,Yıllık abonelik tahsilatı,13251,0,Satış
+2025-04-01,SaaS aylık abonelik (Pro paket),13390,0,Satış
+2025-04-01,Hukuk danışmanlık,0,12912,Danışmanlık
+2025-04-02,Levent ofis kirası,0,29758,Kira
+2025-04-03,SaaS aylık abonelik (Pro paket),11891,0,Satış
+2025-04-04,SaaS aylık abonelik (Pro paket),15029,0,Satış
+2025-04-06,Stopaj vergi ödemesi,0,13823,Vergi
+2025-04-11,API kullanım faturası,13216,0,Satış
+2025-04-12,LinkedIn Ads,0,41316,Pazarlama
+2025-04-14,Ofis elektrik,0,9331,Fatura
+2025-04-15,Pazarlama uzmanı maaşı,0,206845,Maaş
+2025-04-16,Enterprise lisans satışı,13500,0,Satış
+2025-04-16,İnternet aboneliği,0,10283,Fatura
+2025-04-19,Hukuk danışmanlık,0,13447,Danışmanlık
+2025-04-22,Enterprise lisans satışı,15991,0,Satış
+2025-04-23,API kullanım faturası,12262,0,Satış
+2025-04-25,SaaS aylık abonelik (Pro paket),11430,0,Satış
+2025-04-26,Mixpanel analytics,0,26767,Teknoloji
+2025-04-29,OpenAI API kullanımı,0,21557,Teknoloji
+2025-05-01,Coworking ofis kirası,0,36761,Kira
+2025-05-02,API kullanım faturası,15086,0,Satış
+2025-05-02,Yıllık abonelik tahsilatı,14580,0,Satış
+2025-05-02,Kurumsal müşteri ödemesi,16914,0,Satış
+2025-05-05,PR ajans aylık ödeme,0,12928,Pazarlama
+2025-05-07,Kurumsal müşteri ödemesi,17907,0,Satış
+2025-05-13,Yıllık abonelik tahsilatı,15358,0,Satış
+2025-05-14,İnternet aboneliği,0,9577,Fatura
+2025-05-16,API kullanım faturası,16660,0,Satış
+2025-05-16,Ürün ve tasarım ekibi,0,121244,Maaş
+2025-05-18,SaaS aylık abonelik (Pro paket),15507,0,Satış
+2025-05-19,Founder maaşları,0,116165,Maaş
+2025-05-20,Stopaj vergi ödemesi,0,14981,Vergi
+2025-05-21,PR ajans aylık ödeme,0,14724,Pazarlama
+2025-05-22,KOSGEB Ar-Ge hibe,13450,0,Devlet Desteği
+2025-05-22,İnternet aboneliği,0,9973,Fatura
+2025-05-24,Google Ads kampanya,0,11843,Pazarlama
+2025-05-26,AWS bulut altyapısı,0,21933,Teknoloji
+2025-05-28,Yıllık abonelik tahsilatı,18033,0,Satış
+2025-05-28,OpenAI API kullanımı,0,26758,Teknoloji
+2025-06-01,Ofis elektrik,0,10275,Fatura
+2025-06-03,API kullanım faturası,27584,0,Satış
+2025-06-07,PR ajans aylık ödeme,0,33922,Pazarlama
+2025-06-07,Stopaj vergi ödemesi,0,17143,Vergi
+2025-06-11,Coworking ofis kirası,0,33752,Kira
+2025-06-12,API kullanım faturası,25155,0,Satış
+2025-06-12,Datadog monitoring,0,21615,Teknoloji
+2025-06-16,İnternet aboneliği,0,8900,Fatura
+2025-06-17,SaaS aylık abonelik (Pro paket),21531,0,Satış
+2025-06-20,Yıllık abonelik tahsilatı,26659,0,Satış
+2025-06-20,TÜBİTAK 1507 hibe taksiti,10644,0,Devlet Desteği
+2025-06-21,SaaS aylık abonelik (Pro paket),24323,0,Satış
+2025-06-22,Stratejik danışmanlık,0,12506,Danışmanlık
+2025-06-23,Mali müşavir ücreti,0,10194,Danışmanlık
+2025-06-28,Pazarlama uzmanı maaşı,0,218317,Maaş
+2025-06-29,AWS bulut altyapısı,0,26260,Teknoloji

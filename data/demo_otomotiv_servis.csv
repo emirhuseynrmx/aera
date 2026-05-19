@@ -1,0 +1,437 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-03,Yardımcı personel maaşı,0,80341,Maaş
+2024-01-04,Akü değişim,21254,0,Satış
+2024-01-05,Elektrik ve elektronik arıza,22027,0,Satış
+2024-01-06,Motor revizyonu,24525,0,Satış
+2024-01-07,Motor yağı ve filtre stoğu,0,13854,Tedarik
+2024-01-07,Kompresör bakımı,0,18326,Üretim
+2024-01-09,Fren sistemi onarımı,26443,0,Satış
+2024-01-13,Servis atölye kirası,0,23207,Kira
+2024-01-14,Lastik değişim ve balans,27519,0,Satış
+2024-01-18,Motor revizyonu,25611,0,Satış
+2024-01-18,Lastik tedariği,0,13179,Tedarik
+2024-01-18,İnternet aboneliği,0,5406,Fatura
+2024-01-19,Boya ve kaporta işleri,26024,0,Satış
+2024-01-20,Boya ve kimyasal alımı,0,12959,Tedarik
+2024-01-24,Elektrik ve elektronik arıza,22729,0,Satış
+2024-01-24,Fren sistemi onarımı,21259,0,Satış
+2024-01-24,Motor yağı ve filtre stoğu,0,11665,Tedarik
+2024-01-24,İnternet aboneliği,0,4797,Fatura
+2024-01-25,Fren sistemi onarımı,27242,0,Satış
+2024-01-26,Yedek parça toptan alımı,0,12949,Tedarik
+2024-01-28,Motor revizyonu,21906,0,Satış
+2024-01-29,Akü değişim,21216,0,Satış
+2024-01-29,Boya ve kimyasal alımı,0,14309,Tedarik
+2024-01-29,KDV ödemesi,0,12959,Vergi
+2024-01-30,Elektrik faturası,0,4652,Fatura
+2024-01-31,Motor yağı ve filtre stoğu,0,12033,Tedarik
+2024-02-02,Boya ve kaporta işleri,15894,0,Satış
+2024-02-02,Egzoz ve emisyon kontrol,14362,0,Satış
+2024-02-04,Motor revizyonu,14518,0,Satış
+2024-02-05,Fren sistemi onarımı,13776,0,Satış
+2024-02-06,Elektrik ve elektronik arıza,17674,0,Satış
+2024-02-07,Egzoz ve emisyon kontrol,15524,0,Satış
+2024-02-11,Egzoz ve emisyon kontrol,15815,0,Satış
+2024-02-12,Kompresör bakımı,0,7357,Üretim
+2024-02-12,KDV ödemesi,0,12510,Vergi
+2024-02-13,Motor revizyonu,12846,0,Satış
+2024-02-13,Motor revizyonu,18422,0,Satış
+2024-02-14,İnternet aboneliği,0,5350,Fatura
+2024-02-15,Klima bakımı,14170,0,Satış
+2024-02-16,Elektrik faturası,0,4394,Fatura
+2024-02-18,Akü tedariği,0,20922,Tedarik
+2024-02-19,Usta ve teknisyen maaşları,0,34053,Maaş
+2024-02-20,Elektrik ve elektronik arıza,16258,0,Satış
+2024-02-20,Periyodik bakım geliri,14319,0,Satış
+2024-02-20,Yedek parça toptan alımı,0,21810,Tedarik
+2024-02-20,Su faturası,0,4499,Fatura
+2024-02-21,Egzoz ve emisyon kontrol,16070,0,Satış
+2024-02-21,İşyeri sigorta poliçesi,0,10432,Sigorta
+2024-02-22,Servis atölye kirası,0,20148,Kira
+2024-02-22,Atölye sarf malzeme,0,7267,Üretim
+2024-02-23,Şanzıman onarımı,14995,0,Satış
+2024-02-24,Yardımcı personel maaşı,0,37623,Maaş
+2024-02-25,Klima bakımı,16270,0,Satış
+2024-02-26,Elektrik ve elektronik arıza,17936,0,Satış
+2024-02-28,Yedek parça toptan alımı,0,20798,Tedarik
+2024-02-29,Boya ve kaporta işleri,14217,0,Satış
+2024-02-29,Motor yağı ve filtre stoğu,0,25082,Tedarik
+2024-03-03,Lift ve ekipman bakım,0,6646,Üretim
+2024-03-04,İkinci el parça satışı,13787,0,Diğer Gelir
+2024-03-04,Akü tedariği,0,22257,Tedarik
+2024-03-05,Fren sistemi onarımı,19119,0,Satış
+2024-03-05,Yedek parça toptan alımı,0,24062,Tedarik
+2024-03-06,Servis atölye kirası,0,24718,Kira
+2024-03-08,Fren sistemi onarımı,17769,0,Satış
+2024-03-08,Atölye sarf malzeme,0,5808,Üretim
+2024-03-08,Gelir vergisi taksiti,0,11766,Vergi
+2024-03-09,Egzoz ve emisyon kontrol,22703,0,Satış
+2024-03-09,Periyodik bakım geliri,19486,0,Satış
+2024-03-10,Lastik değişim ve balans,22520,0,Satış
+2024-03-10,Usta ve teknisyen maaşları,0,41715,Maaş
+2024-03-12,Yedek parça toptan alımı,0,21872,Tedarik
+2024-03-14,Lift ve ekipman bakım,0,5103,Üretim
+2024-03-16,Sorumluluk sigortası,0,9559,Sigorta
+2024-03-17,Egzoz ve emisyon kontrol,24729,0,Satış
+2024-03-19,Fren sistemi onarımı,25051,0,Satış
+2024-03-19,Lastik tedariği,0,23360,Tedarik
+2024-03-19,Yardımcı personel maaşı,0,36256,Maaş
+2024-03-20,İnternet aboneliği,0,8106,Fatura
+2024-03-22,Su faturası,0,7117,Fatura
+2024-03-24,Fren sistemi onarımı,26044,0,Satış
+2024-03-24,Boya ve kaporta işleri,18596,0,Satış
+2024-03-26,Elektrik ve elektronik arıza,17676,0,Satış
+2024-03-29,Periyodik bakım geliri,24179,0,Satış
+2024-03-30,Elektrik ve elektronik arıza,19887,0,Satış
+2024-03-31,Periyodik bakım geliri,21454,0,Satış
+2024-04-01,Lastik değişim ve balans,19272,0,Satış
+2024-04-03,Egzoz ve emisyon kontrol,26290,0,Satış
+2024-04-04,Lift ve ekipman bakım,0,8136,Üretim
+2024-04-05,Lastik değişim ve balans,19807,0,Satış
+2024-04-07,İkinci el parça satışı,8392,0,Diğer Gelir
+2024-04-07,Yağ ve sıvı satışı,8534,0,Diğer Gelir
+2024-04-07,Motor yağı ve filtre stoğu,0,24562,Tedarik
+2024-04-07,Kompresör bakımı,0,7622,Üretim
+2024-04-08,Periyodik bakım geliri,25761,0,Satış
+2024-04-09,Egzoz ve emisyon kontrol,19873,0,Satış
+2024-04-09,Fren sistemi onarımı,20499,0,Satış
+2024-04-09,Boya ve kaporta işleri,25765,0,Satış
+2024-04-09,Egzoz ve emisyon kontrol,25707,0,Satış
+2024-04-09,Lastik tedariği,0,25939,Tedarik
+2024-04-10,Boya ve kimyasal alımı,0,24954,Tedarik
+2024-04-11,Boya ve kaporta işleri,23011,0,Satış
+2024-04-11,Elektrik faturası,0,8311,Fatura
+2024-04-12,Lastik değişim ve balans,23077,0,Satış
+2024-04-15,Egzoz ve emisyon kontrol,18958,0,Satış
+2024-04-15,Akü değişim,18894,0,Satış
+2024-04-15,Yedek parça toptan alımı,0,21194,Tedarik
+2024-04-17,Usta ve teknisyen maaşları,0,46229,Maaş
+2024-04-19,İşyeri sigorta poliçesi,0,13806,Sigorta
+2024-04-22,Akü değişim,20160,0,Satış
+2024-04-22,Atölye sarf malzeme,0,7701,Üretim
+2024-04-23,Periyodik bakım geliri,23474,0,Satış
+2024-04-25,KDV ödemesi,0,18409,Vergi
+2024-04-26,Lastik değişim ve balans,18759,0,Satış
+2024-04-26,Fren sistemi onarımı,24150,0,Satış
+2024-04-26,Su faturası,0,10057,Fatura
+2024-04-27,Yedek parça toptan alımı,0,25729,Tedarik
+2024-04-27,Yardımcı personel maaşı,0,50421,Maaş
+2024-04-30,Servis atölye kirası,0,31671,Kira
+2024-05-01,Periyodik bakım geliri,27248,0,Satış
+2024-05-02,Periyodik bakım geliri,30855,0,Satış
+2024-05-03,Klima bakımı,30477,0,Satış
+2024-05-03,Servis atölye kirası,0,30441,Kira
+2024-05-04,Akü tedariği,0,24849,Tedarik
+2024-05-07,Egzoz ve emisyon kontrol,26458,0,Satış
+2024-05-08,Yedek parça toptan alımı,0,28219,Tedarik
+2024-05-08,Boya ve kimyasal alımı,0,22350,Tedarik
+2024-05-09,Yedek parça toptan alımı,0,24928,Tedarik
+2024-05-11,Akü değişim,23743,0,Satış
+2024-05-11,Elektrik ve elektronik arıza,27281,0,Satış
+2024-05-11,Lastik tedariği,0,24204,Tedarik
+2024-05-16,Klima bakımı,33085,0,Satış
+2024-05-16,Atölye sarf malzeme,0,24161,Üretim
+2024-05-20,Şanzıman onarımı,24704,0,Satış
+2024-05-20,Akü değişim,26150,0,Satış
+2024-05-20,Usta ve teknisyen maaşları,0,88347,Maaş
+2024-05-25,Klima bakımı,31018,0,Satış
+2024-05-27,Egzoz ve emisyon kontrol,26092,0,Satış
+2024-05-27,İnternet aboneliği,0,11365,Fatura
+2024-05-29,İnternet aboneliği,0,8989,Fatura
+2024-05-29,KDV ödemesi,0,15278,Vergi
+2024-05-30,Lastik değişim ve balans,33773,0,Satış
+2024-05-30,Klima bakımı,30745,0,Satış
+2024-06-01,Fren sistemi onarımı,20942,0,Satış
+2024-06-01,Yedek parça toptan alımı,0,28831,Tedarik
+2024-06-01,Servis atölye kirası,0,24387,Kira
+2024-06-02,Motor yağı ve filtre stoğu,0,26722,Tedarik
+2024-06-04,Şanzıman onarımı,20801,0,Satış
+2024-06-04,Usta ve teknisyen maaşları,0,33802,Maaş
+2024-06-04,Atölye sarf malzeme,0,5514,Üretim
+2024-06-07,Motor revizyonu,15010,0,Satış
+2024-06-07,Boya ve kimyasal alımı,0,31286,Tedarik
+2024-06-08,Elektrik ve elektronik arıza,20062,0,Satış
+2024-06-11,Fren sistemi onarımı,20348,0,Satış
+2024-06-12,Lift ve ekipman bakım,0,6292,Üretim
+2024-06-12,KDV ödemesi,0,11649,Vergi
+2024-06-13,Fren sistemi onarımı,19096,0,Satış
+2024-06-13,Atölye sarf malzeme,0,4897,Üretim
+2024-06-14,Elektrik ve elektronik arıza,19290,0,Satış
+2024-06-15,Su faturası,0,7980,Fatura
+2024-06-20,Elektrik ve elektronik arıza,17223,0,Satış
+2024-06-22,Akü değişim,20254,0,Satış
+2024-06-23,Fren sistemi onarımı,15906,0,Satış
+2024-06-23,İşyeri sigorta poliçesi,0,10484,Sigorta
+2024-06-26,Akü değişim,21222,0,Satış
+2024-06-26,Elektrik faturası,0,7024,Fatura
+2024-06-27,Klima bakımı,20118,0,Satış
+2024-06-27,İkinci el parça satışı,13947,0,Diğer Gelir
+2024-06-28,Yardımcı personel maaşı,0,30091,Maaş
+2024-06-29,Elektrik ve elektronik arıza,16191,0,Satış
+2024-06-30,Motor revizyonu,15889,0,Satış
+2024-06-30,Akü değişim,20531,0,Satış
+2024-07-01,Akü tedariği,0,13092,Tedarik
+2024-07-01,Servis atölye kirası,0,16534,Kira
+2024-07-02,Şanzıman onarımı,15217,0,Satış
+2024-07-02,Gelir vergisi taksiti,0,7818,Vergi
+2024-07-05,Boya ve kaporta işleri,14517,0,Satış
+2024-07-06,Akü değişim,13926,0,Satış
+2024-07-06,Motor yağı ve filtre stoğu,0,12103,Tedarik
+2024-07-08,Şanzıman onarımı,16272,0,Satış
+2024-07-10,Motor revizyonu,16272,0,Satış
+2024-07-10,Akü tedariği,0,12668,Tedarik
+2024-07-11,Egzoz ve emisyon kontrol,12675,0,Satış
+2024-07-11,Boya ve kaporta işleri,14794,0,Satış
+2024-07-12,Yağ ve sıvı satışı,9709,0,Diğer Gelir
+2024-07-12,Atölye sarf malzeme,0,4574,Üretim
+2024-07-13,Şanzıman onarımı,15299,0,Satış
+2024-07-15,Su faturası,0,4180,Fatura
+2024-07-19,Periyodik bakım geliri,12814,0,Satış
+2024-07-19,Su faturası,0,3426,Fatura
+2024-07-21,Şanzıman onarımı,15843,0,Satış
+2024-07-21,Motor revizyonu,14796,0,Satış
+2024-07-21,Periyodik bakım geliri,13448,0,Satış
+2024-07-21,Boya ve kimyasal alımı,0,14577,Tedarik
+2024-07-22,Atölye sarf malzeme,0,4799,Üretim
+2024-07-23,Egzoz ve emisyon kontrol,16024,0,Satış
+2024-07-23,Usta ve teknisyen maaşları,0,54926,Maaş
+2024-07-24,Şanzıman onarımı,13861,0,Satış
+2024-07-24,Su faturası,0,3825,Fatura
+2024-07-28,Lift ve ekipman bakım,0,3725,Üretim
+2024-07-29,Motor revizyonu,11689,0,Satış
+2024-07-31,Lastik tedariği,0,12123,Tedarik
+2024-08-01,Klima bakımı,12609,0,Satış
+2024-08-03,İnternet aboneliği,0,3565,Fatura
+2024-08-05,Lastik değişim ve balans,16235,0,Satış
+2024-08-06,Motor revizyonu,13809,0,Satış
+2024-08-06,Lastik değişim ve balans,12426,0,Satış
+2024-08-06,Atölye sarf malzeme,0,6279,Üretim
+2024-08-07,Klima bakımı,17469,0,Satış
+2024-08-08,Motor revizyonu,12154,0,Satış
+2024-08-08,Usta ve teknisyen maaşları,0,32766,Maaş
+2024-08-08,Atölye sarf malzeme,0,7180,Üretim
+2024-08-09,Yedek parça toptan alımı,0,11067,Tedarik
+2024-08-11,Akü tedariği,0,11456,Tedarik
+2024-08-12,Akü tedariği,0,13426,Tedarik
+2024-08-14,Elektrik ve elektronik arıza,13418,0,Satış
+2024-08-15,Boya ve kaporta işleri,14616,0,Satış
+2024-08-15,Yedek parça toptan alımı,0,12841,Tedarik
+2024-08-19,Lastik değişim ve balans,12305,0,Satış
+2024-08-19,KDV ödemesi,0,11286,Vergi
+2024-08-20,Elektrik ve elektronik arıza,16495,0,Satış
+2024-08-21,Elektrik ve elektronik arıza,17169,0,Satış
+2024-08-21,İnternet aboneliği,0,3736,Fatura
+2024-08-23,Elektrik faturası,0,4537,Fatura
+2024-08-25,Boya ve kaporta işleri,13474,0,Satış
+2024-08-25,İkinci el parça satışı,5569,0,Diğer Gelir
+2024-08-26,İkinci el parça satışı,5138,0,Diğer Gelir
+2024-08-26,Usta ve teknisyen maaşları,0,29498,Maaş
+2024-08-28,Fren sistemi onarımı,13943,0,Satış
+2024-08-28,Boya ve kaporta işleri,17923,0,Satış
+2024-08-28,Yedek parça toptan alımı,0,11376,Tedarik
+2024-08-29,Motor yağı ve filtre stoğu,0,13479,Tedarik
+2024-08-29,Servis atölye kirası,0,18575,Kira
+2024-08-31,Egzoz ve emisyon kontrol,14962,0,Satış
+2024-09-01,Periyodik bakım geliri,20115,0,Satış
+2024-09-01,Boya ve kimyasal alımı,0,18845,Tedarik
+2024-09-03,Akü değişim,21373,0,Satış
+2024-09-05,Lastik tedariği,0,18288,Tedarik
+2024-09-05,İnternet aboneliği,0,5600,Fatura
+2024-09-05,Gelir vergisi taksiti,0,11402,Vergi
+2024-09-06,Egzoz ve emisyon kontrol,23517,0,Satış
+2024-09-06,Yardımcı personel maaşı,0,78347,Maaş
+2024-09-07,Akü değişim,23070,0,Satış
+2024-09-07,Lift ve ekipman bakım,0,5062,Üretim
+2024-09-08,Akü tedariği,0,18202,Tedarik
+2024-09-09,Boya ve kaporta işleri,24770,0,Satış
+2024-09-09,Lastik tedariği,0,17455,Tedarik
+2024-09-12,Lift ve ekipman bakım,0,5543,Üretim
+2024-09-14,Su faturası,0,4969,Fatura
+2024-09-16,Servis atölye kirası,0,24441,Kira
+2024-09-17,Yedek parça toptan alımı,0,19340,Tedarik
+2024-09-20,Kompresör bakımı,0,5473,Üretim
+2024-09-21,Lastik değişim ve balans,21427,0,Satış
+2024-09-23,Lastik değişim ve balans,20280,0,Satış
+2024-09-24,Motor revizyonu,22684,0,Satış
+2024-09-25,Fren sistemi onarımı,25203,0,Satış
+2024-09-26,Fren sistemi onarımı,22058,0,Satış
+2024-09-26,Egzoz ve emisyon kontrol,22215,0,Satış
+2024-09-27,Elektrik ve elektronik arıza,25614,0,Satış
+2024-09-30,Elektrik ve elektronik arıza,25326,0,Satış
+2024-09-30,Elektrik faturası,0,4541,Fatura
+2024-10-01,Boya ve kimyasal alımı,0,22215,Tedarik
+2024-10-03,Periyodik bakım geliri,28890,0,Satış
+2024-10-03,Şanzıman onarımı,28391,0,Satış
+2024-10-05,Klima bakımı,30267,0,Satış
+2024-10-05,Lift ve ekipman bakım,0,7208,Üretim
+2024-10-07,İkinci el parça satışı,8182,0,Diğer Gelir
+2024-10-08,Su faturası,0,7709,Fatura
+2024-10-09,Kompresör bakımı,0,7876,Üretim
+2024-10-10,Klima bakımı,26104,0,Satış
+2024-10-10,Boya ve kimyasal alımı,0,29085,Tedarik
+2024-10-12,Lastik değişim ve balans,29622,0,Satış
+2024-10-13,Su faturası,0,7144,Fatura
+2024-10-13,Atölye sarf malzeme,0,7280,Üretim
+2024-10-15,Akü değişim,22170,0,Satış
+2024-10-16,Fren sistemi onarımı,21092,0,Satış
+2024-10-17,Boya ve kimyasal alımı,0,29583,Tedarik
+2024-10-17,Motor yağı ve filtre stoğu,0,25410,Tedarik
+2024-10-17,Yardımcı personel maaşı,0,96570,Maaş
+2024-10-17,Servis atölye kirası,0,31474,Kira
+2024-10-20,Egzoz ve emisyon kontrol,26039,0,Satış
+2024-10-20,Boya ve kaporta işleri,26681,0,Satış
+2024-10-21,Akü tedariği,0,27749,Tedarik
+2024-10-21,Gelir vergisi taksiti,0,17073,Vergi
+2024-10-22,Yağ ve sıvı satışı,10759,0,Diğer Gelir
+2024-10-22,Elektrik faturası,0,6500,Fatura
+2024-10-23,Akü değişim,30515,0,Satış
+2024-10-25,Akü değişim,24324,0,Satış
+2024-10-26,Boya ve kaporta işleri,21406,0,Satış
+2024-10-26,Sorumluluk sigortası,0,13904,Sigorta
+2024-10-29,Motor revizyonu,28593,0,Satış
+2024-10-29,Egzoz ve emisyon kontrol,28839,0,Satış
+2024-10-31,Şanzıman onarımı,21408,0,Satış
+2024-11-04,Egzoz ve emisyon kontrol,26877,0,Satış
+2024-11-04,İnternet aboneliği,0,6359,Fatura
+2024-11-05,Klima bakımı,27543,0,Satış
+2024-11-06,Akü değişim,23598,0,Satış
+2024-11-06,Su faturası,0,6486,Fatura
+2024-11-07,Elektrik ve elektronik arıza,24000,0,Satış
+2024-11-09,İkinci el parça satışı,9665,0,Diğer Gelir
+2024-11-10,Servis atölye kirası,0,28906,Kira
+2024-11-10,Atölye sarf malzeme,0,12621,Üretim
+2024-11-13,Egzoz ve emisyon kontrol,27497,0,Satış
+2024-11-13,Boya ve kaporta işleri,30599,0,Satış
+2024-11-15,Akü değişim,26104,0,Satış
+2024-11-15,Yardımcı personel maaşı,0,104041,Maaş
+2024-11-15,Elektrik faturası,0,6423,Fatura
+2024-11-17,Fren sistemi onarımı,24540,0,Satış
+2024-11-17,Yağ ve sıvı satışı,9087,0,Diğer Gelir
+2024-11-18,Şanzıman onarımı,30811,0,Satış
+2024-11-20,Şanzıman onarımı,26367,0,Satış
+2024-11-21,Şanzıman onarımı,24844,0,Satış
+2024-11-24,Fren sistemi onarımı,30316,0,Satış
+2024-11-25,KDV ödemesi,0,17047,Vergi
+2024-11-26,Motor yağı ve filtre stoğu,0,44035,Tedarik
+2024-11-26,Yedek parça toptan alımı,0,42762,Tedarik
+2024-11-26,Sorumluluk sigortası,0,14484,Sigorta
+2024-11-27,Boya ve kaporta işleri,31250,0,Satış
+2024-11-27,Akü tedariği,0,40700,Tedarik
+2024-11-27,Lift ve ekipman bakım,0,12642,Üretim
+2024-11-28,Elektrik ve elektronik arıza,22577,0,Satış
+2024-12-02,Şanzıman onarımı,21324,0,Satış
+2024-12-06,Periyodik bakım geliri,24213,0,Satış
+2024-12-06,Yedek parça toptan alımı,0,14546,Tedarik
+2024-12-08,Motor revizyonu,20535,0,Satış
+2024-12-08,Motor yağı ve filtre stoğu,0,10930,Tedarik
+2024-12-09,Periyodik bakım geliri,17390,0,Satış
+2024-12-10,Boya ve kaporta işleri,24549,0,Satış
+2024-12-10,Elektrik ve elektronik arıza,17563,0,Satış
+2024-12-11,Elektrik ve elektronik arıza,23869,0,Satış
+2024-12-11,KDV ödemesi,0,12471,Vergi
+2024-12-14,Boya ve kaporta işleri,22969,0,Satış
+2024-12-16,Boya ve kimyasal alımı,0,11506,Tedarik
+2024-12-16,İnternet aboneliği,0,7593,Fatura
+2024-12-17,Akü tedariği,0,14600,Tedarik
+2024-12-17,Usta ve teknisyen maaşları,0,33580,Maaş
+2024-12-19,Akü tedariği,0,13197,Tedarik
+2024-12-20,Egzoz ve emisyon kontrol,18418,0,Satış
+2024-12-21,Elektrik ve elektronik arıza,20363,0,Satış
+2024-12-22,Elektrik ve elektronik arıza,17976,0,Satış
+2024-12-22,Atölye sarf malzeme,0,14845,Üretim
+2024-12-25,Yedek parça toptan alımı,0,12854,Tedarik
+2024-12-25,Usta ve teknisyen maaşları,0,32089,Maaş
+2024-12-25,Servis atölye kirası,0,26913,Kira
+2024-12-26,Boya ve kaporta işleri,18705,0,Satış
+2024-12-26,Su faturası,0,8103,Fatura
+2024-12-27,Yedek parça toptan alımı,0,11360,Tedarik
+2024-12-28,Sorumluluk sigortası,0,8002,Sigorta
+2024-12-30,Klima bakımı,21755,0,Satış
+2025-01-01,İşyeri sigorta poliçesi,0,11119,Sigorta
+2025-01-02,Periyodik bakım geliri,26185,0,Satış
+2025-01-02,Elektrik ve elektronik arıza,23579,0,Satış
+2025-01-02,Yedek parça toptan alımı,0,15929,Tedarik
+2025-01-02,Gelir vergisi taksiti,0,11433,Vergi
+2025-01-04,Usta ve teknisyen maaşları,0,34393,Maaş
+2025-01-05,Su faturası,0,5769,Fatura
+2025-01-07,Motor yağı ve filtre stoğu,0,17197,Tedarik
+2025-01-08,Şanzıman onarımı,20214,0,Satış
+2025-01-08,Fren sistemi onarımı,26704,0,Satış
+2025-01-08,Su faturası,0,5576,Fatura
+2025-01-10,Servis atölye kirası,0,23489,Kira
+2025-01-11,Motor yağı ve filtre stoğu,0,14186,Tedarik
+2025-01-12,Klima bakımı,20386,0,Satış
+2025-01-15,Akü tedariği,0,16389,Tedarik
+2025-01-16,İkinci el parça satışı,16505,0,Diğer Gelir
+2025-01-18,Boya ve kaporta işleri,24561,0,Satış
+2025-01-18,Kompresör bakımı,0,8726,Üretim
+2025-01-19,Periyodik bakım geliri,23798,0,Satış
+2025-01-19,Lastik değişim ve balans,24532,0,Satış
+2025-01-20,Lastik değişim ve balans,25781,0,Satış
+2025-01-21,İnternet aboneliği,0,5702,Fatura
+2025-01-25,Akü tedariği,0,17824,Tedarik
+2025-01-26,Fren sistemi onarımı,28238,0,Satış
+2025-01-26,Usta ve teknisyen maaşları,0,36066,Maaş
+2025-01-27,Motor yağı ve filtre stoğu,0,17627,Tedarik
+2025-01-27,Lift ve ekipman bakım,0,9296,Üretim
+2025-01-28,Akü değişim,22421,0,Satış
+2025-01-30,Periyodik bakım geliri,22934,0,Satış
+2025-02-01,Servis atölye kirası,0,20835,Kira
+2025-02-02,Akü değişim,18086,0,Satış
+2025-02-02,Lastik tedariği,0,15866,Tedarik
+2025-02-04,Lastik değişim ve balans,18670,0,Satış
+2025-02-04,Su faturası,0,5238,Fatura
+2025-02-06,Akü değişim,18155,0,Satış
+2025-02-06,İkinci el parça satışı,16565,0,Diğer Gelir
+2025-02-07,Fren sistemi onarımı,15300,0,Satış
+2025-02-08,Akü değişim,13946,0,Satış
+2025-02-08,Su faturası,0,5190,Fatura
+2025-02-09,Boya ve kaporta işleri,15484,0,Satış
+2025-02-09,Akü değişim,19094,0,Satış
+2025-02-09,Gelir vergisi taksiti,0,11017,Vergi
+2025-02-10,Periyodik bakım geliri,15622,0,Satış
+2025-02-10,Motor revizyonu,14554,0,Satış
+2025-02-11,Lastik değişim ve balans,18764,0,Satış
+2025-02-12,Elektrik faturası,0,4552,Fatura
+2025-02-17,Egzoz ve emisyon kontrol,14079,0,Satış
+2025-02-18,Lastik tedariği,0,15490,Tedarik
+2025-02-24,Akü değişim,14072,0,Satış
+2025-02-24,Akü değişim,19011,0,Satış
+2025-02-25,Klima bakımı,15116,0,Satış
+2025-02-25,Lastik değişim ve balans,14453,0,Satış
+2025-02-25,Yedek parça toptan alımı,0,12828,Tedarik
+2025-02-26,Akü tedariği,0,14900,Tedarik
+2025-02-26,Boya ve kimyasal alımı,0,16985,Tedarik
+2025-02-27,Atölye sarf malzeme,0,16426,Üretim
+2025-02-28,Şanzıman onarımı,16276,0,Satış
+2025-02-28,Akü tedariği,0,13348,Tedarik
+2025-02-28,Yardımcı personel maaşı,0,66033,Maaş
+2025-02-28,Sorumluluk sigortası,0,8061,Sigorta
+2025-03-03,Motor yağı ve filtre stoğu,0,17914,Tedarik
+2025-03-04,Lastik değişim ve balans,30931,0,Satış
+2025-03-05,Şanzıman onarımı,21360,0,Satış
+2025-03-05,İkinci el parça satışı,8499,0,Diğer Gelir
+2025-03-06,Akü değişim,22913,0,Satış
+2025-03-08,Elektrik ve elektronik arıza,30131,0,Satış
+2025-03-08,Lift ve ekipman bakım,0,6520,Üretim
+2025-03-11,Motor revizyonu,26024,0,Satış
+2025-03-11,Motor revizyonu,26718,0,Satış
+2025-03-11,Su faturası,0,4363,Fatura
+2025-03-11,KDV ödemesi,0,11156,Vergi
+2025-03-13,Lastik değişim ve balans,22756,0,Satış
+2025-03-14,Akü tedariği,0,14015,Tedarik
+2025-03-17,İkinci el parça satışı,6429,0,Diğer Gelir
+2025-03-17,Usta ve teknisyen maaşları,0,86969,Maaş
+2025-03-20,Boya ve kaporta işleri,30298,0,Satış
+2025-03-20,Elektrik faturası,0,5314,Fatura
+2025-03-20,Atölye sarf malzeme,0,5796,Üretim
+2025-03-22,Klima bakımı,30765,0,Satış
+2025-03-23,Fren sistemi onarımı,27303,0,Satış
+2025-03-26,Boya ve kimyasal alımı,0,17745,Tedarik
+2025-03-26,Servis atölye kirası,0,24372,Kira
+2025-03-28,Lift ve ekipman bakım,0,6321,Üretim
+2025-03-29,Lastik tedariği,0,14570,Tedarik
+2025-03-29,Motor yağı ve filtre stoğu,0,16678,Tedarik
+2025-03-30,Motor revizyonu,26908,0,Satış
+2025-03-30,Akü tedariği,0,16038,Tedarik
+2025-03-30,Elektrik faturası,0,5804,Fatura

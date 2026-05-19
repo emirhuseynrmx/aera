@@ -1,0 +1,864 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-03,Gıda tedariği,0,4786,Tedarik
+2024-01-04,Doğal gaz,0,4915,Fatura
+2024-01-06,Tur ve transfer geliri,8689,0,Satış
+2024-01-07,Google Ads,0,2709,Pazarlama
+2024-01-08,Online rezervasyon tahsilatı (Booking),6761,0,Satış
+2024-01-08,Gıda tedariği,0,4838,Tedarik
+2024-01-09,Restoran ve bar geliri,8527,0,Satış
+2024-01-09,Online rezervasyon tahsilatı (Booking),7529,0,Satış
+2024-01-10,Elektrik (yüksek tüketim),0,4546,Fatura
+2024-01-11,İçecek toptan alımı,0,4037,Tedarik
+2024-01-11,Otel binası kira,0,8373,Kira
+2024-01-12,Transfer ve servis araç yakıt,0,1641,Lojistik
+2024-01-13,Tur ve transfer geliri,6780,0,Satış
+2024-01-14,Online rezervasyon tahsilatı (Booking),7830,0,Satış
+2024-01-15,Booking komisyonu,0,2894,Pazarlama
+2024-01-17,Lojistik ödemeleri,0,1498,Lojistik
+2024-01-18,Tur ve transfer geliri,8633,0,Satış
+2024-01-18,Tur ve transfer geliri,5957,0,Satış
+2024-01-18,Çamaşır ve tekstil,0,4816,Tedarik
+2024-01-18,Expedia komisyonu,0,2454,Pazarlama
+2024-01-19,Tesis bakım ve onarım,0,1936,Üretim
+2024-01-19,Klima bakımı,0,2321,Üretim
+2024-01-21,Tur ve transfer geliri,7173,0,Satış
+2024-01-22,Expedia komisyonu,0,2504,Pazarlama
+2024-01-23,Tur ve transfer geliri,8699,0,Satış
+2024-01-24,Mutfak personeli maaşları,0,34568,Maaş
+2024-01-25,Toplantı ve etkinlik salonu geliri,6221,0,Satış
+2024-01-26,Restoran ve bar geliri,6044,0,Satış
+2024-01-26,Konaklama vergisi,0,4758,Vergi
+2024-01-27,Spa ve havuz hizmet geliri,7438,0,Satış
+2024-01-27,Çamaşır ve tekstil,0,4127,Tedarik
+2024-01-27,Lojistik ödemeleri,0,1611,Lojistik
+2024-01-28,Online rezervasyon tahsilatı (Booking),6993,0,Satış
+2024-01-30,Tur ve transfer geliri,8206,0,Satış
+2024-01-30,Tur ve transfer geliri,7848,0,Satış
+2024-01-31,Spa ve havuz hizmet geliri,8051,0,Satış
+2024-02-01,Tur ve transfer geliri,8201,0,Satış
+2024-02-01,Hediyelik eşya satışı,3862,0,Diğer Gelir
+2024-02-02,Restoran ve bar geliri,7361,0,Satış
+2024-02-03,Toplantı ve etkinlik salonu geliri,7708,0,Satış
+2024-02-03,Sponsor anlaşma geliri,3930,0,Diğer Gelir
+2024-02-04,KDV,0,5799,Vergi
+2024-02-06,Toplantı ve etkinlik salonu geliri,7490,0,Satış
+2024-02-07,Temizlik kimyasal tedarik,0,4039,Tedarik
+2024-02-07,Tur operatörü komisyonu,0,3303,Pazarlama
+2024-02-10,Tur ve transfer geliri,5595,0,Satış
+2024-02-10,Yönetici kadro maaşları,0,28048,Maaş
+2024-02-10,Gıda tedariği,0,4968,Tedarik
+2024-02-10,Tur operatörü komisyonu,0,3865,Pazarlama
+2024-02-10,Müşteri sorumluluk sigortası,0,4238,Sigorta
+2024-02-11,Transfer ve servis araç yakıt,0,2540,Lojistik
+2024-02-13,Otel binası kira,0,8912,Kira
+2024-02-14,Temizlik kimyasal tedarik,0,4476,Tedarik
+2024-02-14,Transfer ve servis araç yakıt,0,2305,Lojistik
+2024-02-15,Restoran ve bar geliri,8031,0,Satış
+2024-02-16,Tur ve transfer geliri,6938,0,Satış
+2024-02-16,Elektrik (yüksek tüketim),0,2241,Fatura
+2024-02-17,Spa ve havuz hizmet geliri,7589,0,Satış
+2024-02-17,Toplantı ve etkinlik salonu geliri,7131,0,Satış
+2024-02-17,Gıda tedariği,0,5050,Tedarik
+2024-02-17,Elektrik (yüksek tüketim),0,2645,Fatura
+2024-02-18,Toplantı ve etkinlik salonu geliri,7353,0,Satış
+2024-02-18,Klima bakımı,0,4434,Üretim
+2024-02-20,Tur ve transfer geliri,5978,0,Satış
+2024-02-20,Restoran ve bar geliri,7589,0,Satış
+2024-02-20,Elektrik (yüksek tüketim),0,2691,Fatura
+2024-02-23,Otel konaklama geliri,6521,0,Satış
+2024-02-24,Online rezervasyon tahsilatı (Booking),7895,0,Satış
+2024-02-24,Toplantı ve etkinlik salonu geliri,7305,0,Satış
+2024-02-24,Toplantı ve etkinlik salonu geliri,7585,0,Satış
+2024-02-24,Online rezervasyon tahsilatı (Booking),8168,0,Satış
+2024-02-24,Su faturası,0,2585,Fatura
+2024-02-27,Restoran ve bar geliri,5765,0,Satış
+2024-02-28,Tur operatörü komisyonu,0,3767,Pazarlama
+2024-02-29,Gıda tedariği,0,3888,Tedarik
+2024-03-01,Lojistik ödemeleri,0,3345,Lojistik
+2024-03-02,Toplantı ve etkinlik salonu geliri,19925,0,Satış
+2024-03-02,Yönetici kadro maaşları,0,29862,Maaş
+2024-03-02,Transfer ve servis araç yakıt,0,3288,Lojistik
+2024-03-03,Online rezervasyon tahsilatı (Booking),20165,0,Satış
+2024-03-05,İçecek toptan alımı,0,7954,Tedarik
+2024-03-05,Klima bakımı,0,2884,Üretim
+2024-03-06,Lojistik ödemeleri,0,2785,Lojistik
+2024-03-07,Elektrik (yüksek tüketim),0,4552,Fatura
+2024-03-08,Çamaşır ve tekstil,0,7531,Tedarik
+2024-03-08,Expedia komisyonu,0,5073,Pazarlama
+2024-03-08,Su faturası,0,4633,Fatura
+2024-03-10,Google Ads,0,5224,Pazarlama
+2024-03-10,Tesis bakım ve onarım,0,2698,Üretim
+2024-03-11,Spa ve havuz hizmet geliri,20279,0,Satış
+2024-03-12,Elektrik (yüksek tüketim),0,5455,Fatura
+2024-03-13,Restoran ve bar geliri,24768,0,Satış
+2024-03-16,Online rezervasyon tahsilatı (Booking),27992,0,Satış
+2024-03-16,Otel konaklama geliri,22746,0,Satış
+2024-03-16,Google Ads,0,5289,Pazarlama
+2024-03-17,Sezonluk personel ücretleri,0,27130,Maaş
+2024-03-19,Restoran ve bar geliri,19827,0,Satış
+2024-03-20,Google Ads,0,5469,Pazarlama
+2024-03-21,Gıda tedariği,0,7777,Tedarik
+2024-03-24,Temizlik kimyasal tedarik,0,7312,Tedarik
+2024-03-25,Otel konaklama geliri,26607,0,Satış
+2024-03-25,Yer kirası,0,16369,Kira
+2024-03-25,Klima bakımı,0,2515,Üretim
+2024-03-28,Online rezervasyon tahsilatı (Booking),19898,0,Satış
+2024-03-28,Müşteri sorumluluk sigortası,0,7946,Sigorta
+2024-03-29,Otel konaklama geliri,25658,0,Satış
+2024-03-30,Doğal gaz,0,4175,Fatura
+2024-03-30,Konaklama vergisi,0,9500,Vergi
+2024-03-31,Gıda tedariği,0,9812,Tedarik
+2024-04-01,Yer kirası,0,27685,Kira
+2024-04-02,Müşteri sorumluluk sigortası,0,16002,Sigorta
+2024-04-03,Spa ve havuz hizmet geliri,39060,0,Satış
+2024-04-03,Temizlik kimyasal tedarik,0,10326,Tedarik
+2024-04-04,Sponsor anlaşma geliri,16348,0,Diğer Gelir
+2024-04-04,Çamaşır ve tekstil,0,9083,Tedarik
+2024-04-04,Gıda tedariği,0,10443,Tedarik
+2024-04-09,Restoran ve bar geliri,52651,0,Satış
+2024-04-09,Su faturası,0,11866,Fatura
+2024-04-11,Gıda tedariği,0,10194,Tedarik
+2024-04-11,Expedia komisyonu,0,13310,Pazarlama
+2024-04-11,Klima bakımı,0,5267,Üretim
+2024-04-13,Toplantı ve etkinlik salonu geliri,45550,0,Satış
+2024-04-13,Booking komisyonu,0,12139,Pazarlama
+2024-04-13,Klima bakımı,0,5257,Üretim
+2024-04-14,Hediyelik eşya satışı,16620,0,Diğer Gelir
+2024-04-15,Çamaşır ve tekstil,0,10948,Tedarik
+2024-04-17,Spa ve havuz hizmet geliri,53208,0,Satış
+2024-04-17,Toplantı ve etkinlik salonu geliri,49717,0,Satış
+2024-04-20,Booking komisyonu,0,13736,Pazarlama
+2024-04-20,Klima bakımı,0,4400,Üretim
+2024-04-21,Elektrik (yüksek tüketim),0,13512,Fatura
+2024-04-21,Transfer ve servis araç yakıt,0,5592,Lojistik
+2024-04-22,Sezonluk personel ücretleri,0,53452,Maaş
+2024-04-22,Lojistik ödemeleri,0,6771,Lojistik
+2024-04-23,Online rezervasyon tahsilatı (Booking),48726,0,Satış
+2024-04-23,Restoran ve bar geliri,52042,0,Satış
+2024-04-23,Su faturası,0,10961,Fatura
+2024-04-24,Tur ve transfer geliri,45651,0,Satış
+2024-04-24,Transfer ve servis araç yakıt,0,7241,Lojistik
+2024-04-25,İçecek toptan alımı,0,10386,Tedarik
+2024-04-26,Çamaşır ve tekstil,0,9449,Tedarik
+2024-04-27,Otel konaklama geliri,48393,0,Satış
+2024-04-27,Tur ve transfer geliri,39826,0,Satış
+2024-04-27,Gıda tedariği,0,11349,Tedarik
+2024-04-30,Resepsiyon ve kat hizmetleri maaşları,0,53048,Maaş
+2024-04-30,KDV,0,18958,Vergi
+2024-05-01,Temizlik kimyasal tedarik,0,17452,Tedarik
+2024-05-02,Spa ve havuz hizmet geliri,50645,0,Satış
+2024-05-03,Restoran ve bar geliri,37169,0,Satış
+2024-05-03,Online rezervasyon tahsilatı (Booking),44845,0,Satış
+2024-05-06,Expedia komisyonu,0,22062,Pazarlama
+2024-05-07,Restoran ve bar geliri,41522,0,Satış
+2024-05-08,Tur ve transfer geliri,52948,0,Satış
+2024-05-08,Online rezervasyon tahsilatı (Booking),36109,0,Satış
+2024-05-09,Otel konaklama geliri,49254,0,Satış
+2024-05-09,Gıda tedariği,0,15626,Tedarik
+2024-05-10,İnternet,0,20607,Fatura
+2024-05-11,Mutfak personeli maaşları,0,112108,Maaş
+2024-05-12,Gıda tedariği,0,19014,Tedarik
+2024-05-13,Otel konaklama geliri,52421,0,Satış
+2024-05-13,Restoran ve bar geliri,46110,0,Satış
+2024-05-13,Sponsor anlaşma geliri,63337,0,Diğer Gelir
+2024-05-13,Klima bakımı,0,24001,Üretim
+2024-05-15,Konaklama vergisi,0,34168,Vergi
+2024-05-16,Spa ve havuz hizmet geliri,41350,0,Satış
+2024-05-16,Temizlik kimyasal tedarik,0,17656,Tedarik
+2024-05-16,Google Ads,0,18909,Pazarlama
+2024-05-17,Spa ve havuz hizmet geliri,39366,0,Satış
+2024-05-18,Tur ve transfer geliri,37851,0,Satış
+2024-05-18,Tur ve transfer geliri,42554,0,Satış
+2024-05-19,Temizlik kimyasal tedarik,0,16750,Tedarik
+2024-05-19,Lojistik ödemeleri,0,14746,Lojistik
+2024-05-19,Lojistik ödemeleri,0,16588,Lojistik
+2024-05-20,Tur ve transfer geliri,46992,0,Satış
+2024-05-21,Temizlik kimyasal tedarik,0,15784,Tedarik
+2024-05-22,Yönetici kadro maaşları,0,113174,Maaş
+2024-05-23,Temizlik kimyasal tedarik,0,17776,Tedarik
+2024-05-24,Toplantı ve etkinlik salonu geliri,41653,0,Satış
+2024-05-25,İnternet,0,18268,Fatura
+2024-05-26,Otel konaklama geliri,38529,0,Satış
+2024-05-26,Tur ve transfer geliri,45308,0,Satış
+2024-05-26,Gıda tedariği,0,16352,Tedarik
+2024-05-27,Tur operatörü komisyonu,0,22636,Pazarlama
+2024-05-30,Yer kirası,0,44120,Kira
+2024-05-31,Su faturası,0,22591,Fatura
+2024-06-02,Tur ve transfer geliri,62362,0,Satış
+2024-06-03,Temizlik kimyasal tedarik,0,23740,Tedarik
+2024-06-04,Su faturası,0,30538,Fatura
+2024-06-06,Toplantı ve etkinlik salonu geliri,57697,0,Satış
+2024-06-06,Yönetici kadro maaşları,0,129850,Maaş
+2024-06-07,Spa ve havuz hizmet geliri,66724,0,Satış
+2024-06-07,Elektrik (yüksek tüketim),0,33605,Fatura
+2024-06-08,Çamaşır ve tekstil,0,27668,Tedarik
+2024-06-09,Tur ve transfer geliri,71592,0,Satış
+2024-06-10,Spa ve havuz hizmet geliri,61189,0,Satış
+2024-06-10,Yönetici kadro maaşları,0,147499,Maaş
+2024-06-11,Restoran ve bar geliri,72532,0,Satış
+2024-06-11,Çamaşır ve tekstil,0,23357,Tedarik
+2024-06-13,Restoran ve bar geliri,75167,0,Satış
+2024-06-15,Restoran ve bar geliri,61444,0,Satış
+2024-06-15,Google Ads,0,21306,Pazarlama
+2024-06-16,Otel konaklama geliri,69275,0,Satış
+2024-06-16,Hediyelik eşya satışı,40942,0,Diğer Gelir
+2024-06-16,İçecek toptan alımı,0,25512,Tedarik
+2024-06-16,Yer kirası,0,70781,Kira
+2024-06-18,Çamaşır ve tekstil,0,24165,Tedarik
+2024-06-18,Lojistik ödemeleri,0,50741,Lojistik
+2024-06-19,İçecek toptan alımı,0,24935,Tedarik
+2024-06-19,Konaklama vergisi,0,46195,Vergi
+2024-06-20,Tur ve transfer geliri,73684,0,Satış
+2024-06-20,Otel konaklama geliri,52803,0,Satış
+2024-06-20,Spa ve havuz hizmet geliri,54137,0,Satış
+2024-06-20,Expedia komisyonu,0,20885,Pazarlama
+2024-06-20,Expedia komisyonu,0,20609,Pazarlama
+2024-06-21,İnternet,0,26460,Fatura
+2024-06-22,Otel konaklama geliri,52351,0,Satış
+2024-06-22,Tesis bakım ve onarım,0,12690,Üretim
+2024-06-23,Spa ve havuz hizmet geliri,66270,0,Satış
+2024-06-23,Temizlik kimyasal tedarik,0,26559,Tedarik
+2024-06-24,Spa ve havuz hizmet geliri,75563,0,Satış
+2024-06-24,Hediyelik eşya satışı,51387,0,Diğer Gelir
+2024-06-26,Online rezervasyon tahsilatı (Booking),75547,0,Satış
+2024-06-26,Google Ads,0,25565,Pazarlama
+2024-06-27,Müşteri sorumluluk sigortası,0,36421,Sigorta
+2024-06-27,Tesis bakım ve onarım,0,11342,Üretim
+2024-06-29,Toplantı ve etkinlik salonu geliri,69637,0,Satış
+2024-06-29,Klima bakımı,0,13186,Üretim
+2024-06-30,Spa ve havuz hizmet geliri,58556,0,Satış
+2024-06-30,İçecek toptan alımı,0,26822,Tedarik
+2024-07-01,Çamaşır ve tekstil,0,33204,Tedarik
+2024-07-01,Elektrik (yüksek tüketim),0,35302,Fatura
+2024-07-01,Transfer ve servis araç yakıt,0,28363,Lojistik
+2024-07-02,Toplantı ve etkinlik salonu geliri,125090,0,Satış
+2024-07-02,İçecek toptan alımı,0,28342,Tedarik
+2024-07-05,Otel konaklama geliri,108180,0,Satış
+2024-07-05,Toplantı ve etkinlik salonu geliri,126538,0,Satış
+2024-07-05,Elektrik (yüksek tüketim),0,33260,Fatura
+2024-07-06,Otel konaklama geliri,109198,0,Satış
+2024-07-07,Otel konaklama geliri,116526,0,Satış
+2024-07-07,Spa ve havuz hizmet geliri,104797,0,Satış
+2024-07-07,Sponsor anlaşma geliri,103320,0,Diğer Gelir
+2024-07-08,Tur ve transfer geliri,108802,0,Satış
+2024-07-08,Çamaşır ve tekstil,0,29750,Tedarik
+2024-07-08,Çamaşır ve tekstil,0,32483,Tedarik
+2024-07-10,Restoran ve bar geliri,92601,0,Satış
+2024-07-10,Resepsiyon ve kat hizmetleri maaşları,0,206031,Maaş
+2024-07-10,Expedia komisyonu,0,56506,Pazarlama
+2024-07-11,Otel konaklama geliri,92968,0,Satış
+2024-07-12,Otel konaklama geliri,121039,0,Satış
+2024-07-15,Elektrik (yüksek tüketim),0,43315,Fatura
+2024-07-17,KDV,0,49080,Vergi
+2024-07-19,Toplantı ve etkinlik salonu geliri,106165,0,Satış
+2024-07-19,Otel binası kira,0,80904,Kira
+2024-07-20,Mutfak personeli maaşları,0,178460,Maaş
+2024-07-20,Google Ads,0,55947,Pazarlama
+2024-07-21,Çamaşır ve tekstil,0,28857,Tedarik
+2024-07-22,Müşteri sorumluluk sigortası,0,52210,Sigorta
+2024-07-26,Lojistik ödemeleri,0,28436,Lojistik
+2024-07-27,Tesis bakım ve onarım,0,51068,Üretim
+2024-07-28,İçecek toptan alımı,0,30190,Tedarik
+2024-07-29,Spa ve havuz hizmet geliri,103037,0,Satış
+2024-07-29,Tur ve transfer geliri,120596,0,Satış
+2024-07-29,Çamaşır ve tekstil,0,28499,Tedarik
+2024-07-29,Gıda tedariği,0,28482,Tedarik
+2024-08-01,Çamaşır ve tekstil,0,33532,Tedarik
+2024-08-01,Konaklama vergisi,0,58820,Vergi
+2024-08-01,Lojistik ödemeleri,0,58063,Lojistik
+2024-08-03,Elektrik (yüksek tüketim),0,28711,Fatura
+2024-08-03,Otel sigorta poliçesi,0,37242,Sigorta
+2024-08-03,Tesis bakım ve onarım,0,38041,Üretim
+2024-08-05,Otel konaklama geliri,157588,0,Satış
+2024-08-05,Mutfak personeli maaşları,0,322585,Maaş
+2024-08-05,Çamaşır ve tekstil,0,31259,Tedarik
+2024-08-05,Elektrik (yüksek tüketim),0,28299,Fatura
+2024-08-09,Spa ve havuz hizmet geliri,136012,0,Satış
+2024-08-09,Yer kirası,0,77772,Kira
+2024-08-10,Gıda tedariği,0,34724,Tedarik
+2024-08-10,Doğal gaz,0,23397,Fatura
+2024-08-12,İnternet,0,28823,Fatura
+2024-08-13,Tur ve transfer geliri,143556,0,Satış
+2024-08-15,Hediyelik eşya satışı,43706,0,Diğer Gelir
+2024-08-17,Online rezervasyon tahsilatı (Booking),121099,0,Satış
+2024-08-17,Online rezervasyon tahsilatı (Booking),115362,0,Satış
+2024-08-19,Tur ve transfer geliri,124855,0,Satış
+2024-08-19,Restoran ve bar geliri,144587,0,Satış
+2024-08-20,Hediyelik eşya satışı,41417,0,Diğer Gelir
+2024-08-20,Çamaşır ve tekstil,0,29509,Tedarik
+2024-08-22,Tur ve transfer geliri,114676,0,Satış
+2024-08-22,Tur operatörü komisyonu,0,37592,Pazarlama
+2024-08-23,Çamaşır ve tekstil,0,31963,Tedarik
+2024-08-24,İçecek toptan alımı,0,38262,Tedarik
+2024-08-26,Gıda tedariği,0,33373,Tedarik
+2024-08-28,Tur ve transfer geliri,129117,0,Satış
+2024-08-30,Google Ads,0,32079,Pazarlama
+2024-08-30,Google Ads,0,41171,Pazarlama
+2024-08-31,Online rezervasyon tahsilatı (Booking),148242,0,Satış
+2024-09-01,Otel konaklama geliri,36638,0,Satış
+2024-09-01,Restoran ve bar geliri,44415,0,Satış
+2024-09-01,Çamaşır ve tekstil,0,15535,Tedarik
+2024-09-02,Elektrik (yüksek tüketim),0,37004,Fatura
+2024-09-03,Toplantı ve etkinlik salonu geliri,43634,0,Satış
+2024-09-03,Gıda tedariği,0,18404,Tedarik
+2024-09-03,Gıda tedariği,0,17194,Tedarik
+2024-09-03,Transfer ve servis araç yakıt,0,31958,Lojistik
+2024-09-04,Tur ve transfer geliri,51107,0,Satış
+2024-09-05,KDV,0,31278,Vergi
+2024-09-07,Spa ve havuz hizmet geliri,52214,0,Satış
+2024-09-08,Gıda tedariği,0,18842,Tedarik
+2024-09-09,Toplantı ve etkinlik salonu geliri,39610,0,Satış
+2024-09-09,Tur ve transfer geliri,49125,0,Satış
+2024-09-09,Tur operatörü komisyonu,0,31869,Pazarlama
+2024-09-10,Online rezervasyon tahsilatı (Booking),45976,0,Satış
+2024-09-11,Restoran ve bar geliri,45445,0,Satış
+2024-09-11,Yönetici kadro maaşları,0,98941,Maaş
+2024-09-13,Tur ve transfer geliri,50238,0,Satış
+2024-09-15,Restoran ve bar geliri,36886,0,Satış
+2024-09-15,Tur ve transfer geliri,43746,0,Satış
+2024-09-17,Toplantı ve etkinlik salonu geliri,40406,0,Satış
+2024-09-17,Tur ve transfer geliri,47693,0,Satış
+2024-09-17,Çamaşır ve tekstil,0,19474,Tedarik
+2024-09-17,Klima bakımı,0,23761,Üretim
+2024-09-18,Tur ve transfer geliri,49866,0,Satış
+2024-09-19,Otel sigorta poliçesi,0,25941,Sigorta
+2024-09-21,Çamaşır ve tekstil,0,15634,Tedarik
+2024-09-22,Yönetici kadro maaşları,0,120440,Maaş
+2024-09-23,Tur ve transfer geliri,38730,0,Satış
+2024-09-25,Tur operatörü komisyonu,0,28347,Pazarlama
+2024-09-26,İnternet,0,31420,Fatura
+2024-09-27,Otel binası kira,0,48908,Kira
+2024-09-30,Spa ve havuz hizmet geliri,44095,0,Satış
+2024-09-30,Spa ve havuz hizmet geliri,42038,0,Satış
+2024-09-30,Temizlik kimyasal tedarik,0,17067,Tedarik
+2024-09-30,Temizlik kimyasal tedarik,0,19231,Tedarik
+2024-10-01,İçecek toptan alımı,0,13962,Tedarik
+2024-10-01,Gıda tedariği,0,14084,Tedarik
+2024-10-02,Restoran ve bar geliri,33481,0,Satış
+2024-10-02,Online rezervasyon tahsilatı (Booking),31547,0,Satış
+2024-10-03,Spa ve havuz hizmet geliri,33854,0,Satış
+2024-10-03,Çamaşır ve tekstil,0,14455,Tedarik
+2024-10-04,Toplantı ve etkinlik salonu geliri,32953,0,Satış
+2024-10-05,Restoran ve bar geliri,25412,0,Satış
+2024-10-05,Hediyelik eşya satışı,21682,0,Diğer Gelir
+2024-10-10,Gıda tedariği,0,11100,Tedarik
+2024-10-11,Tur ve transfer geliri,30164,0,Satış
+2024-10-12,Lojistik ödemeleri,0,6847,Lojistik
+2024-10-13,Toplantı ve etkinlik salonu geliri,27318,0,Satış
+2024-10-14,Online rezervasyon tahsilatı (Booking),36992,0,Satış
+2024-10-14,Otel konaklama geliri,31943,0,Satış
+2024-10-15,Online rezervasyon tahsilatı (Booking),26260,0,Satış
+2024-10-15,Klima bakımı,0,6073,Üretim
+2024-10-17,Google Ads,0,19347,Pazarlama
+2024-10-17,Klima bakımı,0,5755,Üretim
+2024-10-19,Toplantı ve etkinlik salonu geliri,27843,0,Satış
+2024-10-19,Yer kirası,0,32857,Kira
+2024-10-20,Klima bakımı,0,5798,Üretim
+2024-10-21,Restoran ve bar geliri,25326,0,Satış
+2024-10-22,Tur operatörü komisyonu,0,23387,Pazarlama
+2024-10-23,Online rezervasyon tahsilatı (Booking),35420,0,Satış
+2024-10-23,Toplantı ve etkinlik salonu geliri,28098,0,Satış
+2024-10-23,Transfer ve servis araç yakıt,0,6339,Lojistik
+2024-10-24,Doğal gaz,0,15029,Fatura
+2024-10-25,Doğal gaz,0,12324,Fatura
+2024-10-25,Elektrik (yüksek tüketim),0,13713,Fatura
+2024-10-26,Temizlik kimyasal tedarik,0,13522,Tedarik
+2024-10-26,İçecek toptan alımı,0,12750,Tedarik
+2024-10-26,Konaklama vergisi,0,23503,Vergi
+2024-10-28,Sponsor anlaşma geliri,18799,0,Diğer Gelir
+2024-10-28,Yönetici kadro maaşları,0,69273,Maaş
+2024-10-29,Restoran ve bar geliri,33982,0,Satış
+2024-10-29,Online rezervasyon tahsilatı (Booking),33130,0,Satış
+2024-10-29,Transfer ve servis araç yakıt,0,7329,Lojistik
+2024-10-30,Mutfak personeli maaşları,0,57761,Maaş
+2024-10-30,Gıda tedariği,0,13563,Tedarik
+2024-11-01,Restoran ve bar geliri,12179,0,Satış
+2024-11-03,Spa ve havuz hizmet geliri,14754,0,Satış
+2024-11-04,Online rezervasyon tahsilatı (Booking),11643,0,Satış
+2024-11-05,Google Ads,0,4811,Pazarlama
+2024-11-06,Toplantı ve etkinlik salonu geliri,11879,0,Satış
+2024-11-06,Transfer ve servis araç yakıt,0,3408,Lojistik
+2024-11-09,Tesis bakım ve onarım,0,1646,Üretim
+2024-11-10,Sezonluk personel ücretleri,0,46626,Maaş
+2024-11-11,Online rezervasyon tahsilatı (Booking),11253,0,Satış
+2024-11-11,İçecek toptan alımı,0,6167,Tedarik
+2024-11-11,Tur operatörü komisyonu,0,5098,Pazarlama
+2024-11-12,Otel binası kira,0,9607,Kira
+2024-11-12,Tesis bakım ve onarım,0,1976,Üretim
+2024-11-13,Hediyelik eşya satışı,11978,0,Diğer Gelir
+2024-11-16,Restoran ve bar geliri,10765,0,Satış
+2024-11-17,Temizlik kimyasal tedarik,0,5163,Tedarik
+2024-11-17,Doğal gaz,0,6628,Fatura
+2024-11-17,Transfer ve servis araç yakıt,0,3357,Lojistik
+2024-11-18,Restoran ve bar geliri,11712,0,Satış
+2024-11-18,Klima bakımı,0,1982,Üretim
+2024-11-19,Tur ve transfer geliri,12255,0,Satış
+2024-11-19,Online rezervasyon tahsilatı (Booking),12759,0,Satış
+2024-11-20,Doğal gaz,0,7583,Fatura
+2024-11-21,Google Ads,0,4116,Pazarlama
+2024-11-21,Müşteri sorumluluk sigortası,0,5775,Sigorta
+2024-11-22,Gıda tedariği,0,5574,Tedarik
+2024-11-22,Konaklama vergisi,0,7581,Vergi
+2024-11-23,Online rezervasyon tahsilatı (Booking),12165,0,Satış
+2024-11-28,Otel konaklama geliri,11553,0,Satış
+2024-11-29,Otel konaklama geliri,12860,0,Satış
+2024-11-29,Tur ve transfer geliri,14123,0,Satış
+2024-11-29,İçecek toptan alımı,0,6313,Tedarik
+2024-11-30,Temizlik kimyasal tedarik,0,5914,Tedarik
+2024-12-02,İçecek toptan alımı,0,5128,Tedarik
+2024-12-02,Elektrik (yüksek tüketim),0,4522,Fatura
+2024-12-03,Otel konaklama geliri,13113,0,Satış
+2024-12-04,Sezonluk personel ücretleri,0,36820,Maaş
+2024-12-05,Otel konaklama geliri,12705,0,Satış
+2024-12-05,Lojistik ödemeleri,0,2429,Lojistik
+2024-12-06,İçecek toptan alımı,0,6104,Tedarik
+2024-12-07,Tur ve transfer geliri,16375,0,Satış
+2024-12-07,Expedia komisyonu,0,2946,Pazarlama
+2024-12-11,Google Ads,0,2512,Pazarlama
+2024-12-11,Tesis bakım ve onarım,0,4367,Üretim
+2024-12-12,Yer kirası,0,7858,Kira
+2024-12-13,Su faturası,0,5427,Fatura
+2024-12-18,Online rezervasyon tahsilatı (Booking),16214,0,Satış
+2024-12-18,Lojistik ödemeleri,0,2357,Lojistik
+2024-12-19,Tur operatörü komisyonu,0,2404,Pazarlama
+2024-12-19,Otel sigorta poliçesi,0,4638,Sigorta
+2024-12-20,Online rezervasyon tahsilatı (Booking),18360,0,Satış
+2024-12-20,İçecek toptan alımı,0,5351,Tedarik
+2024-12-21,Spa ve havuz hizmet geliri,13252,0,Satış
+2024-12-23,Online rezervasyon tahsilatı (Booking),15502,0,Satış
+2024-12-24,Tur ve transfer geliri,14247,0,Satış
+2024-12-25,Sponsor anlaşma geliri,9977,0,Diğer Gelir
+2024-12-25,Google Ads,0,2847,Pazarlama
+2024-12-28,Konaklama vergisi,0,5136,Vergi
+2024-12-30,Gıda tedariği,0,6348,Tedarik
+2025-01-01,Otel konaklama geliri,6902,0,Satış
+2025-01-01,Konaklama vergisi,0,5335,Vergi
+2025-01-03,Spa ve havuz hizmet geliri,6410,0,Satış
+2025-01-03,Spa ve havuz hizmet geliri,8415,0,Satış
+2025-01-04,Temizlik kimyasal tedarik,0,2627,Tedarik
+2025-01-04,Çamaşır ve tekstil,0,2928,Tedarik
+2025-01-05,Otel konaklama geliri,6967,0,Satış
+2025-01-05,Toplantı ve etkinlik salonu geliri,7452,0,Satış
+2025-01-05,Mutfak personeli maaşları,0,33097,Maaş
+2025-01-07,Müşteri sorumluluk sigortası,0,4492,Sigorta
+2025-01-08,Restoran ve bar geliri,6963,0,Satış
+2025-01-08,Otel konaklama geliri,7208,0,Satış
+2025-01-09,Otel konaklama geliri,7496,0,Satış
+2025-01-10,Online rezervasyon tahsilatı (Booking),7559,0,Satış
+2025-01-10,Online rezervasyon tahsilatı (Booking),8093,0,Satış
+2025-01-10,Su faturası,0,2704,Fatura
+2025-01-11,İçecek toptan alımı,0,3062,Tedarik
+2025-01-12,Klima bakımı,0,3997,Üretim
+2025-01-13,Toplantı ve etkinlik salonu geliri,6034,0,Satış
+2025-01-13,Transfer ve servis araç yakıt,0,2514,Lojistik
+2025-01-14,İçecek toptan alımı,0,3159,Tedarik
+2025-01-14,Expedia komisyonu,0,3612,Pazarlama
+2025-01-15,Google Ads,0,3492,Pazarlama
+2025-01-16,Toplantı ve etkinlik salonu geliri,8262,0,Satış
+2025-01-16,Tur ve transfer geliri,6371,0,Satış
+2025-01-19,Hediyelik eşya satışı,10388,0,Diğer Gelir
+2025-01-20,Su faturası,0,2423,Fatura
+2025-01-21,Gıda tedariği,0,2975,Tedarik
+2025-01-23,Gıda tedariği,0,2421,Tedarik
+2025-01-24,Elektrik (yüksek tüketim),0,2645,Fatura
+2025-01-26,Temizlik kimyasal tedarik,0,2613,Tedarik
+2025-01-26,Transfer ve servis araç yakıt,0,2912,Lojistik
+2025-01-29,Spa ve havuz hizmet geliri,7473,0,Satış
+2025-01-29,Otel binası kira,0,8889,Kira
+2025-01-30,Otel konaklama geliri,8834,0,Satış
+2025-01-30,Gıda tedariği,0,2685,Tedarik
+2025-01-30,Expedia komisyonu,0,3427,Pazarlama
+2025-01-31,Spa ve havuz hizmet geliri,8389,0,Satış
+2025-01-31,Online rezervasyon tahsilatı (Booking),6784,0,Satış
+2025-01-31,Elektrik (yüksek tüketim),0,2773,Fatura
+2025-02-01,Google Ads,0,3532,Pazarlama
+2025-02-02,Gıda tedariği,0,4402,Tedarik
+2025-02-04,Tur ve transfer geliri,10115,0,Satış
+2025-02-04,Gıda tedariği,0,5064,Tedarik
+2025-02-05,Su faturası,0,5784,Fatura
+2025-02-06,Online rezervasyon tahsilatı (Booking),12088,0,Satış
+2025-02-06,İçecek toptan alımı,0,4926,Tedarik
+2025-02-07,Google Ads,0,3287,Pazarlama
+2025-02-08,Restoran ve bar geliri,8881,0,Satış
+2025-02-09,Tur ve transfer geliri,12371,0,Satış
+2025-02-10,Toplantı ve etkinlik salonu geliri,9050,0,Satış
+2025-02-13,Yönetici kadro maaşları,0,29518,Maaş
+2025-02-13,Elektrik (yüksek tüketim),0,5443,Fatura
+2025-02-14,Sponsor anlaşma geliri,4176,0,Diğer Gelir
+2025-02-14,İçecek toptan alımı,0,4816,Tedarik
+2025-02-14,Konaklama vergisi,0,5788,Vergi
+2025-02-15,Otel konaklama geliri,11890,0,Satış
+2025-02-15,Yer kirası,0,7649,Kira
+2025-02-16,Tur ve transfer geliri,12329,0,Satış
+2025-02-17,Restoran ve bar geliri,10421,0,Satış
+2025-02-21,Online rezervasyon tahsilatı (Booking),11766,0,Satış
+2025-02-21,Hediyelik eşya satışı,4299,0,Diğer Gelir
+2025-02-22,Transfer ve servis araç yakıt,0,2804,Lojistik
+2025-02-23,Toplantı ve etkinlik salonu geliri,10066,0,Satış
+2025-02-23,İçecek toptan alımı,0,4500,Tedarik
+2025-02-24,Restoran ve bar geliri,10871,0,Satış
+2025-02-24,Lojistik ödemeleri,0,2723,Lojistik
+2025-02-25,Klima bakımı,0,4139,Üretim
+2025-02-26,Google Ads,0,3110,Pazarlama
+2025-02-27,Online rezervasyon tahsilatı (Booking),11218,0,Satış
+2025-03-03,Transfer ve servis araç yakıt,0,3542,Lojistik
+2025-03-05,Booking komisyonu,0,6665,Pazarlama
+2025-03-06,Tur ve transfer geliri,15972,0,Satış
+2025-03-06,İçecek toptan alımı,0,11341,Tedarik
+2025-03-07,Otel konaklama geliri,13768,0,Satış
+2025-03-07,Online rezervasyon tahsilatı (Booking),14725,0,Satış
+2025-03-07,Toplantı ve etkinlik salonu geliri,15384,0,Satış
+2025-03-08,Çamaşır ve tekstil,0,11604,Tedarik
+2025-03-08,İçecek toptan alımı,0,10278,Tedarik
+2025-03-10,Transfer ve servis araç yakıt,0,2769,Lojistik
+2025-03-11,Doğal gaz,0,8587,Fatura
+2025-03-13,Restoran ve bar geliri,11548,0,Satış
+2025-03-13,Toplantı ve etkinlik salonu geliri,16419,0,Satış
+2025-03-14,Yönetici kadro maaşları,0,54670,Maaş
+2025-03-15,Online rezervasyon tahsilatı (Booking),11499,0,Satış
+2025-03-16,İnternet,0,8729,Fatura
+2025-03-17,Tur ve transfer geliri,12535,0,Satış
+2025-03-18,Temizlik kimyasal tedarik,0,9545,Tedarik
+2025-03-18,Google Ads,0,7041,Pazarlama
+2025-03-19,Toplantı ve etkinlik salonu geliri,11831,0,Satış
+2025-03-21,Online rezervasyon tahsilatı (Booking),12108,0,Satış
+2025-03-21,Tesis bakım ve onarım,0,7357,Üretim
+2025-03-22,Online rezervasyon tahsilatı (Booking),14571,0,Satış
+2025-03-22,KDV,0,11008,Vergi
+2025-03-27,Online rezervasyon tahsilatı (Booking),16422,0,Satış
+2025-03-27,Lojistik ödemeleri,0,2897,Lojistik
+2025-03-28,Spa ve havuz hizmet geliri,16393,0,Satış
+2025-03-28,Sponsor anlaşma geliri,18433,0,Diğer Gelir
+2025-03-28,Otel binası kira,0,17748,Kira
+2025-03-30,Toplantı ve etkinlik salonu geliri,16232,0,Satış
+2025-03-30,Toplantı ve etkinlik salonu geliri,16459,0,Satış
+2025-03-30,Restoran ve bar geliri,12484,0,Satış
+2025-03-30,Tur operatörü komisyonu,0,6609,Pazarlama
+2025-03-31,Otel konaklama geliri,15835,0,Satış
+2025-04-01,Restoran ve bar geliri,34891,0,Satış
+2025-04-02,Tur ve transfer geliri,33109,0,Satış
+2025-04-02,Transfer ve servis araç yakıt,0,9649,Lojistik
+2025-04-04,Toplantı ve etkinlik salonu geliri,32475,0,Satış
+2025-04-04,Restoran ve bar geliri,36887,0,Satış
+2025-04-04,Google Ads,0,10862,Pazarlama
+2025-04-04,Booking komisyonu,0,10052,Pazarlama
+2025-04-06,Gıda tedariği,0,19492,Tedarik
+2025-04-08,Online rezervasyon tahsilatı (Booking),30356,0,Satış
+2025-04-08,Çamaşır ve tekstil,0,18522,Tedarik
+2025-04-09,Tur ve transfer geliri,30636,0,Satış
+2025-04-10,Online rezervasyon tahsilatı (Booking),38496,0,Satış
+2025-04-10,Hediyelik eşya satışı,17216,0,Diğer Gelir
+2025-04-11,Doğal gaz,0,18509,Fatura
+2025-04-15,Resepsiyon ve kat hizmetleri maaşları,0,106942,Maaş
+2025-04-15,Klima bakımı,0,6740,Üretim
+2025-04-15,Tesis bakım ve onarım,0,7745,Üretim
+2025-04-16,Sponsor anlaşma geliri,15411,0,Diğer Gelir
+2025-04-16,Google Ads,0,9580,Pazarlama
+2025-04-16,Doğal gaz,0,21398,Fatura
+2025-04-17,Otel konaklama geliri,36744,0,Satış
+2025-04-17,Otel sigorta poliçesi,0,15477,Sigorta
+2025-04-18,Online rezervasyon tahsilatı (Booking),29899,0,Satış
+2025-04-19,Booking komisyonu,0,10100,Pazarlama
+2025-04-21,Otel binası kira,0,33898,Kira
+2025-04-22,Lojistik ödemeleri,0,10831,Lojistik
+2025-04-26,Toplantı ve etkinlik salonu geliri,35872,0,Satış
+2025-04-26,Tur ve transfer geliri,32669,0,Satış
+2025-04-27,Tur ve transfer geliri,34098,0,Satış
+2025-04-27,Çamaşır ve tekstil,0,18284,Tedarik
+2025-04-28,Restoran ve bar geliri,31665,0,Satış
+2025-04-28,Temizlik kimyasal tedarik,0,18953,Tedarik
+2025-04-28,Konaklama vergisi,0,17284,Vergi
+2025-05-02,Toplantı ve etkinlik salonu geliri,46450,0,Satış
+2025-05-03,Otel binası kira,0,49831,Kira
+2025-05-04,Spa ve havuz hizmet geliri,36263,0,Satış
+2025-05-05,Expedia komisyonu,0,14630,Pazarlama
+2025-05-05,KDV,0,28363,Vergi
+2025-05-06,Restoran ve bar geliri,35645,0,Satış
+2025-05-06,İçecek toptan alımı,0,26809,Tedarik
+2025-05-07,Online rezervasyon tahsilatı (Booking),50173,0,Satış
+2025-05-10,Otel konaklama geliri,44815,0,Satış
+2025-05-10,Tur ve transfer geliri,43788,0,Satış
+2025-05-10,Transfer ve servis araç yakıt,0,11738,Lojistik
+2025-05-11,Spa ve havuz hizmet geliri,37264,0,Satış
+2025-05-11,Spa ve havuz hizmet geliri,42304,0,Satış
+2025-05-12,Expedia komisyonu,0,16020,Pazarlama
+2025-05-12,Lojistik ödemeleri,0,9618,Lojistik
+2025-05-13,Spa ve havuz hizmet geliri,42457,0,Satış
+2025-05-13,Klima bakımı,0,23464,Üretim
+2025-05-16,Online rezervasyon tahsilatı (Booking),41845,0,Satış
+2025-05-16,Toplantı ve etkinlik salonu geliri,38547,0,Satış
+2025-05-16,Tur ve transfer geliri,43974,0,Satış
+2025-05-16,Online rezervasyon tahsilatı (Booking),46080,0,Satış
+2025-05-16,İnternet,0,19565,Fatura
+2025-05-19,Gıda tedariği,0,26520,Tedarik
+2025-05-21,Çamaşır ve tekstil,0,24527,Tedarik
+2025-05-21,İnternet,0,23291,Fatura
+2025-05-22,Spa ve havuz hizmet geliri,47283,0,Satış
+2025-05-26,Spa ve havuz hizmet geliri,36126,0,Satış
+2025-05-26,Google Ads,0,13920,Pazarlama
+2025-05-26,Expedia komisyonu,0,15608,Pazarlama
+2025-05-26,İnternet,0,23616,Fatura
+2025-05-27,Online rezervasyon tahsilatı (Booking),36251,0,Satış
+2025-05-27,Gıda tedariği,0,29650,Tedarik
+2025-05-28,Transfer ve servis araç yakıt,0,10350,Lojistik
+2025-05-30,Toplantı ve etkinlik salonu geliri,44654,0,Satış
+2025-05-30,Mutfak personeli maaşları,0,204595,Maaş
+2025-05-30,Gıda tedariği,0,23634,Tedarik
+2025-05-31,Restoran ve bar geliri,41575,0,Satış
+2025-06-02,Toplantı ve etkinlik salonu geliri,150651,0,Satış
+2025-06-03,Doğal gaz,0,22361,Fatura
+2025-06-05,Tur operatörü komisyonu,0,20559,Pazarlama
+2025-06-06,Toplantı ve etkinlik salonu geliri,133816,0,Satış
+2025-06-07,KDV,0,53463,Vergi
+2025-06-07,Müşteri sorumluluk sigortası,0,39249,Sigorta
+2025-06-08,Spa ve havuz hizmet geliri,130741,0,Satış
+2025-06-08,Tur ve transfer geliri,118981,0,Satış
+2025-06-09,Online rezervasyon tahsilatı (Booking),115187,0,Satış
+2025-06-11,Online rezervasyon tahsilatı (Booking),122432,0,Satış
+2025-06-11,Hediyelik eşya satışı,97675,0,Diğer Gelir
+2025-06-11,Tesis bakım ve onarım,0,11234,Üretim
+2025-06-12,Yönetici kadro maaşları,0,166795,Maaş
+2025-06-13,Restoran ve bar geliri,148582,0,Satış
+2025-06-13,Doğal gaz,0,20806,Fatura
+2025-06-13,Tesis bakım ve onarım,0,11639,Üretim
+2025-06-14,Gıda tedariği,0,45111,Tedarik
+2025-06-18,Yönetici kadro maaşları,0,158835,Maaş
+2025-06-19,Elektrik (yüksek tüketim),0,25814,Fatura
+2025-06-20,Çamaşır ve tekstil,0,50508,Tedarik
+2025-06-21,Expedia komisyonu,0,22078,Pazarlama
+2025-06-21,Klima bakımı,0,12909,Üretim
+2025-06-23,Toplantı ve etkinlik salonu geliri,102431,0,Satış
+2025-06-23,Su faturası,0,23094,Fatura
+2025-06-25,Google Ads,0,23123,Pazarlama
+2025-06-26,Yer kirası,0,73566,Kira
+2025-06-27,Google Ads,0,23158,Pazarlama
+2025-06-28,Spa ve havuz hizmet geliri,124235,0,Satış
+2025-06-28,İçecek toptan alımı,0,53546,Tedarik
+2025-06-28,Lojistik ödemeleri,0,42144,Lojistik
+2025-06-30,Temizlik kimyasal tedarik,0,47628,Tedarik
+2025-07-01,Otel konaklama geliri,82864,0,Satış
+2025-07-01,Sponsor anlaşma geliri,55046,0,Diğer Gelir
+2025-07-02,Transfer ve servis araç yakıt,0,27731,Lojistik
+2025-07-03,Restoran ve bar geliri,101661,0,Satış
+2025-07-04,Otel konaklama geliri,103452,0,Satış
+2025-07-05,Gıda tedariği,0,27556,Tedarik
+2025-07-07,Restoran ve bar geliri,90096,0,Satış
+2025-07-07,Tur operatörü komisyonu,0,31423,Pazarlama
+2025-07-07,Booking komisyonu,0,26253,Pazarlama
+2025-07-08,Tur operatörü komisyonu,0,31123,Pazarlama
+2025-07-09,Tur ve transfer geliri,70337,0,Satış
+2025-07-09,Sponsor anlaşma geliri,45421,0,Diğer Gelir
+2025-07-09,Booking komisyonu,0,29172,Pazarlama
+2025-07-10,Elektrik (yüksek tüketim),0,28656,Fatura
+2025-07-11,Çamaşır ve tekstil,0,29762,Tedarik
+2025-07-12,Restoran ve bar geliri,92587,0,Satış
+2025-07-12,Otel konaklama geliri,83233,0,Satış
+2025-07-12,Toplantı ve etkinlik salonu geliri,79640,0,Satış
+2025-07-12,Spa ve havuz hizmet geliri,73617,0,Satış
+2025-07-12,Yer kirası,0,83310,Kira
+2025-07-12,KDV,0,65982,Vergi
+2025-07-14,Otel konaklama geliri,95927,0,Satış
+2025-07-14,İçecek toptan alımı,0,29199,Tedarik
+2025-07-14,Su faturası,0,25341,Fatura
+2025-07-16,Su faturası,0,25986,Fatura
+2025-07-17,Mutfak personeli maaşları,0,167950,Maaş
+2025-07-17,Tesis bakım ve onarım,0,15071,Üretim
+2025-07-18,Toplantı ve etkinlik salonu geliri,76633,0,Satış
+2025-07-18,Doğal gaz,0,29130,Fatura
+2025-07-19,Online rezervasyon tahsilatı (Booking),79837,0,Satış
+2025-07-19,İçecek toptan alımı,0,28309,Tedarik
+2025-07-19,Lojistik ödemeleri,0,25178,Lojistik
+2025-07-20,Temizlik kimyasal tedarik,0,29738,Tedarik
+2025-07-21,Otel konaklama geliri,86676,0,Satış
+2025-07-23,Klima bakımı,0,14165,Üretim
+2025-07-24,Tur ve transfer geliri,75481,0,Satış
+2025-07-24,Yönetici kadro maaşları,0,188660,Maaş
+2025-07-24,Klima bakımı,0,15468,Üretim
+2025-07-26,Spa ve havuz hizmet geliri,84823,0,Satış
+2025-07-26,Temizlik kimyasal tedarik,0,34842,Tedarik
+2025-07-30,Spa ve havuz hizmet geliri,78660,0,Satış
+2025-07-30,İçecek toptan alımı,0,27602,Tedarik
+2025-07-31,Çamaşır ve tekstil,0,34235,Tedarik
+2025-08-01,İnternet,0,49083,Fatura
+2025-08-02,Toplantı ve etkinlik salonu geliri,110248,0,Satış
+2025-08-03,Temizlik kimyasal tedarik,0,30563,Tedarik
+2025-08-08,Online rezervasyon tahsilatı (Booking),91436,0,Satış
+2025-08-08,Temizlik kimyasal tedarik,0,34162,Tedarik
+2025-08-12,Online rezervasyon tahsilatı (Booking),80399,0,Satış
+2025-08-12,Su faturası,0,49472,Fatura
+2025-08-15,Transfer ve servis araç yakıt,0,50861,Lojistik
+2025-08-16,Restoran ve bar geliri,94562,0,Satış
+2025-08-16,Tesis bakım ve onarım,0,18753,Üretim
+2025-08-18,Otel konaklama geliri,110121,0,Satış
+2025-08-20,Otel konaklama geliri,102122,0,Satış
+2025-08-20,Çamaşır ve tekstil,0,36108,Tedarik
+2025-08-20,Müşteri sorumluluk sigortası,0,42774,Sigorta
+2025-08-21,Çamaşır ve tekstil,0,35452,Tedarik
+2025-08-22,Spa ve havuz hizmet geliri,113016,0,Satış
+2025-08-22,Toplantı ve etkinlik salonu geliri,106627,0,Satış
+2025-08-22,Booking komisyonu,0,59495,Pazarlama
+2025-08-23,Spa ve havuz hizmet geliri,92154,0,Satış
+2025-08-23,Online rezervasyon tahsilatı (Booking),102554,0,Satış
+2025-08-25,Otel konaklama geliri,103653,0,Satış
+2025-08-25,Spa ve havuz hizmet geliri,78282,0,Satış
+2025-08-26,Resepsiyon ve kat hizmetleri maaşları,0,318341,Maaş
+2025-08-26,Temizlik kimyasal tedarik,0,29090,Tedarik
+2025-08-27,Expedia komisyonu,0,60293,Pazarlama
+2025-08-27,Tesis bakım ve onarım,0,19070,Üretim
+2025-08-28,Yer kirası,0,83462,Kira
+2025-08-29,Otel konaklama geliri,112773,0,Satış
+2025-08-29,Sponsor anlaşma geliri,97216,0,Diğer Gelir
+2025-08-29,Gıda tedariği,0,35593,Tedarik
+2025-08-30,Konaklama vergisi,0,48773,Vergi
+2025-08-31,Online rezervasyon tahsilatı (Booking),91960,0,Satış
+2025-08-31,Gıda tedariği,0,31369,Tedarik
+2025-09-02,Restoran ve bar geliri,38057,0,Satış
+2025-09-03,Temizlik kimyasal tedarik,0,21818,Tedarik
+2025-09-03,Tur operatörü komisyonu,0,30901,Pazarlama
+2025-09-03,Doğal gaz,0,17727,Fatura
+2025-09-04,Online rezervasyon tahsilatı (Booking),39553,0,Satış
+2025-09-05,İnternet,0,15076,Fatura
+2025-09-08,Otel konaklama geliri,41004,0,Satış
+2025-09-09,Yönetici kadro maaşları,0,103181,Maaş
+2025-09-09,Lojistik ödemeleri,0,35915,Lojistik
+2025-09-10,Restoran ve bar geliri,37617,0,Satış
+2025-09-10,İçecek toptan alımı,0,23642,Tedarik
+2025-09-12,Otel sigorta poliçesi,0,24951,Sigorta
+2025-09-14,Tur ve transfer geliri,52902,0,Satış
+2025-09-14,Temizlik kimyasal tedarik,0,23301,Tedarik
+2025-09-17,Sezonluk personel ücretleri,0,119786,Maaş
+2025-09-18,Otel konaklama geliri,46769,0,Satış
+2025-09-18,Restoran ve bar geliri,49899,0,Satış
+2025-09-19,Doğal gaz,0,14045,Fatura
+2025-09-20,Tur ve transfer geliri,40296,0,Satış
+2025-09-20,Gıda tedariği,0,19154,Tedarik
+2025-09-21,Temizlik kimyasal tedarik,0,21317,Tedarik
+2025-09-22,Otel konaklama geliri,48657,0,Satış
+2025-09-24,Tur ve transfer geliri,39744,0,Satış
+2025-09-24,Otel konaklama geliri,39037,0,Satış
+2025-09-24,Doğal gaz,0,15138,Fatura
+2025-09-24,Klima bakımı,0,14348,Üretim
+2025-09-25,İçecek toptan alımı,0,19752,Tedarik
+2025-09-25,Google Ads,0,28179,Pazarlama
+2025-09-26,Restoran ve bar geliri,50173,0,Satış
+2025-09-26,Online rezervasyon tahsilatı (Booking),49803,0,Satış
+2025-09-27,Online rezervasyon tahsilatı (Booking),46275,0,Satış
+2025-09-27,Yer kirası,0,57132,Kira
+2025-09-28,Spa ve havuz hizmet geliri,52328,0,Satış
+2025-09-28,Gıda tedariği,0,19890,Tedarik
+2025-09-28,Tesis bakım ve onarım,0,11723,Üretim
+2025-09-29,Toplantı ve etkinlik salonu geliri,53145,0,Satış
+2025-09-30,Restoran ve bar geliri,53376,0,Satış
+2025-09-30,Restoran ve bar geliri,49130,0,Satış
+2025-09-30,Konaklama vergisi,0,30754,Vergi
+2025-10-03,Tesis bakım ve onarım,0,9160,Üretim
+2025-10-04,Toplantı ve etkinlik salonu geliri,28212,0,Satış
+2025-10-04,Müşteri sorumluluk sigortası,0,15687,Sigorta
+2025-10-07,Toplantı ve etkinlik salonu geliri,27022,0,Satış
+2025-10-07,Otel konaklama geliri,31165,0,Satış
+2025-10-08,Restoran ve bar geliri,33060,0,Satış
+2025-10-08,Mutfak personeli maaşları,0,123429,Maaş
+2025-10-10,İçecek toptan alımı,0,17442,Tedarik
+2025-10-10,Lojistik ödemeleri,0,6385,Lojistik
+2025-10-11,Spa ve havuz hizmet geliri,32588,0,Satış
+2025-10-12,Expedia komisyonu,0,22370,Pazarlama
+2025-10-12,Transfer ve servis araç yakıt,0,6562,Lojistik
+2025-10-13,Toplantı ve etkinlik salonu geliri,30814,0,Satış
+2025-10-13,İçecek toptan alımı,0,19361,Tedarik
+2025-10-14,Doğal gaz,0,11597,Fatura
+2025-10-14,İnternet,0,9419,Fatura
+2025-10-14,Yer kirası,0,36929,Kira
+2025-10-15,Tur ve transfer geliri,34313,0,Satış
+2025-10-16,Gıda tedariği,0,20251,Tedarik
+2025-10-17,Sponsor anlaşma geliri,21697,0,Diğer Gelir
+2025-10-19,Spa ve havuz hizmet geliri,26668,0,Satış
+2025-10-19,Tur ve transfer geliri,25864,0,Satış
+2025-10-19,Sponsor anlaşma geliri,15530,0,Diğer Gelir
+2025-10-20,Otel konaklama geliri,33698,0,Satış
+2025-10-20,KDV,0,17792,Vergi
+2025-10-20,Tesis bakım ve onarım,0,7009,Üretim
+2025-10-22,Toplantı ve etkinlik salonu geliri,33966,0,Satış
+2025-10-22,Lojistik ödemeleri,0,6174,Lojistik
+2025-10-24,Restoran ve bar geliri,29877,0,Satış
+2025-10-24,Online rezervasyon tahsilatı (Booking),26362,0,Satış
+2025-10-24,Otel konaklama geliri,29312,0,Satış
+2025-10-24,Temizlik kimyasal tedarik,0,18474,Tedarik
+2025-10-25,İçecek toptan alımı,0,18064,Tedarik
+2025-10-26,İnternet,0,10187,Fatura
+2025-10-27,Su faturası,0,9918,Fatura
+2025-10-28,Online rezervasyon tahsilatı (Booking),25096,0,Satış
+2025-10-28,Booking komisyonu,0,22184,Pazarlama
+2025-10-30,Restoran ve bar geliri,28766,0,Satış
+2025-10-30,Restoran ve bar geliri,31222,0,Satış
+2025-11-01,Gıda tedariği,0,3979,Tedarik
+2025-11-02,Restoran ve bar geliri,11546,0,Satış
+2025-11-02,Tur ve transfer geliri,10340,0,Satış
+2025-11-02,İnternet,0,4096,Fatura
+2025-11-03,Sponsor anlaşma geliri,12777,0,Diğer Gelir
+2025-11-04,Çamaşır ve tekstil,0,3552,Tedarik
+2025-11-05,Otel konaklama geliri,9370,0,Satış
+2025-11-05,Expedia komisyonu,0,3918,Pazarlama
+2025-11-05,Yer kirası,0,9137,Kira
+2025-11-05,Klima bakımı,0,2792,Üretim
+2025-11-07,Gıda tedariği,0,3912,Tedarik
+2025-11-07,Transfer ve servis araç yakıt,0,3486,Lojistik
+2025-11-09,Otel sigorta poliçesi,0,4861,Sigorta
+2025-11-11,Restoran ve bar geliri,10958,0,Satış
+2025-11-14,Otel konaklama geliri,12286,0,Satış
+2025-11-14,Toplantı ve etkinlik salonu geliri,12904,0,Satış
+2025-11-14,İnternet,0,4495,Fatura
+2025-11-14,Transfer ve servis araç yakıt,0,3369,Lojistik
+2025-11-15,Temizlik kimyasal tedarik,0,3251,Tedarik
+2025-11-17,Çamaşır ve tekstil,0,3873,Tedarik
+2025-11-19,Spa ve havuz hizmet geliri,10192,0,Satış
+2025-11-19,Spa ve havuz hizmet geliri,13604,0,Satış
+2025-11-19,Online rezervasyon tahsilatı (Booking),10889,0,Satış
+2025-11-19,Gıda tedariği,0,3964,Tedarik
+2025-11-19,Booking komisyonu,0,4826,Pazarlama
+2025-11-20,İçecek toptan alımı,0,4021,Tedarik
+2025-11-21,Expedia komisyonu,0,5094,Pazarlama
+2025-11-22,Restoran ve bar geliri,12564,0,Satış
+2025-11-22,Tur ve transfer geliri,11984,0,Satış
+2025-11-22,İçecek toptan alımı,0,3174,Tedarik
+2025-11-25,Spa ve havuz hizmet geliri,10414,0,Satış
+2025-11-25,Resepsiyon ve kat hizmetleri maaşları,0,41745,Maaş
+2025-11-28,Online rezervasyon tahsilatı (Booking),12325,0,Satış
+2025-11-28,Klima bakımı,0,2549,Üretim
+2025-11-29,Elektrik (yüksek tüketim),0,4752,Fatura
+2025-11-30,Restoran ve bar geliri,12061,0,Satış
+2025-11-30,Konaklama vergisi,0,6375,Vergi
+2025-12-01,Restoran ve bar geliri,6982,0,Satış
+2025-12-02,Otel konaklama geliri,6142,0,Satış
+2025-12-03,İçecek toptan alımı,0,5220,Tedarik
+2025-12-05,Toplantı ve etkinlik salonu geliri,8822,0,Satış
+2025-12-05,Su faturası,0,3545,Fatura
+2025-12-06,Doğal gaz,0,2915,Fatura
+2025-12-07,Restoran ve bar geliri,5972,0,Satış
+2025-12-07,Tesis bakım ve onarım,0,2183,Üretim
+2025-12-09,Online rezervasyon tahsilatı (Booking),6781,0,Satış
+2025-12-09,Hediyelik eşya satışı,9168,0,Diğer Gelir
+2025-12-10,Spa ve havuz hizmet geliri,8050,0,Satış
+2025-12-11,Toplantı ve etkinlik salonu geliri,6362,0,Satış
+2025-12-13,Doğal gaz,0,3309,Fatura
+2025-12-14,Expedia komisyonu,0,4924,Pazarlama
+2025-12-15,Toplantı ve etkinlik salonu geliri,6466,0,Satış
+2025-12-15,Restoran ve bar geliri,6924,0,Satış
+2025-12-16,Otel konaklama geliri,6009,0,Satış
+2025-12-16,Konaklama vergisi,0,5385,Vergi
+2025-12-17,Restoran ve bar geliri,8172,0,Satış
+2025-12-18,Mutfak personeli maaşları,0,13980,Maaş
+2025-12-19,Gıda tedariği,0,5475,Tedarik
+2025-12-19,Gıda tedariği,0,5706,Tedarik
+2025-12-20,Lojistik ödemeleri,0,2762,Lojistik
+2025-12-21,Restoran ve bar geliri,6043,0,Satış
+2025-12-22,Tur ve transfer geliri,8048,0,Satış
+2025-12-22,Otel binası kira,0,7504,Kira
+2025-12-24,Tur ve transfer geliri,8383,0,Satış
+2025-12-24,Spa ve havuz hizmet geliri,8518,0,Satış
+2025-12-24,Gıda tedariği,0,5095,Tedarik
+2025-12-24,Tesis bakım ve onarım,0,1945,Üretim
+2025-12-25,Toplantı ve etkinlik salonu geliri,8073,0,Satış
+2025-12-26,Toplantı ve etkinlik salonu geliri,7601,0,Satış
+2025-12-28,Tur operatörü komisyonu,0,4494,Pazarlama
+2025-12-30,Lojistik ödemeleri,0,2639,Lojistik
+2025-12-31,Resepsiyon ve kat hizmetleri maaşları,0,18075,Maaş

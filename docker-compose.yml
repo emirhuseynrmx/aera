@@ -1,0 +1,34 @@
+# AeraCFO — Lokal demo / production-benzeri çalıştırma.
+# Kullanım:
+#   echo "GEMINI_API_KEY=sk-..." > .env
+#   docker compose up --build
+#   → http://localhost:3000
+
+services:
+  aeracfo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: aeracfo:latest
+    container_name: aeracfo
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    environment:
+      # .env yoksa veya değer override edilmek istenirse buradan ezilir.
+      RUST_LOG: ${RUST_LOG:-info}
+      SERVER_ADDR: 0.0.0.0:3000
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-2.5-flash}
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-}
+      TRUST_PROXY_HEADERS: ${TRUST_PROXY_HEADERS:-0}
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:3000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    # Üretimde ters proxy arkasına alınırsa açık bırakmak yerine internal network kullan.
+    # networks:
+    #   - aera_net

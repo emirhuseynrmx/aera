@@ -1,0 +1,421 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-03,Dikim makinesi bakım,0,24983,Üretim
+2024-01-07,"Aksesuar (fermuar, düğme) tedarik",0,50342,Tedarik
+2024-01-07,Kargo gönderim,0,19879,Lojistik
+2024-01-08,Toptan yazlık koleksiyon satış,93494,0,Satış
+2024-01-08,Kalite kontrol maaşı,0,75233,Maaş
+2024-01-14,Kışlık sezon sipariş tahsilatı,70665,0,Satış
+2024-01-16,Doğal gaz,0,6403,Fatura
+2024-01-17,"Aksesuar (fermuar, düğme) tedarik",0,43271,Tedarik
+2024-01-19,Dikim makinesi bakım,0,24350,Üretim
+2024-01-21,Kumaş toptan alımı,0,48616,Tedarik
+2024-01-22,İhracat sipariş tahsilatı,83221,0,Satış
+2024-01-22,"Aksesuar (fermuar, düğme) tedarik",0,40003,Tedarik
+2024-01-22,Kalite kontrol maaşı,0,60754,Maaş
+2024-01-24,Su,0,6972,Fatura
+2024-01-25,Markaya fason üretim ödemesi,80334,0,Satış
+2024-01-25,İhracat sipariş tahsilatı,73728,0,Satış
+2024-01-26,Atölye kira,0,23462,Kira
+2024-01-26,Doğal gaz,0,6376,Fatura
+2024-01-27,KDV,0,12539,Vergi
+2024-01-28,Kışlık sezon sipariş tahsilatı,76854,0,Satış
+2024-02-01,Stopaj,0,15007,Vergi
+2024-02-02,Atölye kira,0,29627,Kira
+2024-02-04,İhracat sipariş tahsilatı,88584,0,Satış
+2024-02-04,Etiket ve paketleme,0,32225,Üretim
+2024-02-05,Su,0,7588,Fatura
+2024-02-06,Kumaş toptan alımı,0,24231,Tedarik
+2024-02-06,Ütü ve presleme,0,28740,Üretim
+2024-02-08,Mağaza zinciri toptan,73285,0,Satış
+2024-02-09,Toptan yazlık koleksiyon satış,78954,0,Satış
+2024-02-09,Kargo gönderim,0,6056,Lojistik
+2024-02-11,Kumaş toptan alımı,0,26840,Tedarik
+2024-02-13,Su,0,7609,Fatura
+2024-02-15,Kumaş toptan alımı,0,23845,Tedarik
+2024-02-16,Su,0,7982,Fatura
+2024-02-18,Mağaza zinciri toptan,67325,0,Satış
+2024-02-18,Boyalı kumaş alımı,0,31401,Tedarik
+2024-02-18,Kumaş toptan alımı,0,31780,Tedarik
+2024-02-19,Nakliye ödemesi,0,7166,Lojistik
+2024-02-20,Toptan yazlık koleksiyon satış,82608,0,Satış
+2024-02-23,İplik ve dokuma malzeme,0,29263,Tedarik
+2024-02-23,Boyalı kumaş alımı,0,30315,Tedarik
+2024-02-24,Atölye işçi maaşları,0,143193,Maaş
+2024-02-26,İhracat sipariş tahsilatı,69229,0,Satış
+2024-02-27,Toptan yazlık koleksiyon satış,89855,0,Satış
+2024-02-29,Kargo gönderim,0,6229,Lojistik
+2024-03-01,İhracat sipariş tahsilatı,121029,0,Satış
+2024-03-02,Boyalı kumaş alımı,0,48191,Tedarik
+2024-03-02,İğne ve sarf malzeme,0,18182,Üretim
+2024-03-02,Kargo gönderim,0,24038,Lojistik
+2024-03-03,İhracat sipariş tahsilatı,105489,0,Satış
+2024-03-04,Su,0,8393,Fatura
+2024-03-05,İplik ve dokuma malzeme,0,42741,Tedarik
+2024-03-08,Etiket ve paketleme,0,15304,Üretim
+2024-03-09,Kışlık sezon sipariş tahsilatı,103374,0,Satış
+2024-03-09,Ütü ve presleme,0,15555,Üretim
+2024-03-12,Atölye kira,0,36684,Kira
+2024-03-13,Doğal gaz,0,10269,Fatura
+2024-03-15,Etiket ve paketleme,0,19560,Üretim
+2024-03-16,Toptan yazlık koleksiyon satış,125690,0,Satış
+2024-03-18,Markaya fason üretim ödemesi,103258,0,Satış
+2024-03-21,Elektrik,0,8710,Fatura
+2024-03-22,Kumaş hurda satışı,28755,0,Diğer Gelir
+2024-03-23,KDV,0,14817,Vergi
+2024-03-26,Kumaş toptan alımı,0,47464,Tedarik
+2024-03-27,Toptan yazlık koleksiyon satış,103130,0,Satış
+2024-03-28,"Aksesuar (fermuar, düğme) tedarik",0,44067,Tedarik
+2024-03-29,İplik ve dokuma malzeme,0,41846,Tedarik
+2024-03-29,Kalite kontrol maaşı,0,146104,Maaş
+2024-04-01,Kışlık sezon sipariş tahsilatı,93204,0,Satış
+2024-04-01,Markaya fason üretim ödemesi,102274,0,Satış
+2024-04-02,Elektrik,0,15897,Fatura
+2024-04-02,Nakliye ödemesi,0,13202,Lojistik
+2024-04-04,Modelist ve tasarımcı maaşı,0,97811,Maaş
+2024-04-05,İhracat sipariş tahsilatı,115071,0,Satış
+2024-04-05,Kumaş toptan alımı,0,44803,Tedarik
+2024-04-07,Kumaş toptan alımı,0,48220,Tedarik
+2024-04-08,Markaya fason üretim ödemesi,114749,0,Satış
+2024-04-11,Modelist ve tasarımcı maaşı,0,94957,Maaş
+2024-04-12,Stopaj,0,23429,Vergi
+2024-04-14,Toptan yazlık koleksiyon satış,114297,0,Satış
+2024-04-15,Dikim makinesi bakım,0,43382,Üretim
+2024-04-17,Toptan yazlık koleksiyon satış,110929,0,Satış
+2024-04-18,Kumaş hurda satışı,27833,0,Diğer Gelir
+2024-04-18,Kargo gönderim,0,14692,Lojistik
+2024-04-19,Kumaş toptan alımı,0,44087,Tedarik
+2024-04-20,İplik ve dokuma malzeme,0,48086,Tedarik
+2024-04-21,İplik ve dokuma malzeme,0,48065,Tedarik
+2024-04-21,Atölye kira,0,41214,Kira
+2024-04-22,İhracat sipariş tahsilatı,87607,0,Satış
+2024-04-23,Toptan yazlık koleksiyon satış,102321,0,Satış
+2024-04-24,Su,0,18149,Fatura
+2024-04-28,"Aksesuar (fermuar, düğme) tedarik",0,41963,Tedarik
+2024-04-30,Dikim makinesi bakım,0,47026,Üretim
+2024-05-01,Kumaş hurda satışı,17480,0,Diğer Gelir
+2024-05-04,Kumaş toptan alımı,0,50885,Tedarik
+2024-05-06,Etiket ve paketleme,0,50680,Üretim
+2024-05-10,Kumaş toptan alımı,0,45851,Tedarik
+2024-05-11,Kargo gönderim,0,16763,Lojistik
+2024-05-13,Mağaza zinciri toptan,218886,0,Satış
+2024-05-14,Markaya fason üretim ödemesi,244754,0,Satış
+2024-05-14,İhracat sipariş tahsilatı,202692,0,Satış
+2024-05-16,Su,0,21939,Fatura
+2024-05-19,Atölye işçi maaşları,0,254948,Maaş
+2024-05-20,Elektrik,0,20567,Fatura
+2024-05-21,Kumaş hurda satışı,15902,0,Diğer Gelir
+2024-05-23,Kumaş toptan alımı,0,58158,Tedarik
+2024-05-23,"Aksesuar (fermuar, düğme) tedarik",0,58582,Tedarik
+2024-05-24,Atölye kira,0,42630,Kira
+2024-05-25,Etiket ve paketleme,0,49636,Üretim
+2024-05-26,Toptan yazlık koleksiyon satış,201944,0,Satış
+2024-05-29,Stopaj,0,25740,Vergi
+2024-05-30,Kumaş toptan alımı,0,51622,Tedarik
+2024-05-31,Boyalı kumaş alımı,0,46713,Tedarik
+2024-05-31,Nakliye ödemesi,0,15320,Lojistik
+2024-06-01,Elektrik,0,14132,Fatura
+2024-06-01,Stopaj,0,17168,Vergi
+2024-06-03,Atölye işçi maaşları,0,105123,Maaş
+2024-06-06,"Aksesuar (fermuar, düğme) tedarik",0,56499,Tedarik
+2024-06-07,Su,0,13913,Fatura
+2024-06-11,Boyalı kumaş alımı,0,62956,Tedarik
+2024-06-12,Etiket ve paketleme,0,26884,Üretim
+2024-06-15,Kumaş toptan alımı,0,57730,Tedarik
+2024-06-17,Toptan yazlık koleksiyon satış,147775,0,Satış
+2024-06-18,Showroom kirası,0,39794,Kira
+2024-06-19,İğne ve sarf malzeme,0,22515,Üretim
+2024-06-23,Kargo gönderim,0,8904,Lojistik
+2024-06-23,Nakliye ödemesi,0,7011,Lojistik
+2024-06-24,Kargo gönderim,0,7807,Lojistik
+2024-06-25,Markaya fason üretim ödemesi,201742,0,Satış
+2024-06-25,"Aksesuar (fermuar, düğme) tedarik",0,52178,Tedarik
+2024-06-26,Markaya fason üretim ödemesi,143677,0,Satış
+2024-06-26,Ütü ve presleme,0,21848,Üretim
+2024-06-27,Kalite kontrol maaşı,0,82348,Maaş
+2024-06-28,Toptan yazlık koleksiyon satış,164606,0,Satış
+2024-07-01,Kalite kontrol maaşı,0,74266,Maaş
+2024-07-03,Kumaş hurda satışı,23583,0,Diğer Gelir
+2024-07-06,Kışlık sezon sipariş tahsilatı,75898,0,Satış
+2024-07-06,Mağaza zinciri toptan,92901,0,Satış
+2024-07-06,Stopaj,0,12290,Vergi
+2024-07-07,Kargo gönderim,0,19038,Lojistik
+2024-07-10,Mağaza zinciri toptan,95602,0,Satış
+2024-07-10,Ütü ve presleme,0,28864,Üretim
+2024-07-11,Boyalı kumaş alımı,0,36562,Tedarik
+2024-07-13,Doğal gaz,0,10539,Fatura
+2024-07-15,Etiket ve paketleme,0,27890,Üretim
+2024-07-19,Kışlık sezon sipariş tahsilatı,88049,0,Satış
+2024-07-19,Kalite kontrol maaşı,0,65514,Maaş
+2024-07-21,Markaya fason üretim ödemesi,83221,0,Satış
+2024-07-21,Boyalı kumaş alımı,0,40364,Tedarik
+2024-07-24,İplik ve dokuma malzeme,0,32441,Tedarik
+2024-07-25,Kışlık sezon sipariş tahsilatı,70541,0,Satış
+2024-07-25,Boyalı kumaş alımı,0,37062,Tedarik
+2024-07-29,Showroom kirası,0,27359,Kira
+2024-07-30,Boyalı kumaş alımı,0,35914,Tedarik
+2024-07-30,Su,0,9927,Fatura
+2024-08-01,Kumaş hurda satışı,12148,0,Diğer Gelir
+2024-08-01,Etiket ve paketleme,0,12393,Üretim
+2024-08-02,İğne ve sarf malzeme,0,11998,Üretim
+2024-08-02,Etiket ve paketleme,0,10766,Üretim
+2024-08-03,Doğal gaz,0,8947,Fatura
+2024-08-04,Kargo gönderim,0,20619,Lojistik
+2024-08-09,Kumaş toptan alımı,0,46859,Tedarik
+2024-08-11,Atölye kira,0,31374,Kira
+2024-08-13,Toptan yazlık koleksiyon satış,138342,0,Satış
+2024-08-15,Etiket ve paketleme,0,13157,Üretim
+2024-08-17,Doğal gaz,0,9684,Fatura
+2024-08-19,Dikim makinesi bakım,0,14088,Üretim
+2024-08-20,"Aksesuar (fermuar, düğme) tedarik",0,54316,Tedarik
+2024-08-20,Stopaj,0,18129,Vergi
+2024-08-21,Kumaş hurda satışı,14151,0,Diğer Gelir
+2024-08-22,"Aksesuar (fermuar, düğme) tedarik",0,55306,Tedarik
+2024-08-23,Kışlık sezon sipariş tahsilatı,156919,0,Satış
+2024-08-25,Mağaza zinciri toptan,128178,0,Satış
+2024-08-26,Doğal gaz,0,9337,Fatura
+2024-08-28,Toptan yazlık koleksiyon satış,130689,0,Satış
+2024-08-29,"Aksesuar (fermuar, düğme) tedarik",0,50464,Tedarik
+2024-08-30,Atölye işçi maaşları,0,152829,Maaş
+2024-09-01,Dikim makinesi bakım,0,27669,Üretim
+2024-09-02,Markaya fason üretim ödemesi,203675,0,Satış
+2024-09-02,Kumaş toptan alımı,0,38288,Tedarik
+2024-09-03,Kumaş toptan alımı,0,49293,Tedarik
+2024-09-04,Toptan yazlık koleksiyon satış,269238,0,Satış
+2024-09-05,"Aksesuar (fermuar, düğme) tedarik",0,41649,Tedarik
+2024-09-05,Modelist ve tasarımcı maaşı,0,264576,Maaş
+2024-09-05,Doğal gaz,0,18412,Fatura
+2024-09-05,Kargo gönderim,0,17747,Lojistik
+2024-09-09,Toptan yazlık koleksiyon satış,220048,0,Satış
+2024-09-13,Etiket ve paketleme,0,29627,Üretim
+2024-09-13,Showroom kirası,0,51170,Kira
+2024-09-13,Doğal gaz,0,19449,Fatura
+2024-09-14,Nakliye ödemesi,0,16081,Lojistik
+2024-09-15,Kışlık sezon sipariş tahsilatı,223987,0,Satış
+2024-09-20,Etiket ve paketleme,0,33834,Üretim
+2024-09-21,İplik ve dokuma malzeme,0,43947,Tedarik
+2024-09-21,Stopaj,0,24457,Vergi
+2024-09-25,Kumaş toptan alımı,0,42268,Tedarik
+2024-09-25,Boyalı kumaş alımı,0,46304,Tedarik
+2024-09-28,İplik ve dokuma malzeme,0,42284,Tedarik
+2024-10-01,Kumaş toptan alımı,0,42396,Tedarik
+2024-10-01,Etiket ve paketleme,0,21760,Üretim
+2024-10-04,"Aksesuar (fermuar, düğme) tedarik",0,40960,Tedarik
+2024-10-06,Mağaza zinciri toptan,115015,0,Satış
+2024-10-07,Mağaza zinciri toptan,122362,0,Satış
+2024-10-07,İğne ve sarf malzeme,0,20721,Üretim
+2024-10-08,Toptan yazlık koleksiyon satış,119513,0,Satış
+2024-10-08,Dikim makinesi bakım,0,19905,Üretim
+2024-10-09,"Aksesuar (fermuar, düğme) tedarik",0,39541,Tedarik
+2024-10-12,Boyalı kumaş alımı,0,47118,Tedarik
+2024-10-12,Su,0,20883,Fatura
+2024-10-13,Modelist ve tasarımcı maaşı,0,95536,Maaş
+2024-10-17,Kumaş hurda satışı,37296,0,Diğer Gelir
+2024-10-17,Boyalı kumaş alımı,0,41438,Tedarik
+2024-10-18,Kışlık sezon sipariş tahsilatı,165987,0,Satış
+2024-10-20,Modelist ve tasarımcı maaşı,0,105648,Maaş
+2024-10-20,Su,0,19485,Fatura
+2024-10-22,Toptan yazlık koleksiyon satış,153202,0,Satış
+2024-10-22,Kargo gönderim,0,16382,Lojistik
+2024-10-23,Kargo gönderim,0,13143,Lojistik
+2024-10-24,Etiket ve paketleme,0,23054,Üretim
+2024-10-25,Kışlık sezon sipariş tahsilatı,156032,0,Satış
+2024-10-26,"Aksesuar (fermuar, düğme) tedarik",0,47355,Tedarik
+2024-10-26,Showroom kirası,0,40795,Kira
+2024-10-27,Stopaj,0,23039,Vergi
+2024-10-29,İplik ve dokuma malzeme,0,40621,Tedarik
+2024-11-02,Markaya fason üretim ödemesi,139065,0,Satış
+2024-11-02,Dikim makinesi bakım,0,15332,Üretim
+2024-11-02,İğne ve sarf malzeme,0,12507,Üretim
+2024-11-04,Kargo gönderim,0,8836,Lojistik
+2024-11-05,İhracat sipariş tahsilatı,163856,0,Satış
+2024-11-08,İplik ve dokuma malzeme,0,63084,Tedarik
+2024-11-10,Etiket ve paketleme,0,16772,Üretim
+2024-11-14,Kumaş hurda satışı,12779,0,Diğer Gelir
+2024-11-14,KDV,0,19303,Vergi
+2024-11-18,Kargo gönderim,0,7447,Lojistik
+2024-11-19,Markaya fason üretim ödemesi,158688,0,Satış
+2024-11-19,Markaya fason üretim ödemesi,141486,0,Satış
+2024-11-19,Kumaş toptan alımı,0,64752,Tedarik
+2024-11-24,Mağaza zinciri toptan,116962,0,Satış
+2024-11-24,Doğal gaz,0,9031,Fatura
+2024-11-25,Boyalı kumaş alımı,0,60668,Tedarik
+2024-11-25,Boyalı kumaş alımı,0,65743,Tedarik
+2024-11-25,Dikim makinesi bakım,0,14222,Üretim
+2024-11-26,Su,0,10381,Fatura
+2024-11-27,Kumaş hurda satışı,13255,0,Diğer Gelir
+2024-11-27,Atölye işçi maaşları,0,195283,Maaş
+2024-11-27,Su,0,11279,Fatura
+2024-11-28,Etiket ve paketleme,0,12615,Üretim
+2024-11-29,Showroom kirası,0,39349,Kira
+2024-11-30,Nakliye ödemesi,0,9362,Lojistik
+2024-12-01,Mağaza zinciri toptan,132618,0,Satış
+2024-12-02,"Aksesuar (fermuar, düğme) tedarik",0,72613,Tedarik
+2024-12-03,Ütü ve presleme,0,12517,Üretim
+2024-12-04,Elektrik,0,7491,Fatura
+2024-12-06,Kışlık sezon sipariş tahsilatı,123105,0,Satış
+2024-12-07,Kumaş hurda satışı,12370,0,Diğer Gelir
+2024-12-07,Atölye kira,0,27078,Kira
+2024-12-08,Doğal gaz,0,9180,Fatura
+2024-12-09,Dikim makinesi bakım,0,12748,Üretim
+2024-12-10,Kalite kontrol maaşı,0,81891,Maaş
+2024-12-12,İhracat sipariş tahsilatı,136671,0,Satış
+2024-12-13,Kargo gönderim,0,7632,Lojistik
+2024-12-14,"Aksesuar (fermuar, düğme) tedarik",0,63533,Tedarik
+2024-12-14,Modelist ve tasarımcı maaşı,0,70599,Maaş
+2024-12-14,KDV,0,18006,Vergi
+2024-12-15,Kışlık sezon sipariş tahsilatı,111650,0,Satış
+2024-12-16,Etiket ve paketleme,0,11311,Üretim
+2024-12-17,Doğal gaz,0,9094,Fatura
+2024-12-23,"Aksesuar (fermuar, düğme) tedarik",0,71273,Tedarik
+2024-12-25,Kumaş hurda satışı,13016,0,Diğer Gelir
+2024-12-29,Etiket ve paketleme,0,11142,Üretim
+2024-12-30,Toptan yazlık koleksiyon satış,126316,0,Satış
+2024-12-30,Kargo gönderim,0,6938,Lojistik
+2024-12-30,Nakliye ödemesi,0,6151,Lojistik
+2024-12-31,İğne ve sarf malzeme,0,14269,Üretim
+2025-01-03,İhracat sipariş tahsilatı,114499,0,Satış
+2025-01-03,Mağaza zinciri toptan,137054,0,Satış
+2025-01-04,Showroom kirası,0,29011,Kira
+2025-01-06,İplik ve dokuma malzeme,0,25975,Tedarik
+2025-01-11,Su,0,11207,Fatura
+2025-01-13,Kargo gönderim,0,16694,Lojistik
+2025-01-14,Kışlık sezon sipariş tahsilatı,109755,0,Satış
+2025-01-15,Boyalı kumaş alımı,0,26196,Tedarik
+2025-01-17,Ütü ve presleme,0,15178,Üretim
+2025-01-19,Kumaş toptan alımı,0,30859,Tedarik
+2025-01-19,Stopaj,0,11373,Vergi
+2025-01-21,"Aksesuar (fermuar, düğme) tedarik",0,29222,Tedarik
+2025-01-21,Etiket ve paketleme,0,15040,Üretim
+2025-01-23,İhracat sipariş tahsilatı,131165,0,Satış
+2025-01-23,Kalite kontrol maaşı,0,58758,Maaş
+2025-01-24,Kalite kontrol maaşı,0,75041,Maaş
+2025-01-24,Etiket ve paketleme,0,16487,Üretim
+2025-01-25,İplik ve dokuma malzeme,0,26001,Tedarik
+2025-01-27,Boyalı kumaş alımı,0,25855,Tedarik
+2025-01-31,Doğal gaz,0,12035,Fatura
+2025-02-02,Su,0,8955,Fatura
+2025-02-03,"Aksesuar (fermuar, düğme) tedarik",0,29940,Tedarik
+2025-02-03,Atölye kira,0,29208,Kira
+2025-02-05,Boyalı kumaş alımı,0,32300,Tedarik
+2025-02-05,KDV,0,13782,Vergi
+2025-02-06,Kışlık sezon sipariş tahsilatı,99753,0,Satış
+2025-02-07,Toptan yazlık koleksiyon satış,77590,0,Satış
+2025-02-09,Markaya fason üretim ödemesi,75664,0,Satış
+2025-02-09,Kalite kontrol maaşı,0,142569,Maaş
+2025-02-09,Dikim makinesi bakım,0,13919,Üretim
+2025-02-09,Ütü ve presleme,0,14704,Üretim
+2025-02-10,Boyalı kumaş alımı,0,31667,Tedarik
+2025-02-12,Kumaş toptan alımı,0,36089,Tedarik
+2025-02-12,Etiket ve paketleme,0,14653,Üretim
+2025-02-13,Doğal gaz,0,7522,Fatura
+2025-02-13,Kargo gönderim,0,19113,Lojistik
+2025-02-16,İhracat sipariş tahsilatı,94986,0,Satış
+2025-02-16,Su,0,9213,Fatura
+2025-02-17,İhracat sipariş tahsilatı,77912,0,Satış
+2025-02-17,Kumaş toptan alımı,0,30566,Tedarik
+2025-02-22,Mağaza zinciri toptan,100112,0,Satış
+2025-02-26,Etiket ve paketleme,0,16664,Üretim
+2025-02-27,"Aksesuar (fermuar, düğme) tedarik",0,27953,Tedarik
+2025-03-01,İhracat sipariş tahsilatı,68393,0,Satış
+2025-03-01,Etiket ve paketleme,0,14680,Üretim
+2025-03-02,Kumaş toptan alımı,0,33407,Tedarik
+2025-03-03,Atölye işçi maaşları,0,163482,Maaş
+2025-03-03,Kargo gönderim,0,7495,Lojistik
+2025-03-07,Dikim makinesi bakım,0,15187,Üretim
+2025-03-08,Boyalı kumaş alımı,0,34532,Tedarik
+2025-03-09,Kışlık sezon sipariş tahsilatı,69972,0,Satış
+2025-03-09,Atölye kira,0,32695,Kira
+2025-03-15,Markaya fason üretim ödemesi,84798,0,Satış
+2025-03-16,İğne ve sarf malzeme,0,13025,Üretim
+2025-03-16,Dikim makinesi bakım,0,11991,Üretim
+2025-03-18,İplik ve dokuma malzeme,0,31284,Tedarik
+2025-03-20,Kışlık sezon sipariş tahsilatı,63263,0,Satış
+2025-03-20,Kumaş toptan alımı,0,37054,Tedarik
+2025-03-22,İhracat sipariş tahsilatı,62581,0,Satış
+2025-03-23,Mağaza zinciri toptan,71960,0,Satış
+2025-03-23,Markaya fason üretim ödemesi,81900,0,Satış
+2025-03-24,İhracat sipariş tahsilatı,66669,0,Satış
+2025-03-24,Toptan yazlık koleksiyon satış,79838,0,Satış
+2025-03-25,Etiket ve paketleme,0,15097,Üretim
+2025-03-26,"Aksesuar (fermuar, düğme) tedarik",0,31436,Tedarik
+2025-03-27,Nakliye ödemesi,0,7900,Lojistik
+2025-03-28,Su,0,14556,Fatura
+2025-03-28,Su,0,13529,Fatura
+2025-03-29,Kargo gönderim,0,6578,Lojistik
+2025-03-29,KDV,0,19476,Vergi
+2025-03-30,"Aksesuar (fermuar, düğme) tedarik",0,34323,Tedarik
+2025-03-31,"Aksesuar (fermuar, düğme) tedarik",0,30637,Tedarik
+2025-04-02,Elektrik,0,15432,Fatura
+2025-04-03,İplik ve dokuma malzeme,0,91677,Tedarik
+2025-04-03,Su,0,17174,Fatura
+2025-04-04,Mağaza zinciri toptan,113588,0,Satış
+2025-04-04,Showroom kirası,0,37896,Kira
+2025-04-08,Mağaza zinciri toptan,114676,0,Satış
+2025-04-09,Mağaza zinciri toptan,95493,0,Satış
+2025-04-09,Kalite kontrol maaşı,0,214617,Maaş
+2025-04-10,"Aksesuar (fermuar, düğme) tedarik",0,105114,Tedarik
+2025-04-12,Boyalı kumaş alımı,0,79691,Tedarik
+2025-04-14,Toptan yazlık koleksiyon satış,94781,0,Satış
+2025-04-14,Kargo gönderim,0,29055,Lojistik
+2025-04-17,İhracat sipariş tahsilatı,111178,0,Satış
+2025-04-18,Kışlık sezon sipariş tahsilatı,84992,0,Satış
+2025-04-18,Mağaza zinciri toptan,89440,0,Satış
+2025-04-21,Ütü ve presleme,0,27505,Üretim
+2025-04-22,Kumaş hurda satışı,14591,0,Diğer Gelir
+2025-04-23,İhracat sipariş tahsilatı,116059,0,Satış
+2025-04-23,Etiket ve paketleme,0,30034,Üretim
+2025-04-24,Ütü ve presleme,0,28094,Üretim
+2025-04-28,Kumaş hurda satışı,16974,0,Diğer Gelir
+2025-04-30,KDV,0,22024,Vergi
+2025-05-01,Mağaza zinciri toptan,106190,0,Satış
+2025-05-02,Kumaş toptan alımı,0,112455,Tedarik
+2025-05-02,Su,0,13070,Fatura
+2025-05-03,Stopaj,0,25863,Vergi
+2025-05-04,Etiket ve paketleme,0,34823,Üretim
+2025-05-04,Nakliye ödemesi,0,10835,Lojistik
+2025-05-05,Kışlık sezon sipariş tahsilatı,117027,0,Satış
+2025-05-06,Kumaş hurda satışı,21207,0,Diğer Gelir
+2025-05-06,İplik ve dokuma malzeme,0,101160,Tedarik
+2025-05-09,Toptan yazlık koleksiyon satış,92102,0,Satış
+2025-05-11,Showroom kirası,0,42202,Kira
+2025-05-11,Doğal gaz,0,12980,Fatura
+2025-05-12,Mağaza zinciri toptan,107040,0,Satış
+2025-05-12,Atölye işçi maaşları,0,226329,Maaş
+2025-05-13,"Aksesuar (fermuar, düğme) tedarik",0,111438,Tedarik
+2025-05-14,Toptan yazlık koleksiyon satış,114680,0,Satış
+2025-05-14,Kargo gönderim,0,11349,Lojistik
+2025-05-18,Markaya fason üretim ödemesi,119536,0,Satış
+2025-05-20,Mağaza zinciri toptan,88968,0,Satış
+2025-05-21,Mağaza zinciri toptan,92037,0,Satış
+2025-05-23,İğne ve sarf malzeme,0,29915,Üretim
+2025-05-25,Nakliye ödemesi,0,10835,Lojistik
+2025-05-26,Kumaş hurda satışı,20248,0,Diğer Gelir
+2025-05-26,Su,0,11568,Fatura
+2025-05-27,Markaya fason üretim ödemesi,91131,0,Satış
+2025-05-28,Ütü ve presleme,0,34132,Üretim
+2025-06-01,Kargo gönderim,0,8919,Lojistik
+2025-06-02,Kumaş toptan alımı,0,40536,Tedarik
+2025-06-02,KDV,0,20426,Vergi
+2025-06-03,Dikim makinesi bakım,0,14704,Üretim
+2025-06-03,Ütü ve presleme,0,16840,Üretim
+2025-06-08,İhracat sipariş tahsilatı,160702,0,Satış
+2025-06-08,İplik ve dokuma malzeme,0,42567,Tedarik
+2025-06-08,Boyalı kumaş alımı,0,44363,Tedarik
+2025-06-09,Showroom kirası,0,33683,Kira
+2025-06-11,"Aksesuar (fermuar, düğme) tedarik",0,46378,Tedarik
+2025-06-11,Boyalı kumaş alımı,0,40953,Tedarik
+2025-06-11,Etiket ve paketleme,0,14595,Üretim
+2025-06-11,Etiket ve paketleme,0,15866,Üretim
+2025-06-13,İhracat sipariş tahsilatı,133789,0,Satış
+2025-06-13,Etiket ve paketleme,0,13287,Üretim
+2025-06-17,Su,0,9727,Fatura
+2025-06-17,Nakliye ödemesi,0,7389,Lojistik
+2025-06-18,Toptan yazlık koleksiyon satış,141592,0,Satış
+2025-06-19,Markaya fason üretim ödemesi,162220,0,Satış
+2025-06-21,Atölye işçi maaşları,0,186185,Maaş
+2025-06-22,"Aksesuar (fermuar, düğme) tedarik",0,41692,Tedarik
+2025-06-24,Nakliye ödemesi,0,8690,Lojistik
+2025-06-26,Toptan yazlık koleksiyon satış,114344,0,Satış
+2025-06-30,Kumaş hurda satışı,31768,0,Diğer Gelir
+2025-06-30,Elektrik,0,10839,Fatura
+2025-06-30,Elektrik,0,9934,Fatura

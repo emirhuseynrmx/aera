@@ -1,0 +1,487 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Muayene ücreti tahsilatı,27271,0,Satış
+2024-01-01,Estetik uygulama tahsilatı,33017,0,Satış
+2024-01-01,Sterilizasyon ekipmanı,0,18490,Üretim
+2024-01-02,Laboratuvar test geliri,27491,0,Satış
+2024-01-03,Doktor maaşları,0,112571,Maaş
+2024-01-04,Doğal gaz,0,11057,Fatura
+2024-01-06,Estetik uygulama tahsilatı,31754,0,Satış
+2024-01-06,Klinik kira ödemesi,0,43439,Kira
+2024-01-09,Doktor maaşları,0,109663,Maaş
+2024-01-12,Doğal gaz,0,10350,Fatura
+2024-01-13,Google Ads sağlık,0,8249,Pazarlama
+2024-01-14,Görüntüleme geliri,26282,0,Satış
+2024-01-14,Özel sigorta tahsilatı,28322,0,Satış
+2024-01-15,Estetik uygulama tahsilatı,25257,0,Satış
+2024-01-15,Diş tedavi tahsilatı,27066,0,Satış
+2024-01-16,Muayene ücreti tahsilatı,31702,0,Satış
+2024-01-16,Stopaj,0,22207,Vergi
+2024-01-18,Tedavi paket ödemesi,31764,0,Satış
+2024-01-18,Laboratuvar reaktifi,0,37317,Tedarik
+2024-01-20,Laboratuvar test geliri,29930,0,Satış
+2024-01-20,Sterilizasyon ekipmanı,0,17197,Üretim
+2024-01-20,Google Ads sağlık,0,8159,Pazarlama
+2024-01-22,Laboratuvar test geliri,24807,0,Satış
+2024-01-24,Görüntüleme geliri,35453,0,Satış
+2024-01-24,Laboratuvar reaktifi,0,33239,Tedarik
+2024-01-26,Görüntüleme geliri,26548,0,Satış
+2024-01-26,Tedavi paket ödemesi,26370,0,Satış
+2024-01-26,Tedavi paket ödemesi,27007,0,Satış
+2024-01-26,Tedavi paket ödemesi,33183,0,Satış
+2024-01-26,Su,0,9476,Fatura
+2024-01-27,Tıbbi sarf malzeme,0,31417,Tedarik
+2024-01-28,Tedavi paket ödemesi,29864,0,Satış
+2024-01-29,Tedavi paket ödemesi,31156,0,Satış
+2024-01-31,Diş tedavi tahsilatı,35014,0,Satış
+2024-02-02,Muayene ücreti tahsilatı,33453,0,Satış
+2024-02-05,Su,0,8613,Fatura
+2024-02-07,Estetik uygulama tahsilatı,44749,0,Satış
+2024-02-07,Sosyal medya tanıtım,0,12133,Pazarlama
+2024-02-08,Sağlık raporu ücreti,12920,0,Diğer Gelir
+2024-02-08,Laboratuvar reaktifi,0,38152,Tedarik
+2024-02-08,Tek kullanımlık ürünler,0,31427,Tedarik
+2024-02-08,Klinik sigorta,0,25552,Sigorta
+2024-02-09,Muayene ücreti tahsilatı,35671,0,Satış
+2024-02-09,Stopaj,0,16704,Vergi
+2024-02-10,Muayene ücreti tahsilatı,38645,0,Satış
+2024-02-10,Görüntüleme geliri,37767,0,Satış
+2024-02-10,Estetik uygulama tahsilatı,39395,0,Satış
+2024-02-12,Cihaz bakım ve kalibrasyon,0,10668,Üretim
+2024-02-12,Elektrik,0,10132,Fatura
+2024-02-13,Diş tedavi tahsilatı,41461,0,Satış
+2024-02-14,Tek kullanımlık ürünler,0,34834,Tedarik
+2024-02-15,Görüntüleme geliri,32174,0,Satış
+2024-02-15,Hemşire ve teknisyen maaşları,0,96943,Maaş
+2024-02-15,Cihaz bakım ve kalibrasyon,0,12426,Üretim
+2024-02-16,Laboratuvar test geliri,39687,0,Satış
+2024-02-16,Diş tedavi tahsilatı,37185,0,Satış
+2024-02-18,Görüntüleme geliri,39355,0,Satış
+2024-02-19,Hemşire ve teknisyen maaşları,0,107251,Maaş
+2024-02-21,Klinik kira ödemesi,0,53649,Kira
+2024-02-22,Sterilizasyon ekipmanı,0,12708,Üretim
+2024-02-23,Görüntüleme geliri,32304,0,Satış
+2024-02-23,Diş tedavi tahsilatı,44681,0,Satış
+2024-02-23,Sağlık raporu ücreti,17071,0,Diğer Gelir
+2024-02-24,Muayene ücreti tahsilatı,32246,0,Satış
+2024-02-24,Doğal gaz,0,8696,Fatura
+2024-02-28,Görüntüleme geliri,44824,0,Satış
+2024-03-01,Tek kullanımlık ürünler,0,17962,Tedarik
+2024-03-02,Diş tedavi tahsilatı,24370,0,Satış
+2024-03-03,Laboratuvar test geliri,24666,0,Satış
+2024-03-04,Tek kullanımlık ürünler,0,17224,Tedarik
+2024-03-04,Klinik kira ödemesi,0,50024,Kira
+2024-03-05,Tek kullanımlık ürünler,0,15585,Tedarik
+2024-03-07,Laboratuvar test geliri,24887,0,Satış
+2024-03-08,Estetik uygulama tahsilatı,23407,0,Satış
+2024-03-10,Laboratuvar test geliri,25338,0,Satış
+2024-03-10,Muayene ücreti tahsilatı,32537,0,Satış
+2024-03-11,Doktor maaşları,0,189283,Maaş
+2024-03-12,Tedavi paket ödemesi,29457,0,Satış
+2024-03-12,Muayene ücreti tahsilatı,24578,0,Satış
+2024-03-12,Muayene ücreti tahsilatı,26093,0,Satış
+2024-03-13,Görüntüleme geliri,25207,0,Satış
+2024-03-14,Diş tedavi tahsilatı,25154,0,Satış
+2024-03-14,Laboratuvar test geliri,23296,0,Satış
+2024-03-15,Muayene ücreti tahsilatı,27645,0,Satış
+2024-03-15,Özel sigorta tahsilatı,31738,0,Satış
+2024-03-15,Elektrik,0,15754,Fatura
+2024-03-17,Laboratuvar reaktifi,0,19785,Tedarik
+2024-03-18,Tedavi paket ödemesi,21774,0,Satış
+2024-03-18,Laboratuvar test geliri,22105,0,Satış
+2024-03-19,Diş tedavi tahsilatı,21964,0,Satış
+2024-03-20,Laboratuvar test geliri,24658,0,Satış
+2024-03-20,Laboratuvar reaktifi,0,20582,Tedarik
+2024-03-20,Su,0,15243,Fatura
+2024-03-22,Muayene ücreti tahsilatı,22781,0,Satış
+2024-03-24,Tedavi paket ödemesi,24090,0,Satış
+2024-03-27,Sağlık raporu ücreti,29472,0,Diğer Gelir
+2024-03-27,İlaç stoğu,0,17835,Tedarik
+2024-03-27,Stopaj,0,20086,Vergi
+2024-03-28,Muayene ücreti tahsilatı,21833,0,Satış
+2024-03-28,Klinik sigorta,0,27827,Sigorta
+2024-03-30,Estetik uygulama tahsilatı,22848,0,Satış
+2024-03-31,Cihaz bakım ve kalibrasyon,0,33599,Üretim
+2024-04-01,Su,0,11194,Fatura
+2024-04-03,Cihaz bakım ve kalibrasyon,0,17072,Üretim
+2024-04-05,Diş tedavi tahsilatı,51214,0,Satış
+2024-04-05,Tedavi paket ödemesi,54463,0,Satış
+2024-04-06,Cihaz bakım ve kalibrasyon,0,22701,Üretim
+2024-04-08,Su,0,9965,Fatura
+2024-04-09,Diş tedavi tahsilatı,51711,0,Satış
+2024-04-10,Tek kullanımlık ürünler,0,19281,Tedarik
+2024-04-11,Laboratuvar reaktifi,0,20470,Tedarik
+2024-04-12,Estetik uygulama tahsilatı,44866,0,Satış
+2024-04-14,Stopaj,0,20830,Vergi
+2024-04-16,İlaç stoğu,0,20294,Tedarik
+2024-04-17,Özel sigorta tahsilatı,45014,0,Satış
+2024-04-17,Klinik kira ödemesi,0,42205,Kira
+2024-04-19,Estetik uygulama tahsilatı,44092,0,Satış
+2024-04-19,Laboratuvar test geliri,45631,0,Satış
+2024-04-19,Tedavi paket ödemesi,51633,0,Satış
+2024-04-20,Diş tedavi tahsilatı,40739,0,Satış
+2024-04-20,Tedavi paket ödemesi,49268,0,Satış
+2024-04-20,Görüntüleme geliri,47113,0,Satış
+2024-04-21,Muayene ücreti tahsilatı,48078,0,Satış
+2024-04-22,Tıbbi sarf malzeme,0,16750,Tedarik
+2024-04-23,İşyeri hekimi geliri,28536,0,Diğer Gelir
+2024-04-27,Elektrik,0,10069,Fatura
+2024-04-29,Doktor maaşları,0,214172,Maaş
+2024-04-29,Tek kullanımlık ürünler,0,17702,Tedarik
+2024-04-30,Tedavi paket ödemesi,47713,0,Satış
+2024-04-30,Laboratuvar reaktifi,0,17646,Tedarik
+2024-05-01,Özel sigorta tahsilatı,42514,0,Satış
+2024-05-03,İlaç stoğu,0,19792,Tedarik
+2024-05-03,Su,0,12784,Fatura
+2024-05-04,Laboratuvar reaktifi,0,20009,Tedarik
+2024-05-05,Diş tedavi tahsilatı,44128,0,Satış
+2024-05-05,Tedavi paket ödemesi,43143,0,Satış
+2024-05-08,Özel sigorta tahsilatı,37823,0,Satış
+2024-05-10,Özel sigorta tahsilatı,42513,0,Satış
+2024-05-10,İlaç stoğu,0,19394,Tedarik
+2024-05-11,Laboratuvar test geliri,31780,0,Satış
+2024-05-11,İşyeri hekimi geliri,16014,0,Diğer Gelir
+2024-05-11,Tıbbi sarf malzeme,0,18661,Tedarik
+2024-05-12,KDV,0,21366,Vergi
+2024-05-13,Sosyal medya tanıtım,0,7569,Pazarlama
+2024-05-15,Laboratuvar test geliri,41157,0,Satış
+2024-05-17,Özel sigorta tahsilatı,44701,0,Satış
+2024-05-18,Özel sigorta tahsilatı,30048,0,Satış
+2024-05-18,Diş tedavi tahsilatı,31108,0,Satış
+2024-05-19,Doğal gaz,0,14399,Fatura
+2024-05-22,Estetik uygulama tahsilatı,43199,0,Satış
+2024-05-22,Hemşire ve teknisyen maaşları,0,215343,Maaş
+2024-05-23,Tedavi paket ödemesi,40895,0,Satış
+2024-05-23,Laboratuvar reaktifi,0,20098,Tedarik
+2024-05-24,Cihaz bakım ve kalibrasyon,0,13519,Üretim
+2024-05-24,Sosyal medya tanıtım,0,6569,Pazarlama
+2024-05-25,Sağlık raporu ücreti,16105,0,Diğer Gelir
+2024-05-26,Tedavi paket ödemesi,36622,0,Satış
+2024-05-27,Estetik uygulama tahsilatı,36354,0,Satış
+2024-05-27,Sterilizasyon ekipmanı,0,13243,Üretim
+2024-05-28,Diş tedavi tahsilatı,34347,0,Satış
+2024-05-28,Klinik kira ödemesi,0,48849,Kira
+2024-05-29,Tıbbi sarf malzeme,0,20291,Tedarik
+2024-05-29,Cihaz bakım ve kalibrasyon,0,14064,Üretim
+2024-05-30,Özel sigorta tahsilatı,40584,0,Satış
+2024-06-01,Tıbbi sarf malzeme,0,22466,Tedarik
+2024-06-01,Klinik kira ödemesi,0,45232,Kira
+2024-06-03,Su,0,9315,Fatura
+2024-06-04,Elektrik,0,8310,Fatura
+2024-06-05,Özel sigorta tahsilatı,49742,0,Satış
+2024-06-05,İşyeri hekimi geliri,31207,0,Diğer Gelir
+2024-06-06,Görüntüleme geliri,41495,0,Satış
+2024-06-08,Laboratuvar reaktifi,0,20138,Tedarik
+2024-06-09,Estetik uygulama tahsilatı,44478,0,Satış
+2024-06-09,Tek kullanımlık ürünler,0,21901,Tedarik
+2024-06-11,Sterilizasyon ekipmanı,0,17185,Üretim
+2024-06-12,Klinik sigorta,0,19297,Sigorta
+2024-06-13,Elektrik,0,8057,Fatura
+2024-06-14,Görüntüleme geliri,49443,0,Satış
+2024-06-14,Tıbbi sarf malzeme,0,19856,Tedarik
+2024-06-14,İlaç stoğu,0,17742,Tedarik
+2024-06-14,Stopaj,0,15670,Vergi
+2024-06-18,Görüntüleme geliri,35974,0,Satış
+2024-06-20,Tedavi paket ödemesi,36880,0,Satış
+2024-06-20,Tedavi paket ödemesi,35679,0,Satış
+2024-06-26,Diş tedavi tahsilatı,37569,0,Satış
+2024-06-26,Sterilizasyon ekipmanı,0,16760,Üretim
+2024-06-27,Muayene ücreti tahsilatı,39032,0,Satış
+2024-06-27,Diş tedavi tahsilatı,40254,0,Satış
+2024-06-27,Laboratuvar test geliri,33566,0,Satış
+2024-06-29,Diş tedavi tahsilatı,42148,0,Satış
+2024-06-29,Hemşire ve teknisyen maaşları,0,170431,Maaş
+2024-06-30,Diş tedavi tahsilatı,40732,0,Satış
+2024-07-01,Görüntüleme geliri,33639,0,Satış
+2024-07-01,Sağlık raporu ücreti,11631,0,Diğer Gelir
+2024-07-01,Laboratuvar reaktifi,0,13050,Tedarik
+2024-07-03,Doğal gaz,0,6899,Fatura
+2024-07-05,Laboratuvar test geliri,34005,0,Satış
+2024-07-06,KDV,0,14655,Vergi
+2024-07-07,Diş tedavi tahsilatı,30208,0,Satış
+2024-07-07,Laboratuvar reaktifi,0,12137,Tedarik
+2024-07-07,Tıbbi sarf malzeme,0,14092,Tedarik
+2024-07-07,Doğal gaz,0,8336,Fatura
+2024-07-08,Diş tedavi tahsilatı,34545,0,Satış
+2024-07-08,Laboratuvar reaktifi,0,13357,Tedarik
+2024-07-08,Sterilizasyon ekipmanı,0,17259,Üretim
+2024-07-10,Özel sigorta tahsilatı,31891,0,Satış
+2024-07-11,Tıbbi sarf malzeme,0,10823,Tedarik
+2024-07-12,Görüntüleme geliri,30163,0,Satış
+2024-07-12,Doktor maaşları,0,88108,Maaş
+2024-07-14,Tıbbi sarf malzeme,0,11928,Tedarik
+2024-07-15,Tek kullanımlık ürünler,0,14009,Tedarik
+2024-07-18,Görüntüleme geliri,33776,0,Satış
+2024-07-19,Tedavi paket ödemesi,29922,0,Satış
+2024-07-19,Özel sigorta tahsilatı,38075,0,Satış
+2024-07-20,Cihaz bakım ve kalibrasyon,0,15451,Üretim
+2024-07-23,Elektrik,0,7306,Fatura
+2024-07-25,Tedavi paket ödemesi,43205,0,Satış
+2024-07-26,Tedavi paket ödemesi,44026,0,Satış
+2024-07-27,Hemşire ve teknisyen maaşları,0,83052,Maaş
+2024-07-27,Mesleki sorumluluk sigortası,0,22910,Sigorta
+2024-07-27,Google Ads sağlık,0,12805,Pazarlama
+2024-07-28,Laboratuvar test geliri,31696,0,Satış
+2024-07-28,İşyeri hekimi geliri,12327,0,Diğer Gelir
+2024-07-30,Klinik kira ödemesi,0,36631,Kira
+2024-07-31,Görüntüleme geliri,44608,0,Satış
+2024-08-01,Diş tedavi tahsilatı,23852,0,Satış
+2024-08-02,Laboratuvar test geliri,23394,0,Satış
+2024-08-03,Özel sigorta tahsilatı,25469,0,Satış
+2024-08-04,Cihaz bakım ve kalibrasyon,0,12257,Üretim
+2024-08-05,Görüntüleme geliri,30605,0,Satış
+2024-08-05,Stopaj,0,18295,Vergi
+2024-08-08,Özel sigorta tahsilatı,23999,0,Satış
+2024-08-08,Tedavi paket ödemesi,27920,0,Satış
+2024-08-08,Estetik uygulama tahsilatı,30717,0,Satış
+2024-08-08,Cihaz bakım ve kalibrasyon,0,11366,Üretim
+2024-08-09,Elektrik,0,7721,Fatura
+2024-08-12,Estetik uygulama tahsilatı,23159,0,Satış
+2024-08-12,Klinik kira ödemesi,0,43144,Kira
+2024-08-14,Laboratuvar test geliri,28932,0,Satış
+2024-08-14,Hemşire ve teknisyen maaşları,0,189693,Maaş
+2024-08-14,Tıbbi sarf malzeme,0,20844,Tedarik
+2024-08-17,İlaç stoğu,0,20640,Tedarik
+2024-08-18,Laboratuvar test geliri,26395,0,Satış
+2024-08-18,İlaç stoğu,0,22117,Tedarik
+2024-08-19,Diş tedavi tahsilatı,21589,0,Satış
+2024-08-21,Klinik sigorta,0,22699,Sigorta
+2024-08-22,Estetik uygulama tahsilatı,24352,0,Satış
+2024-08-22,Tıbbi sarf malzeme,0,26138,Tedarik
+2024-08-22,Elektrik,0,8496,Fatura
+2024-08-23,Laboratuvar test geliri,25695,0,Satış
+2024-08-24,Diş tedavi tahsilatı,22978,0,Satış
+2024-08-25,Tedavi paket ödemesi,27692,0,Satış
+2024-08-25,Cihaz bakım ve kalibrasyon,0,9679,Üretim
+2024-08-25,Su,0,8846,Fatura
+2024-08-26,Muayene ücreti tahsilatı,26527,0,Satış
+2024-08-27,Muayene ücreti tahsilatı,20657,0,Satış
+2024-08-27,Sağlık raporu ücreti,30687,0,Diğer Gelir
+2024-08-28,Diş tedavi tahsilatı,27866,0,Satış
+2024-08-30,Görüntüleme geliri,24155,0,Satış
+2024-08-31,Görüntüleme geliri,21873,0,Satış
+2024-09-01,Cihaz bakım ve kalibrasyon,0,13319,Üretim
+2024-09-02,Görüntüleme geliri,40923,0,Satış
+2024-09-02,İlaç stoğu,0,21869,Tedarik
+2024-09-03,Laboratuvar reaktifi,0,19076,Tedarik
+2024-09-05,Diş tedavi tahsilatı,51166,0,Satış
+2024-09-05,Google Ads sağlık,0,7447,Pazarlama
+2024-09-06,Tedavi paket ödemesi,57894,0,Satış
+2024-09-06,Özel sigorta tahsilatı,46981,0,Satış
+2024-09-07,Resepsiyon ve sekreter maaşı,0,185453,Maaş
+2024-09-08,Laboratuvar test geliri,48092,0,Satış
+2024-09-08,Klinik kira ödemesi,0,42811,Kira
+2024-09-08,Cihaz bakım ve kalibrasyon,0,12458,Üretim
+2024-09-08,Google Ads sağlık,0,7054,Pazarlama
+2024-09-11,Tedavi paket ödemesi,42305,0,Satış
+2024-09-11,İşyeri hekimi geliri,26864,0,Diğer Gelir
+2024-09-11,Tek kullanımlık ürünler,0,20092,Tedarik
+2024-09-13,Laboratuvar reaktifi,0,23297,Tedarik
+2024-09-13,Stopaj,0,19294,Vergi
+2024-09-15,Mesleki sorumluluk sigortası,0,25085,Sigorta
+2024-09-20,Laboratuvar test geliri,46712,0,Satış
+2024-09-20,Muayene ücreti tahsilatı,48925,0,Satış
+2024-09-21,Laboratuvar test geliri,53490,0,Satış
+2024-09-23,Tıbbi sarf malzeme,0,20101,Tedarik
+2024-09-23,Cihaz bakım ve kalibrasyon,0,13418,Üretim
+2024-09-23,Doğal gaz,0,10535,Fatura
+2024-09-24,Diş tedavi tahsilatı,50760,0,Satış
+2024-09-24,Doğal gaz,0,9728,Fatura
+2024-09-27,Muayene ücreti tahsilatı,50139,0,Satış
+2024-09-28,Estetik uygulama tahsilatı,44282,0,Satış
+2024-09-29,Su,0,10617,Fatura
+2024-10-01,Laboratuvar test geliri,43971,0,Satış
+2024-10-01,Görüntüleme geliri,34031,0,Satış
+2024-10-02,Diş tedavi tahsilatı,46086,0,Satış
+2024-10-02,Google Ads sağlık,0,8139,Pazarlama
+2024-10-03,Özel sigorta tahsilatı,35616,0,Satış
+2024-10-04,Estetik uygulama tahsilatı,38539,0,Satış
+2024-10-04,Görüntüleme geliri,40941,0,Satış
+2024-10-06,Doğal gaz,0,15866,Fatura
+2024-10-06,Stopaj,0,20324,Vergi
+2024-10-07,Sterilizasyon ekipmanı,0,14903,Üretim
+2024-10-07,Mesleki sorumluluk sigortası,0,22707,Sigorta
+2024-10-08,Sağlık raporu ücreti,14104,0,Diğer Gelir
+2024-10-09,Laboratuvar test geliri,41674,0,Satış
+2024-10-11,Doğal gaz,0,16068,Fatura
+2024-10-12,Tıbbi sarf malzeme,0,26778,Tedarik
+2024-10-12,Tıbbi sarf malzeme,0,26872,Tedarik
+2024-10-12,Cihaz bakım ve kalibrasyon,0,13843,Üretim
+2024-10-13,Estetik uygulama tahsilatı,32973,0,Satış
+2024-10-14,Diş tedavi tahsilatı,38705,0,Satış
+2024-10-14,Görüntüleme geliri,43527,0,Satış
+2024-10-14,Cihaz bakım ve kalibrasyon,0,13932,Üretim
+2024-10-16,Özel sigorta tahsilatı,36775,0,Satış
+2024-10-16,Tedavi paket ödemesi,42338,0,Satış
+2024-10-16,Doktor maaşları,0,212005,Maaş
+2024-10-20,Laboratuvar test geliri,45768,0,Satış
+2024-10-20,Klinik kira ödemesi,0,45632,Kira
+2024-10-20,Google Ads sağlık,0,8015,Pazarlama
+2024-10-22,Laboratuvar test geliri,38294,0,Satış
+2024-10-22,İlaç stoğu,0,28464,Tedarik
+2024-10-25,Tıbbi sarf malzeme,0,25389,Tedarik
+2024-10-27,Tedavi paket ödemesi,36650,0,Satış
+2024-10-27,Sağlık raporu ücreti,13501,0,Diğer Gelir
+2024-10-31,Laboratuvar test geliri,45863,0,Satış
+2024-11-02,İşyeri hekimi geliri,39556,0,Diğer Gelir
+2024-11-02,Tek kullanımlık ürünler,0,14935,Tedarik
+2024-11-03,Doğal gaz,0,9886,Fatura
+2024-11-04,Klinik kira ödemesi,0,47153,Kira
+2024-11-05,Laboratuvar test geliri,45899,0,Satış
+2024-11-05,Tıbbi sarf malzeme,0,15599,Tedarik
+2024-11-06,Estetik uygulama tahsilatı,46716,0,Satış
+2024-11-06,Tıbbi sarf malzeme,0,14058,Tedarik
+2024-11-07,Estetik uygulama tahsilatı,34122,0,Satış
+2024-11-07,Sterilizasyon ekipmanı,0,13285,Üretim
+2024-11-09,Hemşire ve teknisyen maaşları,0,224874,Maaş
+2024-11-11,Laboratuvar test geliri,46112,0,Satış
+2024-11-12,KDV,0,19274,Vergi
+2024-11-13,İlaç stoğu,0,14554,Tedarik
+2024-11-13,Sterilizasyon ekipmanı,0,15264,Üretim
+2024-11-16,Su,0,10926,Fatura
+2024-11-17,Su,0,9506,Fatura
+2024-11-20,Laboratuvar test geliri,35792,0,Satış
+2024-11-20,Tıbbi sarf malzeme,0,15036,Tedarik
+2024-11-20,Sterilizasyon ekipmanı,0,13535,Üretim
+2024-11-21,Laboratuvar test geliri,42864,0,Satış
+2024-11-21,İlaç stoğu,0,16049,Tedarik
+2024-11-23,Laboratuvar test geliri,40957,0,Satış
+2024-11-24,Özel sigorta tahsilatı,41777,0,Satış
+2024-11-25,Estetik uygulama tahsilatı,46909,0,Satış
+2024-11-27,Estetik uygulama tahsilatı,34781,0,Satış
+2024-11-27,Tedavi paket ödemesi,35181,0,Satış
+2024-11-29,Tedavi paket ödemesi,36386,0,Satış
+2024-11-29,Özel sigorta tahsilatı,45103,0,Satış
+2024-11-29,Özel sigorta tahsilatı,44294,0,Satış
+2024-11-30,Estetik uygulama tahsilatı,31719,0,Satış
+2024-11-30,Estetik uygulama tahsilatı,38751,0,Satış
+2024-11-30,Tek kullanımlık ürünler,0,14825,Tedarik
+2024-12-01,Tek kullanımlık ürünler,0,19438,Tedarik
+2024-12-02,Laboratuvar test geliri,50810,0,Satış
+2024-12-02,Cihaz bakım ve kalibrasyon,0,36387,Üretim
+2024-12-04,Muayene ücreti tahsilatı,41531,0,Satış
+2024-12-05,Su,0,14304,Fatura
+2024-12-06,Görüntüleme geliri,43032,0,Satış
+2024-12-06,İlaç stoğu,0,15899,Tedarik
+2024-12-07,Laboratuvar test geliri,51914,0,Satış
+2024-12-07,Laboratuvar reaktifi,0,17337,Tedarik
+2024-12-07,Klinik sigorta,0,22740,Sigorta
+2024-12-08,Muayene ücreti tahsilatı,42744,0,Satış
+2024-12-09,Görüntüleme geliri,46600,0,Satış
+2024-12-14,Elektrik,0,15002,Fatura
+2024-12-15,Tedavi paket ödemesi,42298,0,Satış
+2024-12-15,İlaç stoğu,0,16352,Tedarik
+2024-12-17,Laboratuvar test geliri,37916,0,Satış
+2024-12-19,İlaç stoğu,0,14794,Tedarik
+2024-12-20,Klinik kira ödemesi,0,47817,Kira
+2024-12-23,Tedavi paket ödemesi,38968,0,Satış
+2024-12-24,Hemşire ve teknisyen maaşları,0,191074,Maaş
+2024-12-24,Stopaj,0,21453,Vergi
+2024-12-26,Estetik uygulama tahsilatı,46914,0,Satış
+2024-12-27,Diş tedavi tahsilatı,49189,0,Satış
+2024-12-27,Laboratuvar reaktifi,0,18235,Tedarik
+2024-12-29,Estetik uygulama tahsilatı,50294,0,Satış
+2024-12-29,Görüntüleme geliri,46777,0,Satış
+2025-01-01,Özel sigorta tahsilatı,25875,0,Satış
+2025-01-01,Özel sigorta tahsilatı,25419,0,Satış
+2025-01-01,Stopaj,0,17312,Vergi
+2025-01-05,Hemşire ve teknisyen maaşları,0,105186,Maaş
+2025-01-05,Sterilizasyon ekipmanı,0,36703,Üretim
+2025-01-06,Tıbbi sarf malzeme,0,17200,Tedarik
+2025-01-07,Özel sigorta tahsilatı,32417,0,Satış
+2025-01-07,Özel sigorta tahsilatı,28905,0,Satış
+2025-01-07,Su,0,9816,Fatura
+2025-01-09,Sosyal medya tanıtım,0,7188,Pazarlama
+2025-01-10,Özel sigorta tahsilatı,30286,0,Satış
+2025-01-11,Tedavi paket ödemesi,24941,0,Satış
+2025-01-11,İlaç stoğu,0,18439,Tedarik
+2025-01-12,Görüntüleme geliri,28837,0,Satış
+2025-01-12,Tıbbi sarf malzeme,0,18609,Tedarik
+2025-01-13,Özel sigorta tahsilatı,26233,0,Satış
+2025-01-14,Muayene ücreti tahsilatı,35065,0,Satış
+2025-01-14,Tek kullanımlık ürünler,0,17171,Tedarik
+2025-01-14,Sosyal medya tanıtım,0,7676,Pazarlama
+2025-01-15,Estetik uygulama tahsilatı,34966,0,Satış
+2025-01-15,Mesleki sorumluluk sigortası,0,21563,Sigorta
+2025-01-16,Diş tedavi tahsilatı,26274,0,Satış
+2025-01-17,Görüntüleme geliri,25759,0,Satış
+2025-01-17,Tedavi paket ödemesi,27500,0,Satış
+2025-01-19,Doktor maaşları,0,89569,Maaş
+2025-01-19,Su,0,8654,Fatura
+2025-01-19,Elektrik,0,8508,Fatura
+2025-01-22,Muayene ücreti tahsilatı,29597,0,Satış
+2025-01-25,Özel sigorta tahsilatı,29580,0,Satış
+2025-01-25,Tedavi paket ödemesi,27185,0,Satış
+2025-01-26,Laboratuvar test geliri,35204,0,Satış
+2025-01-26,İlaç stoğu,0,19443,Tedarik
+2025-01-26,İlaç stoğu,0,18558,Tedarik
+2025-01-26,Klinik kira ödemesi,0,54014,Kira
+2025-01-27,Tedavi paket ödemesi,35741,0,Satış
+2025-01-27,Sağlık raporu ücreti,33549,0,Diğer Gelir
+2025-01-28,Laboratuvar test geliri,32563,0,Satış
+2025-01-29,Muayene ücreti tahsilatı,28155,0,Satış
+2025-02-01,Özel sigorta tahsilatı,31453,0,Satış
+2025-02-01,İşyeri hekimi geliri,13618,0,Diğer Gelir
+2025-02-01,Tıbbi sarf malzeme,0,18905,Tedarik
+2025-02-01,Su,0,12191,Fatura
+2025-02-03,Diş tedavi tahsilatı,26230,0,Satış
+2025-02-04,Tedavi paket ödemesi,21909,0,Satış
+2025-02-05,Su,0,15821,Fatura
+2025-02-08,Muayene ücreti tahsilatı,21781,0,Satış
+2025-02-09,Laboratuvar test geliri,27740,0,Satış
+2025-02-09,Tek kullanımlık ürünler,0,18836,Tedarik
+2025-02-10,Tedavi paket ödemesi,31270,0,Satış
+2025-02-10,Diş tedavi tahsilatı,24612,0,Satış
+2025-02-10,Google Ads sağlık,0,12159,Pazarlama
+2025-02-11,Hemşire ve teknisyen maaşları,0,105724,Maaş
+2025-02-13,Sağlık raporu ücreti,16313,0,Diğer Gelir
+2025-02-14,Diş tedavi tahsilatı,27416,0,Satış
+2025-02-15,Özel sigorta tahsilatı,24706,0,Satış
+2025-02-15,Stopaj,0,17462,Vergi
+2025-02-16,Özel sigorta tahsilatı,31111,0,Satış
+2025-02-18,Görüntüleme geliri,32562,0,Satış
+2025-02-18,Laboratuvar test geliri,30239,0,Satış
+2025-02-18,İlaç stoğu,0,18114,Tedarik
+2025-02-20,Laboratuvar test geliri,28222,0,Satış
+2025-02-20,Tek kullanımlık ürünler,0,23332,Tedarik
+2025-02-21,Estetik uygulama tahsilatı,25024,0,Satış
+2025-02-22,Estetik uygulama tahsilatı,31061,0,Satış
+2025-02-22,Doktor maaşları,0,86775,Maaş
+2025-02-22,Klinik kira ödemesi,0,48594,Kira
+2025-02-24,Özel sigorta tahsilatı,27997,0,Satış
+2025-02-25,Özel sigorta tahsilatı,27734,0,Satış
+2025-02-25,Diş tedavi tahsilatı,23887,0,Satış
+2025-02-26,Diş tedavi tahsilatı,29240,0,Satış
+2025-02-27,İlaç stoğu,0,19016,Tedarik
+2025-02-27,Cihaz bakım ve kalibrasyon,0,42473,Üretim
+2025-02-28,Muayene ücreti tahsilatı,22966,0,Satış
+2025-02-28,Estetik uygulama tahsilatı,26735,0,Satış
+2025-03-01,İlaç stoğu,0,28853,Tedarik
+2025-03-01,Su,0,11100,Fatura
+2025-03-02,Muayene ücreti tahsilatı,40633,0,Satış
+2025-03-03,Diş tedavi tahsilatı,46952,0,Satış
+2025-03-03,Görüntüleme geliri,47036,0,Satış
+2025-03-04,Diş tedavi tahsilatı,32783,0,Satış
+2025-03-04,Tedavi paket ödemesi,34648,0,Satış
+2025-03-06,Diş tedavi tahsilatı,34090,0,Satış
+2025-03-09,Görüntüleme geliri,32913,0,Satış
+2025-03-09,Laboratuvar test geliri,44509,0,Satış
+2025-03-10,Laboratuvar test geliri,42116,0,Satış
+2025-03-12,Doğal gaz,0,8905,Fatura
+2025-03-13,Görüntüleme geliri,36244,0,Satış
+2025-03-14,Sterilizasyon ekipmanı,0,41338,Üretim
+2025-03-17,KDV,0,17594,Vergi
+2025-03-18,Estetik uygulama tahsilatı,47532,0,Satış
+2025-03-18,Tıbbi sarf malzeme,0,25070,Tedarik
+2025-03-18,Klinik kira ödemesi,0,52409,Kira
+2025-03-19,Hemşire ve teknisyen maaşları,0,103517,Maaş
+2025-03-20,Laboratuvar test geliri,36872,0,Satış
+2025-03-20,Diş tedavi tahsilatı,41412,0,Satış
+2025-03-22,Tıbbi sarf malzeme,0,27619,Tedarik
+2025-03-23,İlaç stoğu,0,25988,Tedarik
+2025-03-24,İşyeri hekimi geliri,15938,0,Diğer Gelir
+2025-03-25,Klinik sigorta,0,26839,Sigorta
+2025-03-26,Elektrik,0,9603,Fatura
+2025-03-27,Estetik uygulama tahsilatı,41073,0,Satış
+2025-03-29,Doktor maaşları,0,107141,Maaş
+2025-03-30,İşyeri hekimi geliri,14844,0,Diğer Gelir
+2025-03-31,Tedavi paket ödemesi,32623,0,Satış

@@ -1,0 +1,693 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Ramazan iftar geliri,11609,0,Satış
+2024-01-01,Yemeksepeti komisyon iadesi,7263,0,Diğer Gelir
+2024-01-01,Şef ve mutfak personeli maaşları,0,35005,Maaş
+2024-01-01,Şef ve mutfak personeli maaşları,0,41040,Maaş
+2024-01-01,Temizlik malzemeleri,0,4930,Sarf
+2024-01-02,İşyeri kira ödemesi,0,29909,Kira
+2024-01-03,Hafta sonu yoğunluk,12455,0,Satış
+2024-01-03,Geçici vergi taksiti,0,13999,Vergi
+2024-01-04,Öğle yemeği servisi,15070,0,Satış
+2024-01-04,Ramazan iftar geliri,10775,0,Satış
+2024-01-04,Kuru gıda toptan alım,0,10727,Tedarik
+2024-01-05,Su faturası,0,5503,Fatura
+2024-01-05,İnternet aboneliği,0,6030,Fatura
+2024-01-07,Bayram menüsü satışı,12819,0,Satış
+2024-01-08,Bayram menüsü satışı,10779,0,Satış
+2024-01-08,Yılbaşı menü geliri,11497,0,Satış
+2024-01-09,Catering siparişi,11182,0,Satış
+2024-01-09,İnternet aboneliği,0,5768,Fatura
+2024-01-10,Öğle yemeği servisi,14811,0,Satış
+2024-01-10,Akşam servisi geliri,14380,0,Satış
+2024-01-11,İçecek toptan satın alma,0,12892,Tedarik
+2024-01-15,Catering siparişi,14657,0,Satış
+2024-01-16,İş yemeği rezervasyonu,12008,0,Satış
+2024-01-16,Baharat ve sos tedarik,0,12500,Tedarik
+2024-01-17,Deniz ürünleri tedarik,0,11229,Tedarik
+2024-01-17,Google Maps öne çıkarma,0,8976,Pazarlama
+2024-01-18,Online sipariş geliri,14709,0,Satış
+2024-01-18,Akşam servisi geliri,12327,0,Satış
+2024-01-18,Sponsorluk geliri,7967,0,Diğer Gelir
+2024-01-18,Doğal gaz faturası,0,6005,Fatura
+2024-01-19,Tek kullanımlık ambalaj,0,4698,Sarf
+2024-01-20,Ramazan iftar geliri,12204,0,Satış
+2024-01-21,Catering siparişi,10680,0,Satış
+2024-01-21,Servis ve mutfak ekipmanı,0,4573,Sarf
+2024-01-22,Bayram menüsü satışı,14778,0,Satış
+2024-01-22,Akşam servisi geliri,11758,0,Satış
+2024-01-22,Doğum günü organizasyonu,11126,0,Satış
+2024-01-23,Baharat ve sos tedarik,0,11988,Tedarik
+2024-01-24,Instagram reklam harcaması,0,6940,Pazarlama
+2024-01-25,Hafta sonu yoğunluk,14975,0,Satış
+2024-01-25,Mekan kiralama geliri,7094,0,Diğer Gelir
+2024-01-27,Süt ve mandıra ürünleri,0,11415,Tedarik
+2024-01-28,Öğle yemeği servisi,11524,0,Satış
+2024-01-28,Deniz ürünleri tedarik,0,10884,Tedarik
+2024-01-30,Kuru gıda toptan alım,0,11941,Tedarik
+2024-01-30,Süt ve mandıra ürünleri,0,12130,Tedarik
+2024-02-01,Bayram menüsü satışı,14405,0,Satış
+2024-02-01,Catering siparişi,18457,0,Satış
+2024-02-02,İnternet aboneliği,0,6126,Fatura
+2024-02-03,Temizlik malzemeleri,0,15502,Sarf
+2024-02-04,İnternet aboneliği,0,6219,Fatura
+2024-02-06,Yılbaşı menü geliri,19302,0,Satış
+2024-02-06,Deniz ürünleri tedarik,0,13785,Tedarik
+2024-02-10,Ramazan iftar geliri,19824,0,Satış
+2024-02-10,Sponsorluk geliri,22419,0,Diğer Gelir
+2024-02-11,Hafta sonu yoğunluk,16263,0,Satış
+2024-02-12,Doğal gaz faturası,0,5257,Fatura
+2024-02-13,Doğum günü organizasyonu,20798,0,Satış
+2024-02-14,Baharat ve sos tedarik,0,13551,Tedarik
+2024-02-15,Doğum günü organizasyonu,20015,0,Satış
+2024-02-15,Bayram menüsü satışı,21332,0,Satış
+2024-02-16,Yılbaşı menü geliri,20575,0,Satış
+2024-02-16,Bayram menüsü satışı,18147,0,Satış
+2024-02-18,Doğum günü organizasyonu,19964,0,Satış
+2024-02-18,Doğum günü organizasyonu,19368,0,Satış
+2024-02-19,Şef ve mutfak personeli maaşları,0,69177,Maaş
+2024-02-20,İçecek toptan satın alma,0,14799,Tedarik
+2024-02-21,Öğle yemeği servisi,20130,0,Satış
+2024-02-21,Baharat ve sos tedarik,0,15447,Tedarik
+2024-02-22,Sebze meyve toptan,0,12220,Tedarik
+2024-02-23,Online sipariş geliri,20697,0,Satış
+2024-02-23,İş yemeği rezervasyonu,18954,0,Satış
+2024-02-23,Et ve tavuk alımı,0,14829,Tedarik
+2024-02-23,Getir komisyonu,0,17651,Pazarlama
+2024-02-25,Et ve tavuk alımı,0,15097,Tedarik
+2024-02-25,Deniz ürünleri tedarik,0,15383,Tedarik
+2024-02-25,İşyeri kira ödemesi,0,28333,Kira
+2024-02-25,İnternet aboneliği,0,6270,Fatura
+2024-02-26,KDV ödemesi,0,16234,Vergi
+2024-02-28,Online sipariş geliri,21290,0,Satış
+2024-03-01,Öğle yemeği servisi,12961,0,Satış
+2024-03-02,Yılbaşı menü geliri,11403,0,Satış
+2024-03-02,Yılbaşı menü geliri,15575,0,Satış
+2024-03-02,Akşam servisi geliri,15526,0,Satış
+2024-03-02,Baharat ve sos tedarik,0,14229,Tedarik
+2024-03-05,Servis ve mutfak ekipmanı,0,5261,Sarf
+2024-03-07,Ramazan iftar geliri,15722,0,Satış
+2024-03-07,İnternet aboneliği,0,9493,Fatura
+2024-03-08,Doğum günü organizasyonu,13591,0,Satış
+2024-03-09,Sebze meyve toptan,0,16778,Tedarik
+2024-03-09,Baharat ve sos tedarik,0,16732,Tedarik
+2024-03-09,Tek kullanımlık ambalaj,0,5418,Sarf
+2024-03-10,Et ve tavuk alımı,0,13823,Tedarik
+2024-03-10,Elektrik faturası,0,8845,Fatura
+2024-03-11,Catering siparişi,15372,0,Satış
+2024-03-11,Bayram menüsü satışı,14514,0,Satış
+2024-03-12,Deniz ürünleri tedarik,0,15954,Tedarik
+2024-03-12,Bulaşıkçı ve yardımcı personel,0,41273,Maaş
+2024-03-13,Akşam servisi geliri,13413,0,Satış
+2024-03-16,Yemeksepeti komisyon iadesi,32488,0,Diğer Gelir
+2024-03-16,Süt ve mandıra ürünleri,0,16059,Tedarik
+2024-03-18,Öğle yemeği servisi,15756,0,Satış
+2024-03-18,Temizlik malzemeleri,0,6111,Sarf
+2024-03-19,Hafta sonu yoğunluk,15475,0,Satış
+2024-03-19,Bulaşıkçı ve yardımcı personel,0,49121,Maaş
+2024-03-20,Akşam servisi geliri,12298,0,Satış
+2024-03-20,Doğum günü organizasyonu,12571,0,Satış
+2024-03-20,Yemeksepeti komisyonu,0,18710,Pazarlama
+2024-03-21,Catering siparişi,14469,0,Satış
+2024-03-21,Kuru gıda toptan alım,0,16139,Tedarik
+2024-03-23,Yılbaşı menü geliri,12078,0,Satış
+2024-03-23,İşyeri kira ödemesi,0,30999,Kira
+2024-03-24,Bayram menüsü satışı,16112,0,Satış
+2024-03-24,Catering siparişi,15228,0,Satış
+2024-03-26,Akşam servisi geliri,11974,0,Satış
+2024-03-27,Ramazan iftar geliri,14020,0,Satış
+2024-03-27,Hafta sonu yoğunluk,11603,0,Satış
+2024-03-27,İş yemeği rezervasyonu,12426,0,Satış
+2024-03-28,Kahvaltı servisi,15620,0,Satış
+2024-03-28,Stopaj vergi ödemesi,0,16785,Vergi
+2024-03-30,Öğle yemeği servisi,16371,0,Satış
+2024-03-30,Sebze meyve toptan,0,13909,Tedarik
+2024-03-31,Bayram menüsü satışı,14949,0,Satış
+2024-03-31,İnternet aboneliği,0,8410,Fatura
+2024-04-01,Mekan kiralama geliri,27145,0,Diğer Gelir
+2024-04-02,Hafta sonu yoğunluk,21628,0,Satış
+2024-04-02,Bulaşıkçı ve yardımcı personel,0,52135,Maaş
+2024-04-03,Baharat ve sos tedarik,0,25615,Tedarik
+2024-04-04,Kahvaltı servisi,18807,0,Satış
+2024-04-04,Aylık dükkân kirası,0,39358,Kira
+2024-04-05,İnternet aboneliği,0,8871,Fatura
+2024-04-06,İçecek toptan satın alma,0,23504,Tedarik
+2024-04-07,Öğle yemeği servisi,22368,0,Satış
+2024-04-08,Hafta sonu yoğunluk,19866,0,Satış
+2024-04-10,Doğum günü organizasyonu,20742,0,Satış
+2024-04-10,Kuru gıda toptan alım,0,23534,Tedarik
+2024-04-11,Google Maps öne çıkarma,0,18951,Pazarlama
+2024-04-12,Garson ve servis maaşları,0,53460,Maaş
+2024-04-14,Doğum günü organizasyonu,17587,0,Satış
+2024-04-14,Öğle yemeği servisi,20094,0,Satış
+2024-04-15,Doğum günü organizasyonu,25960,0,Satış
+2024-04-15,Yılbaşı menü geliri,21464,0,Satış
+2024-04-15,Sebze meyve toptan,0,25573,Tedarik
+2024-04-17,Elektrik faturası,0,9344,Fatura
+2024-04-20,Kahvaltı servisi,25719,0,Satış
+2024-04-21,Kahvaltı servisi,25890,0,Satış
+2024-04-22,Deniz ürünleri tedarik,0,26644,Tedarik
+2024-04-22,Servis ve mutfak ekipmanı,0,10099,Sarf
+2024-04-24,Hafta sonu yoğunluk,25273,0,Satış
+2024-04-24,Su faturası,0,10399,Fatura
+2024-04-25,Catering siparişi,22986,0,Satış
+2024-04-26,Kahvaltı servisi,19411,0,Satış
+2024-04-26,Ramazan iftar geliri,24539,0,Satış
+2024-04-28,Stopaj vergi ödemesi,0,15735,Vergi
+2024-04-28,Temizlik malzemeleri,0,9091,Sarf
+2024-04-29,Bayram menüsü satışı,18075,0,Satış
+2024-05-02,KDV ödemesi,0,20028,Vergi
+2024-05-04,Hafta sonu yoğunluk,14797,0,Satış
+2024-05-04,Bulaşıkçı ve yardımcı personel,0,51383,Maaş
+2024-05-04,İnternet aboneliği,0,13650,Fatura
+2024-05-06,Catering siparişi,17151,0,Satış
+2024-05-06,Online sipariş geliri,15215,0,Satış
+2024-05-07,Catering siparişi,16307,0,Satış
+2024-05-07,Öğle yemeği servisi,16633,0,Satış
+2024-05-07,İçecek toptan satın alma,0,16010,Tedarik
+2024-05-08,İşyeri kira ödemesi,0,33027,Kira
+2024-05-09,İş yemeği rezervasyonu,18825,0,Satış
+2024-05-09,Catering siparişi,15808,0,Satış
+2024-05-10,İçecek toptan satın alma,0,18948,Tedarik
+2024-05-13,Doğum günü organizasyonu,16129,0,Satış
+2024-05-14,Mekan kiralama geliri,16818,0,Diğer Gelir
+2024-05-14,Temizlik malzemeleri,0,18383,Sarf
+2024-05-15,Bayram menüsü satışı,18240,0,Satış
+2024-05-15,Sponsorluk geliri,15809,0,Diğer Gelir
+2024-05-17,Yılbaşı menü geliri,13520,0,Satış
+2024-05-17,Catering siparişi,16174,0,Satış
+2024-05-17,Online sipariş geliri,18569,0,Satış
+2024-05-20,Hafta sonu yoğunluk,15171,0,Satış
+2024-05-20,Kahvaltı servisi,16302,0,Satış
+2024-05-20,Influencer iş birliği,0,24685,Pazarlama
+2024-05-21,Kahvaltı servisi,15635,0,Satış
+2024-05-21,Kahvaltı servisi,12746,0,Satış
+2024-05-21,İnternet aboneliği,0,15514,Fatura
+2024-05-22,Kuru gıda toptan alım,0,18214,Tedarik
+2024-05-23,Kuru gıda toptan alım,0,20323,Tedarik
+2024-05-23,Deniz ürünleri tedarik,0,17291,Tedarik
+2024-05-23,Bulaşıkçı ve yardımcı personel,0,46012,Maaş
+2024-05-24,Ramazan iftar geliri,14055,0,Satış
+2024-05-25,Bayram menüsü satışı,12836,0,Satış
+2024-05-28,Hafta sonu yoğunluk,13884,0,Satış
+2024-05-28,Hafta sonu yoğunluk,17799,0,Satış
+2024-05-28,Kuru gıda toptan alım,0,20496,Tedarik
+2024-05-29,Yılbaşı menü geliri,14519,0,Satış
+2024-05-30,Doğum günü organizasyonu,14958,0,Satış
+2024-05-30,İçecek toptan satın alma,0,20889,Tedarik
+2024-05-30,Süt ve mandıra ürünleri,0,20061,Tedarik
+2024-05-31,Öğle yemeği servisi,16311,0,Satış
+2024-05-31,Bayram menüsü satışı,13226,0,Satış
+2024-06-01,İş yemeği rezervasyonu,21641,0,Satış
+2024-06-02,Akşam servisi geliri,19514,0,Satış
+2024-06-02,Sebze meyve toptan,0,23466,Tedarik
+2024-06-04,Baharat ve sos tedarik,0,23610,Tedarik
+2024-06-04,Su faturası,0,16982,Fatura
+2024-06-06,Bayram menüsü satışı,23489,0,Satış
+2024-06-06,Yılbaşı menü geliri,23280,0,Satış
+2024-06-06,Bulaşıkçı ve yardımcı personel,0,106661,Maaş
+2024-06-06,Tek kullanımlık ambalaj,0,7106,Sarf
+2024-06-07,Bayram menüsü satışı,23662,0,Satış
+2024-06-07,Kahvaltı servisi,18533,0,Satış
+2024-06-07,Akşam servisi geliri,22461,0,Satış
+2024-06-07,Online sipariş geliri,18421,0,Satış
+2024-06-08,Instagram reklam harcaması,0,6911,Pazarlama
+2024-06-09,Akşam servisi geliri,18823,0,Satış
+2024-06-09,Süt ve mandıra ürünleri,0,28445,Tedarik
+2024-06-10,Öğle yemeği servisi,18429,0,Satış
+2024-06-10,Aylık dükkân kirası,0,34030,Kira
+2024-06-10,Servis ve mutfak ekipmanı,0,7541,Sarf
+2024-06-12,Hafta sonu yoğunluk,20118,0,Satış
+2024-06-14,Yemeksepeti komisyon iadesi,18319,0,Diğer Gelir
+2024-06-15,Akşam servisi geliri,22973,0,Satış
+2024-06-15,Elektrik faturası,0,16148,Fatura
+2024-06-16,İş yemeği rezervasyonu,23185,0,Satış
+2024-06-20,Catering siparişi,21356,0,Satış
+2024-06-21,Kahvaltı servisi,18530,0,Satış
+2024-06-22,Sebze meyve toptan,0,26470,Tedarik
+2024-06-22,Geçici vergi taksiti,0,18453,Vergi
+2024-06-23,Online sipariş geliri,20170,0,Satış
+2024-06-23,İçecek toptan satın alma,0,23279,Tedarik
+2024-06-24,İçecek toptan satın alma,0,21570,Tedarik
+2024-06-25,Kahvaltı servisi,22156,0,Satış
+2024-06-27,Kahvaltı servisi,17554,0,Satış
+2024-06-28,Bayram menüsü satışı,20685,0,Satış
+2024-06-28,Getir komisyonu,0,8057,Pazarlama
+2024-06-29,Mekan kiralama geliri,19055,0,Diğer Gelir
+2024-06-30,Kahvaltı servisi,19828,0,Satış
+2024-06-30,Instagram reklam harcaması,0,9023,Pazarlama
+2024-06-30,Tek kullanımlık ambalaj,0,5890,Sarf
+2024-07-02,Öğle yemeği servisi,16499,0,Satış
+2024-07-02,İş yemeği rezervasyonu,14783,0,Satış
+2024-07-03,Bulaşıkçı ve yardımcı personel,0,62906,Maaş
+2024-07-04,Bayram menüsü satışı,15301,0,Satış
+2024-07-05,Online sipariş geliri,17530,0,Satış
+2024-07-05,Kuru gıda toptan alım,0,19755,Tedarik
+2024-07-06,Bayram menüsü satışı,14083,0,Satış
+2024-07-06,Baharat ve sos tedarik,0,17198,Tedarik
+2024-07-06,Instagram reklam harcaması,0,12182,Pazarlama
+2024-07-07,Catering siparişi,15243,0,Satış
+2024-07-07,Bayram menüsü satışı,19548,0,Satış
+2024-07-08,Bayram menüsü satışı,15120,0,Satış
+2024-07-08,Hafta sonu yoğunluk,16912,0,Satış
+2024-07-08,Online sipariş geliri,15121,0,Satış
+2024-07-10,Yılbaşı menü geliri,16767,0,Satış
+2024-07-10,Doğal gaz faturası,0,8019,Fatura
+2024-07-11,Baharat ve sos tedarik,0,19453,Tedarik
+2024-07-11,Kuru gıda toptan alım,0,14984,Tedarik
+2024-07-12,İş yemeği rezervasyonu,17436,0,Satış
+2024-07-13,Hafta sonu yoğunluk,16473,0,Satış
+2024-07-15,Hafta sonu yoğunluk,17368,0,Satış
+2024-07-15,Ramazan iftar geliri,17914,0,Satış
+2024-07-15,Sponsorluk geliri,42422,0,Diğer Gelir
+2024-07-15,İnternet aboneliği,0,9012,Fatura
+2024-07-15,Temizlik malzemeleri,0,20578,Sarf
+2024-07-16,Bayram menüsü satışı,17432,0,Satış
+2024-07-17,Sebze meyve toptan,0,15442,Tedarik
+2024-07-18,Ramazan iftar geliri,13809,0,Satış
+2024-07-19,Online sipariş geliri,15106,0,Satış
+2024-07-19,Yemeksepeti komisyonu,0,12398,Pazarlama
+2024-07-20,İş yemeği rezervasyonu,16358,0,Satış
+2024-07-22,İşyeri kira ödemesi,0,42175,Kira
+2024-07-24,Doğal gaz faturası,0,8952,Fatura
+2024-07-25,Online sipariş geliri,14386,0,Satış
+2024-07-27,Yılbaşı menü geliri,16871,0,Satış
+2024-07-27,Hafta sonu yoğunluk,18349,0,Satış
+2024-07-27,Kahvaltı servisi,13864,0,Satış
+2024-07-27,Et ve tavuk alımı,0,15331,Tedarik
+2024-07-27,Geçici vergi taksiti,0,18035,Vergi
+2024-07-28,Süt ve mandıra ürünleri,0,19691,Tedarik
+2024-07-28,Garson ve servis maaşları,0,62731,Maaş
+2024-07-29,Akşam servisi geliri,15556,0,Satış
+2024-07-29,Sebze meyve toptan,0,17576,Tedarik
+2024-07-29,Su faturası,0,8761,Fatura
+2024-07-31,Süt ve mandıra ürünleri,0,18163,Tedarik
+2024-08-01,Öğle yemeği servisi,18571,0,Satış
+2024-08-01,Doğum günü organizasyonu,16838,0,Satış
+2024-08-01,Sebze meyve toptan,0,22037,Tedarik
+2024-08-01,Baharat ve sos tedarik,0,17960,Tedarik
+2024-08-02,Aylık dükkân kirası,0,36923,Kira
+2024-08-02,Elektrik faturası,0,10142,Fatura
+2024-08-03,Ramazan iftar geliri,14871,0,Satış
+2024-08-03,Tek kullanımlık ambalaj,0,6292,Sarf
+2024-08-04,Deniz ürünleri tedarik,0,18397,Tedarik
+2024-08-06,Baharat ve sos tedarik,0,17891,Tedarik
+2024-08-07,Kahvaltı servisi,16292,0,Satış
+2024-08-07,Şef ve mutfak personeli maaşları,0,101162,Maaş
+2024-08-08,Doğal gaz faturası,0,10749,Fatura
+2024-08-09,Yemeksepeti komisyon iadesi,14580,0,Diğer Gelir
+2024-08-11,Doğum günü organizasyonu,14175,0,Satış
+2024-08-11,Mekan kiralama geliri,16436,0,Diğer Gelir
+2024-08-11,Elektrik faturası,0,11097,Fatura
+2024-08-11,KDV ödemesi,0,19790,Vergi
+2024-08-13,İş yemeği rezervasyonu,15426,0,Satış
+2024-08-13,Öğle yemeği servisi,18533,0,Satış
+2024-08-15,Doğum günü organizasyonu,12979,0,Satış
+2024-08-15,Deniz ürünleri tedarik,0,19656,Tedarik
+2024-08-16,Hafta sonu yoğunluk,17983,0,Satış
+2024-08-17,Yılbaşı menü geliri,13930,0,Satış
+2024-08-17,Akşam servisi geliri,16197,0,Satış
+2024-08-18,Tek kullanımlık ambalaj,0,6420,Sarf
+2024-08-19,Öğle yemeği servisi,18506,0,Satış
+2024-08-19,İş yemeği rezervasyonu,14863,0,Satış
+2024-08-21,Catering siparişi,18829,0,Satış
+2024-08-23,Öğle yemeği servisi,12963,0,Satış
+2024-08-23,Kahvaltı servisi,15218,0,Satış
+2024-08-23,İçecek toptan satın alma,0,19947,Tedarik
+2024-08-23,Influencer iş birliği,0,20666,Pazarlama
+2024-08-24,Online sipariş geliri,15159,0,Satış
+2024-08-24,Catering siparişi,14653,0,Satış
+2024-08-24,Catering siparişi,17938,0,Satış
+2024-08-25,Catering siparişi,12830,0,Satış
+2024-08-26,Catering siparişi,12937,0,Satış
+2024-08-28,İş yemeği rezervasyonu,16822,0,Satış
+2024-08-28,Yılbaşı menü geliri,13931,0,Satış
+2024-08-28,Kuru gıda toptan alım,0,19067,Tedarik
+2024-08-29,Online sipariş geliri,18530,0,Satış
+2024-08-31,Tek kullanımlık ambalaj,0,6281,Sarf
+2024-09-01,Getir komisyonu,0,6457,Pazarlama
+2024-09-02,Doğum günü organizasyonu,14363,0,Satış
+2024-09-02,Elektrik faturası,0,11743,Fatura
+2024-09-02,Influencer iş birliği,0,7113,Pazarlama
+2024-09-03,Yılbaşı menü geliri,16647,0,Satış
+2024-09-03,Hafta sonu yoğunluk,17599,0,Satış
+2024-09-04,Bayram menüsü satışı,19109,0,Satış
+2024-09-06,Bayram menüsü satışı,14660,0,Satış
+2024-09-06,Garson ve servis maaşları,0,81626,Maaş
+2024-09-08,Hafta sonu yoğunluk,19509,0,Satış
+2024-09-08,Baharat ve sos tedarik,0,26421,Tedarik
+2024-09-08,Stopaj vergi ödemesi,0,15583,Vergi
+2024-09-11,Yılbaşı menü geliri,20371,0,Satış
+2024-09-12,Yemeksepeti komisyon iadesi,13552,0,Diğer Gelir
+2024-09-12,Instagram reklam harcaması,0,6727,Pazarlama
+2024-09-15,Ramazan iftar geliri,15662,0,Satış
+2024-09-15,Aylık dükkân kirası,0,30195,Kira
+2024-09-17,Online sipariş geliri,14386,0,Satış
+2024-09-18,Online sipariş geliri,17475,0,Satış
+2024-09-19,Hafta sonu yoğunluk,17354,0,Satış
+2024-09-19,Su faturası,0,11779,Fatura
+2024-09-21,Mekan kiralama geliri,16495,0,Diğer Gelir
+2024-09-22,Catering siparişi,15136,0,Satış
+2024-09-22,Öğle yemeği servisi,16129,0,Satış
+2024-09-23,İçecek toptan satın alma,0,22444,Tedarik
+2024-09-23,Baharat ve sos tedarik,0,26536,Tedarik
+2024-09-24,Öğle yemeği servisi,15444,0,Satış
+2024-09-25,İş yemeği rezervasyonu,15370,0,Satış
+2024-09-25,Baharat ve sos tedarik,0,28251,Tedarik
+2024-09-27,Ramazan iftar geliri,14622,0,Satış
+2024-09-28,Catering siparişi,15576,0,Satış
+2024-09-29,Kahvaltı servisi,18412,0,Satış
+2024-09-30,Catering siparişi,20713,0,Satış
+2024-09-30,İçecek toptan satın alma,0,26580,Tedarik
+2024-09-30,Temizlik malzemeleri,0,16289,Sarf
+2024-10-01,Sebze meyve toptan,0,18408,Tedarik
+2024-10-01,İnternet aboneliği,0,14037,Fatura
+2024-10-03,Sebze meyve toptan,0,21532,Tedarik
+2024-10-04,Şef ve mutfak personeli maaşları,0,44343,Maaş
+2024-10-04,Influencer iş birliği,0,18262,Pazarlama
+2024-10-05,Et ve tavuk alımı,0,20348,Tedarik
+2024-10-06,Ramazan iftar geliri,24159,0,Satış
+2024-10-08,İş yemeği rezervasyonu,18731,0,Satış
+2024-10-08,Baharat ve sos tedarik,0,23640,Tedarik
+2024-10-09,Bayram menüsü satışı,20990,0,Satış
+2024-10-09,İçecek toptan satın alma,0,19453,Tedarik
+2024-10-09,İnternet aboneliği,0,15357,Fatura
+2024-10-11,Akşam servisi geliri,19319,0,Satış
+2024-10-13,Stopaj vergi ödemesi,0,18627,Vergi
+2024-10-14,Hafta sonu yoğunluk,19710,0,Satış
+2024-10-15,Ramazan iftar geliri,16989,0,Satış
+2024-10-15,Hafta sonu yoğunluk,22922,0,Satış
+2024-10-15,Hafta sonu yoğunluk,22070,0,Satış
+2024-10-16,Öğle yemeği servisi,24745,0,Satış
+2024-10-18,Sponsorluk geliri,33923,0,Diğer Gelir
+2024-10-20,Kahvaltı servisi,20554,0,Satış
+2024-10-20,Bulaşıkçı ve yardımcı personel,0,46152,Maaş
+2024-10-21,Akşam servisi geliri,18850,0,Satış
+2024-10-23,Öğle yemeği servisi,17704,0,Satış
+2024-10-25,Et ve tavuk alımı,0,21782,Tedarik
+2024-10-26,Kahvaltı servisi,20805,0,Satış
+2024-10-27,İş yemeği rezervasyonu,18807,0,Satış
+2024-10-27,Online sipariş geliri,21792,0,Satış
+2024-10-28,Doğum günü organizasyonu,24084,0,Satış
+2024-10-28,Aylık dükkân kirası,0,36016,Kira
+2024-10-31,Tek kullanımlık ambalaj,0,16469,Sarf
+2024-11-01,Bayram menüsü satışı,17593,0,Satış
+2024-11-02,Online sipariş geliri,21384,0,Satış
+2024-11-03,İş yemeği rezervasyonu,19158,0,Satış
+2024-11-04,Hafta sonu yoğunluk,21093,0,Satış
+2024-11-04,Tek kullanımlık ambalaj,0,18574,Sarf
+2024-11-06,Bayram menüsü satışı,19306,0,Satış
+2024-11-07,Bayram menüsü satışı,17352,0,Satış
+2024-11-07,İş yemeği rezervasyonu,18162,0,Satış
+2024-11-09,Hafta sonu yoğunluk,20879,0,Satış
+2024-11-10,Deniz ürünleri tedarik,0,26383,Tedarik
+2024-11-11,Hafta sonu yoğunluk,16366,0,Satış
+2024-11-11,Mekan kiralama geliri,16785,0,Diğer Gelir
+2024-11-11,İçecek toptan satın alma,0,29253,Tedarik
+2024-11-11,Garson ve servis maaşları,0,84457,Maaş
+2024-11-12,Sponsorluk geliri,16098,0,Diğer Gelir
+2024-11-13,Doğal gaz faturası,0,13210,Fatura
+2024-11-16,Kahvaltı servisi,17828,0,Satış
+2024-11-16,Yılbaşı menü geliri,18518,0,Satış
+2024-11-18,İş yemeği rezervasyonu,20092,0,Satış
+2024-11-18,İçecek toptan satın alma,0,24078,Tedarik
+2024-11-19,Akşam servisi geliri,19251,0,Satış
+2024-11-19,Kuru gıda toptan alım,0,25341,Tedarik
+2024-11-19,Su faturası,0,13417,Fatura
+2024-11-20,Hafta sonu yoğunluk,18689,0,Satış
+2024-11-21,Süt ve mandıra ürünleri,0,23997,Tedarik
+2024-11-24,Yılbaşı menü geliri,20348,0,Satış
+2024-11-25,İş yemeği rezervasyonu,21972,0,Satış
+2024-11-26,İşyeri kira ödemesi,0,31865,Kira
+2024-11-26,KDV ödemesi,0,17585,Vergi
+2024-11-27,Akşam servisi geliri,18872,0,Satış
+2024-11-29,Öğle yemeği servisi,16925,0,Satış
+2024-11-29,Yemeksepeti komisyonu,0,18990,Pazarlama
+2024-11-30,Akşam servisi geliri,15979,0,Satış
+2024-12-01,Ramazan iftar geliri,16428,0,Satış
+2024-12-02,Öğle yemeği servisi,17495,0,Satış
+2024-12-02,Getir komisyonu,0,12455,Pazarlama
+2024-12-02,Influencer iş birliği,0,13494,Pazarlama
+2024-12-03,Deniz ürünleri tedarik,0,33650,Tedarik
+2024-12-05,Akşam servisi geliri,16834,0,Satış
+2024-12-07,Öğle yemeği servisi,15881,0,Satış
+2024-12-10,İş yemeği rezervasyonu,17687,0,Satış
+2024-12-12,Bayram menüsü satışı,22608,0,Satış
+2024-12-12,Sebze meyve toptan,0,32093,Tedarik
+2024-12-12,Bulaşıkçı ve yardımcı personel,0,56474,Maaş
+2024-12-13,Yılbaşı menü geliri,17066,0,Satış
+2024-12-13,Ramazan iftar geliri,19769,0,Satış
+2024-12-14,Online sipariş geliri,22587,0,Satış
+2024-12-14,Online sipariş geliri,17444,0,Satış
+2024-12-15,Stopaj vergi ödemesi,0,19762,Vergi
+2024-12-16,Akşam servisi geliri,22121,0,Satış
+2024-12-16,Hafta sonu yoğunluk,20141,0,Satış
+2024-12-16,Doğum günü organizasyonu,18411,0,Satış
+2024-12-17,Ramazan iftar geliri,17404,0,Satış
+2024-12-17,Bulaşıkçı ve yardımcı personel,0,64995,Maaş
+2024-12-18,İş yemeği rezervasyonu,20469,0,Satış
+2024-12-18,Temizlik malzemeleri,0,19858,Sarf
+2024-12-20,İş yemeği rezervasyonu,19568,0,Satış
+2024-12-20,Baharat ve sos tedarik,0,32800,Tedarik
+2024-12-23,Yılbaşı menü geliri,22155,0,Satış
+2024-12-23,Sponsorluk geliri,10783,0,Diğer Gelir
+2024-12-24,Mekan kiralama geliri,11140,0,Diğer Gelir
+2024-12-25,Ramazan iftar geliri,20734,0,Satış
+2024-12-25,Yemeksepeti komisyon iadesi,13660,0,Diğer Gelir
+2024-12-25,Doğal gaz faturası,0,14850,Fatura
+2024-12-26,Sebze meyve toptan,0,28205,Tedarik
+2024-12-27,Bayram menüsü satışı,15860,0,Satış
+2024-12-27,Deniz ürünleri tedarik,0,29350,Tedarik
+2024-12-28,Bayram menüsü satışı,23055,0,Satış
+2024-12-28,Öğle yemeği servisi,22013,0,Satış
+2024-12-28,Aylık dükkân kirası,0,37540,Kira
+2024-12-29,Ramazan iftar geliri,19861,0,Satış
+2024-12-29,Elektrik faturası,0,16873,Fatura
+2025-01-01,Baharat ve sos tedarik,0,14797,Tedarik
+2025-01-03,Online sipariş geliri,12700,0,Satış
+2025-01-03,Catering siparişi,13400,0,Satış
+2025-01-04,Kahvaltı servisi,12486,0,Satış
+2025-01-04,Online sipariş geliri,15334,0,Satış
+2025-01-04,Yemeksepeti komisyon iadesi,8857,0,Diğer Gelir
+2025-01-04,Deniz ürünleri tedarik,0,12827,Tedarik
+2025-01-05,Öğle yemeği servisi,14268,0,Satış
+2025-01-06,Yılbaşı menü geliri,15049,0,Satış
+2025-01-07,Akşam servisi geliri,12455,0,Satış
+2025-01-08,Doğal gaz faturası,0,8289,Fatura
+2025-01-10,Akşam servisi geliri,17423,0,Satış
+2025-01-10,Google Maps öne çıkarma,0,5377,Pazarlama
+2025-01-11,Doğum günü organizasyonu,15752,0,Satış
+2025-01-12,Sponsorluk geliri,8829,0,Diğer Gelir
+2025-01-14,İçecek toptan satın alma,0,16902,Tedarik
+2025-01-15,Yılbaşı menü geliri,13334,0,Satış
+2025-01-15,Elektrik faturası,0,6400,Fatura
+2025-01-17,Servis ve mutfak ekipmanı,0,15207,Sarf
+2025-01-18,Online sipariş geliri,12171,0,Satış
+2025-01-18,Deniz ürünleri tedarik,0,14872,Tedarik
+2025-01-18,Bulaşıkçı ve yardımcı personel,0,72753,Maaş
+2025-01-19,Ramazan iftar geliri,12644,0,Satış
+2025-01-19,Aylık dükkân kirası,0,23910,Kira
+2025-01-20,Kahvaltı servisi,12928,0,Satış
+2025-01-21,Influencer iş birliği,0,5038,Pazarlama
+2025-01-22,Öğle yemeği servisi,14303,0,Satış
+2025-01-23,Bayram menüsü satışı,15686,0,Satış
+2025-01-23,Kuru gıda toptan alım,0,15945,Tedarik
+2025-01-25,Süt ve mandıra ürünleri,0,14130,Tedarik
+2025-01-26,Akşam servisi geliri,12121,0,Satış
+2025-01-27,Kahvaltı servisi,15448,0,Satış
+2025-01-27,KDV ödemesi,0,13592,Vergi
+2025-01-28,Google Maps öne çıkarma,0,5518,Pazarlama
+2025-01-29,Baharat ve sos tedarik,0,14907,Tedarik
+2025-01-30,Mekan kiralama geliri,8359,0,Diğer Gelir
+2025-01-30,Su faturası,0,6401,Fatura
+2025-01-31,Öğle yemeği servisi,14809,0,Satış
+2025-02-01,Doğal gaz faturası,0,11183,Fatura
+2025-02-02,Öğle yemeği servisi,14251,0,Satış
+2025-02-02,Doğum günü organizasyonu,15127,0,Satış
+2025-02-02,Sponsorluk geliri,10348,0,Diğer Gelir
+2025-02-03,Bulaşıkçı ve yardımcı personel,0,72039,Maaş
+2025-02-04,Baharat ve sos tedarik,0,20472,Tedarik
+2025-02-05,Kuru gıda toptan alım,0,19420,Tedarik
+2025-02-06,Kuru gıda toptan alım,0,20116,Tedarik
+2025-02-07,Kahvaltı servisi,13728,0,Satış
+2025-02-07,Catering siparişi,15854,0,Satış
+2025-02-10,Elektrik faturası,0,11057,Fatura
+2025-02-11,İçecek toptan satın alma,0,18793,Tedarik
+2025-02-12,Doğum günü organizasyonu,17593,0,Satış
+2025-02-12,Bayram menüsü satışı,13557,0,Satış
+2025-02-12,Yılbaşı menü geliri,17712,0,Satış
+2025-02-13,Geçici vergi taksiti,0,13350,Vergi
+2025-02-14,Catering siparişi,17963,0,Satış
+2025-02-14,Yılbaşı menü geliri,17590,0,Satış
+2025-02-14,Influencer iş birliği,0,16631,Pazarlama
+2025-02-15,Yılbaşı menü geliri,12146,0,Satış
+2025-02-16,Yılbaşı menü geliri,16340,0,Satış
+2025-02-16,Kuru gıda toptan alım,0,17503,Tedarik
+2025-02-17,Hafta sonu yoğunluk,17933,0,Satış
+2025-02-17,Akşam servisi geliri,17425,0,Satış
+2025-02-18,Temizlik malzemeleri,0,4380,Sarf
+2025-02-20,Yılbaşı menü geliri,15525,0,Satış
+2025-02-20,İşyeri kira ödemesi,0,32900,Kira
+2025-02-21,Doğum günü organizasyonu,12887,0,Satış
+2025-02-21,Temizlik malzemeleri,0,5215,Sarf
+2025-02-22,İş yemeği rezervasyonu,12393,0,Satış
+2025-02-23,Akşam servisi geliri,14980,0,Satış
+2025-02-23,Tek kullanımlık ambalaj,0,4668,Sarf
+2025-02-24,Online sipariş geliri,14792,0,Satış
+2025-02-24,Yılbaşı menü geliri,13190,0,Satış
+2025-02-25,Sponsorluk geliri,14375,0,Diğer Gelir
+2025-02-26,Süt ve mandıra ürünleri,0,16343,Tedarik
+2025-03-01,Ramazan iftar geliri,15520,0,Satış
+2025-03-01,Baharat ve sos tedarik,0,23521,Tedarik
+2025-03-03,Kahvaltı servisi,14449,0,Satış
+2025-03-05,Bayram menüsü satışı,18358,0,Satış
+2025-03-05,Süt ve mandıra ürünleri,0,24864,Tedarik
+2025-03-06,Et ve tavuk alımı,0,28953,Tedarik
+2025-03-06,Doğal gaz faturası,0,9755,Fatura
+2025-03-08,Öğle yemeği servisi,20242,0,Satış
+2025-03-11,Doğum günü organizasyonu,16915,0,Satış
+2025-03-12,Online sipariş geliri,16025,0,Satış
+2025-03-15,Online sipariş geliri,17458,0,Satış
+2025-03-16,Online sipariş geliri,14136,0,Satış
+2025-03-17,Öğle yemeği servisi,15926,0,Satış
+2025-03-17,Yılbaşı menü geliri,19263,0,Satış
+2025-03-17,İnternet aboneliği,0,8812,Fatura
+2025-03-17,Tek kullanımlık ambalaj,0,8679,Sarf
+2025-03-18,İnternet aboneliği,0,9846,Fatura
+2025-03-18,Yemeksepeti komisyonu,0,18161,Pazarlama
+2025-03-20,Sebze meyve toptan,0,24677,Tedarik
+2025-03-23,Catering siparişi,14604,0,Satış
+2025-03-23,Hafta sonu yoğunluk,20023,0,Satış
+2025-03-24,Süt ve mandıra ürünleri,0,22412,Tedarik
+2025-03-24,Bulaşıkçı ve yardımcı personel,0,102260,Maaş
+2025-03-24,KDV ödemesi,0,18170,Vergi
+2025-03-25,Kahvaltı servisi,14490,0,Satış
+2025-03-25,Kahvaltı servisi,18615,0,Satış
+2025-03-25,Yemeksepeti komisyon iadesi,25854,0,Diğer Gelir
+2025-03-25,Aylık dükkân kirası,0,32247,Kira
+2025-03-26,Bayram menüsü satışı,15927,0,Satış
+2025-03-29,İş yemeği rezervasyonu,20044,0,Satış
+2025-03-30,Ramazan iftar geliri,16999,0,Satış
+2025-03-30,Öğle yemeği servisi,20412,0,Satış
+2025-03-31,Öğle yemeği servisi,14763,0,Satış
+2025-03-31,Temizlik malzemeleri,0,8191,Sarf
+2025-04-01,Et ve tavuk alımı,0,24954,Tedarik
+2025-04-03,Online sipariş geliri,16325,0,Satış
+2025-04-06,İş yemeği rezervasyonu,16412,0,Satış
+2025-04-06,İnternet aboneliği,0,8678,Fatura
+2025-04-08,Doğum günü organizasyonu,16350,0,Satış
+2025-04-08,Yılbaşı menü geliri,16727,0,Satış
+2025-04-08,Yemeksepeti komisyon iadesi,32314,0,Diğer Gelir
+2025-04-09,Ramazan iftar geliri,16289,0,Satış
+2025-04-11,Online sipariş geliri,16794,0,Satış
+2025-04-12,Kahvaltı servisi,13145,0,Satış
+2025-04-13,Bayram menüsü satışı,13529,0,Satış
+2025-04-14,Hafta sonu yoğunluk,14404,0,Satış
+2025-04-14,Bayram menüsü satışı,17814,0,Satış
+2025-04-16,Ramazan iftar geliri,14785,0,Satış
+2025-04-16,Akşam servisi geliri,17415,0,Satış
+2025-04-16,İçecek toptan satın alma,0,22047,Tedarik
+2025-04-17,Catering siparişi,17602,0,Satış
+2025-04-19,Yılbaşı menü geliri,13622,0,Satış
+2025-04-19,Aylık dükkân kirası,0,37628,Kira
+2025-04-20,Bayram menüsü satışı,14328,0,Satış
+2025-04-20,İçecek toptan satın alma,0,19529,Tedarik
+2025-04-20,İnternet aboneliği,0,8490,Fatura
+2025-04-21,Temizlik malzemeleri,0,18456,Sarf
+2025-04-22,Hafta sonu yoğunluk,14863,0,Satış
+2025-04-23,Akşam servisi geliri,13751,0,Satış
+2025-04-23,Baharat ve sos tedarik,0,23500,Tedarik
+2025-04-25,İnternet aboneliği,0,8924,Fatura
+2025-04-25,Getir komisyonu,0,9418,Pazarlama
+2025-04-26,Doğum günü organizasyonu,15561,0,Satış
+2025-04-26,Ramazan iftar geliri,14529,0,Satış
+2025-04-26,Akşam servisi geliri,13978,0,Satış
+2025-04-26,Online sipariş geliri,13970,0,Satış
+2025-04-26,Deniz ürünleri tedarik,0,24534,Tedarik
+2025-04-26,Bulaşıkçı ve yardımcı personel,0,45011,Maaş
+2025-04-27,Akşam servisi geliri,16887,0,Satış
+2025-04-27,Stopaj vergi ödemesi,0,18514,Vergi
+2025-04-28,Catering siparişi,12795,0,Satış
+2025-04-29,Et ve tavuk alımı,0,23870,Tedarik
+2025-04-30,Şef ve mutfak personeli maaşları,0,47604,Maaş
+2025-04-30,Google Maps öne çıkarma,0,9281,Pazarlama
+2025-05-01,Ramazan iftar geliri,20415,0,Satış
+2025-05-01,İş yemeği rezervasyonu,17949,0,Satış
+2025-05-01,İş yemeği rezervasyonu,15919,0,Satış
+2025-05-02,Baharat ve sos tedarik,0,14776,Tedarik
+2025-05-02,Doğal gaz faturası,0,15915,Fatura
+2025-05-02,Getir komisyonu,0,7403,Pazarlama
+2025-05-04,Online sipariş geliri,14644,0,Satış
+2025-05-04,Süt ve mandıra ürünleri,0,18568,Tedarik
+2025-05-05,Ramazan iftar geliri,17350,0,Satış
+2025-05-05,Garson ve servis maaşları,0,56956,Maaş
+2025-05-05,Aylık dükkân kirası,0,34158,Kira
+2025-05-06,Akşam servisi geliri,15168,0,Satış
+2025-05-07,Sebze meyve toptan,0,18296,Tedarik
+2025-05-07,Deniz ürünleri tedarik,0,17038,Tedarik
+2025-05-08,Catering siparişi,17695,0,Satış
+2025-05-09,Mekan kiralama geliri,18053,0,Diğer Gelir
+2025-05-09,Kuru gıda toptan alım,0,17490,Tedarik
+2025-05-10,İş yemeği rezervasyonu,15079,0,Satış
+2025-05-10,Sponsorluk geliri,18847,0,Diğer Gelir
+2025-05-11,Doğum günü organizasyonu,18906,0,Satış
+2025-05-13,Bayram menüsü satışı,16520,0,Satış
+2025-05-13,Servis ve mutfak ekipmanı,0,10308,Sarf
+2025-05-14,Sebze meyve toptan,0,14539,Tedarik
+2025-05-15,Bayram menüsü satışı,20625,0,Satış
+2025-05-15,Catering siparişi,20616,0,Satış
+2025-05-16,Şef ve mutfak personeli maaşları,0,55666,Maaş
+2025-05-17,Hafta sonu yoğunluk,17445,0,Satış
+2025-05-18,Catering siparişi,15725,0,Satış
+2025-05-18,Doğum günü organizasyonu,17376,0,Satış
+2025-05-18,Tek kullanımlık ambalaj,0,10777,Sarf
+2025-05-20,Akşam servisi geliri,20187,0,Satış
+2025-05-20,Geçici vergi taksiti,0,18723,Vergi
+2025-05-22,Hafta sonu yoğunluk,18402,0,Satış
+2025-05-22,Yılbaşı menü geliri,16883,0,Satış
+2025-05-23,Yılbaşı menü geliri,21697,0,Satış
+2025-05-23,Baharat ve sos tedarik,0,16760,Tedarik
+2025-05-24,Sebze meyve toptan,0,15538,Tedarik
+2025-05-24,Google Maps öne çıkarma,0,7274,Pazarlama
+2025-05-25,Online sipariş geliri,19822,0,Satış
+2025-05-26,Hafta sonu yoğunluk,21709,0,Satış
+2025-05-26,Baharat ve sos tedarik,0,18435,Tedarik
+2025-05-29,Getir komisyonu,0,7920,Pazarlama
+2025-05-31,Elektrik faturası,0,14996,Fatura
+2025-06-01,Bayram menüsü satışı,16782,0,Satış
+2025-06-01,İnternet aboneliği,0,9991,Fatura
+2025-06-01,Instagram reklam harcaması,0,11374,Pazarlama
+2025-06-02,Mekan kiralama geliri,12499,0,Diğer Gelir
+2025-06-02,Sebze meyve toptan,0,20073,Tedarik
+2025-06-03,Yılbaşı menü geliri,16821,0,Satış
+2025-06-03,Yılbaşı menü geliri,21986,0,Satış
+2025-06-05,Hafta sonu yoğunluk,24305,0,Satış
+2025-06-06,Kahvaltı servisi,18732,0,Satış
+2025-06-06,Google Maps öne çıkarma,0,11607,Pazarlama
+2025-06-07,Ramazan iftar geliri,22555,0,Satış
+2025-06-07,Aylık dükkân kirası,0,38463,Kira
+2025-06-08,Doğum günü organizasyonu,20665,0,Satış
+2025-06-08,Online sipariş geliri,21758,0,Satış
+2025-06-08,Tek kullanımlık ambalaj,0,22243,Sarf
+2025-06-09,Kuru gıda toptan alım,0,23924,Tedarik
+2025-06-09,Şef ve mutfak personeli maaşları,0,118722,Maaş
+2025-06-14,Et ve tavuk alımı,0,21631,Tedarik
+2025-06-15,Ramazan iftar geliri,19934,0,Satış
+2025-06-17,Online sipariş geliri,22164,0,Satış
+2025-06-18,Öğle yemeği servisi,22656,0,Satış
+2025-06-19,Hafta sonu yoğunluk,21650,0,Satış
+2025-06-19,Sponsorluk geliri,13159,0,Diğer Gelir
+2025-06-19,İnternet aboneliği,0,10981,Fatura
+2025-06-21,Ramazan iftar geliri,19178,0,Satış
+2025-06-21,Bayram menüsü satışı,19574,0,Satış
+2025-06-22,Doğum günü organizasyonu,20052,0,Satış
+2025-06-22,Kahvaltı servisi,17621,0,Satış
+2025-06-22,Kahvaltı servisi,24306,0,Satış
+2025-06-22,Ramazan iftar geliri,24129,0,Satış
+2025-06-23,Elektrik faturası,0,10844,Fatura
+2025-06-25,Sponsorluk geliri,11316,0,Diğer Gelir
+2025-06-25,Et ve tavuk alımı,0,24595,Tedarik
+2025-06-25,Et ve tavuk alımı,0,22478,Tedarik
+2025-06-27,Akşam servisi geliri,22410,0,Satış
+2025-06-29,Kuru gıda toptan alım,0,18479,Tedarik
+2025-06-29,Sebze meyve toptan,0,21719,Tedarik
+2025-06-29,KDV ödemesi,0,19259,Vergi

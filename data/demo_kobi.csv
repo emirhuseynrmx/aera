@@ -1,0 +1,380 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-02,Telefon,0,3722,Fatura
+2024-01-04,Sözleşmeli hizmet bedeli,19469,0,Satış
+2024-01-04,Ofis malzemeleri,0,4127,Sarf
+2024-01-05,Stok alımı,0,12453,Tedarik
+2024-01-06,Hammadde alımı,0,10818,Tedarik
+2024-01-07,İnternet,0,4057,Fatura
+2024-01-08,Toptan satış tahsilatı,15041,0,Satış
+2024-01-12,Personel maaşları,0,70289,Maaş
+2024-01-12,Hammadde alımı,0,11938,Tedarik
+2024-01-13,Müşteri A fatura tahsilatı,14729,0,Satış
+2024-01-13,Faiz geliri,5110,0,Diğer Gelir
+2024-01-13,Ofis malzemeleri,0,3468,Sarf
+2024-01-15,İnternet,0,3938,Fatura
+2024-01-16,Perakende günlük geliri,18595,0,Satış
+2024-01-16,Sözleşmeli hizmet bedeli,16717,0,Satış
+2024-01-17,Toptan satış tahsilatı,14579,0,Satış
+2024-01-18,Reklam ödemesi,0,4972,Pazarlama
+2024-01-19,Müşteri A fatura tahsilatı,18946,0,Satış
+2024-01-19,Dükkan kirası,0,20220,Kira
+2024-01-19,Reklam ödemesi,0,3857,Pazarlama
+2024-01-20,Faiz geliri,4923,0,Diğer Gelir
+2024-01-21,Sözleşmeli hizmet bedeli,17200,0,Satış
+2024-01-22,Sözleşmeli hizmet bedeli,16423,0,Satış
+2024-01-23,Toptan satış tahsilatı,15554,0,Satış
+2024-01-23,KDV ödemesi,0,11470,Vergi
+2024-01-26,Müşteri A fatura tahsilatı,14128,0,Satış
+2024-01-26,Su,0,4344,Fatura
+2024-01-26,Reklam ödemesi,0,3998,Pazarlama
+2024-01-27,Müşteri A fatura tahsilatı,18747,0,Satış
+2024-01-27,Sözleşmeli hizmet bedeli,17636,0,Satış
+2024-01-31,Hammadde alımı,0,12541,Tedarik
+2024-02-03,Hammadde alımı,0,18108,Tedarik
+2024-02-03,Hammadde alımı,0,14291,Tedarik
+2024-02-06,Müşteri B sipariş ödemesi,33243,0,Satış
+2024-02-06,Ofis kira,0,22690,Kira
+2024-02-06,Telefon,0,5285,Fatura
+2024-02-07,Su,0,5487,Fatura
+2024-02-08,Faiz geliri,9656,0,Diğer Gelir
+2024-02-10,Sarf gider,0,3614,Sarf
+2024-02-14,Toptan satış tahsilatı,29344,0,Satış
+2024-02-15,Müşteri A fatura tahsilatı,23809,0,Satış
+2024-02-15,KDV ödemesi,0,13774,Vergi
+2024-02-16,Reklam ödemesi,0,4679,Pazarlama
+2024-02-18,Web sitesi bakım,0,5073,Pazarlama
+2024-02-19,SGK ve stopaj,0,40892,Maaş
+2024-02-19,Ofis malzemeleri,0,4462,Sarf
+2024-02-20,Müşteri B sipariş ödemesi,22923,0,Satış
+2024-02-20,Sözleşmeli hizmet bedeli,23279,0,Satış
+2024-02-20,Web sitesi bakım,0,4505,Pazarlama
+2024-02-22,SGK ve stopaj,0,31968,Maaş
+2024-02-22,İşyeri sigortası,0,6408,Sigorta
+2024-02-23,Sözleşmeli hizmet bedeli,23395,0,Satış
+2024-02-25,Tedarikçi ödemesi,0,16371,Tedarik
+2024-02-28,Müşteri A fatura tahsilatı,29923,0,Satış
+2024-02-28,Sözleşmeli hizmet bedeli,29260,0,Satış
+2024-02-29,Telefon,0,4849,Fatura
+2024-03-02,Reklam ödemesi,0,4712,Pazarlama
+2024-03-04,Perakende günlük geliri,34906,0,Satış
+2024-03-07,Stok alımı,0,12872,Tedarik
+2024-03-07,Reklam ödemesi,0,4886,Pazarlama
+2024-03-09,Su,0,5917,Fatura
+2024-03-10,Perakende günlük geliri,32164,0,Satış
+2024-03-10,Sarf gider,0,7561,Sarf
+2024-03-11,Müşteri A fatura tahsilatı,33052,0,Satış
+2024-03-15,Stok alımı,0,13460,Tedarik
+2024-03-16,Su,0,4886,Fatura
+2024-03-17,Su,0,4858,Fatura
+2024-03-19,Devlet hibe,5145,0,Diğer Gelir
+2024-03-20,Müşteri B sipariş ödemesi,26199,0,Satış
+2024-03-22,Tedarikçi ödemesi,0,11393,Tedarik
+2024-03-23,Geçici vergi,0,16015,Vergi
+2024-03-24,Perakende günlük geliri,30889,0,Satış
+2024-03-24,Dükkan kirası,0,20779,Kira
+2024-03-26,Reklam ödemesi,0,5257,Pazarlama
+2024-03-28,Müşteri A fatura tahsilatı,35146,0,Satış
+2024-03-29,SGK ve stopaj,0,32891,Maaş
+2024-03-29,Tedarikçi ödemesi,0,14995,Tedarik
+2024-03-30,Toptan satış tahsilatı,25883,0,Satış
+2024-03-30,Toptan satış tahsilatı,25183,0,Satış
+2024-03-30,Faiz geliri,6956,0,Diğer Gelir
+2024-03-30,SGK ve stopaj,0,40834,Maaş
+2024-04-03,Toptan satış tahsilatı,26973,0,Satış
+2024-04-03,İnternet,0,4594,Fatura
+2024-04-06,Ofis malzemeleri,0,4651,Sarf
+2024-04-07,Müşteri B sipariş ödemesi,25728,0,Satış
+2024-04-08,Perakende günlük geliri,27769,0,Satış
+2024-04-08,Devlet hibe,14255,0,Diğer Gelir
+2024-04-09,Su,0,3892,Fatura
+2024-04-10,Elektrik,0,4580,Fatura
+2024-04-11,Perakende günlük geliri,26370,0,Satış
+2024-04-11,Ofis malzemeleri,0,4148,Sarf
+2024-04-12,İşyeri sigortası,0,5414,Sigorta
+2024-04-13,Müşteri A fatura tahsilatı,23021,0,Satış
+2024-04-13,Dükkan kirası,0,21757,Kira
+2024-04-13,Elektrik,0,4824,Fatura
+2024-04-15,Perakende günlük geliri,23180,0,Satış
+2024-04-16,Reklam ödemesi,0,6254,Pazarlama
+2024-04-20,Sözleşmeli hizmet bedeli,27742,0,Satış
+2024-04-21,Stok alımı,0,16738,Tedarik
+2024-04-22,Toptan satış tahsilatı,27785,0,Satış
+2024-04-22,Toptan satış tahsilatı,26416,0,Satış
+2024-04-23,Personel maaşları,0,73838,Maaş
+2024-04-23,Geçici vergi,0,13405,Vergi
+2024-04-24,Toptan satış tahsilatı,26223,0,Satış
+2024-04-25,Hammadde alımı,0,14942,Tedarik
+2024-04-27,Web sitesi bakım,0,8438,Pazarlama
+2024-04-30,Hammadde alımı,0,15185,Tedarik
+2024-05-02,Geçici vergi,0,15256,Vergi
+2024-05-03,Müşteri A fatura tahsilatı,28584,0,Satış
+2024-05-06,Perakende günlük geliri,31310,0,Satış
+2024-05-06,Devlet hibe,12661,0,Diğer Gelir
+2024-05-06,Su,0,7763,Fatura
+2024-05-07,Müşteri A fatura tahsilatı,24230,0,Satış
+2024-05-07,SGK ve stopaj,0,69610,Maaş
+2024-05-07,Web sitesi bakım,0,5246,Pazarlama
+2024-05-08,Tedarikçi ödemesi,0,13362,Tedarik
+2024-05-08,İnternet,0,9177,Fatura
+2024-05-10,Perakende günlük geliri,22099,0,Satış
+2024-05-13,Müşteri B sipariş ödemesi,28090,0,Satış
+2024-05-15,Perakende günlük geliri,29024,0,Satış
+2024-05-16,Sözleşmeli hizmet bedeli,26634,0,Satış
+2024-05-17,Ofis kira,0,20237,Kira
+2024-05-18,Reklam ödemesi,0,4473,Pazarlama
+2024-05-19,Tedarikçi ödemesi,0,11340,Tedarik
+2024-05-22,Stok alımı,0,12457,Tedarik
+2024-05-23,Reklam ödemesi,0,4391,Pazarlama
+2024-05-24,Müşteri B sipariş ödemesi,29764,0,Satış
+2024-05-26,Sözleşmeli hizmet bedeli,25790,0,Satış
+2024-05-26,Ofis malzemeleri,0,4036,Sarf
+2024-05-27,Tedarikçi ödemesi,0,11513,Tedarik
+2024-05-30,Ofis malzemeleri,0,3868,Sarf
+2024-06-01,Müşteri A fatura tahsilatı,22991,0,Satış
+2024-06-01,Devlet hibe,6081,0,Diğer Gelir
+2024-06-01,Hammadde alımı,0,17034,Tedarik
+2024-06-02,Müşteri A fatura tahsilatı,27677,0,Satış
+2024-06-02,İnternet,0,9040,Fatura
+2024-06-02,Sarf gider,0,3926,Sarf
+2024-06-03,İnternet,0,8570,Fatura
+2024-06-03,İşyeri sigortası,0,5899,Sigorta
+2024-06-11,Faiz geliri,4981,0,Diğer Gelir
+2024-06-13,SGK ve stopaj,0,37956,Maaş
+2024-06-14,Sözleşmeli hizmet bedeli,27491,0,Satış
+2024-06-15,Perakende günlük geliri,26817,0,Satış
+2024-06-15,Sarf gider,0,4454,Sarf
+2024-06-17,Stok alımı,0,15381,Tedarik
+2024-06-20,Web sitesi bakım,0,7004,Pazarlama
+2024-06-22,Toptan satış tahsilatı,21055,0,Satış
+2024-06-24,SGK ve stopaj,0,33456,Maaş
+2024-06-24,Web sitesi bakım,0,7572,Pazarlama
+2024-06-25,Müşteri B sipariş ödemesi,24409,0,Satış
+2024-06-26,Tedarikçi ödemesi,0,18724,Tedarik
+2024-06-28,Geçici vergi,0,14761,Vergi
+2024-06-29,Toptan satış tahsilatı,26112,0,Satış
+2024-06-29,Toptan satış tahsilatı,25621,0,Satış
+2024-06-29,Müşteri A fatura tahsilatı,28815,0,Satış
+2024-06-30,Dükkan kirası,0,17649,Kira
+2024-07-05,Sarf gider,0,7901,Sarf
+2024-07-07,Toptan satış tahsilatı,24524,0,Satış
+2024-07-09,Toptan satış tahsilatı,19363,0,Satış
+2024-07-09,İşyeri sigortası,0,5571,Sigorta
+2024-07-10,Tedarikçi ödemesi,0,6647,Tedarik
+2024-07-10,Stok alımı,0,8050,Tedarik
+2024-07-10,Stok alımı,0,7797,Tedarik
+2024-07-13,Hammadde alımı,0,7327,Tedarik
+2024-07-15,Devlet hibe,12786,0,Diğer Gelir
+2024-07-17,Müşteri B sipariş ödemesi,16487,0,Satış
+2024-07-17,KDV ödemesi,0,12965,Vergi
+2024-07-18,Web sitesi bakım,0,6668,Pazarlama
+2024-07-20,Müşteri A fatura tahsilatı,22424,0,Satış
+2024-07-20,Tedarikçi ödemesi,0,7798,Tedarik
+2024-07-20,Reklam ödemesi,0,6634,Pazarlama
+2024-07-24,SGK ve stopaj,0,63836,Maaş
+2024-07-24,İnternet,0,6866,Fatura
+2024-07-25,Toptan satış tahsilatı,16797,0,Satış
+2024-07-26,Sözleşmeli hizmet bedeli,18309,0,Satış
+2024-07-26,Sözleşmeli hizmet bedeli,18222,0,Satış
+2024-07-26,Müşteri A fatura tahsilatı,17458,0,Satış
+2024-07-26,Tedarikçi ödemesi,0,7373,Tedarik
+2024-07-28,Dükkan kirası,0,19875,Kira
+2024-07-29,Sözleşmeli hizmet bedeli,21247,0,Satış
+2024-07-29,Müşteri A fatura tahsilatı,17514,0,Satış
+2024-07-29,İnternet,0,8045,Fatura
+2024-08-03,Web sitesi bakım,0,13756,Pazarlama
+2024-08-06,Perakende günlük geliri,23211,0,Satış
+2024-08-06,Geçici vergi,0,12014,Vergi
+2024-08-06,İşyeri sigortası,0,5278,Sigorta
+2024-08-08,Stok alımı,0,8302,Tedarik
+2024-08-09,Devlet hibe,4497,0,Diğer Gelir
+2024-08-09,Faiz geliri,5676,0,Diğer Gelir
+2024-08-10,Hammadde alımı,0,7516,Tedarik
+2024-08-15,Hammadde alımı,0,7346,Tedarik
+2024-08-15,Dükkan kirası,0,16461,Kira
+2024-08-15,İnternet,0,5513,Fatura
+2024-08-16,Sarf gider,0,3103,Sarf
+2024-08-19,Perakende günlük geliri,28545,0,Satış
+2024-08-22,Elektrik,0,4224,Fatura
+2024-08-23,Sarf gider,0,3393,Sarf
+2024-08-24,Müşteri B sipariş ödemesi,26978,0,Satış
+2024-08-25,Hammadde alımı,0,8354,Tedarik
+2024-08-25,İnternet,0,4772,Fatura
+2024-08-26,Stok alımı,0,7390,Tedarik
+2024-08-27,Müşteri A fatura tahsilatı,24665,0,Satış
+2024-08-29,Perakende günlük geliri,28128,0,Satış
+2024-08-30,Müşteri A fatura tahsilatı,21150,0,Satış
+2024-08-30,Müşteri B sipariş ödemesi,26892,0,Satış
+2024-08-31,Sözleşmeli hizmet bedeli,25160,0,Satış
+2024-08-31,Personel maaşları,0,64466,Maaş
+2024-08-31,Tedarikçi ödemesi,0,6811,Tedarik
+2024-09-01,Perakende günlük geliri,22166,0,Satış
+2024-09-01,Toptan satış tahsilatı,30764,0,Satış
+2024-09-01,Faiz geliri,6244,0,Diğer Gelir
+2024-09-02,SGK ve stopaj,0,79477,Maaş
+2024-09-04,Devlet hibe,7368,0,Diğer Gelir
+2024-09-05,Sözleşmeli hizmet bedeli,22462,0,Satış
+2024-09-05,Müşteri B sipariş ödemesi,22305,0,Satış
+2024-09-10,Toptan satış tahsilatı,25980,0,Satış
+2024-09-10,Elektrik,0,8881,Fatura
+2024-09-11,Sözleşmeli hizmet bedeli,30533,0,Satış
+2024-09-12,Ofis malzemeleri,0,9453,Sarf
+2024-09-15,Stok alımı,0,10524,Tedarik
+2024-09-15,Stok alımı,0,10641,Tedarik
+2024-09-16,Reklam ödemesi,0,7944,Pazarlama
+2024-09-17,Reklam ödemesi,0,7778,Pazarlama
+2024-09-19,Müşteri A fatura tahsilatı,24131,0,Satış
+2024-09-20,Ofis kira,0,20817,Kira
+2024-09-20,İnternet,0,8325,Fatura
+2024-09-22,KDV ödemesi,0,12773,Vergi
+2024-09-24,Toptan satış tahsilatı,26658,0,Satış
+2024-09-24,Perakende günlük geliri,30061,0,Satış
+2024-09-24,Hammadde alımı,0,10019,Tedarik
+2024-09-27,Hammadde alımı,0,10294,Tedarik
+2024-09-27,İşyeri sigortası,0,5761,Sigorta
+2024-09-29,Stok alımı,0,11458,Tedarik
+2024-10-03,Personel maaşları,0,36949,Maaş
+2024-10-05,Toptan satış tahsilatı,25768,0,Satış
+2024-10-06,Müşteri B sipariş ödemesi,36283,0,Satış
+2024-10-08,Sözleşmeli hizmet bedeli,34385,0,Satış
+2024-10-10,Stok alımı,0,18220,Tedarik
+2024-10-11,Su,0,5167,Fatura
+2024-10-14,Ofis malzemeleri,0,9680,Sarf
+2024-10-16,Ofis kira,0,19027,Kira
+2024-10-17,Faiz geliri,5829,0,Diğer Gelir
+2024-10-18,SGK ve stopaj,0,37551,Maaş
+2024-10-18,Geçici vergi,0,14788,Vergi
+2024-10-19,Sözleşmeli hizmet bedeli,32709,0,Satış
+2024-10-20,Toptan satış tahsilatı,35713,0,Satış
+2024-10-20,Stok alımı,0,17270,Tedarik
+2024-10-20,Reklam ödemesi,0,17132,Pazarlama
+2024-10-21,Devlet hibe,7624,0,Diğer Gelir
+2024-10-21,Elektrik,0,6500,Fatura
+2024-10-24,Tedarikçi ödemesi,0,17805,Tedarik
+2024-10-26,Müşteri B sipariş ödemesi,36426,0,Satış
+2024-10-30,Perakende günlük geliri,28759,0,Satış
+2024-10-30,Telefon,0,5812,Fatura
+2024-10-31,Perakende günlük geliri,32171,0,Satış
+2024-11-04,Toptan satış tahsilatı,23906,0,Satış
+2024-11-04,Perakende günlük geliri,25205,0,Satış
+2024-11-05,Toptan satış tahsilatı,24965,0,Satış
+2024-11-05,Dükkan kirası,0,19460,Kira
+2024-11-06,Personel maaşları,0,85397,Maaş
+2024-11-06,Sarf gider,0,3781,Sarf
+2024-11-07,KDV ödemesi,0,16582,Vergi
+2024-11-08,Toptan satış tahsilatı,29665,0,Satış
+2024-11-08,İnternet,0,6174,Fatura
+2024-11-09,Reklam ödemesi,0,15507,Pazarlama
+2024-11-10,Su,0,5094,Fatura
+2024-11-11,Devlet hibe,11278,0,Diğer Gelir
+2024-11-11,Stok alımı,0,12029,Tedarik
+2024-11-15,Hammadde alımı,0,11716,Tedarik
+2024-11-15,Ofis malzemeleri,0,3863,Sarf
+2024-11-16,Sözleşmeli hizmet bedeli,29120,0,Satış
+2024-11-18,İnternet,0,5455,Fatura
+2024-11-22,Müşteri A fatura tahsilatı,31123,0,Satış
+2024-11-22,Perakende günlük geliri,31421,0,Satış
+2024-11-23,Müşteri B sipariş ödemesi,25249,0,Satış
+2024-11-23,Tedarikçi ödemesi,0,11962,Tedarik
+2024-11-24,Hammadde alımı,0,11583,Tedarik
+2024-11-28,Müşteri A fatura tahsilatı,29372,0,Satış
+2024-11-30,Stok alımı,0,9215,Tedarik
+2024-12-01,Geçici vergi,0,14327,Vergi
+2024-12-02,Su,0,3945,Fatura
+2024-12-03,Sözleşmeli hizmet bedeli,23989,0,Satış
+2024-12-04,Hammadde alımı,0,13421,Tedarik
+2024-12-04,İşyeri sigortası,0,7556,Sigorta
+2024-12-06,Telefon,0,5050,Fatura
+2024-12-07,Toptan satış tahsilatı,26241,0,Satış
+2024-12-08,Perakende günlük geliri,26628,0,Satış
+2024-12-08,Stok alımı,0,12309,Tedarik
+2024-12-09,SGK ve stopaj,0,42131,Maaş
+2024-12-09,Su,0,4688,Fatura
+2024-12-12,Perakende günlük geliri,22814,0,Satış
+2024-12-15,Toptan satış tahsilatı,20139,0,Satış
+2024-12-18,Reklam ödemesi,0,8647,Pazarlama
+2024-12-20,Ofis kira,0,19952,Kira
+2024-12-21,Sözleşmeli hizmet bedeli,19633,0,Satış
+2024-12-22,Toptan satış tahsilatı,24957,0,Satış
+2024-12-22,Tedarikçi ödemesi,0,13400,Tedarik
+2024-12-23,Müşteri A fatura tahsilatı,26741,0,Satış
+2024-12-23,SGK ve stopaj,0,39422,Maaş
+2024-12-25,Perakende günlük geliri,26252,0,Satış
+2024-12-26,Sözleşmeli hizmet bedeli,19171,0,Satış
+2024-12-26,Su,0,4745,Fatura
+2024-12-26,Web sitesi bakım,0,7667,Pazarlama
+2024-12-27,Stok alımı,0,14661,Tedarik
+2024-12-29,Sözleşmeli hizmet bedeli,26140,0,Satış
+2024-12-31,Ofis malzemeleri,0,8607,Sarf
+2025-01-02,Tedarikçi ödemesi,0,10976,Tedarik
+2025-01-03,Perakende günlük geliri,16153,0,Satış
+2025-01-04,Hammadde alımı,0,11313,Tedarik
+2025-01-04,Elektrik,0,8538,Fatura
+2025-01-05,KDV ödemesi,0,12988,Vergi
+2025-01-06,Perakende günlük geliri,18343,0,Satış
+2025-01-07,Toptan satış tahsilatı,16524,0,Satış
+2025-01-11,Müşteri A fatura tahsilatı,19108,0,Satış
+2025-01-13,Toptan satış tahsilatı,15652,0,Satış
+2025-01-13,Personel maaşları,0,69119,Maaş
+2025-01-14,Ofis kira,0,17991,Kira
+2025-01-15,Müşteri A fatura tahsilatı,16346,0,Satış
+2025-01-15,Reklam ödemesi,0,3929,Pazarlama
+2025-01-15,Web sitesi bakım,0,4526,Pazarlama
+2025-01-15,Ofis malzemeleri,0,7824,Sarf
+2025-01-16,Tedarikçi ödemesi,0,13464,Tedarik
+2025-01-19,Müşteri A fatura tahsilatı,13384,0,Satış
+2025-01-19,Devlet hibe,12261,0,Diğer Gelir
+2025-01-20,Sözleşmeli hizmet bedeli,14529,0,Satış
+2025-01-20,Telefon,0,7580,Fatura
+2025-01-20,Reklam ödemesi,0,4582,Pazarlama
+2025-01-22,Stok alımı,0,10662,Tedarik
+2025-01-23,Müşteri B sipariş ödemesi,17520,0,Satış
+2025-01-27,Müşteri A fatura tahsilatı,15963,0,Satış
+2025-01-28,Müşteri A fatura tahsilatı,17149,0,Satış
+2025-01-30,Müşteri A fatura tahsilatı,14931,0,Satış
+2025-01-31,Toptan satış tahsilatı,15344,0,Satış
+2025-02-01,Su,0,5548,Fatura
+2025-02-04,Telefon,0,4692,Fatura
+2025-02-05,Perakende günlük geliri,15212,0,Satış
+2025-02-05,Reklam ödemesi,0,12008,Pazarlama
+2025-02-07,Müşteri B sipariş ödemesi,19692,0,Satış
+2025-02-07,Ofis kira,0,18106,Kira
+2025-02-07,KDV ödemesi,0,16050,Vergi
+2025-02-09,Sözleşmeli hizmet bedeli,17711,0,Satış
+2025-02-11,Toptan satış tahsilatı,16445,0,Satış
+2025-02-14,Hammadde alımı,0,14689,Tedarik
+2025-02-16,Sözleşmeli hizmet bedeli,21836,0,Satış
+2025-02-18,Sözleşmeli hizmet bedeli,18314,0,Satış
+2025-02-19,Toptan satış tahsilatı,18095,0,Satış
+2025-02-20,Müşteri B sipariş ödemesi,17467,0,Satış
+2025-02-21,Müşteri A fatura tahsilatı,17515,0,Satış
+2025-02-21,Müşteri A fatura tahsilatı,20964,0,Satış
+2025-02-24,Tedarikçi ödemesi,0,15772,Tedarik
+2025-02-24,Hammadde alımı,0,17690,Tedarik
+2025-02-25,Müşteri A fatura tahsilatı,22643,0,Satış
+2025-02-25,Personel maaşları,0,75684,Maaş
+2025-02-26,Müşteri A fatura tahsilatı,19167,0,Satış
+2025-02-27,İnternet,0,5802,Fatura
+2025-02-27,Sarf gider,0,7182,Sarf
+2025-03-02,Hammadde alımı,0,16352,Tedarik
+2025-03-05,Perakende günlük geliri,25820,0,Satış
+2025-03-07,Elektrik,0,4800,Fatura
+2025-03-08,Dükkan kirası,0,22652,Kira
+2025-03-09,Geçici vergi,0,16713,Vergi
+2025-03-10,SGK ve stopaj,0,41354,Maaş
+2025-03-12,SGK ve stopaj,0,39523,Maaş
+2025-03-15,Telefon,0,4126,Fatura
+2025-03-20,Müşteri B sipariş ödemesi,30862,0,Satış
+2025-03-21,Müşteri A fatura tahsilatı,34389,0,Satış
+2025-03-21,Perakende günlük geliri,23998,0,Satış
+2025-03-21,Sarf gider,0,7658,Sarf
+2025-03-22,Perakende günlük geliri,25686,0,Satış
+2025-03-23,Hammadde alımı,0,15501,Tedarik
+2025-03-23,Elektrik,0,4183,Fatura
+2025-03-23,İnternet,0,3720,Fatura
+2025-03-27,Sözleşmeli hizmet bedeli,30659,0,Satış
+2025-03-27,Toptan satış tahsilatı,25558,0,Satış
+2025-03-28,Hammadde alımı,0,16500,Tedarik
+2025-03-28,Web sitesi bakım,0,7368,Pazarlama
+2025-03-30,Devlet hibe,10390,0,Diğer Gelir
+2025-03-30,Web sitesi bakım,0,7399,Pazarlama
+2025-03-31,Toptan satış tahsilatı,35492,0,Satış

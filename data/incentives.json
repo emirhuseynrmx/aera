@@ -1,0 +1,242 @@
+[
+  {
+    "isim": "KOSGEB Mikro ve Küçük İşletme Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "1.500.000 TL (geri ödemesiz)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6315/mikro-ve-kucuk-isletmelere-hizmet-destegi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Mikro ve küçük ölçekli işletmelere nitelikli eleman, enerji verimliliği, tasarım ve test/analiz giderleri için hibe.",
+    "etiketler": ["mikro", "küçük", "nakit", "işletme", "acil", "destek", "kosgeb", "hibe", "eleman", "enerji"]
+  },
+  {
+    "isim": "KOSGEB KOBİ Teknolojik Ürün Yatırım Destek Programı (KOBİ-TEKNOYATIRIM)",
+    "kurum": "KOSGEB",
+    "tutar": "5.000.000 TL (hibe + faiz desteği)",
+    "tip": "Hibe + Kredi",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6323/kobi-teknoyatirim-destek-programi",
+    "basvuru_durumu": "Dönemsel başvuru",
+    "aciklama": "Ar-Ge veya yenilik faaliyetleri sonucu ortaya çıkan ürünlerin üretim yatırımı için destek.",
+    "etiketler": ["teknoloji", "üretim", "yatırım", "dijital", "imalat", "ar-ge", "inovasyon", "kosgeb", "makine"]
+  },
+  {
+    "isim": "KOSGEB Girişimcilik Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "300.000 TL (hibe + faiz desteği)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6677/girisimcilik-destek-programi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Yeni kurulan işletmelere kuruluş, makine-teçhizat ve işletme giderleri desteği.",
+    "etiketler": ["girişim", "startup", "yeni", "kuruluş", "genç", "girişimci", "kosgeb", "kadın"]
+  },
+  {
+    "isim": "KOSGEB İşletme Geliştirme Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "1.300.000 TL (toplam)",
+    "tip": "Hibe + Kredi",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6319/isletme-gelistirme-destek-programi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Mevcut KOBİ'lerin yurt içi/dışı fuar, tanıtım, eğitim, danışmanlık ve belgelendirme giderleri.",
+    "etiketler": ["fuar", "tanıtım", "eğitim", "danışmanlık", "belge", "kosgeb", "pazarlama", "ihracat"]
+  },
+  {
+    "isim": "KOSGEB KOBİ Finansman Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "Faiz/kâr payı desteği (kredi tutarının %100'üne kadar)",
+    "tip": "Kredi Faiz Desteği",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6677/kobi-finansman-destek-programi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "KOBİ'lerin banka kredisi faiz yükünü azaltan program. Nakit sıkışıklığında ilk başvurulacak destek.",
+    "etiketler": ["kredi", "faiz", "finansman", "nakit", "banka", "kosgeb", "acil", "likidite", "borç"]
+  },
+  {
+    "isim": "TÜBİTAK 1507 — KOBİ Ar-Ge Başlangıç Destek Programı",
+    "kurum": "TÜBİTAK",
+    "tutar": "1.200.000 TL (%75 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari/icerik-1507-kobi-ar-ge-baslangic-destek-programi",
+    "basvuru_durumu": "Yılda 2 dönem",
+    "aciklama": "İlk kez Ar-Ge projesi yapacak KOBİ'lere yönelik başlangıç desteği. Yazılım, donanım, personel giderleri.",
+    "etiketler": ["ar-ge", "yazılım", "teknoloji", "inovasyon", "dijital", "yapay zeka", "tübitak", "mühendis"]
+  },
+  {
+    "isim": "TÜBİTAK 1501 — Sanayi Ar-Ge Projeleri Destekleme Programı",
+    "kurum": "TÜBİTAK",
+    "tutar": "Proje bütçesinin %75'ine kadar hibe",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari/icerik-1501-sanayi-ar-ge",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Sanayi kuruluşlarının Ar-Ge projelerine kapsamlı destek. Personel, malzeme, danışmanlık, seyahat.",
+    "etiketler": ["ar-ge", "sanayi", "üretim", "imalat", "tübitak", "proje", "mühendislik"]
+  },
+  {
+    "isim": "TÜBİTAK BİGG (1512) — Bireysel Genç Girişimci Programı",
+    "kurum": "TÜBİTAK",
+    "tutar": "450.000 TL (%100 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari/icerik-1512-bigg",
+    "basvuru_durumu": "Yılda 1 dönem",
+    "aciklama": "Teknoloji tabanlı iş fikri olan genç girişimcilere sermaye desteği. Şirket kurma zorunluluğu yok.",
+    "etiketler": ["girişim", "genç", "startup", "teknoloji", "bigg", "tübitak", "fikir", "prototip"]
+  },
+  {
+    "isim": "TÜBİTAK TEYDEB 1602 — Patent Destek Programı",
+    "kurum": "TÜBİTAK",
+    "tutar": "200.000 TL'ye kadar",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.tubitak.gov.tr/tr/destekler/sanayi/ulusal-destek-programlari/icerik-1602-patent",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Ulusal ve uluslararası patent başvuru giderlerinin karşılanması.",
+    "etiketler": ["patent", "fikri mülkiyet", "buluş", "tübitak", "tescil", "marka"]
+  },
+  {
+    "isim": "Ticaret Bakanlığı — Pazar Araştırması ve Pazara Giriş Desteği",
+    "kurum": "Ticaret Bakanlığı",
+    "tutar": "400.000 TL (%70 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.ticaret.gov.tr/ihracat/destekler/pazar-arastirmasi-ve-pazara-giris-destegi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "İhracatçı firmaların yeni pazar araştırması, yurt dışı fuar ve ticaret heyeti giderleri.",
+    "etiketler": ["ihracat", "pazar", "uluslararası", "dış ticaret", "yurt dışı", "fuar"]
+  },
+  {
+    "isim": "Ticaret Bakanlığı — Tasarım Desteği",
+    "kurum": "Ticaret Bakanlığı",
+    "tutar": "300.000 TL (%50 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.ticaret.gov.tr/ihracat/destekler/tasarim-destegi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Endüstriyel tasarım ve moda tasarım firmalarının yurt dışı tanıtım ve tasarımcı istihdamı.",
+    "etiketler": ["tasarım", "moda", "tekstil", "endüstriyel", "ihracat", "marka"]
+  },
+  {
+    "isim": "Ticaret Bakanlığı — E-Ticaret Sitelerine Üyelik Desteği (DİJİTAL)",
+    "kurum": "Ticaret Bakanlığı",
+    "tutar": "300.000 TL (%60 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.ticaret.gov.tr/ihracat/destekler/e-ticaret-destegi",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "E-ticaret platformlarına (Amazon, Etsy, Alibaba) üyelik ve dijital pazarlama giderleri.",
+    "etiketler": ["e-ticaret", "dijital", "amazon", "platform", "online", "satış", "ihracat", "web"]
+  },
+  {
+    "isim": "Ticaret Bakanlığı — Marka/TURQUALITY Destek Programı",
+    "kurum": "Ticaret Bakanlığı",
+    "tutar": "Sınırsız (5 yıl boyunca %50)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.ticaret.gov.tr/ihracat/destekler/turquality-marka",
+    "basvuru_durumu": "Dönemsel başvuru",
+    "aciklama": "Türk markalarının küresel pazarda konumlandırılması. Mağaza, reklam, danışmanlık giderleri.",
+    "etiketler": ["marka", "turquality", "ihracat", "global", "perakende", "tanıtım", "pazarlama"]
+  },
+  {
+    "isim": "İŞKUR — İşbaşı Eğitim Programı (İEP)",
+    "kurum": "İŞKUR",
+    "tutar": "Kişi başı ~8.000 TL/ay (6 aya kadar)",
+    "tip": "İstihdam Desteği",
+    "basvuru_url": "https://www.iskur.gov.tr/is-arayan/aktif-isgucu-programlari/isbasi-egitim-programi/",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "İşverene maaş yükü olmadan eleman çalıştırma imkânı. SGK primi İŞKUR tarafından karşılanır.",
+    "etiketler": ["istihdam", "eleman", "maaş", "sgk", "işkur", "stajyer", "personel", "insan kaynakları"]
+  },
+  {
+    "isim": "İŞKUR — Girişimcilik Eğitim Programı",
+    "kurum": "İŞKUR",
+    "tutar": "Eğitim ücretsiz + KOSGEB hibe bağlantısı",
+    "tip": "Eğitim",
+    "basvuru_url": "https://www.iskur.gov.tr/is-arayan/aktif-isgucu-programlari/girisimcilik-egitimi/",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Kendi işini kurmak isteyenlere ücretsiz girişimcilik eğitimi. Başarılı olanlara KOSGEB hibe hakkı.",
+    "etiketler": ["girişim", "eğitim", "işkur", "kuruluş", "yeni iş", "kurs"]
+  },
+  {
+    "isim": "Kalkınma Ajansı — Mali Destek Programları",
+    "kurum": "Kalkınma Ajansları",
+    "tutar": "500.000 – 2.000.000 TL (bölgeye göre)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.ka.gov.tr",
+    "basvuru_durumu": "Yılda 1-2 dönem",
+    "aciklama": "26 kalkınma ajansının bölgesel önceliklere göre açtığı hibe programları.",
+    "etiketler": ["kalkınma", "bölgesel", "istihdam", "yatırım", "üretim", "imalat", "turizm", "tarım"]
+  },
+  {
+    "isim": "Enerji Verimliliği Destekleme Programı (EVD)",
+    "kurum": "Enerji ve Tabii Kaynaklar Bakanlığı",
+    "tutar": "5.000.000 TL (%30 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://enerji.gov.tr/evced-enerji-verimliligi",
+    "basvuru_durumu": "Yılda 1 dönem",
+    "aciklama": "Sanayi ve hizmet sektöründe enerji verimliliği yatırımları.",
+    "etiketler": ["enerji", "verimlilik", "çevre", "yeşil", "sürdürülebilir", "solar", "ısı", "elektrik"]
+  },
+  {
+    "isim": "Sanayi Bakanlığı — Yatırım Teşvik Belgesi",
+    "kurum": "Sanayi ve Teknoloji Bakanlığı",
+    "tutar": "KDV istisnası + gümrük muafiyeti + SGK desteği",
+    "tip": "Vergi Teşviki",
+    "basvuru_url": "https://www.sanayi.gov.tr/destek-ve-tesvikler/yatirim-tesvik-sistemleri",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "Belirli tutarın üzerindeki yatırımlara vergi indirimi, KDV istisnası ve SGK prim desteği.",
+    "etiketler": ["yatırım", "vergi", "kdv", "sgk", "teşvik belgesi", "fabrika", "üretim", "sanayi"]
+  },
+  {
+    "isim": "Teknoloji Geliştirme Bölgeleri (Teknopark) Muafiyetleri",
+    "kurum": "Sanayi ve Teknoloji Bakanlığı",
+    "tutar": "Kurumlar vergisi muafiyeti + gelir vergisi stopaj desteği",
+    "tip": "Vergi Muafiyeti",
+    "basvuru_url": "https://www.sanayi.gov.tr/destek-ve-tesvikler/teknoloji-gelistirme-bolgeleri",
+    "basvuru_durumu": "Sürekli (TGB'de faaliyet şartı)",
+    "aciklama": "Teknopark'ta yazılım ve Ar-Ge yapan firmalara kurumlar vergisi, KDV ve stopaj muafiyetleri.",
+    "etiketler": ["teknopark", "yazılım", "ar-ge", "vergi", "muafiyet", "teknoloji", "dijital"]
+  },
+  {
+    "isim": "Tarım Bakanlığı — Kırsal Kalkınma Yatırımlarının Desteklenmesi (KKYDP)",
+    "kurum": "Tarım ve Orman Bakanlığı",
+    "tutar": "3.000.000 TL (%50 hibe)",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.tarimorman.gov.tr/Konular/Kirsal-Kalkinma-Destekleri",
+    "basvuru_durumu": "Yılda 1 dönem",
+    "aciklama": "Tarımsal ürün işleme, paketleme, depolama ve çiftlik mekanizasyonu yatırımları.",
+    "etiketler": ["tarım", "gıda", "hayvancılık", "sera", "organik", "kırsal", "üretim", "paketleme"]
+  },
+  {
+    "isim": "KOSGEB KOBİ'lerde Dijital Dönüşüm Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "Yazılım %60 hibe, donanım %40 hibe",
+    "tip": "Hibe",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6677/dijital-donusum",
+    "basvuru_durumu": "Dönemsel",
+    "aciklama": "KOBİ'lerin ERP, CRM, e-ticaret altyapısı ve bulut çözümleri için dijitalleşme desteği.",
+    "etiketler": ["dijital", "yazılım", "erp", "crm", "e-ticaret", "bulut", "kosgeb", "dönüşüm", "otomasyon"]
+  },
+  {
+    "isim": "KOSGEB Stratejik Ürün Destek Programı",
+    "kurum": "KOSGEB",
+    "tutar": "4.000.000 TL",
+    "tip": "Hibe + Kredi",
+    "basvuru_url": "https://www.kosgeb.gov.tr/site/tr/genel/destekler/6323/stratejik-urun",
+    "basvuru_durumu": "Dönemsel",
+    "aciklama": "İthalata bağımlı stratejik ürünlerin yerlileştirilmesi için yatırım desteği.",
+    "etiketler": ["yerli üretim", "ithalat", "stratejik", "yerlileştirme", "sanayi", "kosgeb"]
+  },
+  {
+    "isim": "SGK İşveren Prim Desteği (5510/81. Madde)",
+    "kurum": "SGK",
+    "tutar": "5 puanlık prim indirimi (süresiz)",
+    "tip": "Prim İndirimi",
+    "basvuru_url": "https://www.sgk.gov.tr/Isverenler",
+    "basvuru_durumu": "Otomatik (borcu olmayanlar)",
+    "aciklama": "Borcu olmayan işverenlere otomatik %5 SGK prim indirimi. Başvuru gerekmez.",
+    "etiketler": ["sgk", "prim", "istihdam", "maaş", "personel", "sigorta", "indirim"]
+  },
+  {
+    "isim": "Genç ve Kadın İstihdamı Teşviki (4447 Geçici 10. Madde)",
+    "kurum": "SGK + İŞKUR",
+    "tutar": "SGK işveren payı desteği (2-4 yıl)",
+    "tip": "İstihdam Desteği",
+    "basvuru_url": "https://www.iskur.gov.tr/is-veren/tesvikler/",
+    "basvuru_durumu": "Sürekli açık",
+    "aciklama": "18-29 yaş arası erkek ve 18+ yaş kadın çalışanlar için SGK işveren payı desteği.",
+    "etiketler": ["genç", "kadın", "istihdam", "sgk", "prim", "işkur", "personel", "insan kaynakları"]
+  }
+]

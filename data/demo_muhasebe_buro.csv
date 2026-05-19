@@ -1,0 +1,355 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-02,Bordro hizmet bedeli,24884,0,Satış
+2024-01-04,Yıllık beyanname hazırlık ücreti,24193,0,Satış
+2024-01-05,Logo muhasebe yazılım abonelik,0,3674,Teknoloji
+2024-01-05,Kırtasiye ve toner,0,2441,Sarf
+2024-01-06,İnternet,0,3653,Fatura
+2024-01-10,Yıllık beyanname hazırlık ücreti,21105,0,Satış
+2024-01-10,Bordro hizmet bedeli,25227,0,Satış
+2024-01-10,Logo muhasebe yazılım abonelik,0,4148,Teknoloji
+2024-01-11,Yıllık beyanname hazırlık ücreti,23556,0,Satış
+2024-01-13,Muhasebe personeli maaşları,0,42317,Maaş
+2024-01-13,Logo muhasebe yazılım abonelik,0,4173,Teknoloji
+2024-01-13,Ofis sarf malzemesi,0,2840,Sarf
+2024-01-17,Muhasebe personeli maaşları,0,42226,Maaş
+2024-01-20,Vergi denetim danışmanlık,21982,0,Satış
+2024-01-22,KOBİ aylık muhasebe ücreti,18533,0,Satış
+2024-01-24,İnternet,0,3440,Fatura
+2024-01-26,KOBİ aylık muhasebe ücreti,22869,0,Satış
+2024-01-26,Ofis kirası,0,16296,Kira
+2024-01-29,Bilirkişilik ücreti,3392,0,Diğer Gelir
+2024-01-30,Bilirkişilik ücreti,3255,0,Diğer Gelir
+2024-01-31,KDV ödemesi,0,9436,Vergi
+2024-02-01,KOBİ aylık muhasebe ücreti,11126,0,Satış
+2024-02-01,Eğitim semineri geliri,3669,0,Diğer Gelir
+2024-02-04,Bordro hizmet bedeli,9838,0,Satış
+2024-02-04,Elektrik,0,4032,Fatura
+2024-02-07,Stajyer ücreti,0,82688,Maaş
+2024-02-08,Bordro hizmet bedeli,12046,0,Satış
+2024-02-09,Mikro yazılım lisans,0,4513,Teknoloji
+2024-02-10,KOBİ aylık muhasebe ücreti,11954,0,Satış
+2024-02-11,Vergi denetim danışmanlık,11046,0,Satış
+2024-02-12,KOBİ aylık muhasebe ücreti,11908,0,Satış
+2024-02-13,Bordro hizmet bedeli,11190,0,Satış
+2024-02-13,Stopaj,0,9915,Vergi
+2024-02-15,E-fatura entegrasyon ücreti,10217,0,Satış
+2024-02-16,Şirket kuruluş danışmanlığı,12473,0,Satış
+2024-02-17,Şirket kuruluş danışmanlığı,14344,0,Satış
+2024-02-18,E-fatura entegrasyon ücreti,11228,0,Satış
+2024-02-20,Şirket kuruluş danışmanlığı,10725,0,Satış
+2024-02-20,Bilirkişilik ücreti,4824,0,Diğer Gelir
+2024-02-23,Logo muhasebe yazılım abonelik,0,3492,Teknoloji
+2024-02-24,Bordro hizmet bedeli,13735,0,Satış
+2024-02-24,Şirket kuruluş danışmanlığı,13426,0,Satış
+2024-02-24,Ofis sarf malzemesi,0,5636,Sarf
+2024-02-25,Şirket kuruluş danışmanlığı,10688,0,Satış
+2024-02-26,Yıllık beyanname hazırlık ücreti,14290,0,Satış
+2024-02-26,TÜRMOB üyelik aidatı,0,3390,Danışmanlık
+2024-02-27,Elektrik,0,3368,Fatura
+2024-02-28,Ofis kirası,0,18884,Kira
+2024-02-28,E-fatura portalı ücreti,0,3932,Teknoloji
+2024-03-01,Ofis sarf malzemesi,0,4186,Sarf
+2024-03-02,Ofis kirası,0,31487,Kira
+2024-03-02,Logo muhasebe yazılım abonelik,0,5800,Teknoloji
+2024-03-02,Stopaj,0,14538,Vergi
+2024-03-03,Elektrik,0,3918,Fatura
+2024-03-06,Ofis sarf malzemesi,0,4865,Sarf
+2024-03-08,Bordro hizmet bedeli,34255,0,Satış
+2024-03-09,Yıllık beyanname hazırlık ücreti,32080,0,Satış
+2024-03-11,Vergi denetim danışmanlık,29844,0,Satış
+2024-03-11,Logo muhasebe yazılım abonelik,0,5438,Teknoloji
+2024-03-12,Vergi denetim danışmanlık,40002,0,Satış
+2024-03-14,Logo muhasebe yazılım abonelik,0,6648,Teknoloji
+2024-03-15,Yıllık beyanname hazırlık ücreti,29698,0,Satış
+2024-03-16,Bilirkişilik ücreti,12683,0,Diğer Gelir
+2024-03-17,Bordro hizmet bedeli,39237,0,Satış
+2024-03-18,Vergi denetim danışmanlık,29467,0,Satış
+2024-03-19,Telefon,0,3529,Fatura
+2024-03-20,Mali müşavir maaşı,0,139685,Maaş
+2024-03-23,TÜRMOB üyelik aidatı,0,4904,Danışmanlık
+2024-03-27,Elektrik,0,4077,Fatura
+2024-03-29,Vergi denetim danışmanlık,33542,0,Satış
+2024-03-31,Bordro hizmet bedeli,28451,0,Satış
+2024-04-02,Muhasebe personeli maaşları,0,149056,Maaş
+2024-04-03,Vergi denetim danışmanlık,21376,0,Satış
+2024-04-04,Şirket kuruluş danışmanlığı,20179,0,Satış
+2024-04-05,Ofis sarf malzemesi,0,4694,Sarf
+2024-04-06,Yıllık beyanname hazırlık ücreti,20391,0,Satış
+2024-04-09,Ofis kirası,0,27868,Kira
+2024-04-09,Stopaj,0,11366,Vergi
+2024-04-10,Şirket kuruluş danışmanlığı,25976,0,Satış
+2024-04-13,E-fatura portalı ücreti,0,9185,Teknoloji
+2024-04-14,Bordro hizmet bedeli,20393,0,Satış
+2024-04-15,Bordro hizmet bedeli,27246,0,Satış
+2024-04-15,Şirket kuruluş danışmanlığı,20801,0,Satış
+2024-04-15,Telefon,0,3469,Fatura
+2024-04-17,Yıllık beyanname hazırlık ücreti,19585,0,Satış
+2024-04-18,E-fatura entegrasyon ücreti,23548,0,Satış
+2024-04-18,Şirket kuruluş danışmanlığı,23429,0,Satış
+2024-04-19,Ofis sarf malzemesi,0,3863,Sarf
+2024-04-20,KOBİ aylık muhasebe ücreti,26472,0,Satış
+2024-04-22,Elektrik,0,4003,Fatura
+2024-04-22,Meslek eğitim ücreti,0,3906,Danışmanlık
+2024-04-23,Şirket kuruluş danışmanlığı,19199,0,Satış
+2024-04-23,İnternet,0,3642,Fatura
+2024-04-26,Logo muhasebe yazılım abonelik,0,9747,Teknoloji
+2024-04-28,Bilirkişilik ücreti,10851,0,Diğer Gelir
+2024-05-01,KOBİ aylık muhasebe ücreti,10954,0,Satış
+2024-05-02,Şirket kuruluş danışmanlığı,14380,0,Satış
+2024-05-06,E-fatura portalı ücreti,0,6010,Teknoloji
+2024-05-09,Yıllık beyanname hazırlık ücreti,13679,0,Satış
+2024-05-10,Vergi denetim danışmanlık,14364,0,Satış
+2024-05-10,Vergi denetim danışmanlık,14982,0,Satış
+2024-05-13,E-fatura entegrasyon ücreti,12960,0,Satış
+2024-05-14,Stopaj,0,8545,Vergi
+2024-05-15,Vergi denetim danışmanlık,13061,0,Satış
+2024-05-15,Mali müşavir maaşı,0,41259,Maaş
+2024-05-15,Ofis kirası,0,20464,Kira
+2024-05-16,Kırtasiye ve toner,0,6159,Sarf
+2024-05-17,Vergi denetim danışmanlık,11476,0,Satış
+2024-05-17,Yıllık beyanname hazırlık ücreti,12798,0,Satış
+2024-05-18,Yıllık beyanname hazırlık ücreti,10554,0,Satış
+2024-05-18,Logo muhasebe yazılım abonelik,0,5336,Teknoloji
+2024-05-20,TÜRMOB üyelik aidatı,0,2751,Danışmanlık
+2024-05-21,Eğitim semineri geliri,4331,0,Diğer Gelir
+2024-05-22,Elektrik,0,2347,Fatura
+2024-05-22,İnternet,0,2524,Fatura
+2024-05-24,Bordro hizmet bedeli,10366,0,Satış
+2024-05-25,Muhasebe personeli maaşları,0,36897,Maaş
+2024-05-26,KOBİ aylık muhasebe ücreti,13826,0,Satış
+2024-05-27,Eğitim semineri geliri,4140,0,Diğer Gelir
+2024-05-29,Vergi denetim danışmanlık,14324,0,Satış
+2024-05-29,Elektrik,0,2646,Fatura
+2024-05-30,Şirket kuruluş danışmanlığı,12484,0,Satış
+2024-06-02,Yıllık beyanname hazırlık ücreti,11315,0,Satış
+2024-06-06,KOBİ aylık muhasebe ücreti,8393,0,Satış
+2024-06-07,Vergi denetim danışmanlık,10977,0,Satış
+2024-06-07,Şirket kuruluş danışmanlığı,10762,0,Satış
+2024-06-09,KOBİ aylık muhasebe ücreti,9161,0,Satış
+2024-06-09,Ofis sarf malzemesi,0,4834,Sarf
+2024-06-10,Yıllık beyanname hazırlık ücreti,10920,0,Satış
+2024-06-10,Yıllık beyanname hazırlık ücreti,9630,0,Satış
+2024-06-10,TÜRMOB üyelik aidatı,0,2489,Danışmanlık
+2024-06-12,E-fatura entegrasyon ücreti,8377,0,Satış
+2024-06-14,Mikro yazılım lisans,0,3390,Teknoloji
+2024-06-14,Elektrik,0,5287,Fatura
+2024-06-16,Vergi denetim danışmanlık,8930,0,Satış
+2024-06-18,Mali müşavir maaşı,0,34297,Maaş
+2024-06-19,KDV ödemesi,0,7298,Vergi
+2024-06-21,Vergi denetim danışmanlık,10203,0,Satış
+2024-06-21,KOBİ aylık muhasebe ücreti,11140,0,Satış
+2024-06-22,Logo muhasebe yazılım abonelik,0,3106,Teknoloji
+2024-06-22,E-fatura portalı ücreti,0,2781,Teknoloji
+2024-06-23,Yıllık beyanname hazırlık ücreti,10865,0,Satış
+2024-06-23,Eğitim semineri geliri,3258,0,Diğer Gelir
+2024-06-23,Bilirkişilik ücreti,2808,0,Diğer Gelir
+2024-06-23,Mali müşavir maaşı,0,35892,Maaş
+2024-06-24,Yıllık beyanname hazırlık ücreti,10413,0,Satış
+2024-06-27,E-fatura entegrasyon ücreti,11408,0,Satış
+2024-06-28,Şirket kuruluş danışmanlığı,9095,0,Satış
+2024-06-28,Ofis kirası,0,14376,Kira
+2024-06-30,Şirket kuruluş danışmanlığı,9313,0,Satış
+2024-07-01,Şirket kuruluş danışmanlığı,12067,0,Satış
+2024-07-02,Yıllık beyanname hazırlık ücreti,9962,0,Satış
+2024-07-02,Bordro hizmet bedeli,8872,0,Satış
+2024-07-02,Bordro hizmet bedeli,11422,0,Satış
+2024-07-03,E-fatura entegrasyon ücreti,11038,0,Satış
+2024-07-03,Bilirkişilik ücreti,2796,0,Diğer Gelir
+2024-07-03,Kırtasiye ve toner,0,3969,Sarf
+2024-07-08,E-fatura portalı ücreti,0,2703,Teknoloji
+2024-07-09,Vergi denetim danışmanlık,8887,0,Satış
+2024-07-09,Bordro hizmet bedeli,8974,0,Satış
+2024-07-11,E-fatura entegrasyon ücreti,10471,0,Satış
+2024-07-11,Muhasebe personeli maaşları,0,70309,Maaş
+2024-07-16,Bordro hizmet bedeli,12882,0,Satış
+2024-07-16,Elektrik,0,2690,Fatura
+2024-07-17,E-fatura entegrasyon ücreti,11456,0,Satış
+2024-07-20,Yıllık beyanname hazırlık ücreti,10464,0,Satış
+2024-07-20,Elektrik,0,2661,Fatura
+2024-07-23,Eğitim semineri geliri,3354,0,Diğer Gelir
+2024-07-24,Ofis kirası,0,13414,Kira
+2024-07-25,E-fatura entegrasyon ücreti,12968,0,Satış
+2024-07-25,Şirket kuruluş danışmanlığı,12158,0,Satış
+2024-07-25,Mikro yazılım lisans,0,2822,Teknoloji
+2024-07-29,KDV ödemesi,0,6225,Vergi
+2024-07-30,Mikro yazılım lisans,0,3341,Teknoloji
+2024-08-02,KOBİ aylık muhasebe ücreti,12467,0,Satış
+2024-08-02,Ofis kirası,0,14420,Kira
+2024-08-02,İnternet,0,3194,Fatura
+2024-08-03,Şirket kuruluş danışmanlığı,13204,0,Satış
+2024-08-05,E-fatura entegrasyon ücreti,13987,0,Satış
+2024-08-06,Şirket kuruluş danışmanlığı,11622,0,Satış
+2024-08-06,Mikro yazılım lisans,0,3051,Teknoloji
+2024-08-07,KOBİ aylık muhasebe ücreti,13175,0,Satış
+2024-08-07,E-fatura entegrasyon ücreti,11158,0,Satış
+2024-08-07,Vergi denetim danışmanlık,12038,0,Satış
+2024-08-12,Logo muhasebe yazılım abonelik,0,2911,Teknoloji
+2024-08-14,Eğitim semineri geliri,5556,0,Diğer Gelir
+2024-08-18,Vergi denetim danışmanlık,11121,0,Satış
+2024-08-18,Bordro hizmet bedeli,10062,0,Satış
+2024-08-18,TÜRMOB üyelik aidatı,0,2086,Danışmanlık
+2024-08-21,Vergi denetim danışmanlık,13551,0,Satış
+2024-08-22,Elektrik,0,3373,Fatura
+2024-08-22,Ofis sarf malzemesi,0,5113,Sarf
+2024-08-24,Stajyer ücreti,0,83573,Maaş
+2024-08-24,E-fatura portalı ücreti,0,3610,Teknoloji
+2024-08-25,Şirket kuruluş danışmanlığı,13659,0,Satış
+2024-08-26,Şirket kuruluş danışmanlığı,11475,0,Satış
+2024-08-26,KOBİ aylık muhasebe ücreti,10473,0,Satış
+2024-08-28,KDV ödemesi,0,7193,Vergi
+2024-09-01,Bilirkişilik ücreti,4773,0,Diğer Gelir
+2024-09-02,Bordro hizmet bedeli,22045,0,Satış
+2024-09-03,KDV ödemesi,0,9994,Vergi
+2024-09-06,Şirket kuruluş danışmanlığı,16578,0,Satış
+2024-09-07,Kırtasiye ve toner,0,3203,Sarf
+2024-09-09,Vergi denetim danışmanlık,18860,0,Satış
+2024-09-12,Mikro yazılım lisans,0,13314,Teknoloji
+2024-09-13,KOBİ aylık muhasebe ücreti,21251,0,Satış
+2024-09-14,Şirket kuruluş danışmanlığı,18690,0,Satış
+2024-09-14,Ofis kirası,0,19325,Kira
+2024-09-14,İnternet,0,3094,Fatura
+2024-09-16,Stajyer ücreti,0,58546,Maaş
+2024-09-16,Ofis sarf malzemesi,0,3030,Sarf
+2024-09-19,Vergi denetim danışmanlık,23574,0,Satış
+2024-09-21,Yıllık beyanname hazırlık ücreti,21583,0,Satış
+2024-09-22,KOBİ aylık muhasebe ücreti,22469,0,Satış
+2024-09-23,Yıllık beyanname hazırlık ücreti,19089,0,Satış
+2024-09-24,Vergi denetim danışmanlık,22563,0,Satış
+2024-09-26,Elektrik,0,2677,Fatura
+2024-09-27,Bordro hizmet bedeli,18710,0,Satış
+2024-09-27,TÜRMOB üyelik aidatı,0,3613,Danışmanlık
+2024-09-28,Eğitim semineri geliri,4042,0,Diğer Gelir
+2024-09-28,Stajyer ücreti,0,54326,Maaş
+2024-09-28,Telefon,0,2997,Fatura
+2024-10-03,Şirket kuruluş danışmanlığı,22623,0,Satış
+2024-10-05,Vergi denetim danışmanlık,25389,0,Satış
+2024-10-05,Muhasebe personeli maaşları,0,77731,Maaş
+2024-10-10,Elektrik,0,3296,Fatura
+2024-10-11,Yıllık beyanname hazırlık ücreti,19309,0,Satış
+2024-10-11,Ofis kirası,0,17078,Kira
+2024-10-13,Ofis sarf malzemesi,0,2416,Sarf
+2024-10-15,Elektrik,0,3318,Fatura
+2024-10-18,E-fatura entegrasyon ücreti,18881,0,Satış
+2024-10-18,E-fatura portalı ücreti,0,4141,Teknoloji
+2024-10-22,Bordro hizmet bedeli,22057,0,Satış
+2024-10-23,Stopaj,0,8745,Vergi
+2024-10-26,E-fatura entegrasyon ücreti,24513,0,Satış
+2024-10-27,Bordro hizmet bedeli,22604,0,Satış
+2024-10-27,Ofis sarf malzemesi,0,2627,Sarf
+2024-10-29,Mikro yazılım lisans,0,3384,Teknoloji
+2024-10-30,Yıllık beyanname hazırlık ücreti,18926,0,Satış
+2024-10-31,E-fatura portalı ücreti,0,3715,Teknoloji
+2024-11-02,Mali müşavir maaşı,0,98540,Maaş
+2024-11-05,KOBİ aylık muhasebe ücreti,14070,0,Satış
+2024-11-07,İnternet,0,3516,Fatura
+2024-11-08,Şirket kuruluş danışmanlığı,16106,0,Satış
+2024-11-09,Logo muhasebe yazılım abonelik,0,6061,Teknoloji
+2024-11-10,Vergi denetim danışmanlık,14660,0,Satış
+2024-11-11,E-fatura entegrasyon ücreti,15778,0,Satış
+2024-11-14,Şirket kuruluş danışmanlığı,19206,0,Satış
+2024-11-15,Bordro hizmet bedeli,17679,0,Satış
+2024-11-15,Vergi denetim danışmanlık,18681,0,Satış
+2024-11-15,Bordro hizmet bedeli,14859,0,Satış
+2024-11-19,Eğitim semineri geliri,3164,0,Diğer Gelir
+2024-11-19,Kırtasiye ve toner,0,5126,Sarf
+2024-11-20,Bordro hizmet bedeli,16093,0,Satış
+2024-11-22,Ofis kirası,0,17172,Kira
+2024-11-22,KDV ödemesi,0,9175,Vergi
+2024-11-23,Logo muhasebe yazılım abonelik,0,5783,Teknoloji
+2024-11-26,Şirket kuruluş danışmanlığı,19249,0,Satış
+2024-11-29,Vergi denetim danışmanlık,19304,0,Satış
+2024-11-30,Bilirkişilik ücreti,3079,0,Diğer Gelir
+2024-11-30,İnternet,0,3967,Fatura
+2024-12-01,Bordro hizmet bedeli,12128,0,Satış
+2024-12-05,Ofis kirası,0,20691,Kira
+2024-12-06,Logo muhasebe yazılım abonelik,0,3558,Teknoloji
+2024-12-08,Yıllık beyanname hazırlık ücreti,11569,0,Satış
+2024-12-09,Bordro hizmet bedeli,10949,0,Satış
+2024-12-12,Şirket kuruluş danışmanlığı,11939,0,Satış
+2024-12-13,KOBİ aylık muhasebe ücreti,13173,0,Satış
+2024-12-13,Telefon,0,7285,Fatura
+2024-12-17,Yıllık beyanname hazırlık ücreti,10967,0,Satış
+2024-12-17,E-fatura entegrasyon ücreti,10166,0,Satış
+2024-12-20,Eğitim semineri geliri,7090,0,Diğer Gelir
+2024-12-21,Şirket kuruluş danışmanlığı,12606,0,Satış
+2024-12-22,Kırtasiye ve toner,0,2592,Sarf
+2024-12-23,KOBİ aylık muhasebe ücreti,11152,0,Satış
+2024-12-24,KOBİ aylık muhasebe ücreti,10730,0,Satış
+2024-12-24,Mikro yazılım lisans,0,3830,Teknoloji
+2024-12-25,E-fatura entegrasyon ücreti,12347,0,Satış
+2024-12-25,Kırtasiye ve toner,0,3068,Sarf
+2024-12-26,E-fatura entegrasyon ücreti,10738,0,Satış
+2024-12-26,E-fatura portalı ücreti,0,3460,Teknoloji
+2024-12-29,KOBİ aylık muhasebe ücreti,14111,0,Satış
+2024-12-29,E-fatura entegrasyon ücreti,11830,0,Satış
+2024-12-31,Vergi denetim danışmanlık,10396,0,Satış
+2024-12-31,Yıllık beyanname hazırlık ücreti,13261,0,Satış
+2024-12-31,Mali müşavir maaşı,0,88134,Maaş
+2024-12-31,Stopaj,0,7773,Vergi
+2024-12-31,TÜRMOB üyelik aidatı,0,2651,Danışmanlık
+2025-01-01,KOBİ aylık muhasebe ücreti,12832,0,Satış
+2025-01-01,Vergi denetim danışmanlık,13424,0,Satış
+2025-01-02,Telefon,0,3896,Fatura
+2025-01-03,Bordro hizmet bedeli,13105,0,Satış
+2025-01-06,KOBİ aylık muhasebe ücreti,11172,0,Satış
+2025-01-07,Yıllık beyanname hazırlık ücreti,10743,0,Satış
+2025-01-09,Ofis kirası,0,20852,Kira
+2025-01-09,Elektrik,0,3100,Fatura
+2025-01-10,Vergi denetim danışmanlık,12648,0,Satış
+2025-01-11,E-fatura entegrasyon ücreti,10957,0,Satış
+2025-01-11,E-fatura entegrasyon ücreti,13079,0,Satış
+2025-01-13,Yıllık beyanname hazırlık ücreti,12350,0,Satış
+2025-01-14,Muhasebe personeli maaşları,0,45778,Maaş
+2025-01-18,Mali müşavir maaşı,0,43255,Maaş
+2025-01-19,E-fatura entegrasyon ücreti,11510,0,Satış
+2025-01-22,Bordro hizmet bedeli,11677,0,Satış
+2025-01-24,Şirket kuruluş danışmanlığı,9787,0,Satış
+2025-01-24,Bordro hizmet bedeli,9054,0,Satış
+2025-01-24,Logo muhasebe yazılım abonelik,0,11587,Teknoloji
+2025-01-26,E-fatura entegrasyon ücreti,11634,0,Satış
+2025-01-27,Bordro hizmet bedeli,13427,0,Satış
+2025-01-28,Vergi denetim danışmanlık,10178,0,Satış
+2025-01-28,Ofis sarf malzemesi,0,5219,Sarf
+2025-01-30,Stopaj,0,7591,Vergi
+2025-02-01,Şirket kuruluş danışmanlığı,12339,0,Satış
+2025-02-01,E-fatura entegrasyon ücreti,15720,0,Satış
+2025-02-01,Stajyer ücreti,0,79077,Maaş
+2025-02-01,Stopaj,0,8564,Vergi
+2025-02-03,Vergi denetim danışmanlık,12987,0,Satış
+2025-02-06,KOBİ aylık muhasebe ücreti,14756,0,Satış
+2025-02-06,Kırtasiye ve toner,0,2599,Sarf
+2025-02-07,Yıllık beyanname hazırlık ücreti,15929,0,Satış
+2025-02-09,Yıllık beyanname hazırlık ücreti,17491,0,Satış
+2025-02-12,Elektrik,0,2834,Fatura
+2025-02-13,Logo muhasebe yazılım abonelik,0,10224,Teknoloji
+2025-02-14,Şirket kuruluş danışmanlığı,17551,0,Satış
+2025-02-14,Eğitim semineri geliri,8214,0,Diğer Gelir
+2025-02-15,Yıllık beyanname hazırlık ücreti,15950,0,Satış
+2025-02-17,Ofis sarf malzemesi,0,2572,Sarf
+2025-02-19,Bordro hizmet bedeli,13268,0,Satış
+2025-02-21,Telefon,0,2642,Fatura
+2025-02-22,KOBİ aylık muhasebe ücreti,15372,0,Satış
+2025-02-22,Ofis kirası,0,22253,Kira
+2025-02-22,İnternet,0,2157,Fatura
+2025-02-25,Şirket kuruluş danışmanlığı,16479,0,Satış
+2025-02-26,Vergi denetim danışmanlık,15600,0,Satış
+2025-02-26,TÜRMOB üyelik aidatı,0,2650,Danışmanlık
+2025-02-27,Vergi denetim danışmanlık,16391,0,Satış
+2025-03-03,Vergi denetim danışmanlık,32229,0,Satış
+2025-03-05,Bordro hizmet bedeli,30451,0,Satış
+2025-03-05,Bordro hizmet bedeli,39639,0,Satış
+2025-03-05,Bordro hizmet bedeli,34534,0,Satış
+2025-03-08,E-fatura portalı ücreti,0,9092,Teknoloji
+2025-03-10,TÜRMOB üyelik aidatı,0,4572,Danışmanlık
+2025-03-12,Bordro hizmet bedeli,29382,0,Satış
+2025-03-15,Bordro hizmet bedeli,29252,0,Satış
+2025-03-17,Mikro yazılım lisans,0,8481,Teknoloji
+2025-03-18,Elektrik,0,5233,Fatura
+2025-03-20,Telefon,0,6095,Fatura
+2025-03-21,Muhasebe personeli maaşları,0,142526,Maaş
+2025-03-22,Bordro hizmet bedeli,35733,0,Satış
+2025-03-24,Ofis kirası,0,26297,Kira
+2025-03-25,KOBİ aylık muhasebe ücreti,35175,0,Satış
+2025-03-25,Şirket kuruluş danışmanlığı,39426,0,Satış
+2025-03-27,KDV ödemesi,0,12637,Vergi
+2025-03-27,Kırtasiye ve toner,0,10363,Sarf

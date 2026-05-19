@@ -1,0 +1,461 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Yurt içi distribütör tahsilatı,367532,0,Satış
+2024-01-03,Su faturası,0,28894,Fatura
+2024-01-03,Doğal gaz,0,35138,Fatura
+2024-01-05,ÖTV ödemesi,0,48859,Vergi
+2024-01-09,Hammadde alımı (çelik),0,116458,Tedarik
+2024-01-11,Kurumsal sipariş ödemesi,462328,0,Satış
+2024-01-11,Hammadde alımı (çelik),0,154108,Tedarik
+2024-01-12,Kalıp ve aparat alımı,0,110012,Üretim
+2024-01-16,Bayi sipariş tahsilatı,328587,0,Satış
+2024-01-16,Forklift yakıt,0,30383,Lojistik
+2024-01-17,Kalite kontrol cihaz,0,109294,Üretim
+2024-01-18,Yarı mamul tedarik,0,145442,Tedarik
+2024-01-18,Ofis personeli maaşı,0,448066,Maaş
+2024-01-19,Yarı mamul tedarik,0,155080,Tedarik
+2024-01-20,Devlet hibe ödemesi,37222,0,Diğer Gelir
+2024-01-21,İthal makine parça,0,134149,Tedarik
+2024-01-23,Sözleşmeli üretim geliri,366375,0,Satış
+2024-01-23,Fabrika kira ödemesi,0,73574,Kira
+2024-01-25,Toptan müşteri sevkiyat ödemesi,322224,0,Satış
+2024-01-26,Yurt içi taşıma,0,36564,Lojistik
+2024-01-27,Hurda satışı,36612,0,Diğer Gelir
+2024-01-27,Elektrik faturası (yüksek tüketim),0,34436,Fatura
+2024-02-01,Yurt içi distribütör tahsilatı,278827,0,Satış
+2024-02-01,Kurumsal sipariş ödemesi,249475,0,Satış
+2024-02-01,Yarı mamul tedarik,0,95013,Tedarik
+2024-02-02,Toptan müşteri sevkiyat ödemesi,261295,0,Satış
+2024-02-04,Kurumsal sipariş ödemesi,314196,0,Satış
+2024-02-04,Elektrik faturası (yüksek tüketim),0,27908,Fatura
+2024-02-05,Ofis personeli maaşı,0,245135,Maaş
+2024-02-06,Ofis personeli maaşı,0,237188,Maaş
+2024-02-07,Yurt içi distribütör tahsilatı,237977,0,Satış
+2024-02-07,Plastik granül alımı,0,89304,Tedarik
+2024-02-07,Kalite kontrol cihaz,0,73217,Üretim
+2024-02-08,Yarı mamul tedarik,0,85901,Tedarik
+2024-02-10,Hammadde alımı (çelik),0,95008,Tedarik
+2024-02-10,Su faturası,0,28835,Fatura
+2024-02-12,İthal makine parça,0,93222,Tedarik
+2024-02-13,Üretim sarf malzeme,0,60499,Üretim
+2024-02-14,Üretim sarf malzeme,0,67570,Üretim
+2024-02-15,Kurumsal sipariş ödemesi,238728,0,Satış
+2024-02-15,Hurda satışı,36064,0,Diğer Gelir
+2024-02-16,Yurt içi taşıma,0,34033,Lojistik
+2024-02-20,Toptan müşteri sevkiyat ödemesi,215210,0,Satış
+2024-02-20,Doğal gaz,0,25828,Fatura
+2024-02-21,Kimyasal tedarik,0,96408,Tedarik
+2024-02-21,Elektrik faturası (yüksek tüketim),0,24113,Fatura
+2024-02-24,Hurda satışı,41412,0,Diğer Gelir
+2024-02-24,Plastik granül alımı,0,99398,Tedarik
+2024-02-24,Yurt içi taşıma,0,36998,Lojistik
+2024-02-24,ÖTV ödemesi,0,49747,Vergi
+2024-02-28,Depo kira,0,86511,Kira
+2024-02-29,Yurt içi distribütör tahsilatı,281492,0,Satış
+2024-02-29,Kimyasal tedarik,0,88902,Tedarik
+2024-03-01,Hurda satışı,49853,0,Diğer Gelir
+2024-03-04,Üretim işçileri maaşları,0,466955,Maaş
+2024-03-06,Elektrik faturası (yüksek tüketim),0,41058,Fatura
+2024-03-07,Sözleşmeli üretim geliri,359486,0,Satış
+2024-03-09,Kimyasal tedarik,0,199739,Tedarik
+2024-03-09,Üretim sarf malzeme,0,52257,Üretim
+2024-03-09,Depo kira,0,89152,Kira
+2024-03-11,Devlet hibe ödemesi,41661,0,Diğer Gelir
+2024-03-13,Kalite kontrol cihaz,0,56293,Üretim
+2024-03-15,Sözleşmeli üretim geliri,507872,0,Satış
+2024-03-15,Plastik granül alımı,0,189297,Tedarik
+2024-03-16,İthal makine parça,0,170075,Tedarik
+2024-03-16,Yurt içi taşıma,0,77035,Lojistik
+2024-03-19,Kalite kontrol cihaz,0,48222,Üretim
+2024-03-20,Kalite kontrol cihaz,0,54363,Üretim
+2024-03-20,KDV ödemesi,0,56188,Vergi
+2024-03-22,Kimyasal tedarik,0,173564,Tedarik
+2024-03-27,Yurt içi distribütör tahsilatı,510566,0,Satış
+2024-03-27,Sözleşmeli üretim geliri,515661,0,Satış
+2024-03-29,Yurt içi distribütör tahsilatı,410213,0,Satış
+2024-03-31,Doğal gaz,0,35541,Fatura
+2024-03-31,Elektrik faturası (yüksek tüketim),0,31828,Fatura
+2024-04-01,İthal makine parça,0,123066,Tedarik
+2024-04-02,Devlet hibe ödemesi,81892,0,Diğer Gelir
+2024-04-03,ÖTV ödemesi,0,59915,Vergi
+2024-04-11,Kalite kontrol cihaz,0,41213,Üretim
+2024-04-11,Fabrika kira ödemesi,0,98472,Kira
+2024-04-13,Toptan müşteri sevkiyat ödemesi,507511,0,Satış
+2024-04-13,İthal makine parça,0,125521,Tedarik
+2024-04-13,Su faturası,0,24679,Fatura
+2024-04-14,Su faturası,0,31121,Fatura
+2024-04-15,Sözleşmeli üretim geliri,430269,0,Satış
+2024-04-15,Yurt içi taşıma,0,76090,Lojistik
+2024-04-17,Bayi sipariş tahsilatı,439013,0,Satış
+2024-04-17,Bayi sipariş tahsilatı,438153,0,Satış
+2024-04-17,Sözleşmeli üretim geliri,401130,0,Satış
+2024-04-17,Mühendis maaşları,0,265243,Maaş
+2024-04-17,Üretim sarf malzeme,0,45651,Üretim
+2024-04-18,Üretim sarf malzeme,0,49121,Üretim
+2024-04-19,Üretim sarf malzeme,0,44375,Üretim
+2024-04-20,Hammadde alımı (çelik),0,131624,Tedarik
+2024-04-21,Doğal gaz,0,30488,Fatura
+2024-04-22,Hammadde alımı (çelik),0,125797,Tedarik
+2024-04-22,Kimyasal tedarik,0,148728,Tedarik
+2024-04-27,Ofis personeli maaşı,0,250160,Maaş
+2024-04-28,Elektrik faturası (yüksek tüketim),0,27710,Fatura
+2024-04-29,Makine bakım ve revizyon,0,40117,Üretim
+2024-04-30,Kimyasal tedarik,0,136456,Tedarik
+2024-05-02,İthal makine parça,0,97691,Tedarik
+2024-05-04,Plastik granül alımı,0,103217,Tedarik
+2024-05-05,Ofis personeli maaşı,0,283881,Maaş
+2024-05-05,Kalite kontrol cihaz,0,39093,Üretim
+2024-05-05,KDV ödemesi,0,56274,Vergi
+2024-05-06,Doğal gaz,0,53282,Fatura
+2024-05-07,Kurumsal sipariş ödemesi,460952,0,Satış
+2024-05-09,Hammadde alımı (çelik),0,84278,Tedarik
+2024-05-09,Plastik granül alımı,0,86933,Tedarik
+2024-05-09,Kalite kontrol cihaz,0,45551,Üretim
+2024-05-10,Bayi sipariş tahsilatı,412821,0,Satış
+2024-05-10,Makine bakım ve revizyon,0,41240,Üretim
+2024-05-11,Yurt içi taşıma,0,34634,Lojistik
+2024-05-13,Mühendis maaşları,0,228140,Maaş
+2024-05-14,Makine bakım ve revizyon,0,47789,Üretim
+2024-05-16,Plastik granül alımı,0,92555,Tedarik
+2024-05-19,Hammadde alımı (çelik),0,100160,Tedarik
+2024-05-20,Doğal gaz,0,50869,Fatura
+2024-05-21,Plastik granül alımı,0,101128,Tedarik
+2024-05-24,Depo kira,0,86731,Kira
+2024-05-25,Kurumsal sipariş ödemesi,530863,0,Satış
+2024-05-30,Kurumsal sipariş ödemesi,555034,0,Satış
+2024-05-30,Kimyasal tedarik,0,105181,Tedarik
+2024-05-30,Kalıp ve aparat alımı,0,42051,Üretim
+2024-05-30,Forklift yakıt,0,41822,Lojistik
+2024-05-31,Kurumsal sipariş ödemesi,524383,0,Satış
+2024-06-01,Makine bakım ve revizyon,0,98568,Üretim
+2024-06-02,Mühendis maaşları,0,482475,Maaş
+2024-06-02,Doğal gaz,0,32921,Fatura
+2024-06-04,Bayi sipariş tahsilatı,226983,0,Satış
+2024-06-07,Bayi sipariş tahsilatı,215033,0,Satış
+2024-06-07,Nakliye ücreti,0,32735,Lojistik
+2024-06-09,Kurumsal sipariş ödemesi,194315,0,Satış
+2024-06-09,Kimyasal tedarik,0,115596,Tedarik
+2024-06-10,Plastik granül alımı,0,108798,Tedarik
+2024-06-12,Depo kira,0,87036,Kira
+2024-06-14,Doğal gaz,0,34505,Fatura
+2024-06-15,Yarı mamul tedarik,0,133087,Tedarik
+2024-06-15,Kalıp ve aparat alımı,0,106433,Üretim
+2024-06-15,Elektrik faturası (yüksek tüketim),0,30572,Fatura
+2024-06-16,ÖTV ödemesi,0,53419,Vergi
+2024-06-18,Kimyasal tedarik,0,134275,Tedarik
+2024-06-18,Yurt içi taşıma,0,36790,Lojistik
+2024-06-22,Hurda satışı,101931,0,Diğer Gelir
+2024-06-23,Yarı mamul tedarik,0,111467,Tedarik
+2024-06-24,Hammadde alımı (çelik),0,104508,Tedarik
+2024-06-26,Toptan müşteri sevkiyat ödemesi,276117,0,Satış
+2024-06-27,Yurt içi distribütör tahsilatı,193108,0,Satış
+2024-06-27,Yurt içi distribütör tahsilatı,252422,0,Satış
+2024-06-28,Yurt içi distribütör tahsilatı,227755,0,Satış
+2024-06-29,Kurumsal sipariş ödemesi,252343,0,Satış
+2024-06-29,Toptan müşteri sevkiyat ödemesi,224747,0,Satış
+2024-07-01,Doğal gaz,0,31737,Fatura
+2024-07-03,Sözleşmeli üretim geliri,281859,0,Satış
+2024-07-05,Elektrik faturası (yüksek tüketim),0,28464,Fatura
+2024-07-06,Kurumsal sipariş ödemesi,296070,0,Satış
+2024-07-07,Ofis personeli maaşı,0,190787,Maaş
+2024-07-07,Üretim sarf malzeme,0,31664,Üretim
+2024-07-11,Yarı mamul tedarik,0,98919,Tedarik
+2024-07-12,Makine bakım ve revizyon,0,37661,Üretim
+2024-07-12,Nakliye ücreti,0,17652,Lojistik
+2024-07-13,Bayi sipariş tahsilatı,318057,0,Satış
+2024-07-13,Üretim işçileri maaşları,0,186193,Maaş
+2024-07-14,Kurumsal sipariş ödemesi,259230,0,Satış
+2024-07-14,Yarı mamul tedarik,0,98695,Tedarik
+2024-07-15,Üretim sarf malzeme,0,31252,Üretim
+2024-07-18,Hurda satışı,71013,0,Diğer Gelir
+2024-07-18,Kimyasal tedarik,0,87020,Tedarik
+2024-07-18,Forklift yakıt,0,18295,Lojistik
+2024-07-19,Sözleşmeli üretim geliri,288142,0,Satış
+2024-07-19,Kimyasal tedarik,0,104812,Tedarik
+2024-07-19,Kalıp ve aparat alımı,0,39415,Üretim
+2024-07-19,Depo kira,0,79570,Kira
+2024-07-20,Hammadde alımı (çelik),0,116562,Tedarik
+2024-07-21,Yurt içi distribütör tahsilatı,312031,0,Satış
+2024-07-23,Nakliye ücreti,0,20265,Lojistik
+2024-07-25,İthal makine parça,0,91905,Tedarik
+2024-07-29,Kalite kontrol cihaz,0,39294,Üretim
+2024-07-29,KDV ödemesi,0,41490,Vergi
+2024-07-30,Su faturası,0,29950,Fatura
+2024-08-01,Üretim işçileri maaşları,0,222285,Maaş
+2024-08-02,Plastik granül alımı,0,94219,Tedarik
+2024-08-02,KDV ödemesi,0,49485,Vergi
+2024-08-03,Depo kira,0,66922,Kira
+2024-08-03,Doğal gaz,0,23528,Fatura
+2024-08-04,Yarı mamul tedarik,0,80897,Tedarik
+2024-08-04,Kimyasal tedarik,0,79430,Tedarik
+2024-08-05,Bayi sipariş tahsilatı,284962,0,Satış
+2024-08-05,Kalıp ve aparat alımı,0,60940,Üretim
+2024-08-06,Hammadde alımı (çelik),0,93796,Tedarik
+2024-08-06,Plastik granül alımı,0,96328,Tedarik
+2024-08-06,Su faturası,0,23242,Fatura
+2024-08-09,Bayi sipariş tahsilatı,230353,0,Satış
+2024-08-09,Forklift yakıt,0,25283,Lojistik
+2024-08-12,Yurt içi distribütör tahsilatı,275760,0,Satış
+2024-08-13,Yurt içi distribütör tahsilatı,239675,0,Satış
+2024-08-13,İthal makine parça,0,79708,Tedarik
+2024-08-13,Kalite kontrol cihaz,0,52066,Üretim
+2024-08-14,Yurt içi distribütör tahsilatı,260121,0,Satış
+2024-08-18,Doğal gaz,0,19805,Fatura
+2024-08-18,Elektrik faturası (yüksek tüketim),0,21074,Fatura
+2024-08-18,Nakliye ücreti,0,28106,Lojistik
+2024-08-22,Bayi sipariş tahsilatı,283580,0,Satış
+2024-08-22,Devlet hibe ödemesi,36767,0,Diğer Gelir
+2024-08-22,Plastik granül alımı,0,91553,Tedarik
+2024-08-23,Kurumsal sipariş ödemesi,275199,0,Satış
+2024-08-26,Üretim işçileri maaşları,0,174797,Maaş
+2024-08-28,Makine bakım ve revizyon,0,55253,Üretim
+2024-08-30,Devlet hibe ödemesi,40892,0,Diğer Gelir
+2024-09-03,Hammadde alımı (çelik),0,134817,Tedarik
+2024-09-04,Yarı mamul tedarik,0,128196,Tedarik
+2024-09-04,Kalite kontrol cihaz,0,52507,Üretim
+2024-09-05,Toptan müşteri sevkiyat ödemesi,327595,0,Satış
+2024-09-05,Makine bakım ve revizyon,0,55119,Üretim
+2024-09-08,İthal makine parça,0,120379,Tedarik
+2024-09-10,Bayi sipariş tahsilatı,399044,0,Satış
+2024-09-10,Üretim sarf malzeme,0,50620,Üretim
+2024-09-10,Elektrik faturası (yüksek tüketim),0,29326,Fatura
+2024-09-10,Doğal gaz,0,26045,Fatura
+2024-09-13,KDV ödemesi,0,51933,Vergi
+2024-09-16,Mühendis maaşları,0,286553,Maaş
+2024-09-17,Üretim sarf malzeme,0,61557,Üretim
+2024-09-18,Plastik granül alımı,0,123011,Tedarik
+2024-09-20,Fabrika kira ödemesi,0,80667,Kira
+2024-09-20,Doğal gaz,0,26621,Fatura
+2024-09-22,Nakliye ücreti,0,41765,Lojistik
+2024-09-23,Sözleşmeli üretim geliri,463114,0,Satış
+2024-09-24,Hammadde alımı (çelik),0,129452,Tedarik
+2024-09-25,Hurda satışı,47888,0,Diğer Gelir
+2024-09-25,Plastik granül alımı,0,151112,Tedarik
+2024-09-26,Kurumsal sipariş ödemesi,440100,0,Satış
+2024-09-26,Yurt içi distribütör tahsilatı,395396,0,Satış
+2024-09-26,Üretim işçileri maaşları,0,246185,Maaş
+2024-09-28,Sözleşmeli üretim geliri,380749,0,Satış
+2024-09-28,Hurda satışı,56863,0,Diğer Gelir
+2024-09-30,Elektrik faturası (yüksek tüketim),0,29116,Fatura
+2024-09-30,Nakliye ücreti,0,33017,Lojistik
+2024-10-01,İthal makine parça,0,107823,Tedarik
+2024-10-02,Yurt içi distribütör tahsilatı,217166,0,Satış
+2024-10-02,Fabrika kira ödemesi,0,113347,Kira
+2024-10-05,Plastik granül alımı,0,135659,Tedarik
+2024-10-05,Hammadde alımı (çelik),0,103380,Tedarik
+2024-10-07,Kurumsal sipariş ödemesi,291855,0,Satış
+2024-10-08,ÖTV ödemesi,0,59896,Vergi
+2024-10-09,Kurumsal sipariş ödemesi,267492,0,Satış
+2024-10-10,İthal makine parça,0,106668,Tedarik
+2024-10-11,Doğal gaz,0,67399,Fatura
+2024-10-13,Toptan müşteri sevkiyat ödemesi,209874,0,Satış
+2024-10-15,İthal makine parça,0,102612,Tedarik
+2024-10-15,Doğal gaz,0,63228,Fatura
+2024-10-15,Nakliye ücreti,0,27337,Lojistik
+2024-10-16,Sözleşmeli üretim geliri,274722,0,Satış
+2024-10-16,Mühendis maaşları,0,235278,Maaş
+2024-10-16,Üretim sarf malzeme,0,80234,Üretim
+2024-10-17,Ofis personeli maaşı,0,281529,Maaş
+2024-10-18,Sözleşmeli üretim geliri,277895,0,Satış
+2024-10-19,Yurt içi distribütör tahsilatı,217079,0,Satış
+2024-10-19,Kimyasal tedarik,0,104284,Tedarik
+2024-10-23,Sözleşmeli üretim geliri,275619,0,Satış
+2024-10-23,Forklift yakıt,0,25037,Lojistik
+2024-10-28,Hammadde alımı (çelik),0,112111,Tedarik
+2024-10-29,Makine bakım ve revizyon,0,67836,Üretim
+2024-10-30,Sözleşmeli üretim geliri,216891,0,Satış
+2024-10-30,Makine bakım ve revizyon,0,89995,Üretim
+2024-10-31,Kurumsal sipariş ödemesi,235718,0,Satış
+2024-10-31,Nakliye ücreti,0,27409,Lojistik
+2024-11-02,Kurumsal sipariş ödemesi,342181,0,Satış
+2024-11-02,Kalite kontrol cihaz,0,51654,Üretim
+2024-11-05,ÖTV ödemesi,0,63362,Vergi
+2024-11-06,Yurt içi taşıma,0,27274,Lojistik
+2024-11-07,Kimyasal tedarik,0,164323,Tedarik
+2024-11-08,Üretim sarf malzeme,0,42763,Üretim
+2024-11-12,Toptan müşteri sevkiyat ödemesi,345153,0,Satış
+2024-11-14,Kalıp ve aparat alımı,0,43467,Üretim
+2024-11-15,Plastik granül alımı,0,161750,Tedarik
+2024-11-15,Forklift yakıt,0,22638,Lojistik
+2024-11-17,Üretim işçileri maaşları,0,541807,Maaş
+2024-11-17,Su faturası,0,39954,Fatura
+2024-11-19,Kimyasal tedarik,0,150946,Tedarik
+2024-11-19,Kimyasal tedarik,0,156026,Tedarik
+2024-11-20,Su faturası,0,41498,Fatura
+2024-11-21,Sözleşmeli üretim geliri,275712,0,Satış
+2024-11-21,Forklift yakıt,0,26411,Lojistik
+2024-11-22,Plastik granül alımı,0,155871,Tedarik
+2024-11-22,Fabrika kira ödemesi,0,82242,Kira
+2024-11-23,Makine bakım ve revizyon,0,47169,Üretim
+2024-11-23,Doğal gaz,0,35584,Fatura
+2024-11-24,Sözleşmeli üretim geliri,266622,0,Satış
+2024-11-25,Yurt içi distribütör tahsilatı,298477,0,Satış
+2024-11-26,Toptan müşteri sevkiyat ödemesi,294292,0,Satış
+2024-11-27,Bayi sipariş tahsilatı,384580,0,Satış
+2024-11-27,Makine bakım ve revizyon,0,45687,Üretim
+2024-12-01,Forklift yakıt,0,68435,Lojistik
+2024-12-02,ÖTV ödemesi,0,44882,Vergi
+2024-12-03,Sözleşmeli üretim geliri,259097,0,Satış
+2024-12-03,Su faturası,0,31025,Fatura
+2024-12-07,Su faturası,0,33117,Fatura
+2024-12-08,Toptan müşteri sevkiyat ödemesi,306946,0,Satış
+2024-12-10,Bayi sipariş tahsilatı,249534,0,Satış
+2024-12-12,Bayi sipariş tahsilatı,294218,0,Satış
+2024-12-13,Makine bakım ve revizyon,0,36225,Üretim
+2024-12-15,Sözleşmeli üretim geliri,312132,0,Satış
+2024-12-15,Kalite kontrol cihaz,0,43366,Üretim
+2024-12-16,Kurumsal sipariş ödemesi,306983,0,Satış
+2024-12-16,Kalite kontrol cihaz,0,46309,Üretim
+2024-12-22,Ofis personeli maaşı,0,213247,Maaş
+2024-12-22,Kalıp ve aparat alımı,0,35189,Üretim
+2024-12-23,Kimyasal tedarik,0,172687,Tedarik
+2024-12-24,Hammadde alımı (çelik),0,182487,Tedarik
+2024-12-27,Yarı mamul tedarik,0,180494,Tedarik
+2024-12-27,Kalite kontrol cihaz,0,37690,Üretim
+2024-12-27,Fabrika kira ödemesi,0,94052,Kira
+2024-12-28,Yurt içi distribütör tahsilatı,296320,0,Satış
+2024-12-29,Su faturası,0,30677,Fatura
+2024-12-30,Toptan müşteri sevkiyat ödemesi,248556,0,Satış
+2024-12-30,Plastik granül alımı,0,196057,Tedarik
+2024-12-31,Ofis personeli maaşı,0,275327,Maaş
+2025-01-04,Toptan müşteri sevkiyat ödemesi,367983,0,Satış
+2025-01-06,Elektrik faturası (yüksek tüketim),0,31792,Fatura
+2025-01-12,Sözleşmeli üretim geliri,388731,0,Satış
+2025-01-12,Doğal gaz,0,28289,Fatura
+2025-01-13,Plastik granül alımı,0,139662,Tedarik
+2025-01-16,Hammadde alımı (çelik),0,120290,Tedarik
+2025-01-17,Toptan müşteri sevkiyat ödemesi,463746,0,Satış
+2025-01-18,KDV ödemesi,0,49799,Vergi
+2025-01-19,Hammadde alımı (çelik),0,116570,Tedarik
+2025-01-19,Kalıp ve aparat alımı,0,108060,Üretim
+2025-01-23,Yarı mamul tedarik,0,141291,Tedarik
+2025-01-24,Mühendis maaşları,0,232997,Maaş
+2025-01-27,Doğal gaz,0,30820,Fatura
+2025-01-29,Kurumsal sipariş ödemesi,335956,0,Satış
+2025-01-29,Forklift yakıt,0,58431,Lojistik
+2025-01-30,Yurt içi distribütör tahsilatı,392184,0,Satış
+2025-01-30,Yarı mamul tedarik,0,120385,Tedarik
+2025-01-31,Mühendis maaşları,0,247746,Maaş
+2025-01-31,Kalıp ve aparat alımı,0,110150,Üretim
+2025-01-31,Fabrika kira ödemesi,0,70541,Kira
+2025-02-01,Toptan müşteri sevkiyat ödemesi,327686,0,Satış
+2025-02-02,Mühendis maaşları,0,235995,Maaş
+2025-02-03,Kalite kontrol cihaz,0,51400,Üretim
+2025-02-04,Bayi sipariş tahsilatı,378712,0,Satış
+2025-02-05,Doğal gaz,0,26567,Fatura
+2025-02-06,Toptan müşteri sevkiyat ödemesi,349280,0,Satış
+2025-02-08,Hammadde alımı (çelik),0,135893,Tedarik
+2025-02-11,Toptan müşteri sevkiyat ödemesi,329471,0,Satış
+2025-02-12,Yurt içi distribütör tahsilatı,416409,0,Satış
+2025-02-12,Yarı mamul tedarik,0,136326,Tedarik
+2025-02-13,ÖTV ödemesi,0,58163,Vergi
+2025-02-15,Üretim sarf malzeme,0,53007,Üretim
+2025-02-17,İthal makine parça,0,127117,Tedarik
+2025-02-18,Su faturası,0,26309,Fatura
+2025-02-20,Üretim işçileri maaşları,0,271832,Maaş
+2025-02-21,Kalite kontrol cihaz,0,53927,Üretim
+2025-02-21,Depo kira,0,79837,Kira
+2025-02-21,Doğal gaz,0,28090,Fatura
+2025-02-21,Nakliye ücreti,0,64517,Lojistik
+2025-02-22,Toptan müşteri sevkiyat ödemesi,361053,0,Satış
+2025-02-25,Plastik granül alımı,0,152582,Tedarik
+2025-02-27,Plastik granül alımı,0,163783,Tedarik
+2025-02-27,Kalite kontrol cihaz,0,49984,Üretim
+2025-02-28,Elektrik faturası (yüksek tüketim),0,26954,Fatura
+2025-03-01,Kalıp ve aparat alımı,0,61510,Üretim
+2025-03-01,KDV ödemesi,0,55178,Vergi
+2025-03-02,Sözleşmeli üretim geliri,226724,0,Satış
+2025-03-02,Makine bakım ve revizyon,0,65766,Üretim
+2025-03-02,Yurt içi taşıma,0,23913,Lojistik
+2025-03-03,Elektrik faturası (yüksek tüketim),0,54634,Fatura
+2025-03-03,Yurt içi taşıma,0,26905,Lojistik
+2025-03-04,Toptan müşteri sevkiyat ödemesi,202268,0,Satış
+2025-03-04,Elektrik faturası (yüksek tüketim),0,46505,Fatura
+2025-03-05,Sözleşmeli üretim geliri,220373,0,Satış
+2025-03-05,Toptan müşteri sevkiyat ödemesi,247678,0,Satış
+2025-03-06,Ofis personeli maaşı,0,218793,Maaş
+2025-03-08,İthal makine parça,0,199705,Tedarik
+2025-03-08,İthal makine parça,0,192643,Tedarik
+2025-03-12,Yurt içi distribütör tahsilatı,207560,0,Satış
+2025-03-12,Sözleşmeli üretim geliri,204481,0,Satış
+2025-03-16,Hurda satışı,94951,0,Diğer Gelir
+2025-03-17,Yurt içi taşıma,0,24149,Lojistik
+2025-03-18,Toptan müşteri sevkiyat ödemesi,197491,0,Satış
+2025-03-18,Yurt içi distribütör tahsilatı,228445,0,Satış
+2025-03-19,Bayi sipariş tahsilatı,206087,0,Satış
+2025-03-19,Plastik granül alımı,0,207737,Tedarik
+2025-03-19,Depo kira,0,83241,Kira
+2025-03-22,Sözleşmeli üretim geliri,201878,0,Satış
+2025-03-26,İthal makine parça,0,207165,Tedarik
+2025-03-28,Ofis personeli maaşı,0,277484,Maaş
+2025-03-31,Makine bakım ve revizyon,0,73455,Üretim
+2025-04-03,Kimyasal tedarik,0,139535,Tedarik
+2025-04-05,Kalıp ve aparat alımı,0,78136,Üretim
+2025-04-05,ÖTV ödemesi,0,52253,Vergi
+2025-04-06,Makine bakım ve revizyon,0,86500,Üretim
+2025-04-09,Sözleşmeli üretim geliri,334586,0,Satış
+2025-04-09,Su faturası,0,36077,Fatura
+2025-04-11,İthal makine parça,0,151337,Tedarik
+2025-04-11,Üretim işçileri maaşları,0,265392,Maaş
+2025-04-12,Bayi sipariş tahsilatı,327860,0,Satış
+2025-04-12,Kurumsal sipariş ödemesi,390098,0,Satış
+2025-04-13,Kurumsal sipariş ödemesi,463176,0,Satış
+2025-04-13,Plastik granül alımı,0,151845,Tedarik
+2025-04-14,Su faturası,0,43287,Fatura
+2025-04-15,Elektrik faturası (yüksek tüketim),0,39054,Fatura
+2025-04-16,Kurumsal sipariş ödemesi,385520,0,Satış
+2025-04-19,Üretim işçileri maaşları,0,280878,Maaş
+2025-04-22,Makine bakım ve revizyon,0,86042,Üretim
+2025-04-23,Bayi sipariş tahsilatı,380178,0,Satış
+2025-04-25,Nakliye ücreti,0,83033,Lojistik
+2025-04-26,Yarı mamul tedarik,0,176993,Tedarik
+2025-04-29,Yarı mamul tedarik,0,180563,Tedarik
+2025-04-30,Fabrika kira ödemesi,0,82907,Kira
+2025-05-02,Sözleşmeli üretim geliri,279886,0,Satış
+2025-05-02,Ofis personeli maaşı,0,464151,Maaş
+2025-05-02,Kalıp ve aparat alımı,0,54222,Üretim
+2025-05-03,Kurumsal sipariş ödemesi,318541,0,Satış
+2025-05-03,Kimyasal tedarik,0,118839,Tedarik
+2025-05-04,Forklift yakıt,0,28351,Lojistik
+2025-05-05,Yurt içi taşıma,0,27764,Lojistik
+2025-05-06,Yurt içi distribütör tahsilatı,385633,0,Satış
+2025-05-07,Kalite kontrol cihaz,0,62212,Üretim
+2025-05-08,Hurda satışı,86667,0,Diğer Gelir
+2025-05-09,Üretim sarf malzeme,0,51302,Üretim
+2025-05-11,Plastik granül alımı,0,123445,Tedarik
+2025-05-12,Toptan müşteri sevkiyat ödemesi,277003,0,Satış
+2025-05-12,Plastik granül alımı,0,144621,Tedarik
+2025-05-12,Elektrik faturası (yüksek tüketim),0,51945,Fatura
+2025-05-13,Bayi sipariş tahsilatı,294546,0,Satış
+2025-05-15,Yarı mamul tedarik,0,132430,Tedarik
+2025-05-17,Kalite kontrol cihaz,0,64899,Üretim
+2025-05-17,Forklift yakıt,0,26837,Lojistik
+2025-05-18,Bayi sipariş tahsilatı,291828,0,Satış
+2025-05-19,Sözleşmeli üretim geliri,283400,0,Satış
+2025-05-19,Plastik granül alımı,0,151181,Tedarik
+2025-05-19,Fabrika kira ödemesi,0,83271,Kira
+2025-05-19,KDV ödemesi,0,62284,Vergi
+2025-05-24,Plastik granül alımı,0,139071,Tedarik
+2025-05-27,Elektrik faturası (yüksek tüketim),0,57648,Fatura
+2025-06-04,Kimyasal tedarik,0,161138,Tedarik
+2025-06-05,Kurumsal sipariş ödemesi,232601,0,Satış
+2025-06-05,ÖTV ödemesi,0,51954,Vergi
+2025-06-07,Toptan müşteri sevkiyat ödemesi,252085,0,Satış
+2025-06-08,Yarı mamul tedarik,0,165455,Tedarik
+2025-06-09,Kimyasal tedarik,0,201653,Tedarik
+2025-06-10,Devlet hibe ödemesi,102757,0,Diğer Gelir
+2025-06-11,Sözleşmeli üretim geliri,243357,0,Satış
+2025-06-11,Kalıp ve aparat alımı,0,90188,Üretim
+2025-06-13,Yurt içi taşıma,0,29916,Lojistik
+2025-06-14,Kalıp ve aparat alımı,0,99359,Üretim
+2025-06-15,Kurumsal sipariş ödemesi,231823,0,Satış
+2025-06-15,Doğal gaz,0,51731,Fatura
+2025-06-17,Toptan müşteri sevkiyat ödemesi,225723,0,Satış
+2025-06-17,Nakliye ücreti,0,37535,Lojistik
+2025-06-18,Ofis personeli maaşı,0,438735,Maaş
+2025-06-19,Sözleşmeli üretim geliri,199162,0,Satış
+2025-06-23,Kurumsal sipariş ödemesi,260184,0,Satış
+2025-06-24,Su faturası,0,46501,Fatura
+2025-06-27,Depo kira,0,74050,Kira
+2025-06-28,Kurumsal sipariş ödemesi,226675,0,Satış
+2025-06-28,Hammadde alımı (çelik),0,173042,Tedarik
+2025-06-30,Yurt içi distribütör tahsilatı,191397,0,Satış

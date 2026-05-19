@@ -1,0 +1,826 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Yerli üretici sipariş,0,20427,Tedarik
+2024-01-02,KDV ödemesi,0,16603,Vergi
+2024-01-03,Kendi site ödemeleri,16600,0,Satış
+2024-01-03,Black Friday satış patlaması,13440,0,Satış
+2024-01-03,Meta reklam harcaması,0,14518,Pazarlama
+2024-01-04,Instagram shopping satış,15148,0,Satış
+2024-01-04,Black Friday satış patlaması,16073,0,Satış
+2024-01-04,İthalat sipariş ödemesi,0,18531,Tedarik
+2024-01-04,Kargo ödeme Aras,0,7805,Lojistik
+2024-01-04,Kargo ödeme Aras,0,7215,Lojistik
+2024-01-04,Paketleme malzemeleri,0,7773,Lojistik
+2024-01-05,WhatsApp sipariş tahsilat,14381,0,Satış
+2024-01-05,Ofis kirası,0,15676,Kira
+2024-01-07,Amazon satış,14843,0,Satış
+2024-01-07,Black Friday satış patlaması,15665,0,Satış
+2024-01-08,Instagram shopping satış,15152,0,Satış
+2024-01-09,Instagram shopping satış,17666,0,Satış
+2024-01-09,Kargo ödeme Aras,0,7673,Lojistik
+2024-01-10,Hepsiburada sipariş,12610,0,Satış
+2024-01-10,ERP yazılım ücreti,0,5723,Teknoloji
+2024-01-14,Yılbaşı kampanya satışı,14678,0,Satış
+2024-01-14,WhatsApp sipariş tahsilat,13856,0,Satış
+2024-01-15,Yılbaşı kampanya satışı,12836,0,Satış
+2024-01-15,Yılbaşı kampanya satışı,12219,0,Satış
+2024-01-16,Trendyol satış geliri,12638,0,Satış
+2024-01-16,İthalat sipariş ödemesi,0,17904,Tedarik
+2024-01-16,TikTok ads ödeme,0,16152,Pazarlama
+2024-01-17,Black Friday satış patlaması,15792,0,Satış
+2024-01-17,Kargo ödeme Aras,0,7584,Lojistik
+2024-01-18,İthalat sipariş ödemesi,0,20347,Tedarik
+2024-01-18,Yerli üretici sipariş,0,18136,Tedarik
+2024-01-20,Shopify abonelik,0,5872,Teknoloji
+2024-01-21,Depo lojistik ücreti,0,7577,Lojistik
+2024-01-23,Kendi site ödemeleri,13085,0,Satış
+2024-01-23,Pazarlama uzmanı maaşı,0,20853,Maaş
+2024-01-24,Amazon satış,15421,0,Satış
+2024-01-24,WhatsApp sipariş tahsilat,13212,0,Satış
+2024-01-25,SEO ajans hizmet bedeli,0,16035,Pazarlama
+2024-01-27,Black Friday satış patlaması,16053,0,Satış
+2024-01-27,WhatsApp sipariş tahsilat,16288,0,Satış
+2024-01-27,Stok alımı toptancı,0,21661,Tedarik
+2024-01-27,Tedarikçi avans ödemesi,0,21584,Tedarik
+2024-01-27,AWS bulut faturası,0,7300,Teknoloji
+2024-01-28,Black Friday satış patlaması,17782,0,Satış
+2024-01-29,Trendyol satış geliri,16799,0,Satış
+2024-01-29,Kendi site ödemeleri,15790,0,Satış
+2024-01-29,Pazarlama uzmanı maaşı,0,20326,Maaş
+2024-01-31,Black Friday satış patlaması,17609,0,Satış
+2024-02-01,TikTok ads ödeme,0,14721,Pazarlama
+2024-02-01,Geçici vergi,0,15178,Vergi
+2024-02-02,WhatsApp sipariş tahsilat,12918,0,Satış
+2024-02-02,İthalat sipariş ödemesi,0,22626,Tedarik
+2024-02-03,Yurtiçi kargo faturası,0,10670,Lojistik
+2024-02-04,Instagram shopping satış,17747,0,Satış
+2024-02-04,Hepsiburada sipariş,13156,0,Satış
+2024-02-04,Tedarikçi avans ödemesi,0,25749,Tedarik
+2024-02-04,Yurtiçi kargo faturası,0,10142,Lojistik
+2024-02-05,Kendi site ödemeleri,12873,0,Satış
+2024-02-08,Hepsiburada sipariş,16051,0,Satış
+2024-02-09,Instagram shopping satış,14364,0,Satış
+2024-02-09,Stok alımı toptancı,0,25200,Tedarik
+2024-02-09,E-fatura entegrasyon ücreti,0,9408,Teknoloji
+2024-02-10,WhatsApp sipariş tahsilat,17001,0,Satış
+2024-02-11,Trendyol satış geliri,17371,0,Satış
+2024-02-11,Kendi site ödemeleri,12268,0,Satış
+2024-02-11,Amazon satış,12909,0,Satış
+2024-02-11,Amazon satış,17273,0,Satış
+2024-02-11,Affiliate komisyon geliri,18022,0,Diğer Gelir
+2024-02-12,Amazon satış,12721,0,Satış
+2024-02-12,Instagram shopping satış,16873,0,Satış
+2024-02-12,Hepsiburada sipariş,12424,0,Satış
+2024-02-14,İthalat sipariş ödemesi,0,22239,Tedarik
+2024-02-15,Hepsiburada sipariş,17439,0,Satış
+2024-02-15,Ofis kirası,0,18878,Kira
+2024-02-16,MNG kargo ödemesi,0,13158,Lojistik
+2024-02-17,Trendyol satış geliri,15879,0,Satış
+2024-02-17,Hepsiburada sipariş,12828,0,Satış
+2024-02-17,Trendyol satış geliri,16248,0,Satış
+2024-02-18,TikTok ads ödeme,0,16408,Pazarlama
+2024-02-19,Hepsiburada sipariş,14148,0,Satış
+2024-02-19,İthalat sipariş ödemesi,0,21039,Tedarik
+2024-02-19,Shopify abonelik,0,11449,Teknoloji
+2024-02-20,Kendi site ödemeleri,13613,0,Satış
+2024-02-22,Kendi site ödemeleri,17727,0,Satış
+2024-02-22,Black Friday satış patlaması,13543,0,Satış
+2024-02-22,İthalat sipariş ödemesi,0,22570,Tedarik
+2024-02-23,Google Ads kampanyası,0,14283,Pazarlama
+2024-02-24,Yılbaşı kampanya satışı,13376,0,Satış
+2024-02-25,Instagram shopping satış,15975,0,Satış
+2024-02-25,WhatsApp sipariş tahsilat,15278,0,Satış
+2024-02-25,Black Friday satış patlaması,15012,0,Satış
+2024-02-25,Tedarikçi avans ödemesi,0,26317,Tedarik
+2024-02-27,Black Friday satış patlaması,13912,0,Satış
+2024-02-28,Depo personeli maaşları,0,48898,Maaş
+2024-02-29,Yılbaşı kampanya satışı,16181,0,Satış
+2024-02-29,Yurtiçi kargo faturası,0,11514,Lojistik
+2024-03-01,Hepsiburada sipariş,21627,0,Satış
+2024-03-01,Meta reklam harcaması,0,13309,Pazarlama
+2024-03-02,Trendyol satış geliri,20936,0,Satış
+2024-03-03,Kendi site ödemeleri,29040,0,Satış
+2024-03-04,Kendi site ödemeleri,22533,0,Satış
+2024-03-04,SEO ajans hizmet bedeli,0,14228,Pazarlama
+2024-03-05,Yılbaşı kampanya satışı,28314,0,Satış
+2024-03-06,Yılbaşı kampanya satışı,20463,0,Satış
+2024-03-07,Trendyol satış geliri,29326,0,Satış
+2024-03-07,İthalat sipariş ödemesi,0,34965,Tedarik
+2024-03-09,Stok alımı toptancı,0,35399,Tedarik
+2024-03-09,Google Ads kampanyası,0,12173,Pazarlama
+2024-03-10,SEO ajans hizmet bedeli,0,11738,Pazarlama
+2024-03-11,Stok alımı toptancı,0,35386,Tedarik
+2024-03-12,Affiliate komisyon geliri,12121,0,Diğer Gelir
+2024-03-12,Stok alımı toptancı,0,28578,Tedarik
+2024-03-13,Hepsiburada sipariş,28230,0,Satış
+2024-03-14,Depo personeli maaşları,0,52512,Maaş
+2024-03-16,Ofis kirası,0,20158,Kira
+2024-03-17,Stok alımı toptancı,0,30338,Tedarik
+2024-03-19,Trendyol satış geliri,22662,0,Satış
+2024-03-19,Amazon satış,28928,0,Satış
+2024-03-19,Paketleme malzemeleri,0,14553,Lojistik
+2024-03-20,Hepsiburada sipariş,21942,0,Satış
+2024-03-20,Shopify abonelik,0,13376,Teknoloji
+2024-03-21,Black Friday satış patlaması,22650,0,Satış
+2024-03-21,WhatsApp sipariş tahsilat,22005,0,Satış
+2024-03-21,Kargo ödeme Aras,0,14317,Lojistik
+2024-03-22,WhatsApp sipariş tahsilat,21365,0,Satış
+2024-03-23,Black Friday satış patlaması,26417,0,Satış
+2024-03-24,Tedarikçi avans ödemesi,0,33850,Tedarik
+2024-03-24,Paketleme malzemeleri,0,12144,Lojistik
+2024-03-24,Depo lojistik ücreti,0,14528,Lojistik
+2024-03-26,Instagram shopping satış,28419,0,Satış
+2024-03-27,Stopaj vergisi,0,19207,Vergi
+2024-03-29,Amazon satış,22691,0,Satış
+2024-03-29,Hepsiburada sipariş,26923,0,Satış
+2024-03-30,Hepsiburada sipariş,21659,0,Satış
+2024-03-30,Affiliate komisyon geliri,9066,0,Diğer Gelir
+2024-03-31,Hepsiburada sipariş,24021,0,Satış
+2024-03-31,ERP yazılım ücreti,0,14430,Teknoloji
+2024-04-02,Kendi site ödemeleri,22108,0,Satış
+2024-04-03,Paketleme malzemeleri,0,9329,Lojistik
+2024-04-05,Affiliate komisyon geliri,8224,0,Diğer Gelir
+2024-04-05,Yerli üretici sipariş,0,36539,Tedarik
+2024-04-05,Paketleme malzemeleri,0,7990,Lojistik
+2024-04-06,WhatsApp sipariş tahsilat,19384,0,Satış
+2024-04-07,Amazon satış,22743,0,Satış
+2024-04-07,Shopify abonelik,0,11683,Teknoloji
+2024-04-08,WhatsApp sipariş tahsilat,18568,0,Satış
+2024-04-10,Kargo ödeme Aras,0,9274,Lojistik
+2024-04-10,Google Ads kampanyası,0,14061,Pazarlama
+2024-04-12,Instagram shopping satış,19959,0,Satış
+2024-04-13,Kendi site ödemeleri,19676,0,Satış
+2024-04-13,Affiliate komisyon geliri,9931,0,Diğer Gelir
+2024-04-14,İthalat sipariş ödemesi,0,37926,Tedarik
+2024-04-14,AWS bulut faturası,0,11844,Teknoloji
+2024-04-15,Yılbaşı kampanya satışı,18348,0,Satış
+2024-04-15,Depo kira ödemesi,0,23476,Kira
+2024-04-16,Yurtiçi kargo faturası,0,8502,Lojistik
+2024-04-17,Yılbaşı kampanya satışı,18078,0,Satış
+2024-04-19,Hepsiburada sipariş,18178,0,Satış
+2024-04-19,Yılbaşı kampanya satışı,22345,0,Satış
+2024-04-19,İthalat sipariş ödemesi,0,38824,Tedarik
+2024-04-20,Depo lojistik ücreti,0,9091,Lojistik
+2024-04-21,Kendi site ödemeleri,25112,0,Satış
+2024-04-22,Black Friday satış patlaması,20081,0,Satış
+2024-04-22,Hepsiburada sipariş,26224,0,Satış
+2024-04-22,TikTok ads ödeme,0,13856,Pazarlama
+2024-04-23,WhatsApp sipariş tahsilat,22581,0,Satış
+2024-04-25,Kendi site ödemeleri,20645,0,Satış
+2024-04-25,Hepsiburada sipariş,19282,0,Satış
+2024-04-25,Instagram shopping satış,18221,0,Satış
+2024-04-26,Amazon satış,22928,0,Satış
+2024-04-26,Hepsiburada sipariş,23422,0,Satış
+2024-04-26,TikTok ads ödeme,0,14800,Pazarlama
+2024-04-27,Depo personeli maaşları,0,50257,Maaş
+2024-04-27,Stopaj vergisi,0,18020,Vergi
+2024-04-28,Tedarikçi avans ödemesi,0,40133,Tedarik
+2024-04-28,Tedarikçi avans ödemesi,0,34008,Tedarik
+2024-04-29,Hepsiburada sipariş,20885,0,Satış
+2024-04-29,Influencer iş birliği,0,13393,Pazarlama
+2024-04-30,Trendyol satış geliri,25293,0,Satış
+2024-04-30,Black Friday satış patlaması,19726,0,Satış
+2024-04-30,Depo lojistik ücreti,0,10018,Lojistik
+2024-05-01,Amazon satış,21194,0,Satış
+2024-05-01,Black Friday satış patlaması,18115,0,Satış
+2024-05-01,KDV ödemesi,0,21488,Vergi
+2024-05-02,Amazon satış,22026,0,Satış
+2024-05-03,WhatsApp sipariş tahsilat,20920,0,Satış
+2024-05-04,Instagram shopping satış,20039,0,Satış
+2024-05-04,Yılbaşı kampanya satışı,16473,0,Satış
+2024-05-05,Black Friday satış patlaması,23190,0,Satış
+2024-05-06,Black Friday satış patlaması,19883,0,Satış
+2024-05-07,Influencer iş birliği,0,15827,Pazarlama
+2024-05-07,Shopify abonelik,0,13690,Teknoloji
+2024-05-08,Kendi site ödemeleri,22767,0,Satış
+2024-05-08,WhatsApp sipariş tahsilat,21874,0,Satış
+2024-05-09,Black Friday satış patlaması,17789,0,Satış
+2024-05-09,SEO ajans hizmet bedeli,0,12505,Pazarlama
+2024-05-10,Stok alımı toptancı,0,39532,Tedarik
+2024-05-10,Shopify abonelik,0,12431,Teknoloji
+2024-05-13,WhatsApp sipariş tahsilat,24268,0,Satış
+2024-05-13,Instagram shopping satış,19262,0,Satış
+2024-05-13,Paketleme malzemeleri,0,11895,Lojistik
+2024-05-14,MNG kargo ödemesi,0,13288,Lojistik
+2024-05-15,Hepsiburada sipariş,16427,0,Satış
+2024-05-16,Trendyol satış geliri,19944,0,Satış
+2024-05-17,Black Friday satış patlaması,21677,0,Satış
+2024-05-18,Black Friday satış patlaması,21968,0,Satış
+2024-05-19,Amazon satış,18848,0,Satış
+2024-05-19,Amazon satış,17405,0,Satış
+2024-05-20,Yerli üretici sipariş,0,46356,Tedarik
+2024-05-22,Amazon satış,23387,0,Satış
+2024-05-23,Kendi site ödemeleri,19864,0,Satış
+2024-05-23,Tedarikçi avans ödemesi,0,45246,Tedarik
+2024-05-23,Depo lojistik ücreti,0,10359,Lojistik
+2024-05-23,Meta reklam harcaması,0,16557,Pazarlama
+2024-05-25,Stok alımı toptancı,0,44483,Tedarik
+2024-05-26,Ofis kirası,0,24388,Kira
+2024-05-27,Black Friday satış patlaması,22358,0,Satış
+2024-05-27,Amazon satış,22338,0,Satış
+2024-05-27,Trendyol satış geliri,17744,0,Satış
+2024-05-27,Google Ads kampanyası,0,12950,Pazarlama
+2024-05-27,Pazarlama uzmanı maaşı,0,59506,Maaş
+2024-05-28,Paketleme malzemeleri,0,13307,Lojistik
+2024-05-28,MNG kargo ödemesi,0,11302,Lojistik
+2024-05-29,Black Friday satış patlaması,23945,0,Satış
+2024-05-29,Tedarikçi avans ödemesi,0,37330,Tedarik
+2024-05-30,Yılbaşı kampanya satışı,17834,0,Satış
+2024-06-01,Yurtiçi kargo faturası,0,8097,Lojistik
+2024-06-02,Tedarikçi avans ödemesi,0,29636,Tedarik
+2024-06-03,Hepsiburada sipariş,20150,0,Satış
+2024-06-03,Yerli üretici sipariş,0,32820,Tedarik
+2024-06-03,Depo lojistik ücreti,0,10069,Lojistik
+2024-06-03,TikTok ads ödeme,0,12921,Pazarlama
+2024-06-04,Kargo ödeme Aras,0,9794,Lojistik
+2024-06-04,Kargo ödeme Aras,0,8281,Lojistik
+2024-06-05,Yerli üretici sipariş,0,34581,Tedarik
+2024-06-06,İthalat sipariş ödemesi,0,35991,Tedarik
+2024-06-07,Trendyol satış geliri,23784,0,Satış
+2024-06-08,Hepsiburada sipariş,17838,0,Satış
+2024-06-08,Kendi site ödemeleri,20076,0,Satış
+2024-06-10,Kendi site ödemeleri,26608,0,Satış
+2024-06-11,Trendyol satış geliri,25455,0,Satış
+2024-06-12,Instagram shopping satış,25522,0,Satış
+2024-06-12,Google Ads kampanyası,0,13176,Pazarlama
+2024-06-12,Müşteri hizmetleri maaşı,0,26220,Maaş
+2024-06-12,Shopify abonelik,0,22156,Teknoloji
+2024-06-13,Hepsiburada sipariş,21964,0,Satış
+2024-06-14,Black Friday satış patlaması,22157,0,Satış
+2024-06-16,Meta reklam harcaması,0,13235,Pazarlama
+2024-06-17,Hepsiburada sipariş,18458,0,Satış
+2024-06-17,Yerli üretici sipariş,0,30930,Tedarik
+2024-06-18,Yılbaşı kampanya satışı,26272,0,Satış
+2024-06-18,Hepsiburada sipariş,25326,0,Satış
+2024-06-20,Instagram shopping satış,26157,0,Satış
+2024-06-20,Depo kira ödemesi,0,22975,Kira
+2024-06-21,Black Friday satış patlaması,21063,0,Satış
+2024-06-22,Hepsiburada sipariş,21191,0,Satış
+2024-06-22,Geçici vergi,0,19845,Vergi
+2024-06-23,Kendi site ödemeleri,23752,0,Satış
+2024-06-24,Trendyol satış geliri,24468,0,Satış
+2024-06-24,Hepsiburada sipariş,18601,0,Satış
+2024-06-24,Hepsiburada sipariş,19582,0,Satış
+2024-06-24,Müşteri hizmetleri maaşı,0,24726,Maaş
+2024-06-25,WhatsApp sipariş tahsilat,23128,0,Satış
+2024-06-25,Paketleme malzemeleri,0,9256,Lojistik
+2024-06-25,SEO ajans hizmet bedeli,0,13507,Pazarlama
+2024-06-26,MNG kargo ödemesi,0,8231,Lojistik
+2024-06-27,Pazaryeri iade düzeltmesi,22252,0,Diğer Gelir
+2024-06-28,Kendi site ödemeleri,20403,0,Satış
+2024-06-28,Hepsiburada sipariş,19910,0,Satış
+2024-06-28,Yerli üretici sipariş,0,31389,Tedarik
+2024-07-01,Instagram shopping satış,18198,0,Satış
+2024-07-01,Kendi site ödemeleri,22674,0,Satış
+2024-07-01,Depo lojistik ücreti,0,14425,Lojistik
+2024-07-03,Pazaryeri iade düzeltmesi,10248,0,Diğer Gelir
+2024-07-07,Kendi site ödemeleri,20418,0,Satış
+2024-07-07,Amazon satış,22919,0,Satış
+2024-07-08,Pazaryeri iade düzeltmesi,10016,0,Diğer Gelir
+2024-07-09,SEO ajans hizmet bedeli,0,13942,Pazarlama
+2024-07-12,WhatsApp sipariş tahsilat,18034,0,Satış
+2024-07-12,İthalat sipariş ödemesi,0,23073,Tedarik
+2024-07-13,Trendyol satış geliri,17632,0,Satış
+2024-07-14,Black Friday satış patlaması,18382,0,Satış
+2024-07-14,Black Friday satış patlaması,16236,0,Satış
+2024-07-14,AWS bulut faturası,0,11445,Teknoloji
+2024-07-14,Depo kira ödemesi,0,16956,Kira
+2024-07-15,Amazon satış,22141,0,Satış
+2024-07-16,Black Friday satış patlaması,20276,0,Satış
+2024-07-17,Meta reklam harcaması,0,12633,Pazarlama
+2024-07-18,Trendyol satış geliri,16158,0,Satış
+2024-07-19,Instagram shopping satış,17382,0,Satış
+2024-07-19,Trendyol satış geliri,20549,0,Satış
+2024-07-19,Black Friday satış patlaması,18393,0,Satış
+2024-07-20,MNG kargo ödemesi,0,17653,Lojistik
+2024-07-20,TikTok ads ödeme,0,11001,Pazarlama
+2024-07-21,WhatsApp sipariş tahsilat,21634,0,Satış
+2024-07-21,Stok alımı toptancı,0,24161,Tedarik
+2024-07-21,Stok alımı toptancı,0,24603,Tedarik
+2024-07-22,Amazon satış,19528,0,Satış
+2024-07-23,Tedarikçi avans ödemesi,0,21254,Tedarik
+2024-07-23,İthalat sipariş ödemesi,0,21528,Tedarik
+2024-07-24,WhatsApp sipariş tahsilat,19254,0,Satış
+2024-07-24,Depo personeli maaşları,0,48002,Maaş
+2024-07-25,Black Friday satış patlaması,21988,0,Satış
+2024-07-27,Amazon satış,15987,0,Satış
+2024-07-27,Amazon satış,18732,0,Satış
+2024-07-27,Yılbaşı kampanya satışı,20724,0,Satış
+2024-07-27,Kendi site ödemeleri,16950,0,Satış
+2024-07-27,Google Ads kampanyası,0,13711,Pazarlama
+2024-07-27,ERP yazılım ücreti,0,13228,Teknoloji
+2024-07-27,Geçici vergi,0,17316,Vergi
+2024-07-28,Tedarikçi avans ödemesi,0,23264,Tedarik
+2024-07-29,Hepsiburada sipariş,17096,0,Satış
+2024-07-29,Tedarikçi avans ödemesi,0,19376,Tedarik
+2024-07-29,MNG kargo ödemesi,0,14335,Lojistik
+2024-07-31,Yerli üretici sipariş,0,19940,Tedarik
+2024-08-01,Kendi site ödemeleri,17705,0,Satış
+2024-08-02,WhatsApp sipariş tahsilat,15827,0,Satış
+2024-08-02,Kargo ödeme Aras,0,11438,Lojistik
+2024-08-04,TikTok ads ödeme,0,9613,Pazarlama
+2024-08-05,Instagram shopping satış,20062,0,Satış
+2024-08-05,Amazon satış,22301,0,Satış
+2024-08-05,Yerli üretici sipariş,0,28038,Tedarik
+2024-08-06,Trendyol satış geliri,17568,0,Satış
+2024-08-06,WhatsApp sipariş tahsilat,16264,0,Satış
+2024-08-06,MNG kargo ödemesi,0,12368,Lojistik
+2024-08-06,Depo kira ödemesi,0,23180,Kira
+2024-08-07,SEO ajans hizmet bedeli,0,9970,Pazarlama
+2024-08-09,Stok alımı toptancı,0,23296,Tedarik
+2024-08-09,Influencer iş birliği,0,10237,Pazarlama
+2024-08-10,Kendi site ödemeleri,21053,0,Satış
+2024-08-10,Kendi site ödemeleri,17844,0,Satış
+2024-08-11,Tedarikçi avans ödemesi,0,29832,Tedarik
+2024-08-12,Amazon satış,20634,0,Satış
+2024-08-12,Hepsiburada sipariş,19832,0,Satış
+2024-08-12,Paketleme malzemeleri,0,12531,Lojistik
+2024-08-14,Hepsiburada sipariş,19026,0,Satış
+2024-08-14,Amazon satış,21580,0,Satış
+2024-08-14,Affiliate komisyon geliri,9418,0,Diğer Gelir
+2024-08-14,Paketleme malzemeleri,0,10666,Lojistik
+2024-08-14,E-fatura entegrasyon ücreti,0,7241,Teknoloji
+2024-08-15,İthalat sipariş ödemesi,0,25019,Tedarik
+2024-08-16,ERP yazılım ücreti,0,9068,Teknoloji
+2024-08-17,Amazon satış,19148,0,Satış
+2024-08-17,Yılbaşı kampanya satışı,18480,0,Satış
+2024-08-17,Yılbaşı kampanya satışı,15252,0,Satış
+2024-08-18,Instagram shopping satış,17275,0,Satış
+2024-08-18,İthalat sipariş ödemesi,0,30329,Tedarik
+2024-08-18,Google Ads kampanyası,0,8897,Pazarlama
+2024-08-19,Yılbaşı kampanya satışı,16131,0,Satış
+2024-08-20,WhatsApp sipariş tahsilat,22340,0,Satış
+2024-08-21,Amazon satış,15499,0,Satış
+2024-08-21,Hepsiburada sipariş,20159,0,Satış
+2024-08-23,Amazon satış,17991,0,Satış
+2024-08-23,Affiliate komisyon geliri,11123,0,Diğer Gelir
+2024-08-24,Amazon satış,20697,0,Satış
+2024-08-26,Yılbaşı kampanya satışı,18765,0,Satış
+2024-08-26,Tedarikçi avans ödemesi,0,23689,Tedarik
+2024-08-26,Google Ads kampanyası,0,9720,Pazarlama
+2024-08-27,Stopaj vergisi,0,21589,Vergi
+2024-08-28,Amazon satış,18886,0,Satış
+2024-08-28,Yerli üretici sipariş,0,23803,Tedarik
+2024-08-28,Pazarlama uzmanı maaşı,0,59310,Maaş
+2024-08-28,AWS bulut faturası,0,8573,Teknoloji
+2024-08-29,Kendi site ödemeleri,20197,0,Satış
+2024-08-30,Trendyol satış geliri,21410,0,Satış
+2024-08-30,Google Ads kampanyası,0,9844,Pazarlama
+2024-08-31,Yurtiçi kargo faturası,0,12310,Lojistik
+2024-09-02,Kendi site ödemeleri,17803,0,Satış
+2024-09-02,Affiliate komisyon geliri,12665,0,Diğer Gelir
+2024-09-02,SEO ajans hizmet bedeli,0,16913,Pazarlama
+2024-09-03,Black Friday satış patlaması,16816,0,Satış
+2024-09-03,Müşteri hizmetleri maaşı,0,28718,Maaş
+2024-09-04,Pazaryeri iade düzeltmesi,13681,0,Diğer Gelir
+2024-09-04,Kargo ödeme Aras,0,11637,Lojistik
+2024-09-04,Influencer iş birliği,0,16111,Pazarlama
+2024-09-05,Paketleme malzemeleri,0,11329,Lojistik
+2024-09-06,WhatsApp sipariş tahsilat,22417,0,Satış
+2024-09-06,WhatsApp sipariş tahsilat,17457,0,Satış
+2024-09-06,Shopify abonelik,0,29142,Teknoloji
+2024-09-07,Instagram shopping satış,17311,0,Satış
+2024-09-08,İthalat sipariş ödemesi,0,49673,Tedarik
+2024-09-09,Kendi site ödemeleri,22633,0,Satış
+2024-09-09,Yılbaşı kampanya satışı,16583,0,Satış
+2024-09-09,TikTok ads ödeme,0,15116,Pazarlama
+2024-09-10,Instagram shopping satış,17893,0,Satış
+2024-09-13,Black Friday satış patlaması,16275,0,Satış
+2024-09-13,WhatsApp sipariş tahsilat,18742,0,Satış
+2024-09-13,Yılbaşı kampanya satışı,22229,0,Satış
+2024-09-13,Stok alımı toptancı,0,47896,Tedarik
+2024-09-14,Amazon satış,17227,0,Satış
+2024-09-14,Hepsiburada sipariş,20225,0,Satış
+2024-09-14,Tedarikçi avans ödemesi,0,49028,Tedarik
+2024-09-14,Depo lojistik ücreti,0,9069,Lojistik
+2024-09-15,Amazon satış,22671,0,Satış
+2024-09-15,Black Friday satış patlaması,17362,0,Satış
+2024-09-16,Amazon satış,21887,0,Satış
+2024-09-16,Instagram shopping satış,19547,0,Satış
+2024-09-16,Stok alımı toptancı,0,46196,Tedarik
+2024-09-16,Kargo ödeme Aras,0,11142,Lojistik
+2024-09-16,Pazarlama uzmanı maaşı,0,35570,Maaş
+2024-09-18,Instagram shopping satış,17183,0,Satış
+2024-09-18,Black Friday satış patlaması,22317,0,Satış
+2024-09-19,Depo kira ödemesi,0,22516,Kira
+2024-09-21,Hepsiburada sipariş,19065,0,Satış
+2024-09-22,Kendi site ödemeleri,17363,0,Satış
+2024-09-23,Yılbaşı kampanya satışı,17667,0,Satış
+2024-09-23,Trendyol satış geliri,18385,0,Satış
+2024-09-24,Geçici vergi,0,25734,Vergi
+2024-09-25,Yurtiçi kargo faturası,0,11196,Lojistik
+2024-09-26,WhatsApp sipariş tahsilat,16490,0,Satış
+2024-09-26,Kendi site ödemeleri,17550,0,Satış
+2024-09-26,İthalat sipariş ödemesi,0,45607,Tedarik
+2024-09-26,Depo lojistik ücreti,0,10597,Lojistik
+2024-09-26,SEO ajans hizmet bedeli,0,14200,Pazarlama
+2024-09-27,Kendi site ödemeleri,21402,0,Satış
+2024-09-28,WhatsApp sipariş tahsilat,21031,0,Satış
+2024-09-29,WhatsApp sipariş tahsilat,20136,0,Satış
+2024-10-01,Black Friday satış patlaması,29748,0,Satış
+2024-10-01,Black Friday satış patlaması,22928,0,Satış
+2024-10-02,Influencer iş birliği,0,13341,Pazarlama
+2024-10-03,WhatsApp sipariş tahsilat,30811,0,Satış
+2024-10-03,Yılbaşı kampanya satışı,30769,0,Satış
+2024-10-05,Black Friday satış patlaması,26338,0,Satış
+2024-10-08,Black Friday satış patlaması,22647,0,Satış
+2024-10-08,İthalat sipariş ödemesi,0,30924,Tedarik
+2024-10-08,Kargo ödeme Aras,0,17909,Lojistik
+2024-10-09,Amazon satış,30838,0,Satış
+2024-10-09,WhatsApp sipariş tahsilat,27293,0,Satış
+2024-10-09,Amazon satış,27884,0,Satış
+2024-10-09,Affiliate komisyon geliri,11924,0,Diğer Gelir
+2024-10-10,Amazon satış,26662,0,Satış
+2024-10-10,Amazon satış,28269,0,Satış
+2024-10-10,Depo lojistik ücreti,0,20347,Lojistik
+2024-10-11,Amazon satış,26050,0,Satış
+2024-10-11,Stopaj vergisi,0,26403,Vergi
+2024-10-12,Amazon satış,25803,0,Satış
+2024-10-12,Stok alımı toptancı,0,30070,Tedarik
+2024-10-12,Shopify abonelik,0,18016,Teknoloji
+2024-10-13,Stok alımı toptancı,0,27065,Tedarik
+2024-10-14,Instagram shopping satış,26052,0,Satış
+2024-10-14,Tedarikçi avans ödemesi,0,26186,Tedarik
+2024-10-14,Google Ads kampanyası,0,11648,Pazarlama
+2024-10-14,SEO ajans hizmet bedeli,0,12453,Pazarlama
+2024-10-15,Tedarikçi avans ödemesi,0,27384,Tedarik
+2024-10-15,Paketleme malzemeleri,0,19874,Lojistik
+2024-10-17,Trendyol satış geliri,28407,0,Satış
+2024-10-17,Depo kira ödemesi,0,25901,Kira
+2024-10-19,TikTok ads ödeme,0,10298,Pazarlama
+2024-10-19,Müşteri hizmetleri maaşı,0,70608,Maaş
+2024-10-20,Instagram shopping satış,27332,0,Satış
+2024-10-21,Trendyol satış geliri,31496,0,Satış
+2024-10-21,SEO ajans hizmet bedeli,0,11463,Pazarlama
+2024-10-23,Yılbaşı kampanya satışı,27795,0,Satış
+2024-10-23,Paketleme malzemeleri,0,18488,Lojistik
+2024-10-23,Shopify abonelik,0,15521,Teknoloji
+2024-10-24,Black Friday satış patlaması,29950,0,Satış
+2024-10-26,WhatsApp sipariş tahsilat,26881,0,Satış
+2024-10-27,Yılbaşı kampanya satışı,22884,0,Satış
+2024-10-28,WhatsApp sipariş tahsilat,22486,0,Satış
+2024-10-28,Pazaryeri iade düzeltmesi,13725,0,Diğer Gelir
+2024-10-28,Yerli üretici sipariş,0,31707,Tedarik
+2024-10-29,Yılbaşı kampanya satışı,30280,0,Satış
+2024-10-29,İthalat sipariş ödemesi,0,32321,Tedarik
+2024-10-29,Google Ads kampanyası,0,12073,Pazarlama
+2024-10-30,Black Friday satış patlaması,27203,0,Satış
+2024-10-30,Tedarikçi avans ödemesi,0,32029,Tedarik
+2024-11-01,Amazon satış,43210,0,Satış
+2024-11-01,İthalat sipariş ödemesi,0,69443,Tedarik
+2024-11-01,Influencer iş birliği,0,33174,Pazarlama
+2024-11-02,Instagram shopping satış,37722,0,Satış
+2024-11-03,Trendyol satış geliri,31042,0,Satış
+2024-11-03,Influencer iş birliği,0,27786,Pazarlama
+2024-11-03,Ofis kirası,0,50434,Kira
+2024-11-04,Amazon satış,34432,0,Satış
+2024-11-05,Trendyol satış geliri,40386,0,Satış
+2024-11-05,Instagram shopping satış,34636,0,Satış
+2024-11-06,Amazon satış,44797,0,Satış
+2024-11-06,Trendyol satış geliri,41685,0,Satış
+2024-11-07,Amazon satış,38507,0,Satış
+2024-11-07,Black Friday satış patlaması,42982,0,Satış
+2024-11-08,Geçici vergi,0,51188,Vergi
+2024-11-09,Amazon satış,32099,0,Satış
+2024-11-09,Hepsiburada sipariş,35345,0,Satış
+2024-11-10,Black Friday satış patlaması,41803,0,Satış
+2024-11-10,Hepsiburada sipariş,37810,0,Satış
+2024-11-10,Black Friday satış patlaması,39443,0,Satış
+2024-11-11,Kendi site ödemeleri,40193,0,Satış
+2024-11-13,Trendyol satış geliri,35392,0,Satış
+2024-11-14,Affiliate komisyon geliri,46297,0,Diğer Gelir
+2024-11-14,Müşteri hizmetleri maaşı,0,114195,Maaş
+2024-11-15,Stok alımı toptancı,0,70926,Tedarik
+2024-11-16,Google Ads kampanyası,0,30392,Pazarlama
+2024-11-17,Amazon satış,34129,0,Satış
+2024-11-17,Black Friday satış patlaması,30951,0,Satış
+2024-11-18,Hepsiburada sipariş,32318,0,Satış
+2024-11-18,Kendi site ödemeleri,43239,0,Satış
+2024-11-19,İthalat sipariş ödemesi,0,78588,Tedarik
+2024-11-20,Amazon satış,40458,0,Satış
+2024-11-20,Trendyol satış geliri,36370,0,Satış
+2024-11-22,Hepsiburada sipariş,39394,0,Satış
+2024-11-22,Tedarikçi avans ödemesi,0,85557,Tedarik
+2024-11-23,Black Friday satış patlaması,32327,0,Satış
+2024-11-24,Black Friday satış patlaması,44064,0,Satış
+2024-11-25,Trendyol satış geliri,33348,0,Satış
+2024-11-26,Shopify abonelik,0,28277,Teknoloji
+2024-11-27,Yurtiçi kargo faturası,0,44405,Lojistik
+2024-11-27,AWS bulut faturası,0,29585,Teknoloji
+2024-11-28,Influencer iş birliği,0,26757,Pazarlama
+2024-11-29,Depo lojistik ücreti,0,41601,Lojistik
+2024-11-29,Paketleme malzemeleri,0,42648,Lojistik
+2024-11-30,Tedarikçi avans ödemesi,0,84072,Tedarik
+2024-12-01,Instagram shopping satış,32723,0,Satış
+2024-12-02,Black Friday satış patlaması,38171,0,Satış
+2024-12-02,Trendyol satış geliri,37659,0,Satış
+2024-12-02,Kendi site ödemeleri,34211,0,Satış
+2024-12-02,MNG kargo ödemesi,0,21187,Lojistik
+2024-12-02,Meta reklam harcaması,0,31698,Pazarlama
+2024-12-03,Black Friday satış patlaması,36253,0,Satış
+2024-12-04,Yurtiçi kargo faturası,0,17506,Lojistik
+2024-12-05,Ofis kirası,0,35953,Kira
+2024-12-06,Instagram shopping satış,40140,0,Satış
+2024-12-06,Tedarikçi avans ödemesi,0,53217,Tedarik
+2024-12-06,Tedarikçi avans ödemesi,0,50770,Tedarik
+2024-12-08,Instagram shopping satış,40880,0,Satış
+2024-12-09,Black Friday satış patlaması,44615,0,Satış
+2024-12-11,Tedarikçi avans ödemesi,0,52509,Tedarik
+2024-12-11,Kargo ödeme Aras,0,18332,Lojistik
+2024-12-11,Stopaj vergisi,0,33126,Vergi
+2024-12-12,SEO ajans hizmet bedeli,0,36225,Pazarlama
+2024-12-13,İthalat sipariş ödemesi,0,48010,Tedarik
+2024-12-15,Trendyol satış geliri,34454,0,Satış
+2024-12-15,Trendyol satış geliri,42689,0,Satış
+2024-12-16,WhatsApp sipariş tahsilat,45928,0,Satış
+2024-12-17,Trendyol satış geliri,34475,0,Satış
+2024-12-19,Yılbaşı kampanya satışı,34697,0,Satış
+2024-12-19,MNG kargo ödemesi,0,18715,Lojistik
+2024-12-20,Meta reklam harcaması,0,36004,Pazarlama
+2024-12-21,Kendi site ödemeleri,33492,0,Satış
+2024-12-22,Depo personeli maaşları,0,55397,Maaş
+2024-12-23,WhatsApp sipariş tahsilat,45573,0,Satış
+2024-12-24,Instagram shopping satış,40058,0,Satış
+2024-12-24,Black Friday satış patlaması,46242,0,Satış
+2024-12-25,Trendyol satış geliri,43089,0,Satış
+2024-12-25,Amazon satış,39184,0,Satış
+2024-12-25,Stok alımı toptancı,0,51919,Tedarik
+2024-12-25,Pazarlama uzmanı maaşı,0,47918,Maaş
+2024-12-25,Shopify abonelik,0,22638,Teknoloji
+2024-12-25,AWS bulut faturası,0,25076,Teknoloji
+2024-12-26,Stok alımı toptancı,0,55436,Tedarik
+2024-12-27,WhatsApp sipariş tahsilat,34812,0,Satış
+2024-12-28,Yerli üretici sipariş,0,42050,Tedarik
+2024-12-30,Kendi site ödemeleri,36604,0,Satış
+2024-12-30,Trendyol satış geliri,38013,0,Satış
+2024-12-30,MNG kargo ödemesi,0,18549,Lojistik
+2025-01-02,Kendi site ödemeleri,16417,0,Satış
+2025-01-02,Instagram shopping satış,19939,0,Satış
+2025-01-02,MNG kargo ödemesi,0,11579,Lojistik
+2025-01-03,Amazon satış,22817,0,Satış
+2025-01-03,Yılbaşı kampanya satışı,17651,0,Satış
+2025-01-03,Kendi site ödemeleri,20664,0,Satış
+2025-01-03,Black Friday satış patlaması,23869,0,Satış
+2025-01-04,Stok alımı toptancı,0,25637,Tedarik
+2025-01-05,Pazaryeri iade düzeltmesi,18396,0,Diğer Gelir
+2025-01-07,Amazon satış,22251,0,Satış
+2025-01-07,Instagram shopping satış,19513,0,Satış
+2025-01-09,Yerli üretici sipariş,0,32036,Tedarik
+2025-01-10,MNG kargo ödemesi,0,10505,Lojistik
+2025-01-11,Hepsiburada sipariş,23448,0,Satış
+2025-01-12,Yılbaşı kampanya satışı,17748,0,Satış
+2025-01-12,Yurtiçi kargo faturası,0,9644,Lojistik
+2025-01-13,Yılbaşı kampanya satışı,17617,0,Satış
+2025-01-14,İthalat sipariş ödemesi,0,31098,Tedarik
+2025-01-15,Hepsiburada sipariş,20331,0,Satış
+2025-01-15,Kendi site ödemeleri,21175,0,Satış
+2025-01-15,Stok alımı toptancı,0,29674,Tedarik
+2025-01-16,Amazon satış,18417,0,Satış
+2025-01-16,Meta reklam harcaması,0,12104,Pazarlama
+2025-01-18,Amazon satış,22351,0,Satış
+2025-01-19,Hepsiburada sipariş,16672,0,Satış
+2025-01-20,Instagram shopping satış,19364,0,Satış
+2025-01-24,TikTok ads ödeme,0,11641,Pazarlama
+2025-01-26,Hepsiburada sipariş,19462,0,Satış
+2025-01-26,SEO ajans hizmet bedeli,0,11987,Pazarlama
+2025-01-27,Ofis kirası,0,16500,Kira
+2025-01-28,İthalat sipariş ödemesi,0,33054,Tedarik
+2025-01-28,SEO ajans hizmet bedeli,0,11884,Pazarlama
+2025-01-28,Pazarlama uzmanı maaşı,0,39690,Maaş
+2025-01-29,Yılbaşı kampanya satışı,16740,0,Satış
+2025-01-29,Stopaj vergisi,0,13867,Vergi
+2025-01-31,Depo lojistik ücreti,0,9269,Lojistik
+2025-01-31,ERP yazılım ücreti,0,17510,Teknoloji
+2025-02-01,SEO ajans hizmet bedeli,0,8385,Pazarlama
+2025-02-02,Amazon satış,16904,0,Satış
+2025-02-03,Yılbaşı kampanya satışı,17585,0,Satış
+2025-02-03,Trendyol satış geliri,14469,0,Satış
+2025-02-03,Tedarikçi avans ödemesi,0,21316,Tedarik
+2025-02-04,TikTok ads ödeme,0,7472,Pazarlama
+2025-02-05,Amazon satış,18140,0,Satış
+2025-02-06,WhatsApp sipariş tahsilat,17975,0,Satış
+2025-02-06,MNG kargo ödemesi,0,8703,Lojistik
+2025-02-07,Meta reklam harcaması,0,7159,Pazarlama
+2025-02-07,E-fatura entegrasyon ücreti,0,8141,Teknoloji
+2025-02-08,Yılbaşı kampanya satışı,14539,0,Satış
+2025-02-08,İthalat sipariş ödemesi,0,22194,Tedarik
+2025-02-09,Instagram shopping satış,12914,0,Satış
+2025-02-09,Yerli üretici sipariş,0,25772,Tedarik
+2025-02-10,Instagram shopping satış,15461,0,Satış
+2025-02-10,Black Friday satış patlaması,13070,0,Satış
+2025-02-11,Stopaj vergisi,0,15860,Vergi
+2025-02-12,WhatsApp sipariş tahsilat,17020,0,Satış
+2025-02-13,Stok alımı toptancı,0,25252,Tedarik
+2025-02-14,Yerli üretici sipariş,0,23458,Tedarik
+2025-02-15,SEO ajans hizmet bedeli,0,8030,Pazarlama
+2025-02-16,WhatsApp sipariş tahsilat,13366,0,Satış
+2025-02-16,Kendi site ödemeleri,15590,0,Satış
+2025-02-17,WhatsApp sipariş tahsilat,16027,0,Satış
+2025-02-17,Instagram shopping satış,17949,0,Satış
+2025-02-17,Hepsiburada sipariş,17553,0,Satış
+2025-02-18,MNG kargo ödemesi,0,8763,Lojistik
+2025-02-18,Kargo ödeme Aras,0,6929,Lojistik
+2025-02-18,Shopify abonelik,0,7904,Teknoloji
+2025-02-19,Black Friday satış patlaması,14182,0,Satış
+2025-02-20,WhatsApp sipariş tahsilat,18738,0,Satış
+2025-02-20,Amazon satış,17175,0,Satış
+2025-02-20,Müşteri hizmetleri maaşı,0,44576,Maaş
+2025-02-21,WhatsApp sipariş tahsilat,17522,0,Satış
+2025-02-22,Paketleme malzemeleri,0,7048,Lojistik
+2025-02-23,Yerli üretici sipariş,0,25621,Tedarik
+2025-02-23,AWS bulut faturası,0,8015,Teknoloji
+2025-02-24,Instagram shopping satış,15243,0,Satış
+2025-02-24,Kargo ödeme Aras,0,8449,Lojistik
+2025-02-24,Depo kira ödemesi,0,15878,Kira
+2025-02-25,Yerli üretici sipariş,0,23544,Tedarik
+2025-02-25,Influencer iş birliği,0,8071,Pazarlama
+2025-02-26,Trendyol satış geliri,18303,0,Satış
+2025-02-26,Yurtiçi kargo faturası,0,7549,Lojistik
+2025-02-26,TikTok ads ödeme,0,8457,Pazarlama
+2025-02-27,Instagram shopping satış,16008,0,Satış
+2025-02-27,Black Friday satış patlaması,14654,0,Satış
+2025-02-27,Instagram shopping satış,15367,0,Satış
+2025-02-28,Black Friday satış patlaması,17257,0,Satış
+2025-02-28,Instagram shopping satış,17394,0,Satış
+2025-03-01,Hepsiburada sipariş,19088,0,Satış
+2025-03-03,Stok alımı toptancı,0,21732,Tedarik
+2025-03-03,Depo lojistik ücreti,0,12719,Lojistik
+2025-03-04,Yılbaşı kampanya satışı,19867,0,Satış
+2025-03-04,TikTok ads ödeme,0,20283,Pazarlama
+2025-03-06,Instagram shopping satış,18154,0,Satış
+2025-03-06,Instagram shopping satış,22575,0,Satış
+2025-03-07,Instagram shopping satış,15179,0,Satış
+2025-03-07,Hepsiburada sipariş,18434,0,Satış
+2025-03-10,Hepsiburada sipariş,17330,0,Satış
+2025-03-10,Hepsiburada sipariş,22535,0,Satış
+2025-03-11,Amazon satış,16657,0,Satış
+2025-03-11,Kendi site ödemeleri,17003,0,Satış
+2025-03-11,Instagram shopping satış,18271,0,Satış
+2025-03-12,Kendi site ödemeleri,21040,0,Satış
+2025-03-12,Tedarikçi avans ödemesi,0,23615,Tedarik
+2025-03-12,MNG kargo ödemesi,0,14507,Lojistik
+2025-03-13,Black Friday satış patlaması,19327,0,Satış
+2025-03-13,Yılbaşı kampanya satışı,20805,0,Satış
+2025-03-15,Trendyol satış geliri,17330,0,Satış
+2025-03-15,WhatsApp sipariş tahsilat,16848,0,Satış
+2025-03-16,WhatsApp sipariş tahsilat,20631,0,Satış
+2025-03-18,Instagram shopping satış,15956,0,Satış
+2025-03-18,Affiliate komisyon geliri,23682,0,Diğer Gelir
+2025-03-20,WhatsApp sipariş tahsilat,16477,0,Satış
+2025-03-20,Tedarikçi avans ödemesi,0,25839,Tedarik
+2025-03-20,Müşteri hizmetleri maaşı,0,24112,Maaş
+2025-03-22,TikTok ads ödeme,0,20470,Pazarlama
+2025-03-22,Geçici vergi,0,21966,Vergi
+2025-03-23,Amazon satış,15420,0,Satış
+2025-03-23,Hepsiburada sipariş,19254,0,Satış
+2025-03-25,Black Friday satış patlaması,17274,0,Satış
+2025-03-25,MNG kargo ödemesi,0,13092,Lojistik
+2025-03-26,Amazon satış,19653,0,Satış
+2025-03-26,ERP yazılım ücreti,0,25637,Teknoloji
+2025-03-27,Amazon satış,17502,0,Satış
+2025-03-28,Yerli üretici sipariş,0,22049,Tedarik
+2025-03-29,Kendi site ödemeleri,15636,0,Satış
+2025-03-29,Tedarikçi avans ödemesi,0,21043,Tedarik
+2025-03-29,Stok alımı toptancı,0,24358,Tedarik
+2025-03-29,Paketleme malzemeleri,0,13169,Lojistik
+2025-03-29,Pazarlama uzmanı maaşı,0,30558,Maaş
+2025-03-30,WhatsApp sipariş tahsilat,17663,0,Satış
+2025-03-30,Yerli üretici sipariş,0,24163,Tedarik
+2025-03-31,Yerli üretici sipariş,0,25724,Tedarik
+2025-03-31,TikTok ads ödeme,0,20076,Pazarlama
+2025-03-31,Ofis kirası,0,21967,Kira
+2025-04-02,Meta reklam harcaması,0,11111,Pazarlama
+2025-04-04,Müşteri hizmetleri maaşı,0,27903,Maaş
+2025-04-04,Pazarlama uzmanı maaşı,0,23295,Maaş
+2025-04-04,Depo kira ödemesi,0,20981,Kira
+2025-04-05,Kargo ödeme Aras,0,15477,Lojistik
+2025-04-05,SEO ajans hizmet bedeli,0,9588,Pazarlama
+2025-04-06,Stok alımı toptancı,0,26321,Tedarik
+2025-04-07,Hepsiburada sipariş,20969,0,Satış
+2025-04-07,Kendi site ödemeleri,19981,0,Satış
+2025-04-07,Yerli üretici sipariş,0,25613,Tedarik
+2025-04-08,İthalat sipariş ödemesi,0,22942,Tedarik
+2025-04-10,Black Friday satış patlaması,21849,0,Satış
+2025-04-11,Trendyol satış geliri,28624,0,Satış
+2025-04-11,WhatsApp sipariş tahsilat,22289,0,Satış
+2025-04-12,Black Friday satış patlaması,27588,0,Satış
+2025-04-12,Affiliate komisyon geliri,23904,0,Diğer Gelir
+2025-04-12,Yurtiçi kargo faturası,0,12333,Lojistik
+2025-04-12,AWS bulut faturası,0,21778,Teknoloji
+2025-04-13,İthalat sipariş ödemesi,0,24770,Tedarik
+2025-04-14,Black Friday satış patlaması,24143,0,Satış
+2025-04-15,İthalat sipariş ödemesi,0,20704,Tedarik
+2025-04-15,MNG kargo ödemesi,0,13972,Lojistik
+2025-04-15,SEO ajans hizmet bedeli,0,11993,Pazarlama
+2025-04-16,Tedarikçi avans ödemesi,0,24242,Tedarik
+2025-04-16,İthalat sipariş ödemesi,0,23326,Tedarik
+2025-04-16,Depo lojistik ücreti,0,13539,Lojistik
+2025-04-16,Google Ads kampanyası,0,10055,Pazarlama
+2025-04-17,Kendi site ödemeleri,21097,0,Satış
+2025-04-19,WhatsApp sipariş tahsilat,19682,0,Satış
+2025-04-21,Trendyol satış geliri,27108,0,Satış
+2025-04-21,Amazon satış,25462,0,Satış
+2025-04-21,Stok alımı toptancı,0,26595,Tedarik
+2025-04-21,KDV ödemesi,0,18930,Vergi
+2025-04-22,Amazon satış,23491,0,Satış
+2025-04-22,WhatsApp sipariş tahsilat,25779,0,Satış
+2025-04-22,Yılbaşı kampanya satışı,20032,0,Satış
+2025-04-22,Hepsiburada sipariş,25632,0,Satış
+2025-04-23,Yılbaşı kampanya satışı,21874,0,Satış
+2025-04-24,TikTok ads ödeme,0,11252,Pazarlama
+2025-04-25,Amazon satış,25964,0,Satış
+2025-04-26,Kendi site ödemeleri,27833,0,Satış
+2025-04-26,Black Friday satış patlaması,27948,0,Satış
+2025-04-28,Trendyol satış geliri,23625,0,Satış
+2025-05-01,AWS bulut faturası,0,10023,Teknoloji
+2025-05-01,AWS bulut faturası,0,9648,Teknoloji
+2025-05-02,Amazon satış,21896,0,Satış
+2025-05-02,Hepsiburada sipariş,20677,0,Satış
+2025-05-03,İthalat sipariş ödemesi,0,28898,Tedarik
+2025-05-03,Tedarikçi avans ödemesi,0,27798,Tedarik
+2025-05-04,Depo lojistik ücreti,0,15446,Lojistik
+2025-05-06,Trendyol satış geliri,22969,0,Satış
+2025-05-07,Kendi site ödemeleri,23636,0,Satış
+2025-05-07,WhatsApp sipariş tahsilat,23781,0,Satış
+2025-05-07,Amazon satış,16587,0,Satış
+2025-05-07,WhatsApp sipariş tahsilat,18406,0,Satış
+2025-05-09,WhatsApp sipariş tahsilat,16632,0,Satış
+2025-05-09,Stopaj vergisi,0,22218,Vergi
+2025-05-10,Meta reklam harcaması,0,14796,Pazarlama
+2025-05-11,Depo personeli maaşları,0,26284,Maaş
+2025-05-12,Black Friday satış patlaması,17922,0,Satış
+2025-05-12,İthalat sipariş ödemesi,0,25273,Tedarik
+2025-05-13,Meta reklam harcaması,0,14268,Pazarlama
+2025-05-14,TikTok ads ödeme,0,13529,Pazarlama
+2025-05-14,Shopify abonelik,0,8089,Teknoloji
+2025-05-15,Stok alımı toptancı,0,25658,Tedarik
+2025-05-15,Depo kira ödemesi,0,20691,Kira
+2025-05-17,Instagram shopping satış,19558,0,Satış
+2025-05-17,Black Friday satış patlaması,21430,0,Satış
+2025-05-17,Black Friday satış patlaması,21244,0,Satış
+2025-05-18,Pazaryeri iade düzeltmesi,9156,0,Diğer Gelir
+2025-05-19,SEO ajans hizmet bedeli,0,13629,Pazarlama
+2025-05-20,Müşteri hizmetleri maaşı,0,30694,Maaş
+2025-05-22,Kendi site ödemeleri,17701,0,Satış
+2025-05-22,İthalat sipariş ödemesi,0,23047,Tedarik
+2025-05-23,Instagram shopping satış,19950,0,Satış
+2025-05-23,Stok alımı toptancı,0,27056,Tedarik
+2025-05-23,Depo lojistik ücreti,0,13193,Lojistik
+2025-05-24,Kendi site ödemeleri,23661,0,Satış
+2025-05-24,Hepsiburada sipariş,20917,0,Satış
+2025-05-24,Kargo ödeme Aras,0,16822,Lojistik
+2025-05-25,WhatsApp sipariş tahsilat,21858,0,Satış
+2025-05-25,Yerli üretici sipariş,0,23591,Tedarik
+2025-05-26,Black Friday satış patlaması,16828,0,Satış
+2025-05-26,Pazaryeri iade düzeltmesi,13003,0,Diğer Gelir
+2025-05-27,Amazon satış,21916,0,Satış
+2025-05-27,Amazon satış,19906,0,Satış
+2025-05-27,WhatsApp sipariş tahsilat,21674,0,Satış
+2025-05-27,Depo lojistik ücreti,0,13369,Lojistik
+2025-05-29,WhatsApp sipariş tahsilat,23160,0,Satış
+2025-05-29,Trendyol satış geliri,16836,0,Satış
+2025-05-29,Hepsiburada sipariş,20813,0,Satış
+2025-05-30,Trendyol satış geliri,21245,0,Satış
+2025-05-31,Yılbaşı kampanya satışı,19749,0,Satış
+2025-05-31,Tedarikçi avans ödemesi,0,24754,Tedarik
+2025-06-01,MNG kargo ödemesi,0,14032,Lojistik
+2025-06-02,Depo personeli maaşları,0,26175,Maaş
+2025-06-03,Tedarikçi avans ödemesi,0,50258,Tedarik
+2025-06-04,Instagram shopping satış,19721,0,Satış
+2025-06-04,Kargo ödeme Aras,0,15366,Lojistik
+2025-06-04,Stopaj vergisi,0,22148,Vergi
+2025-06-05,Instagram shopping satış,20548,0,Satış
+2025-06-05,Google Ads kampanyası,0,9749,Pazarlama
+2025-06-05,E-fatura entegrasyon ücreti,0,13286,Teknoloji
+2025-06-07,Instagram shopping satış,21945,0,Satış
+2025-06-07,Pazarlama uzmanı maaşı,0,25801,Maaş
+2025-06-08,Kendi site ödemeleri,28728,0,Satış
+2025-06-08,Instagram shopping satış,28031,0,Satış
+2025-06-08,Ofis kirası,0,21253,Kira
+2025-06-10,MNG kargo ödemesi,0,14711,Lojistik
+2025-06-10,Paketleme malzemeleri,0,12658,Lojistik
+2025-06-11,Amazon satış,24412,0,Satış
+2025-06-11,Trendyol satış geliri,23069,0,Satış
+2025-06-12,Yerli üretici sipariş,0,46908,Tedarik
+2025-06-13,Pazaryeri iade düzeltmesi,12041,0,Diğer Gelir
+2025-06-13,Yerli üretici sipariş,0,42502,Tedarik
+2025-06-14,Kendi site ödemeleri,19838,0,Satış
+2025-06-15,WhatsApp sipariş tahsilat,22646,0,Satış
+2025-06-17,Influencer iş birliği,0,9009,Pazarlama
+2025-06-17,Influencer iş birliği,0,10453,Pazarlama
+2025-06-18,Instagram shopping satış,22438,0,Satış
+2025-06-19,Black Friday satış patlaması,26448,0,Satış
+2025-06-19,Google Ads kampanyası,0,7887,Pazarlama
+2025-06-21,Black Friday satış patlaması,27903,0,Satış
+2025-06-21,Meta reklam harcaması,0,8328,Pazarlama
+2025-06-22,Trendyol satış geliri,21754,0,Satış
+2025-06-22,TikTok ads ödeme,0,8023,Pazarlama
+2025-06-22,E-fatura entegrasyon ücreti,0,11422,Teknoloji
+2025-06-23,Amazon satış,22917,0,Satış
+2025-06-23,İthalat sipariş ödemesi,0,44181,Tedarik
+2025-06-24,Hepsiburada sipariş,20114,0,Satış
+2025-06-26,Yılbaşı kampanya satışı,22729,0,Satış
+2025-06-27,Black Friday satış patlaması,26857,0,Satış
+2025-06-27,Yılbaşı kampanya satışı,21628,0,Satış
+2025-06-28,Amazon satış,28866,0,Satış
+2025-06-28,Affiliate komisyon geliri,11895,0,Diğer Gelir
+2025-06-30,Hepsiburada sipariş,27393,0,Satış

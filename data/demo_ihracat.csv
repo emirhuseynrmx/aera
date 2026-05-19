@@ -1,0 +1,386 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Avrupa toptan satış tahsilatı,345600,0,Satış
+2024-01-01,Konteyner navlun ödemesi,0,76122,Lojistik
+2024-01-06,Hammadde alımı,0,233956,Tedarik
+2024-01-07,Gümrük müşavir ücreti,0,79473,Lojistik
+2024-01-09,Avrupa toptan satış tahsilatı,380700,0,Satış
+2024-01-09,Avustralya sipariş ödemesi,353087,0,Satış
+2024-01-11,Ofis kirası,0,80427,Kira
+2024-01-13,Hammadde alımı,0,224686,Tedarik
+2024-01-16,Avustralya sipariş ödemesi,380182,0,Satış
+2024-01-18,Avrupa toptan satış tahsilatı,338723,0,Satış
+2024-01-22,İngiltere ihracat (GBP) tahsilatı,318111,0,Satış
+2024-01-22,Avrupa toptan satış tahsilatı,388118,0,Satış
+2024-01-23,Yerli üretici tedarik ödemesi,0,252426,Tedarik
+2024-01-23,Konteyner navlun ödemesi,0,79333,Lojistik
+2024-01-23,Yurt dışı tanıtım,0,110237,Pazarlama
+2024-01-24,Konteyner navlun ödemesi,0,72551,Lojistik
+2024-01-24,Gümrük vergisi,0,115009,Vergi
+2024-01-26,Yerli üretici tedarik ödemesi,0,267229,Tedarik
+2024-01-29,Gümrük müşavir ücreti,0,76785,Lojistik
+2024-01-30,İhracat hibe ödemesi,169130,0,Devlet Desteği
+2024-01-30,Operasyon ekibi maaşları,0,304902,Maaş
+2024-02-04,İngiltere ihracat (GBP) tahsilatı,408982,0,Satış
+2024-02-05,Hammadde alımı,0,175418,Tedarik
+2024-02-10,Almanya ihracat tahsilatı (EUR),528896,0,Satış
+2024-02-10,Gümrük müşavir ücreti,0,205576,Lojistik
+2024-02-11,Yarı mamul tedariği,0,169100,Tedarik
+2024-02-12,B2B platform üyelik,0,72305,Pazarlama
+2024-02-13,Yarı mamul tedariği,0,171582,Tedarik
+2024-02-13,Yurt dışı tanıtım,0,60691,Pazarlama
+2024-02-14,Operasyon ekibi maaşları,0,159143,Maaş
+2024-02-16,Hollanda konteyner ödemesi,416632,0,Satış
+2024-02-17,İngiltere ihracat (GBP) tahsilatı,388425,0,Satış
+2024-02-18,İngiltere ihracat (GBP) tahsilatı,470749,0,Satış
+2024-02-18,Ofis kirası,0,97775,Kira
+2024-02-20,Konteyner navlun ödemesi,0,205990,Lojistik
+2024-02-20,İhracat departmanı maaşları,0,136704,Maaş
+2024-02-21,Gümrük vergisi,0,111317,Vergi
+2024-02-22,ABD müşteri ödemesi (USD),555571,0,Satış
+2024-02-23,Yarı mamul tedariği,0,180644,Tedarik
+2024-02-26,Pazara giriş desteği geri ödemesi,167380,0,Devlet Desteği
+2024-02-28,Yarı mamul tedariği,0,153471,Tedarik
+2024-02-29,Yerli üretici tedarik ödemesi,0,177548,Tedarik
+2024-03-01,Liman elleçleme,0,110915,Lojistik
+2024-03-02,Hammadde alımı,0,258020,Tedarik
+2024-03-02,Operasyon ekibi maaşları,0,367154,Maaş
+2024-03-03,Orta Doğu ihracat geliri,340538,0,Satış
+2024-03-05,Yerli üretici tedarik ödemesi,0,216010,Tedarik
+2024-03-05,Liman elleçleme,0,108834,Lojistik
+2024-03-09,ABD müşteri ödemesi (USD),309620,0,Satış
+2024-03-11,Hollanda konteyner ödemesi,329589,0,Satış
+2024-03-14,Avrupa toptan satış tahsilatı,303271,0,Satış
+2024-03-15,Avrupa toptan satış tahsilatı,316342,0,Satış
+2024-03-15,Gümrük vergisi,0,106329,Vergi
+2024-03-16,Avustralya sipariş ödemesi,344594,0,Satış
+2024-03-16,Hollanda konteyner ödemesi,341586,0,Satış
+2024-03-16,Yerli üretici tedarik ödemesi,0,217857,Tedarik
+2024-03-17,Almanya ihracat tahsilatı (EUR),368781,0,Satış
+2024-03-18,İhracat hibe ödemesi,165673,0,Devlet Desteği
+2024-03-18,Yarı mamul tedariği,0,219138,Tedarik
+2024-03-19,Ofis kirası,0,109703,Kira
+2024-03-23,İngiltere ihracat (GBP) tahsilatı,333696,0,Satış
+2024-03-24,Liman elleçleme,0,99655,Lojistik
+2024-03-26,Liman elleçleme,0,127891,Lojistik
+2024-03-29,Uluslararası fuar katılımı,0,144532,Pazarlama
+2024-03-30,Hammadde alımı,0,258857,Tedarik
+2024-04-04,Hollanda konteyner ödemesi,302240,0,Satış
+2024-04-05,Avrupa toptan satış tahsilatı,304155,0,Satış
+2024-04-05,İhracat hibe ödemesi,206377,0,Devlet Desteği
+2024-04-07,İhracat danışmanlık hizmeti,0,130823,Danışmanlık
+2024-04-09,Hammadde alımı,0,266424,Tedarik
+2024-04-11,Liman elleçleme,0,126495,Lojistik
+2024-04-11,Uluslararası fuar katılımı,0,85401,Pazarlama
+2024-04-13,Yarı mamul tedariği,0,209333,Tedarik
+2024-04-14,Avustralya sipariş ödemesi,299082,0,Satış
+2024-04-14,Konteyner navlun ödemesi,0,97900,Lojistik
+2024-04-16,ABD müşteri ödemesi (USD),310100,0,Satış
+2024-04-16,Uluslararası nakliye sigortası,0,110636,Lojistik
+2024-04-18,Yerli üretici tedarik ödemesi,0,246025,Tedarik
+2024-04-19,Gümrük müşavir ücreti,0,109784,Lojistik
+2024-04-19,İhracat departmanı maaşları,0,335722,Maaş
+2024-04-20,Avrupa toptan satış tahsilatı,306971,0,Satış
+2024-04-20,KDV iade öncesi ödeme,0,138733,Vergi
+2024-04-21,Orta Doğu ihracat geliri,366373,0,Satış
+2024-04-23,Yarı mamul tedariği,0,253016,Tedarik
+2024-04-23,Ofis kirası,0,91164,Kira
+2024-04-24,Yarı mamul tedariği,0,209619,Tedarik
+2024-04-27,ABD müşteri ödemesi (USD),407636,0,Satış
+2024-04-27,Avrupa toptan satış tahsilatı,295530,0,Satış
+2024-04-30,Hollanda konteyner ödemesi,390613,0,Satış
+2024-04-30,B2B platform üyelik,0,68682,Pazarlama
+2024-05-02,Yarı mamul tedariği,0,244491,Tedarik
+2024-05-04,Avustralya sipariş ödemesi,676688,0,Satış
+2024-05-05,Uluslararası nakliye sigortası,0,89839,Lojistik
+2024-05-07,Konteyner navlun ödemesi,0,82121,Lojistik
+2024-05-11,Pazara giriş desteği geri ödemesi,188554,0,Devlet Desteği
+2024-05-12,Uluslararası nakliye sigortası,0,97529,Lojistik
+2024-05-14,Hammadde alımı,0,243566,Tedarik
+2024-05-15,Yarı mamul tedariği,0,245023,Tedarik
+2024-05-16,Almanya ihracat tahsilatı (EUR),654040,0,Satış
+2024-05-16,Yurt dışı tanıtım,0,74119,Pazarlama
+2024-05-17,Yurt dışı tanıtım,0,81800,Pazarlama
+2024-05-18,Hammadde alımı,0,200928,Tedarik
+2024-05-18,Gümrük vergisi,0,62959,Vergi
+2024-05-19,Yarı mamul tedariği,0,223685,Tedarik
+2024-05-20,Gümrük vergisi,0,52183,Vergi
+2024-05-22,Depo kira,0,84824,Kira
+2024-05-23,Avustralya sipariş ödemesi,901261,0,Satış
+2024-05-23,Operasyon ekibi maaşları,0,159108,Maaş
+2024-05-23,İhracat departmanı maaşları,0,170282,Maaş
+2024-05-26,Gümrük müşavir ücreti,0,94420,Lojistik
+2024-05-27,Almanya ihracat tahsilatı (EUR),767354,0,Satış
+2024-05-31,Uluslararası nakliye sigortası,0,89301,Lojistik
+2024-06-01,İhracat departmanı maaşları,0,248019,Maaş
+2024-06-03,Liman elleçleme,0,182390,Lojistik
+2024-06-03,Yurt dışı tanıtım,0,68227,Pazarlama
+2024-06-04,Avrupa toptan satış tahsilatı,334408,0,Satış
+2024-06-06,KDV iade öncesi ödeme,0,52225,Vergi
+2024-06-11,Gümrük müşavir ücreti,0,218294,Lojistik
+2024-06-13,İngiltere ihracat (GBP) tahsilatı,311882,0,Satış
+2024-06-14,Almanya ihracat tahsilatı (EUR),261157,0,Satış
+2024-06-15,Orta Doğu ihracat geliri,356403,0,Satış
+2024-06-15,Hammadde alımı,0,238756,Tedarik
+2024-06-17,B2B platform üyelik,0,62953,Pazarlama
+2024-06-18,Avustralya sipariş ödemesi,295032,0,Satış
+2024-06-20,Avrupa toptan satış tahsilatı,284857,0,Satış
+2024-06-21,Ofis kirası,0,91475,Kira
+2024-06-25,Yarı mamul tedariği,0,266466,Tedarik
+2024-06-27,İngiltere ihracat (GBP) tahsilatı,343242,0,Satış
+2024-06-27,ABD müşteri ödemesi (USD),355909,0,Satış
+2024-06-28,Yarı mamul tedariği,0,290808,Tedarik
+2024-06-29,Avustralya sipariş ödemesi,370272,0,Satış
+2024-06-29,KDV iade öncesi ödeme,0,61783,Vergi
+2024-06-30,Yarı mamul tedariği,0,225565,Tedarik
+2024-07-01,Yarı mamul tedariği,0,218805,Tedarik
+2024-07-02,Depo kira,0,80599,Kira
+2024-07-03,Almanya ihracat tahsilatı (EUR),378184,0,Satış
+2024-07-07,Liman elleçleme,0,166106,Lojistik
+2024-07-12,Orta Doğu ihracat geliri,387565,0,Satış
+2024-07-12,Mali müşavir ücreti,0,123435,Danışmanlık
+2024-07-13,Avustralya sipariş ödemesi,451756,0,Satış
+2024-07-13,Avrupa toptan satış tahsilatı,450941,0,Satış
+2024-07-14,Hollanda konteyner ödemesi,355655,0,Satış
+2024-07-17,Yarı mamul tedariği,0,223124,Tedarik
+2024-07-18,KDV iade öncesi ödeme,0,96631,Vergi
+2024-07-23,Almanya ihracat tahsilatı (EUR),481668,0,Satış
+2024-07-23,Yerli üretici tedarik ödemesi,0,260111,Tedarik
+2024-07-23,Yarı mamul tedariği,0,259977,Tedarik
+2024-07-23,Liman elleçleme,0,158342,Lojistik
+2024-07-31,İhracat departmanı maaşları,0,275102,Maaş
+2024-08-02,Konteyner navlun ödemesi,0,110400,Lojistik
+2024-08-03,Avustralya sipariş ödemesi,308488,0,Satış
+2024-08-04,ABD müşteri ödemesi (USD),292478,0,Satış
+2024-08-07,Yerli üretici tedarik ödemesi,0,246066,Tedarik
+2024-08-07,Gümrük vergisi,0,42636,Vergi
+2024-08-09,Operasyon ekibi maaşları,0,127489,Maaş
+2024-08-10,Almanya ihracat tahsilatı (EUR),301721,0,Satış
+2024-08-10,Liman elleçleme,0,93884,Lojistik
+2024-08-11,İhracat departmanı maaşları,0,128569,Maaş
+2024-08-14,Orta Doğu ihracat geliri,362881,0,Satış
+2024-08-17,Orta Doğu ihracat geliri,382947,0,Satış
+2024-08-18,Depo kira,0,64657,Kira
+2024-08-19,Konteyner navlun ödemesi,0,120728,Lojistik
+2024-08-22,Avustralya sipariş ödemesi,351403,0,Satış
+2024-08-22,İhracat danışmanlık hizmeti,0,54718,Danışmanlık
+2024-08-23,KDV iade öncesi ödeme,0,45943,Vergi
+2024-08-27,Yerli üretici tedarik ödemesi,0,188183,Tedarik
+2024-08-30,Hollanda konteyner ödemesi,287780,0,Satış
+2024-08-30,Hammadde alımı,0,246759,Tedarik
+2024-08-30,İhracat danışmanlık hizmeti,0,50911,Danışmanlık
+2024-08-31,Yarı mamul tedariği,0,252813,Tedarik
+2024-09-01,Yarı mamul tedariği,0,202520,Tedarik
+2024-09-03,Hollanda konteyner ödemesi,536290,0,Satış
+2024-09-04,Pazara giriş desteği geri ödemesi,191926,0,Devlet Desteği
+2024-09-05,Avustralya sipariş ödemesi,598596,0,Satış
+2024-09-05,Yerli üretici tedarik ödemesi,0,229735,Tedarik
+2024-09-05,Uluslararası nakliye sigortası,0,95991,Lojistik
+2024-09-05,Operasyon ekibi maaşları,0,143892,Maaş
+2024-09-05,Mali müşavir ücreti,0,144592,Danışmanlık
+2024-09-07,Hammadde alımı,0,220414,Tedarik
+2024-09-07,Gümrük müşavir ücreti,0,95116,Lojistik
+2024-09-11,Yurt dışı tanıtım,0,61781,Pazarlama
+2024-09-13,Almanya ihracat tahsilatı (EUR),560249,0,Satış
+2024-09-15,Liman elleçleme,0,116170,Lojistik
+2024-09-18,KDV iade öncesi ödeme,0,58818,Vergi
+2024-09-20,Yurt dışı tanıtım,0,65291,Pazarlama
+2024-09-22,Uluslararası nakliye sigortası,0,117461,Lojistik
+2024-09-23,Avrupa toptan satış tahsilatı,421264,0,Satış
+2024-09-24,Yarı mamul tedariği,0,248136,Tedarik
+2024-09-24,Depo kira,0,103603,Kira
+2024-09-27,İngiltere ihracat (GBP) tahsilatı,471545,0,Satış
+2024-09-27,KDV iade öncesi ödeme,0,52591,Vergi
+2024-09-28,Operasyon ekibi maaşları,0,142300,Maaş
+2024-09-29,Hammadde alımı,0,261117,Tedarik
+2024-09-30,İngiltere ihracat (GBP) tahsilatı,490679,0,Satış
+2024-10-01,Avustralya sipariş ödemesi,500658,0,Satış
+2024-10-03,Ofis kirası,0,99887,Kira
+2024-10-05,Hammadde alımı,0,332697,Tedarik
+2024-10-05,Yurt dışı tanıtım,0,165839,Pazarlama
+2024-10-06,İngiltere ihracat (GBP) tahsilatı,468671,0,Satış
+2024-10-09,Avustralya sipariş ödemesi,498585,0,Satış
+2024-10-10,İngiltere ihracat (GBP) tahsilatı,554445,0,Satış
+2024-10-11,Konteyner navlun ödemesi,0,119132,Lojistik
+2024-10-17,Avustralya sipariş ödemesi,489029,0,Satış
+2024-10-17,Uluslararası nakliye sigortası,0,112648,Lojistik
+2024-10-18,Gümrük müşavir ücreti,0,102766,Lojistik
+2024-10-19,Liman elleçleme,0,104968,Lojistik
+2024-10-21,Mali müşavir ücreti,0,88394,Danışmanlık
+2024-10-24,Avrupa toptan satış tahsilatı,491673,0,Satış
+2024-10-24,Hammadde alımı,0,279080,Tedarik
+2024-10-24,İhracat departmanı maaşları,0,158850,Maaş
+2024-10-26,Operasyon ekibi maaşları,0,183303,Maaş
+2024-10-28,Yarı mamul tedariği,0,283722,Tedarik
+2024-10-28,Gümrük vergisi,0,136860,Vergi
+2024-10-29,Yerli üretici tedarik ödemesi,0,275017,Tedarik
+2024-10-30,Almanya ihracat tahsilatı (EUR),422136,0,Satış
+2024-10-30,İhracat danışmanlık hizmeti,0,85172,Danışmanlık
+2024-11-02,Hammadde alımı,0,190381,Tedarik
+2024-11-03,Hollanda konteyner ödemesi,562513,0,Satış
+2024-11-04,Hammadde alımı,0,185199,Tedarik
+2024-11-04,Liman elleçleme,0,83819,Lojistik
+2024-11-04,Gümrük müşavir ücreti,0,93544,Lojistik
+2024-11-05,İhracat departmanı maaşları,0,277437,Maaş
+2024-11-07,Uluslararası nakliye sigortası,0,101025,Lojistik
+2024-11-08,Yarı mamul tedariği,0,213235,Tedarik
+2024-11-10,İngiltere ihracat (GBP) tahsilatı,642651,0,Satış
+2024-11-12,Avustralya sipariş ödemesi,519988,0,Satış
+2024-11-13,Liman elleçleme,0,87668,Lojistik
+2024-11-14,Almanya ihracat tahsilatı (EUR),487385,0,Satış
+2024-11-14,Ofis kirası,0,95698,Kira
+2024-11-20,İngiltere ihracat (GBP) tahsilatı,654728,0,Satış
+2024-11-22,Mali müşavir ücreti,0,68316,Danışmanlık
+2024-11-24,Liman elleçleme,0,83698,Lojistik
+2024-11-24,KDV iade öncesi ödeme,0,112192,Vergi
+2024-11-26,Yerli üretici tedarik ödemesi,0,224218,Tedarik
+2024-11-29,Almanya ihracat tahsilatı (EUR),501099,0,Satış
+2024-11-29,Mali müşavir ücreti,0,82296,Danışmanlık
+2024-11-30,Yarı mamul tedariği,0,179016,Tedarik
+2024-11-30,Yarı mamul tedariği,0,196336,Tedarik
+2024-12-05,Liman elleçleme,0,144377,Lojistik
+2024-12-06,Yarı mamul tedariği,0,291756,Tedarik
+2024-12-06,Hammadde alımı,0,271862,Tedarik
+2024-12-07,Avrupa toptan satış tahsilatı,287689,0,Satış
+2024-12-09,Ofis kirası,0,96667,Kira
+2024-12-11,Orta Doğu ihracat geliri,293433,0,Satış
+2024-12-12,Gümrük müşavir ücreti,0,127057,Lojistik
+2024-12-13,Gümrük vergisi,0,111614,Vergi
+2024-12-17,Hollanda konteyner ödemesi,368195,0,Satış
+2024-12-17,İngiltere ihracat (GBP) tahsilatı,300719,0,Satış
+2024-12-19,Operasyon ekibi maaşları,0,133440,Maaş
+2024-12-20,Yarı mamul tedariği,0,269202,Tedarik
+2024-12-23,Operasyon ekibi maaşları,0,139383,Maaş
+2024-12-26,Avrupa toptan satış tahsilatı,327318,0,Satış
+2024-12-26,Orta Doğu ihracat geliri,367999,0,Satış
+2024-12-28,Uluslararası nakliye sigortası,0,124499,Lojistik
+2024-12-29,Hollanda konteyner ödemesi,336064,0,Satış
+2024-12-31,Avustralya sipariş ödemesi,277205,0,Satış
+2024-12-31,Avustralya sipariş ödemesi,308462,0,Satış
+2024-12-31,Yerli üretici tedarik ödemesi,0,249269,Tedarik
+2025-01-01,Operasyon ekibi maaşları,0,147963,Maaş
+2025-01-02,Konteyner navlun ödemesi,0,70608,Lojistik
+2025-01-03,Orta Doğu ihracat geliri,364234,0,Satış
+2025-01-05,Avustralya sipariş ödemesi,428778,0,Satış
+2025-01-05,Hammadde alımı,0,163823,Tedarik
+2025-01-06,Hammadde alımı,0,148972,Tedarik
+2025-01-08,Mali müşavir ücreti,0,60423,Danışmanlık
+2025-01-12,Almanya ihracat tahsilatı (EUR),406334,0,Satış
+2025-01-12,Konteyner navlun ödemesi,0,72555,Lojistik
+2025-01-13,Yarı mamul tedariği,0,175921,Tedarik
+2025-01-13,Gümrük müşavir ücreti,0,81298,Lojistik
+2025-01-13,Ofis kirası,0,78846,Kira
+2025-01-15,Hollanda konteyner ödemesi,463725,0,Satış
+2025-01-18,Avustralya sipariş ödemesi,428041,0,Satış
+2025-01-19,Yerli üretici tedarik ödemesi,0,154977,Tedarik
+2025-01-19,Konteyner navlun ödemesi,0,68922,Lojistik
+2025-01-19,Gümrük müşavir ücreti,0,65526,Lojistik
+2025-01-20,B2B platform üyelik,0,57497,Pazarlama
+2025-01-20,İhracat danışmanlık hizmeti,0,61362,Danışmanlık
+2025-01-21,Avrupa toptan satış tahsilatı,403549,0,Satış
+2025-01-21,Operasyon ekibi maaşları,0,136792,Maaş
+2025-01-21,Uluslararası fuar katılımı,0,68646,Pazarlama
+2025-01-23,ABD müşteri ödemesi (USD),329937,0,Satış
+2025-01-24,KDV iade öncesi ödeme,0,109952,Vergi
+2025-01-27,Yerli üretici tedarik ödemesi,0,174623,Tedarik
+2025-01-31,Yarı mamul tedariği,0,183069,Tedarik
+2025-02-01,İhracat departmanı maaşları,0,151888,Maaş
+2025-02-03,Gümrük müşavir ücreti,0,212194,Lojistik
+2025-02-05,Avustralya sipariş ödemesi,406103,0,Satış
+2025-02-05,ABD müşteri ödemesi (USD),356026,0,Satış
+2025-02-05,Yurt dışı tanıtım,0,134059,Pazarlama
+2025-02-08,KDV iade öncesi ödeme,0,98064,Vergi
+2025-02-08,Ofis kirası,0,80438,Kira
+2025-02-09,Hollanda konteyner ödemesi,458110,0,Satış
+2025-02-09,Almanya ihracat tahsilatı (EUR),485971,0,Satış
+2025-02-11,Yarı mamul tedariği,0,349104,Tedarik
+2025-02-11,İhracat departmanı maaşları,0,129620,Maaş
+2025-02-12,Yerli üretici tedarik ödemesi,0,308473,Tedarik
+2025-02-14,ABD müşteri ödemesi (USD),358357,0,Satış
+2025-02-15,Avrupa toptan satış tahsilatı,425928,0,Satış
+2025-02-18,Hammadde alımı,0,373938,Tedarik
+2025-02-21,Orta Doğu ihracat geliri,381258,0,Satış
+2025-02-25,Konteyner navlun ödemesi,0,212368,Lojistik
+2025-03-04,Liman elleçleme,0,96732,Lojistik
+2025-03-07,Gümrük müşavir ücreti,0,87438,Lojistik
+2025-03-10,KDV iade öncesi ödeme,0,62462,Vergi
+2025-03-11,Almanya ihracat tahsilatı (EUR),423670,0,Satış
+2025-03-12,Avustralya sipariş ödemesi,364418,0,Satış
+2025-03-13,İngiltere ihracat (GBP) tahsilatı,417306,0,Satış
+2025-03-13,Yarı mamul tedariği,0,441310,Tedarik
+2025-03-13,Gümrük vergisi,0,59911,Vergi
+2025-03-15,Avustralya sipariş ödemesi,392852,0,Satış
+2025-03-15,Hollanda konteyner ödemesi,335335,0,Satış
+2025-03-15,Uluslararası fuar katılımı,0,167954,Pazarlama
+2025-03-16,Gümrük müşavir ücreti,0,88669,Lojistik
+2025-03-17,İngiltere ihracat (GBP) tahsilatı,423111,0,Satış
+2025-03-21,Depo kira,0,99753,Kira
+2025-03-22,İhracat danışmanlık hizmeti,0,138266,Danışmanlık
+2025-03-23,Yarı mamul tedariği,0,439713,Tedarik
+2025-03-24,Gümrük müşavir ücreti,0,95080,Lojistik
+2025-03-25,Avrupa toptan satış tahsilatı,355045,0,Satış
+2025-03-25,Liman elleçleme,0,88342,Lojistik
+2025-03-25,Operasyon ekibi maaşları,0,336914,Maaş
+2025-03-26,Avustralya sipariş ödemesi,394526,0,Satış
+2025-03-28,Yarı mamul tedariği,0,339132,Tedarik
+2025-03-30,Pazara giriş desteği geri ödemesi,192278,0,Devlet Desteği
+2025-03-31,Hollanda konteyner ödemesi,423361,0,Satış
+2025-04-01,İhracat departmanı maaşları,0,147370,Maaş
+2025-04-02,Hammadde alımı,0,310978,Tedarik
+2025-04-04,İhracat departmanı maaşları,0,160915,Maaş
+2025-04-06,Hollanda konteyner ödemesi,574365,0,Satış
+2025-04-09,Hollanda konteyner ödemesi,477334,0,Satış
+2025-04-09,Konteyner navlun ödemesi,0,82510,Lojistik
+2025-04-09,Uluslararası fuar katılımı,0,83187,Pazarlama
+2025-04-10,Yarı mamul tedariği,0,280051,Tedarik
+2025-04-10,Ofis kirası,0,103382,Kira
+2025-04-12,Gümrük vergisi,0,65482,Vergi
+2025-04-13,İngiltere ihracat (GBP) tahsilatı,462046,0,Satış
+2025-04-16,İngiltere ihracat (GBP) tahsilatı,496609,0,Satış
+2025-04-16,Uluslararası nakliye sigortası,0,102361,Lojistik
+2025-04-18,Gümrük müşavir ücreti,0,93748,Lojistik
+2025-04-19,B2B platform üyelik,0,69023,Pazarlama
+2025-04-21,Uluslararası nakliye sigortası,0,88616,Lojistik
+2025-04-22,Orta Doğu ihracat geliri,503142,0,Satış
+2025-04-23,Orta Doğu ihracat geliri,465746,0,Satış
+2025-04-24,Yerli üretici tedarik ödemesi,0,284855,Tedarik
+2025-04-25,Gümrük müşavir ücreti,0,80781,Lojistik
+2025-04-26,Gümrük vergisi,0,68033,Vergi
+2025-04-27,Yerli üretici tedarik ödemesi,0,293203,Tedarik
+2025-04-28,İhracat hibe ödemesi,150747,0,Devlet Desteği
+2025-05-01,Hammadde alımı,0,372595,Tedarik
+2025-05-02,Yarı mamul tedariği,0,355613,Tedarik
+2025-05-04,Uluslararası nakliye sigortası,0,76702,Lojistik
+2025-05-05,Almanya ihracat tahsilatı (EUR),369664,0,Satış
+2025-05-06,Almanya ihracat tahsilatı (EUR),424331,0,Satış
+2025-05-08,Avrupa toptan satış tahsilatı,441275,0,Satış
+2025-05-09,İngiltere ihracat (GBP) tahsilatı,354385,0,Satış
+2025-05-10,Gümrük müşavir ücreti,0,86613,Lojistik
+2025-05-10,Depo kira,0,104918,Kira
+2025-05-11,Konteyner navlun ödemesi,0,84168,Lojistik
+2025-05-11,Konteyner navlun ödemesi,0,89488,Lojistik
+2025-05-13,İngiltere ihracat (GBP) tahsilatı,463733,0,Satış
+2025-05-14,Avustralya sipariş ödemesi,346812,0,Satış
+2025-05-16,Orta Doğu ihracat geliri,360752,0,Satış
+2025-05-19,Pazara giriş desteği geri ödemesi,164581,0,Devlet Desteği
+2025-05-25,Uluslararası nakliye sigortası,0,75971,Lojistik
+2025-05-27,KDV iade öncesi ödeme,0,111421,Vergi
+2025-05-28,B2B platform üyelik,0,155075,Pazarlama
+2025-05-29,Yerli üretici tedarik ödemesi,0,383454,Tedarik
+2025-05-30,Orta Doğu ihracat geliri,408756,0,Satış
+2025-05-30,Operasyon ekibi maaşları,0,287608,Maaş
+2025-06-01,İngiltere ihracat (GBP) tahsilatı,432429,0,Satış
+2025-06-04,Depo kira,0,75745,Kira
+2025-06-06,Avrupa toptan satış tahsilatı,466650,0,Satış
+2025-06-11,Hammadde alımı,0,359814,Tedarik
+2025-06-11,Liman elleçleme,0,114285,Lojistik
+2025-06-12,Operasyon ekibi maaşları,0,146119,Maaş
+2025-06-12,Operasyon ekibi maaşları,0,142038,Maaş
+2025-06-14,Liman elleçleme,0,139071,Lojistik
+2025-06-15,Avustralya sipariş ödemesi,487584,0,Satış
+2025-06-16,Liman elleçleme,0,122411,Lojistik
+2025-06-20,Hollanda konteyner ödemesi,557009,0,Satış
+2025-06-21,Almanya ihracat tahsilatı (EUR),449494,0,Satış
+2025-06-24,Almanya ihracat tahsilatı (EUR),394180,0,Satış
+2025-06-28,Yerli üretici tedarik ödemesi,0,375566,Tedarik
+2025-06-29,Hammadde alımı,0,338544,Tedarik
+2025-06-30,KDV iade öncesi ödeme,0,105403,Vergi

@@ -1,0 +1,38 @@
+# Rust / Cargo
+/target
+Cargo.lock
+**/*.rs.bk
+
+# AeraCFO specific
+.env
+.env.*
+!data/*.csv
+
+# Logs and outputs
+*.log
+*.pdf
+
+# Documentation / Marketing / Scratch files
+*.md
+!README.md
+*.html
+!frontend/index.html
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

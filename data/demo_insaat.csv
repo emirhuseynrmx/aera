@@ -1,0 +1,352 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-02,Sıhhi tesisat tedarik,0,42118,Tedarik
+2024-01-02,Kalıp ve iskele kiralama,0,20539,Üretim
+2024-01-02,Kamyon taşıma,0,21743,Lojistik
+2024-01-03,Vinç kira,0,20000,Üretim
+2024-01-04,Hakediş tahsilatı (Şantiye A),130962,0,Satış
+2024-01-07,KDV ödemesi,0,27454,Vergi
+2024-01-09,Vinç kira,0,19748,Üretim
+2024-01-12,Çimento ve demir alımı,0,34283,Tedarik
+2024-01-15,Hazır beton sipariş,0,36463,Tedarik
+2024-01-15,Çimento ve demir alımı,0,36816,Tedarik
+2024-01-17,Hakediş tahsilatı (Şantiye A),131113,0,Satış
+2024-01-18,Sıhhi tesisat tedarik,0,34223,Tedarik
+2024-01-18,Şantiye şefi maaşı,0,100900,Maaş
+2024-01-19,Müteahhit hakediş ödemesi,119322,0,Satış
+2024-01-20,Elektrik tesisat malzeme,0,38643,Tedarik
+2024-01-21,İş makinesi kirası,0,18263,Üretim
+2024-01-23,Sıhhi tesisat tedarik,0,37530,Tedarik
+2024-01-26,İnşaat malzemeleri toptan,0,31993,Tedarik
+2024-01-27,İşçi yevmiyeleri,0,97557,Maaş
+2024-01-28,Kamyon taşıma,0,19253,Lojistik
+2024-01-29,Kamu ihale hakedişi,129225,0,Satış
+2024-01-30,Kamu ihale hakedişi,158966,0,Satış
+2024-02-01,Daire satış tahsilatı,250074,0,Satış
+2024-02-01,Vinç kira,0,19597,Üretim
+2024-02-01,İş makinesi kirası,0,23029,Üretim
+2024-02-02,Kalıp ve iskele kiralama,0,25507,Üretim
+2024-02-08,Hazır beton sipariş,0,82523,Tedarik
+2024-02-12,Elektrik tesisat malzeme,0,89617,Tedarik
+2024-02-13,KDV ödemesi,0,31334,Vergi
+2024-02-14,Hakediş tahsilatı (Şantiye A),229867,0,Satış
+2024-02-14,Kamu ihale hakedişi,212391,0,Satış
+2024-02-14,Kamyon taşıma,0,12974,Lojistik
+2024-02-15,Kamyon taşıma,0,14764,Lojistik
+2024-02-16,Hazır beton sipariş,0,78035,Tedarik
+2024-02-16,İşçi yevmiyeleri,0,194346,Maaş
+2024-02-20,Nakliye ve hafriyat,0,14450,Lojistik
+2024-02-26,Daire satış tahsilatı,211865,0,Satış
+2024-02-26,Vinç kira,0,19920,Üretim
+2024-02-27,Çimento ve demir alımı,0,73375,Tedarik
+2024-03-01,İşçi yevmiyeleri,0,158945,Maaş
+2024-03-01,Nakliye ve hafriyat,0,68531,Lojistik
+2024-03-04,İnşaat malzemeleri toptan,0,111498,Tedarik
+2024-03-07,Hazır beton sipariş,0,108540,Tedarik
+2024-03-11,Proje milestone ödemesi,371364,0,Satış
+2024-03-12,All-risk inşaat sigortası,0,49600,Sigorta
+2024-03-16,İş makinesi kirası,0,40993,Üretim
+2024-03-17,Ekipman kiralama geliri,83363,0,Diğer Gelir
+2024-03-18,İnşaat malzemeleri toptan,0,99867,Tedarik
+2024-03-18,İş makinesi kirası,0,48286,Üretim
+2024-03-21,Müteahhit hakediş ödemesi,304665,0,Satış
+2024-03-21,Statik mühendis ücreti,0,23615,Danışmanlık
+2024-03-23,Proje milestone ödemesi,381025,0,Satış
+2024-03-23,Çimento ve demir alımı,0,120561,Tedarik
+2024-03-23,Şantiye şefi maaşı,0,137689,Maaş
+2024-03-23,İş makinesi kirası,0,41161,Üretim
+2024-03-25,Hakediş tahsilatı (Şantiye A),291475,0,Satış
+2024-03-28,Stopaj,0,50428,Vergi
+2024-03-30,İnşaat malzemeleri toptan,0,98792,Tedarik
+2024-04-01,Nakliye ve hafriyat,0,27690,Lojistik
+2024-04-06,Müteahhit hakediş ödemesi,1048761,0,Satış
+2024-04-09,Elektrik tesisat malzeme,0,79198,Tedarik
+2024-04-12,Kalıp ve iskele kiralama,0,71039,Üretim
+2024-04-14,Kalıp ve iskele kiralama,0,62666,Üretim
+2024-04-16,Kamyon taşıma,0,31732,Lojistik
+2024-04-17,Hazır beton sipariş,0,82557,Tedarik
+2024-04-18,Sıhhi tesisat tedarik,0,73850,Tedarik
+2024-04-19,Ustabaşı ve teknik kadro maaşları,0,217510,Maaş
+2024-04-25,Ustabaşı ve teknik kadro maaşları,0,191934,Maaş
+2024-04-26,Daire satış tahsilatı,961544,0,Satış
+2024-04-26,Çimento ve demir alımı,0,90451,Tedarik
+2024-04-26,Sıhhi tesisat tedarik,0,83197,Tedarik
+2024-04-27,KDV ödemesi,0,63186,Vergi
+2024-04-28,İnşaat malzemeleri toptan,0,72730,Tedarik
+2024-04-29,İnşaat malzemeleri toptan,0,76028,Tedarik
+2024-04-29,Nakliye ve hafriyat,0,29600,Lojistik
+2024-04-30,Elektrik tesisat malzeme,0,68036,Tedarik
+2024-04-30,Hazır beton sipariş,0,74610,Tedarik
+2024-04-30,Vinç kira,0,60912,Üretim
+2024-05-05,Daire satış tahsilatı,1270861,0,Satış
+2024-05-06,Hazır beton sipariş,0,118128,Tedarik
+2024-05-07,Vinç kira,0,89711,Üretim
+2024-05-08,Yakıt ve mazot ödemesi,0,81897,Üretim
+2024-05-10,Nakliye ve hafriyat,0,117073,Lojistik
+2024-05-10,KDV ödemesi,0,71337,Vergi
+2024-05-12,Şantiye şefi maaşı,0,283208,Maaş
+2024-05-14,Çimento ve demir alımı,0,110638,Tedarik
+2024-05-17,İnşaat malzemeleri toptan,0,122533,Tedarik
+2024-05-18,Şantiye şefi maaşı,0,234212,Maaş
+2024-05-23,Kalıp ve iskele kiralama,0,90880,Üretim
+2024-05-24,Hakediş tahsilatı (Şantiye A),1141190,0,Satış
+2024-05-26,Hazır beton sipariş,0,115409,Tedarik
+2024-05-26,Elektrik tesisat malzeme,0,117671,Tedarik
+2024-05-28,Sıhhi tesisat tedarik,0,101750,Tedarik
+2024-05-28,İşçi sigorta ödemesi,0,91980,Sigorta
+2024-05-30,Çimento ve demir alımı,0,118263,Tedarik
+2024-05-31,Hazır beton sipariş,0,126189,Tedarik
+2024-06-01,İş makinesi kirası,0,63859,Üretim
+2024-06-02,Çimento ve demir alımı,0,166929,Tedarik
+2024-06-02,Mimar ücret ödemesi,0,45990,Danışmanlık
+2024-06-03,Kamyon taşıma,0,37115,Lojistik
+2024-06-06,Elektrik tesisat malzeme,0,165931,Tedarik
+2024-06-06,İş makinesi kirası,0,67073,Üretim
+2024-06-07,Proje milestone ödemesi,1181203,0,Satış
+2024-06-13,Elektrik tesisat malzeme,0,161448,Tedarik
+2024-06-13,Sıhhi tesisat tedarik,0,157117,Tedarik
+2024-06-14,Hazır beton sipariş,0,145116,Tedarik
+2024-06-17,Nakliye ve hafriyat,0,38147,Lojistik
+2024-06-18,Hurda demir satışı,102463,0,Diğer Gelir
+2024-06-18,Hazır beton sipariş,0,174248,Tedarik
+2024-06-18,İşçi yevmiyeleri,0,565461,Maaş
+2024-06-18,Nakliye ve hafriyat,0,44285,Lojistik
+2024-06-20,Daire satış tahsilatı,1309686,0,Satış
+2024-06-21,Yakıt ve mazot ödemesi,0,68467,Üretim
+2024-06-22,Stopaj,0,91464,Vergi
+2024-06-24,Vinç kira,0,67877,Üretim
+2024-07-01,İnşaat malzemeleri toptan,0,99174,Tedarik
+2024-07-01,Kalıp ve iskele kiralama,0,79847,Üretim
+2024-07-03,Nakliye ve hafriyat,0,47326,Lojistik
+2024-07-06,Daire satış tahsilatı,780323,0,Satış
+2024-07-06,Hazır beton sipariş,0,102479,Tedarik
+2024-07-07,Müteahhit hakediş ödemesi,846375,0,Satış
+2024-07-09,Elektrik tesisat malzeme,0,105353,Tedarik
+2024-07-09,Sıhhi tesisat tedarik,0,120791,Tedarik
+2024-07-10,İnşaat malzemeleri toptan,0,107765,Tedarik
+2024-07-11,Hazır beton sipariş,0,96612,Tedarik
+2024-07-15,Vinç kira,0,93827,Üretim
+2024-07-16,Elektrik tesisat malzeme,0,106182,Tedarik
+2024-07-21,Elektrik tesisat malzeme,0,116857,Tedarik
+2024-07-22,Kamu ihale hakedişi,744595,0,Satış
+2024-07-23,KDV ödemesi,0,89312,Vergi
+2024-07-25,Şantiye şefi maaşı,0,539733,Maaş
+2024-07-27,İnşaat malzemeleri toptan,0,103682,Tedarik
+2024-07-27,Kalıp ve iskele kiralama,0,94958,Üretim
+2024-07-28,Nakliye ve hafriyat,0,45320,Lojistik
+2024-07-28,Kamyon taşıma,0,37634,Lojistik
+2024-07-28,Mimar ücret ödemesi,0,46654,Danışmanlık
+2024-08-01,Sıhhi tesisat tedarik,0,116465,Tedarik
+2024-08-02,Kamyon taşıma,0,61730,Lojistik
+2024-08-03,Hakediş tahsilatı (Şantiye A),873744,0,Satış
+2024-08-03,Kalıp ve iskele kiralama,0,65989,Üretim
+2024-08-04,Elektrik tesisat malzeme,0,111806,Tedarik
+2024-08-05,Elektrik tesisat malzeme,0,103024,Tedarik
+2024-08-05,Hazır beton sipariş,0,116078,Tedarik
+2024-08-07,Daire satış tahsilatı,689295,0,Satış
+2024-08-07,Daire satış tahsilatı,726172,0,Satış
+2024-08-07,İnşaat malzemeleri toptan,0,109837,Tedarik
+2024-08-08,Stopaj,0,93897,Vergi
+2024-08-09,Vinç kira,0,64924,Üretim
+2024-08-11,Elektrik tesisat malzeme,0,116091,Tedarik
+2024-08-11,Şantiye şefi maaşı,0,291575,Maaş
+2024-08-15,Yakıt ve mazot ödemesi,0,54478,Üretim
+2024-08-16,İnşaat malzemeleri toptan,0,100976,Tedarik
+2024-08-18,Ustabaşı ve teknik kadro maaşları,0,262960,Maaş
+2024-08-18,Yakıt ve mazot ödemesi,0,72286,Üretim
+2024-08-18,İşçi sigorta ödemesi,0,88243,Sigorta
+2024-08-22,Mimar ücret ödemesi,0,42878,Danışmanlık
+2024-08-25,Çimento ve demir alımı,0,119171,Tedarik
+2024-08-28,Kamyon taşıma,0,65956,Lojistik
+2024-08-29,Elektrik tesisat malzeme,0,119587,Tedarik
+2024-09-02,All-risk inşaat sigortası,0,74719,Sigorta
+2024-09-05,İş makinesi kirası,0,79911,Üretim
+2024-09-08,Elektrik tesisat malzeme,0,150953,Tedarik
+2024-09-08,Stopaj,0,70784,Vergi
+2024-09-09,Ekipman kiralama geliri,96727,0,Diğer Gelir
+2024-09-15,Çimento ve demir alımı,0,155077,Tedarik
+2024-09-16,Elektrik tesisat malzeme,0,131544,Tedarik
+2024-09-17,İşçi yevmiyeleri,0,555479,Maaş
+2024-09-18,İnşaat malzemeleri toptan,0,153565,Tedarik
+2024-09-23,Hakediş tahsilatı (Şantiye A),1231908,0,Satış
+2024-09-25,Vinç kira,0,77257,Üretim
+2024-09-26,Çimento ve demir alımı,0,159549,Tedarik
+2024-09-26,Nakliye ve hafriyat,0,102436,Lojistik
+2024-09-29,Müteahhit hakediş ödemesi,987515,0,Satış
+2024-09-29,Yakıt ve mazot ödemesi,0,71679,Üretim
+2024-09-30,Çimento ve demir alımı,0,126100,Tedarik
+2024-10-05,İnşaat malzemeleri toptan,0,136739,Tedarik
+2024-10-05,Kamyon taşıma,0,113855,Lojistik
+2024-10-06,Vinç kira,0,73644,Üretim
+2024-10-07,İş makinesi kirası,0,63077,Üretim
+2024-10-09,Müteahhit hakediş ödemesi,450251,0,Satış
+2024-10-13,Sıhhi tesisat tedarik,0,124574,Tedarik
+2024-10-18,Stopaj,0,71821,Vergi
+2024-10-19,Proje milestone ödemesi,421889,0,Satış
+2024-10-19,Ekipman kiralama geliri,118811,0,Diğer Gelir
+2024-10-19,İnşaat malzemeleri toptan,0,134435,Tedarik
+2024-10-26,Elektrik tesisat malzeme,0,112250,Tedarik
+2024-10-27,İş makinesi kirası,0,59922,Üretim
+2024-10-28,İşçi yevmiyeleri,0,491443,Maaş
+2024-10-29,Çimento ve demir alımı,0,138456,Tedarik
+2024-10-30,Müteahhit hakediş ödemesi,434528,0,Satış
+2024-10-30,Müteahhit hakediş ödemesi,564497,0,Satış
+2024-10-30,Çimento ve demir alımı,0,132203,Tedarik
+2024-11-01,Proje milestone ödemesi,233735,0,Satış
+2024-11-03,Proje milestone ödemesi,225257,0,Satış
+2024-11-03,Yakıt ve mazot ödemesi,0,30263,Üretim
+2024-11-03,Mimar ücret ödemesi,0,20079,Danışmanlık
+2024-11-04,Hurda demir satışı,68282,0,Diğer Gelir
+2024-11-04,İnşaat malzemeleri toptan,0,86903,Tedarik
+2024-11-10,Kalıp ve iskele kiralama,0,29176,Üretim
+2024-11-11,Sıhhi tesisat tedarik,0,87307,Tedarik
+2024-11-12,Ustabaşı ve teknik kadro maaşları,0,300758,Maaş
+2024-11-12,İş makinesi kirası,0,34579,Üretim
+2024-11-12,Stopaj,0,43643,Vergi
+2024-11-15,Daire satış tahsilatı,249098,0,Satış
+2024-11-15,Sıhhi tesisat tedarik,0,78401,Tedarik
+2024-11-18,Elektrik tesisat malzeme,0,92181,Tedarik
+2024-11-18,Nakliye ve hafriyat,0,64185,Lojistik
+2024-11-20,Kamu ihale hakedişi,220768,0,Satış
+2024-11-20,İş makinesi kirası,0,29895,Üretim
+2024-11-21,Elektrik tesisat malzeme,0,69747,Tedarik
+2024-11-22,Kamu ihale hakedişi,283387,0,Satış
+2024-11-30,Çimento ve demir alımı,0,82461,Tedarik
+2024-12-01,Kalıp ve iskele kiralama,0,26285,Üretim
+2024-12-05,Hazır beton sipariş,0,58761,Tedarik
+2024-12-07,Sıhhi tesisat tedarik,0,62491,Tedarik
+2024-12-07,Kamyon taşıma,0,11198,Lojistik
+2024-12-08,KDV ödemesi,0,23167,Vergi
+2024-12-09,Hakediş tahsilatı (Şantiye A),270488,0,Satış
+2024-12-10,Çimento ve demir alımı,0,61935,Tedarik
+2024-12-11,Nakliye ve hafriyat,0,11877,Lojistik
+2024-12-13,Şantiye şefi maaşı,0,190762,Maaş
+2024-12-13,Vinç kira,0,26696,Üretim
+2024-12-23,Hazır beton sipariş,0,67760,Tedarik
+2024-12-25,Proje milestone ödemesi,254643,0,Satış
+2024-12-25,Sıhhi tesisat tedarik,0,57144,Tedarik
+2024-12-28,İş makinesi kirası,0,23231,Üretim
+2024-12-29,Kamu ihale hakedişi,285325,0,Satış
+2024-12-30,Nakliye ve hafriyat,0,12507,Lojistik
+2025-01-04,İş makinesi kirası,0,17718,Üretim
+2025-01-05,Müteahhit hakediş ödemesi,174871,0,Satış
+2025-01-06,Kamu ihale hakedişi,153035,0,Satış
+2025-01-07,Ekipman kiralama geliri,35859,0,Diğer Gelir
+2025-01-10,Kalıp ve iskele kiralama,0,16734,Üretim
+2025-01-11,Hazır beton sipariş,0,61295,Tedarik
+2025-01-13,Daire satış tahsilatı,138434,0,Satış
+2025-01-14,Çimento ve demir alımı,0,51974,Tedarik
+2025-01-14,Kamyon taşıma,0,39258,Lojistik
+2025-01-16,All-risk inşaat sigortası,0,27817,Sigorta
+2025-01-17,Çimento ve demir alımı,0,62715,Tedarik
+2025-01-19,Ustabaşı ve teknik kadro maaşları,0,181539,Maaş
+2025-01-20,Sıhhi tesisat tedarik,0,61152,Tedarik
+2025-01-20,Yakıt ve mazot ödemesi,0,17356,Üretim
+2025-01-21,Müteahhit hakediş ödemesi,142299,0,Satış
+2025-01-22,Yakıt ve mazot ödemesi,0,19743,Üretim
+2025-01-25,Stopaj,0,23119,Vergi
+2025-01-26,Kamu ihale hakedişi,149819,0,Satış
+2025-01-30,İnşaat malzemeleri toptan,0,67168,Tedarik
+2025-02-01,Hazır beton sipariş,0,37070,Tedarik
+2025-02-04,Hazır beton sipariş,0,37732,Tedarik
+2025-02-04,Statik mühendis ücreti,0,16716,Danışmanlık
+2025-02-08,Yakıt ve mazot ödemesi,0,25218,Üretim
+2025-02-08,Kalıp ve iskele kiralama,0,22060,Üretim
+2025-02-08,İşçi sigorta ödemesi,0,26100,Sigorta
+2025-02-12,Proje milestone ödemesi,175013,0,Satış
+2025-02-12,Çimento ve demir alımı,0,42396,Tedarik
+2025-02-13,İş makinesi kirası,0,23128,Üretim
+2025-02-14,Nakliye ve hafriyat,0,16572,Lojistik
+2025-02-15,Elektrik tesisat malzeme,0,47294,Tedarik
+2025-02-19,Ustabaşı ve teknik kadro maaşları,0,185450,Maaş
+2025-02-22,Hakediş tahsilatı (Şantiye A),183733,0,Satış
+2025-02-22,KDV ödemesi,0,33096,Vergi
+2025-02-23,Proje milestone ödemesi,200896,0,Satış
+2025-02-23,Proje milestone ödemesi,157802,0,Satış
+2025-02-24,Proje milestone ödemesi,158645,0,Satış
+2025-02-24,Elektrik tesisat malzeme,0,44662,Tedarik
+2025-02-24,Elektrik tesisat malzeme,0,43931,Tedarik
+2025-02-24,Kamyon taşıma,0,14101,Lojistik
+2025-02-25,Sıhhi tesisat tedarik,0,48096,Tedarik
+2025-02-25,İnşaat malzemeleri toptan,0,38397,Tedarik
+2025-02-25,Nakliye ve hafriyat,0,16275,Lojistik
+2025-02-28,İş makinesi kirası,0,25379,Üretim
+2025-03-03,İnşaat malzemeleri toptan,0,88519,Tedarik
+2025-03-03,All-risk inşaat sigortası,0,50687,Sigorta
+2025-03-06,Stopaj,0,43926,Vergi
+2025-03-07,İş makinesi kirası,0,39447,Üretim
+2025-03-09,Nakliye ve hafriyat,0,34653,Lojistik
+2025-03-10,Çimento ve demir alımı,0,76904,Tedarik
+2025-03-11,Nakliye ve hafriyat,0,36453,Lojistik
+2025-03-12,İşçi yevmiyeleri,0,136997,Maaş
+2025-03-16,Kalıp ve iskele kiralama,0,31712,Üretim
+2025-03-17,Müteahhit hakediş ödemesi,377359,0,Satış
+2025-03-17,Kalıp ve iskele kiralama,0,29982,Üretim
+2025-03-19,Daire satış tahsilatı,381753,0,Satış
+2025-03-21,Şantiye şefi maaşı,0,175874,Maaş
+2025-03-21,Kalıp ve iskele kiralama,0,30077,Üretim
+2025-03-22,İnşaat malzemeleri toptan,0,79293,Tedarik
+2025-03-23,Elektrik tesisat malzeme,0,95831,Tedarik
+2025-03-25,Sıhhi tesisat tedarik,0,94951,Tedarik
+2025-03-27,Hurda demir satışı,79805,0,Diğer Gelir
+2025-03-28,Proje milestone ödemesi,455405,0,Satış
+2025-03-28,Elektrik tesisat malzeme,0,92017,Tedarik
+2025-04-03,Çimento ve demir alımı,0,76512,Tedarik
+2025-04-04,Elektrik tesisat malzeme,0,93122,Tedarik
+2025-04-04,İşçi sigorta ödemesi,0,72046,Sigorta
+2025-04-08,Proje milestone ödemesi,768085,0,Satış
+2025-04-08,Stopaj,0,57470,Vergi
+2025-04-11,Elektrik tesisat malzeme,0,91544,Tedarik
+2025-04-11,Elektrik tesisat malzeme,0,83876,Tedarik
+2025-04-11,Yakıt ve mazot ödemesi,0,101298,Üretim
+2025-04-12,Sıhhi tesisat tedarik,0,78721,Tedarik
+2025-04-12,Nakliye ve hafriyat,0,35160,Lojistik
+2025-04-12,Statik mühendis ücreti,0,32409,Danışmanlık
+2025-04-15,Çimento ve demir alımı,0,89004,Tedarik
+2025-04-15,Ustabaşı ve teknik kadro maaşları,0,479231,Maaş
+2025-04-17,Ekipman kiralama geliri,83569,0,Diğer Gelir
+2025-04-22,Yakıt ve mazot ödemesi,0,88471,Üretim
+2025-04-24,Kamyon taşıma,0,35739,Lojistik
+2025-04-25,Hazır beton sipariş,0,99153,Tedarik
+2025-04-26,Kamyon taşıma,0,34091,Lojistik
+2025-04-28,Kamu ihale hakedişi,1020184,0,Satış
+2025-04-30,İnşaat malzemeleri toptan,0,82179,Tedarik
+2025-05-06,İnşaat malzemeleri toptan,0,197854,Tedarik
+2025-05-07,Proje milestone ödemesi,523868,0,Satış
+2025-05-07,Sıhhi tesisat tedarik,0,159419,Tedarik
+2025-05-07,Elektrik tesisat malzeme,0,175204,Tedarik
+2025-05-09,Çimento ve demir alımı,0,194904,Tedarik
+2025-05-11,Daire satış tahsilatı,478662,0,Satış
+2025-05-13,İş makinesi kirası,0,70787,Üretim
+2025-05-17,Daire satış tahsilatı,439978,0,Satış
+2025-05-18,Elektrik tesisat malzeme,0,165295,Tedarik
+2025-05-18,İş makinesi kirası,0,89218,Üretim
+2025-05-18,Yakıt ve mazot ödemesi,0,68238,Üretim
+2025-05-19,Kamyon taşıma,0,53373,Lojistik
+2025-05-20,Stopaj,0,69034,Vergi
+2025-05-22,Ustabaşı ve teknik kadro maaşları,0,489645,Maaş
+2025-05-23,All-risk inşaat sigortası,0,76476,Sigorta
+2025-05-23,Mimar ücret ödemesi,0,41244,Danışmanlık
+2025-05-24,Hakediş tahsilatı (Şantiye A),404828,0,Satış
+2025-05-28,Hurda demir satışı,127632,0,Diğer Gelir
+2025-05-30,Kamu ihale hakedişi,370206,0,Satış
+2025-05-30,Kamyon taşıma,0,55322,Lojistik
+2025-06-03,Müteahhit hakediş ödemesi,531696,0,Satış
+2025-06-04,Proje milestone ödemesi,495312,0,Satış
+2025-06-04,Şantiye şefi maaşı,0,615999,Maaş
+2025-06-05,Hazır beton sipariş,0,120574,Tedarik
+2025-06-07,İnşaat malzemeleri toptan,0,130784,Tedarik
+2025-06-07,Kalıp ve iskele kiralama,0,133342,Üretim
+2025-06-09,Hakediş tahsilatı (Şantiye A),533555,0,Satış
+2025-06-12,Sıhhi tesisat tedarik,0,155063,Tedarik
+2025-06-14,Nakliye ve hafriyat,0,56228,Lojistik
+2025-06-14,Kamyon taşıma,0,59443,Lojistik
+2025-06-14,Mimar ücret ödemesi,0,39469,Danışmanlık
+2025-06-17,Ekipman kiralama geliri,116520,0,Diğer Gelir
+2025-06-17,Stopaj,0,74259,Vergi
+2025-06-23,Hazır beton sipariş,0,145928,Tedarik
+2025-06-25,İnşaat malzemeleri toptan,0,126834,Tedarik
+2025-06-25,İnşaat malzemeleri toptan,0,131176,Tedarik
+2025-06-25,İş makinesi kirası,0,109251,Üretim
+2025-06-28,Hakediş tahsilatı (Şantiye A),518331,0,Satış
+2025-06-30,Proje milestone ödemesi,461219,0,Satış
+2025-06-30,Sıhhi tesisat tedarik,0,139567,Tedarik

@@ -1,0 +1,30 @@
+# Build context yalın kalsın → daha hızlı build, küçük image.
+target/
+.git/
+.github/
+.vscode/
+.idea/
+
+# Env / secrets — image'a sızmasın
+.env
+.env.*
+!.env.example
+
+# Local artefacts
+*.log
+*.pdf
+.DS_Store
+.review_snapshot
+
+# Markdown / dokümantasyon (image'a gerek yok)
+*.md
+!README.md
+docs/
+*.html
+öneri*.md
+
+# Geliştirme yardımcıları
+clean_comments.py
+AeraCFO_Audit_Raporu.pdf
+audit_report.html
+sow.html

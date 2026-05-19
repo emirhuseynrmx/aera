@@ -1,0 +1,236 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-02,Yazılım lisans ödemeleri,0,7501,Teknoloji
+2024-01-03,Web sitesi geliştirme tahsilatı,54413,0,Satış
+2024-01-06,Elektrik ve internet,0,5243,Fatura
+2024-01-07,Web sitesi geliştirme tahsilatı,52290,0,Satış
+2024-01-08,Ofis kirası,0,26930,Kira
+2024-01-09,KDV ödemesi,0,16243,Vergi
+2024-01-12,Web sitesi geliştirme tahsilatı,47171,0,Satış
+2024-01-13,Tasarımcı ve PM maaşları,0,80714,Maaş
+2024-01-16,Tasarımcı ve PM maaşları,0,81202,Maaş
+2024-01-21,Reseller komisyon geliri,14521,0,Diğer Gelir
+2024-01-22,Hosting ve domain,0,7081,Teknoloji
+2024-01-23,Web sitesi geliştirme tahsilatı,55688,0,Satış
+2024-01-26,Web sitesi geliştirme tahsilatı,65066,0,Satış
+2024-01-27,Reseller komisyon geliri,12478,0,Diğer Gelir
+2024-01-27,Figma takım üyeliği,0,7528,Teknoloji
+2024-01-27,Mali müşavir ücreti,0,9305,Danışmanlık
+2024-01-30,GitHub Enterprise,0,7350,Teknoloji
+2024-02-07,Tasarımcı ve PM maaşları,0,98592,Maaş
+2024-02-07,Ofis kirası,0,28252,Kira
+2024-02-09,Müşteri A — proje milestone ödemesi,68783,0,Satış
+2024-02-09,GitHub Enterprise,0,7153,Teknoloji
+2024-02-11,Kurumsal yazılım geliştirme,66022,0,Satış
+2024-02-11,Hukuk danışmanlık,0,12687,Danışmanlık
+2024-02-14,Web sitesi geliştirme tahsilatı,68121,0,Satış
+2024-02-14,Yazılım lisans ödemeleri,0,8063,Teknoloji
+2024-02-16,Müşteri A — proje milestone ödemesi,55954,0,Satış
+2024-02-16,Telefon faturası,0,5970,Fatura
+2024-02-20,Reseller komisyon geliri,28530,0,Diğer Gelir
+2024-02-21,GitHub Enterprise,0,6707,Teknoloji
+2024-02-22,Geliştirici ekibi maaşları,0,81777,Maaş
+2024-02-23,Müşteri A — proje milestone ödemesi,51791,0,Satış
+2024-02-24,LinkedIn premium,0,18332,Pazarlama
+2024-02-24,Stopaj vergi,0,15024,Vergi
+2024-02-28,Yazılım lisans ödemeleri,0,7057,Teknoloji
+2024-03-06,Web sitesi geliştirme tahsilatı,53666,0,Satış
+2024-03-06,Elektrik ve internet,0,2896,Fatura
+2024-03-10,Stajyer ödemesi,0,174454,Maaş
+2024-03-13,GitHub Enterprise,0,7346,Teknoloji
+2024-03-13,Ofis kirası,0,27171,Kira
+2024-03-13,LinkedIn premium,0,9363,Pazarlama
+2024-03-14,Telefon faturası,0,2889,Fatura
+2024-03-16,Müşteri A — proje milestone ödemesi,56935,0,Satış
+2024-03-16,Yazılım lisans ödemeleri,0,6560,Teknoloji
+2024-03-17,Bakım sözleşmesi aylık tahsilat,56642,0,Satış
+2024-03-19,Web reklamı,0,8349,Pazarlama
+2024-03-22,Kurumsal yazılım geliştirme,51807,0,Satış
+2024-03-23,Bakım sözleşmesi aylık tahsilat,57877,0,Satış
+2024-03-24,Yazılım lisans ödemeleri,0,7426,Teknoloji
+2024-03-26,Bakım sözleşmesi aylık tahsilat,40676,0,Satış
+2024-03-26,Figma takım üyeliği,0,7010,Teknoloji
+2024-03-26,KDV ödemesi,0,18587,Vergi
+2024-03-28,Kurumsal yazılım geliştirme,53144,0,Satış
+2024-04-02,Geliştirici ekibi maaşları,0,81389,Maaş
+2024-04-03,Stajyer ödemesi,0,101253,Maaş
+2024-04-06,Telefon faturası,0,3170,Fatura
+2024-04-09,Figma takım üyeliği,0,10203,Teknoloji
+2024-04-10,Telefon faturası,0,2950,Fatura
+2024-04-14,Web reklamı,0,17753,Pazarlama
+2024-04-15,Yazılım lisans ödemeleri,0,8944,Teknoloji
+2024-04-18,Ofis kirası,0,27892,Kira
+2024-04-21,Kurumsal yazılım geliştirme,127549,0,Satış
+2024-04-25,Müşteri A — proje milestone ödemesi,115902,0,Satış
+2024-04-25,GitHub Enterprise,0,8715,Teknoloji
+2024-04-28,Stopaj vergi,0,16646,Vergi
+2024-04-30,Kurumsal yazılım geliştirme,116167,0,Satış
+2024-05-02,LinkedIn premium,0,8147,Pazarlama
+2024-05-03,Tasarımcı ve PM maaşları,0,170102,Maaş
+2024-05-05,Web sitesi geliştirme tahsilatı,115304,0,Satış
+2024-05-08,KDV ödemesi,0,16795,Vergi
+2024-05-10,Ofis kirası,0,26367,Kira
+2024-05-11,GitHub Enterprise,0,9625,Teknoloji
+2024-05-11,Elektrik ve internet,0,3197,Fatura
+2024-05-12,Hosting ve domain,0,9596,Teknoloji
+2024-05-13,Telefon faturası,0,3019,Fatura
+2024-05-16,Mobil uygulama proje ödemesi,126067,0,Satış
+2024-05-16,Mobil uygulama proje ödemesi,123100,0,Satış
+2024-05-20,Hukuk danışmanlık,0,10730,Danışmanlık
+2024-05-21,Web reklamı,0,8450,Pazarlama
+2024-05-30,Figma takım üyeliği,0,10260,Teknoloji
+2024-06-04,Yazılım lisans ödemeleri,0,7080,Teknoloji
+2024-06-04,Figma takım üyeliği,0,7918,Teknoloji
+2024-06-05,Reseller komisyon geliri,31129,0,Diğer Gelir
+2024-06-05,LinkedIn premium,0,16444,Pazarlama
+2024-06-07,Tasarımcı ve PM maaşları,0,79129,Maaş
+2024-06-11,Mobil uygulama proje ödemesi,69127,0,Satış
+2024-06-12,E-ticaret entegrasyon projesi,80264,0,Satış
+2024-06-12,Bakım sözleşmesi aylık tahsilat,72374,0,Satış
+2024-06-12,Elektrik ve internet,0,5122,Fatura
+2024-06-16,Stopaj vergi,0,17186,Vergi
+2024-06-17,Hosting ve domain,0,6870,Teknoloji
+2024-06-18,Kurumsal yazılım geliştirme,74310,0,Satış
+2024-06-21,Ofis kirası,0,28890,Kira
+2024-06-26,GitHub Enterprise,0,7568,Teknoloji
+2024-06-30,Geliştirici ekibi maaşları,0,88495,Maaş
+2024-07-01,Hosting ve domain,0,5634,Teknoloji
+2024-07-03,Tasarımcı ve PM maaşları,0,173288,Maaş
+2024-07-03,Elektrik ve internet,0,2450,Fatura
+2024-07-07,Mobil uygulama proje ödemesi,71748,0,Satış
+2024-07-08,Hosting ve domain,0,6812,Teknoloji
+2024-07-09,Hukuk danışmanlık,0,10603,Danışmanlık
+2024-07-15,Elektrik ve internet,0,2327,Fatura
+2024-07-17,E-ticaret entegrasyon projesi,67014,0,Satış
+2024-07-17,Yazılım lisans ödemeleri,0,7243,Teknoloji
+2024-07-19,Web sitesi geliştirme tahsilatı,50087,0,Satış
+2024-07-21,Stopaj vergi,0,17090,Vergi
+2024-07-23,Ofis kirası,0,26372,Kira
+2024-07-23,Web reklamı,0,8048,Pazarlama
+2024-07-27,Reseller komisyon geliri,22944,0,Diğer Gelir
+2024-07-29,GitHub Enterprise,0,6820,Teknoloji
+2024-07-29,LinkedIn premium,0,7467,Pazarlama
+2024-07-31,Müşteri A — proje milestone ödemesi,67708,0,Satış
+2024-07-31,Bakım sözleşmesi aylık tahsilat,58508,0,Satış
+2024-08-05,Reseller komisyon geliri,31489,0,Diğer Gelir
+2024-08-05,LinkedIn premium,0,14652,Pazarlama
+2024-08-08,Yazılım lisans ödemeleri,0,7473,Teknoloji
+2024-08-08,KDV ödemesi,0,15223,Vergi
+2024-08-10,Web sitesi geliştirme tahsilatı,100957,0,Satış
+2024-08-12,Müşteri A — proje milestone ödemesi,108878,0,Satış
+2024-08-13,Hosting ve domain,0,9153,Teknoloji
+2024-08-14,Geliştirici ekibi maaşları,0,76030,Maaş
+2024-08-21,Tasarımcı ve PM maaşları,0,81253,Maaş
+2024-08-22,Web sitesi geliştirme tahsilatı,116653,0,Satış
+2024-08-23,Ofis kirası,0,29475,Kira
+2024-08-23,Telefon faturası,0,5109,Fatura
+2024-08-27,Mali müşavir ücreti,0,11420,Danışmanlık
+2024-08-29,Yazılım lisans ödemeleri,0,8815,Teknoloji
+2024-09-01,Bakım sözleşmesi aylık tahsilat,46499,0,Satış
+2024-09-03,Kurumsal yazılım geliştirme,51650,0,Satış
+2024-09-05,E-ticaret entegrasyon projesi,62114,0,Satış
+2024-09-05,Hosting ve domain,0,17763,Teknoloji
+2024-09-06,Geliştirici ekibi maaşları,0,98496,Maaş
+2024-09-08,Bakım sözleşmesi aylık tahsilat,67082,0,Satış
+2024-09-08,Elektrik ve internet,0,6731,Fatura
+2024-09-12,Geliştirici ekibi maaşları,0,111559,Maaş
+2024-09-17,Ofis kirası,0,36480,Kira
+2024-09-19,Kurumsal yazılım geliştirme,67786,0,Satış
+2024-09-21,Stopaj vergi,0,19670,Vergi
+2024-09-25,LinkedIn premium,0,17833,Pazarlama
+2024-09-26,Hosting ve domain,0,18394,Teknoloji
+2024-09-27,Kurumsal yazılım geliştirme,57616,0,Satış
+2024-09-27,Reseller komisyon geliri,33194,0,Diğer Gelir
+2024-09-29,Bakım sözleşmesi aylık tahsilat,61342,0,Satış
+2024-09-30,Hukuk danışmanlık,0,11723,Danışmanlık
+2024-10-03,Hosting ve domain,0,10472,Teknoloji
+2024-10-03,Telefon faturası,0,8235,Fatura
+2024-10-12,E-ticaret entegrasyon projesi,84753,0,Satış
+2024-10-15,Kurumsal yazılım geliştirme,94332,0,Satış
+2024-10-16,GitHub Enterprise,0,9409,Teknoloji
+2024-10-17,KDV ödemesi,0,24280,Vergi
+2024-10-18,Reseller komisyon geliri,16675,0,Diğer Gelir
+2024-10-19,Müşteri A — proje milestone ödemesi,100289,0,Satış
+2024-10-19,Bakım sözleşmesi aylık tahsilat,80000,0,Satış
+2024-10-21,Kurumsal yazılım geliştirme,88685,0,Satış
+2024-10-21,Reseller komisyon geliri,21770,0,Diğer Gelir
+2024-10-22,Tasarımcı ve PM maaşları,0,228633,Maaş
+2024-10-22,Ofis kirası,0,33156,Kira
+2024-10-24,Hosting ve domain,0,10385,Teknoloji
+2024-10-25,GitHub Enterprise,0,8119,Teknoloji
+2024-11-05,Elektrik ve internet,0,3839,Fatura
+2024-11-05,Elektrik ve internet,0,3078,Fatura
+2024-11-07,Web sitesi geliştirme tahsilatı,76168,0,Satış
+2024-11-08,E-ticaret entegrasyon projesi,60280,0,Satış
+2024-11-09,Kurumsal yazılım geliştirme,68260,0,Satış
+2024-11-10,Hukuk danışmanlık,0,14076,Danışmanlık
+2024-11-12,Yazılım lisans ödemeleri,0,11285,Teknoloji
+2024-11-17,Ofis kirası,0,37084,Kira
+2024-11-19,Yazılım lisans ödemeleri,0,12196,Teknoloji
+2024-11-21,Müşteri A — proje milestone ödemesi,69399,0,Satış
+2024-11-22,Yazılım lisans ödemeleri,0,13443,Teknoloji
+2024-11-24,Stopaj vergi,0,23599,Vergi
+2024-11-26,E-ticaret entegrasyon projesi,58750,0,Satış
+2024-11-27,Stajyer ödemesi,0,247303,Maaş
+2024-11-30,Müşteri A — proje milestone ödemesi,76441,0,Satış
+2024-12-03,Web reklamı,0,10954,Pazarlama
+2024-12-04,Elektrik ve internet,0,2998,Fatura
+2024-12-06,Eğitim/workshop geliri,17078,0,Diğer Gelir
+2024-12-13,LinkedIn premium,0,10517,Pazarlama
+2024-12-15,Ofis kirası,0,28695,Kira
+2024-12-18,Yazılım lisans ödemeleri,0,9447,Teknoloji
+2024-12-20,GitHub Enterprise,0,8088,Teknoloji
+2024-12-21,Figma takım üyeliği,0,7416,Teknoloji
+2024-12-21,KDV ödemesi,0,22347,Vergi
+2024-12-22,Bakım sözleşmesi aylık tahsilat,108937,0,Satış
+2024-12-27,Elektrik ve internet,0,3417,Fatura
+2024-12-28,E-ticaret entegrasyon projesi,101055,0,Satış
+2024-12-28,Eğitim/workshop geliri,18906,0,Diğer Gelir
+2024-12-30,Kurumsal yazılım geliştirme,101248,0,Satış
+2024-12-30,Geliştirici ekibi maaşları,0,179441,Maaş
+2024-12-31,Müşteri A — proje milestone ödemesi,95238,0,Satış
+2024-12-31,Figma takım üyeliği,0,8858,Teknoloji
+2025-01-02,Telefon faturası,0,7118,Fatura
+2025-01-03,Ofis kirası,0,31357,Kira
+2025-01-06,Kurumsal yazılım geliştirme,66380,0,Satış
+2025-01-07,Web sitesi geliştirme tahsilatı,56145,0,Satış
+2025-01-07,Hosting ve domain,0,7734,Teknoloji
+2025-01-12,Web sitesi geliştirme tahsilatı,51338,0,Satış
+2025-01-12,Figma takım üyeliği,0,9617,Teknoloji
+2025-01-16,Hosting ve domain,0,8184,Teknoloji
+2025-01-17,Müşteri A — proje milestone ödemesi,56655,0,Satış
+2025-01-22,E-ticaret entegrasyon projesi,48912,0,Satış
+2025-01-22,Stajyer ödemesi,0,207932,Maaş
+2025-01-22,Web reklamı,0,9294,Pazarlama
+2025-01-23,Mobil uygulama proje ödemesi,55799,0,Satış
+2025-01-25,Kurumsal yazılım geliştirme,67198,0,Satış
+2025-01-25,GitHub Enterprise,0,8323,Teknoloji
+2025-01-26,LinkedIn premium,0,9316,Pazarlama
+2025-01-31,KDV ödemesi,0,19734,Vergi
+2025-02-02,Telefon faturası,0,7930,Fatura
+2025-02-03,Web sitesi geliştirme tahsilatı,134555,0,Satış
+2025-02-03,Hosting ve domain,0,8572,Teknoloji
+2025-02-05,Figma takım üyeliği,0,8104,Teknoloji
+2025-02-07,Ofis kirası,0,38218,Kira
+2025-02-11,Yazılım lisans ödemeleri,0,8134,Teknoloji
+2025-02-12,Web reklamı,0,22259,Pazarlama
+2025-02-15,Eğitim/workshop geliri,42508,0,Diğer Gelir
+2025-02-18,Tasarımcı ve PM maaşları,0,124418,Maaş
+2025-02-23,Stopaj vergi,0,18437,Vergi
+2025-02-24,Web sitesi geliştirme tahsilatı,160822,0,Satış
+2025-02-26,Kurumsal yazılım geliştirme,157363,0,Satış
+2025-02-26,GitHub Enterprise,0,10248,Teknoloji
+2025-02-28,Tasarımcı ve PM maaşları,0,110318,Maaş
+2025-03-02,Web sitesi geliştirme tahsilatı,175898,0,Satış
+2025-03-04,Telefon faturası,0,7549,Fatura
+2025-03-08,Ofis kirası,0,42934,Kira
+2025-03-10,Eğitim/workshop geliri,22255,0,Diğer Gelir
+2025-03-10,Stopaj vergi,0,25818,Vergi
+2025-03-15,Web reklamı,0,12429,Pazarlama
+2025-03-17,Tasarımcı ve PM maaşları,0,235627,Maaş
+2025-03-18,Mobil uygulama proje ödemesi,173500,0,Satış
+2025-03-18,Reseller komisyon geliri,22362,0,Diğer Gelir
+2025-03-19,Hosting ve domain,0,12475,Teknoloji
+2025-03-19,Hosting ve domain,0,13418,Teknoloji
+2025-03-23,GitHub Enterprise,0,14271,Teknoloji
+2025-03-25,E-ticaret entegrasyon projesi,166242,0,Satış
+2025-03-25,Web reklamı,0,12089,Pazarlama

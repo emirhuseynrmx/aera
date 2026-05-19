@@ -1,0 +1,530 @@
+tarih,aciklama,gelir,gider,kategori
+2024-01-01,Influencer iş birliği,0,3213,Pazarlama
+2024-01-02,Manikür ve pedikür,4945,0,Satış
+2024-01-03,Güzellik uzmanı maaşı,0,57768,Maaş
+2024-01-03,Elektrik,0,4392,Fatura
+2024-01-04,Lazer epilasyon seans,5624,0,Satış
+2024-01-05,Yılbaşı paket geliri,5451,0,Satış
+2024-01-05,Temizlik malzemeleri,0,2006,Sarf
+2024-01-08,Erkek tıraş ve sakal şekillendirme,6215,0,Satış
+2024-01-09,Erkek tıraş ve sakal şekillendirme,5295,0,Satış
+2024-01-09,Yılbaşı paket geliri,5227,0,Satış
+2024-01-11,Cilt bakım uygulaması,5497,0,Satış
+2024-01-13,Boya ve saç bakım ürünü,0,11788,Tedarik
+2024-01-15,Manikür ve pedikür,5847,0,Satış
+2024-01-15,Saç bakım ürünü satışı,4255,0,Diğer Gelir
+2024-01-16,Cilt bakım uygulaması,5222,0,Satış
+2024-01-16,Cilt bakım uygulaması,5475,0,Satış
+2024-01-16,Manikür ve pedikür,5377,0,Satış
+2024-01-17,Cilt bakım uygulaması,4925,0,Satış
+2024-01-17,Stopaj,0,4517,Vergi
+2024-01-18,Lazer epilasyon seans,5434,0,Satış
+2024-01-18,Lazer epilasyon seans,6806,0,Satış
+2024-01-18,Erkek tıraş ve sakal şekillendirme,6753,0,Satış
+2024-01-20,Saç kesim hizmet geliri,6036,0,Satış
+2024-01-21,Saç kesim hizmet geliri,6887,0,Satış
+2024-01-25,Cilt bakım uygulaması,6273,0,Satış
+2024-01-25,Yılbaşı paket geliri,6738,0,Satış
+2024-01-25,Saç kesim hizmet geliri,7025,0,Satış
+2024-01-25,Cilt bakım uygulaması,6971,0,Satış
+2024-01-26,Erkek tıraş ve sakal şekillendirme,7150,0,Satış
+2024-01-26,Kozmetik ürün satışı,5327,0,Diğer Gelir
+2024-01-26,Havlu ve tek kullanımlık ürün,0,1733,Sarf
+2024-01-27,Su,0,4594,Fatura
+2024-01-29,Şampuan toptan alımı,0,12950,Tedarik
+2024-01-30,Erkek tıraş ve sakal şekillendirme,5721,0,Satış
+2024-01-30,Lazer epilasyon seans,6147,0,Satış
+2024-01-31,Salon kira ödemesi,0,19352,Kira
+2024-01-31,Booksy randevu platform ücreti,0,3458,Pazarlama
+2024-02-03,Keratin ve fön bakımı,8686,0,Satış
+2024-02-04,Düğün ve özel gün makyaj,7743,0,Satış
+2024-02-04,Manikür/pedikür malzemesi,0,12564,Tedarik
+2024-02-05,Havlu ve tek kullanımlık ürün,0,3662,Sarf
+2024-02-07,Erkek tıraş ve sakal şekillendirme,8093,0,Satış
+2024-02-07,Stopaj,0,5332,Vergi
+2024-02-08,Saç kesim hizmet geliri,8458,0,Satış
+2024-02-09,Saç bakım ürünü satışı,4325,0,Diğer Gelir
+2024-02-11,Keratin ve fön bakımı,6128,0,Satış
+2024-02-12,Yılbaşı paket geliri,8582,0,Satış
+2024-02-12,İnternet,0,4436,Fatura
+2024-02-13,Salon kira ödemesi,0,19213,Kira
+2024-02-14,Düğün ve özel gün makyaj,6012,0,Satış
+2024-02-14,Düğün ve özel gün makyaj,8642,0,Satış
+2024-02-14,Su,0,4231,Fatura
+2024-02-15,Erkek tıraş ve sakal şekillendirme,7770,0,Satış
+2024-02-15,Manikür/pedikür malzemesi,0,11128,Tedarik
+2024-02-16,Saç boyama ve röfle,7943,0,Satış
+2024-02-16,Kuaför ve berber maaşları,0,22268,Maaş
+2024-02-17,Manikür ve pedikür,8739,0,Satış
+2024-02-18,Düğün ve özel gün makyaj,7261,0,Satış
+2024-02-18,Kuaför ve berber maaşları,0,23370,Maaş
+2024-02-20,Erkek tıraş ve sakal şekillendirme,7385,0,Satış
+2024-02-22,Manikür ve pedikür,8548,0,Satış
+2024-02-22,Saç kesim hizmet geliri,6133,0,Satış
+2024-02-25,Erkek tıraş ve sakal şekillendirme,7863,0,Satış
+2024-02-26,Saç bakım ürünü satışı,4040,0,Diğer Gelir
+2024-02-27,Keratin ve fön bakımı,7318,0,Satış
+2024-02-27,Yılbaşı paket geliri,6732,0,Satış
+2024-02-27,Influencer iş birliği,0,6473,Pazarlama
+2024-02-28,Manikür ve pedikür,6638,0,Satış
+2024-02-28,Lazer epilasyon seans,6075,0,Satış
+2024-03-01,Saç kesim hizmet geliri,9007,0,Satış
+2024-03-04,Erkek tıraş ve sakal şekillendirme,7439,0,Satış
+2024-03-04,Elektrik,0,2334,Fatura
+2024-03-06,Düğün ve özel gün makyaj,6645,0,Satış
+2024-03-06,Boya ve saç bakım ürünü,0,10475,Tedarik
+2024-03-07,Yılbaşı paket geliri,9361,0,Satış
+2024-03-09,Havlu ve tek kullanımlık ürün,0,2202,Sarf
+2024-03-10,Şampuan toptan alımı,0,10896,Tedarik
+2024-03-11,Düğün ve özel gün makyaj,9616,0,Satış
+2024-03-11,Düğün ve özel gün makyaj,6805,0,Satış
+2024-03-11,Erkek tıraş ve sakal şekillendirme,6577,0,Satış
+2024-03-12,Keratin ve fön bakımı,9018,0,Satış
+2024-03-14,Kuaför ve berber maaşları,0,61187,Maaş
+2024-03-14,Influencer iş birliği,0,8075,Pazarlama
+2024-03-15,Cilt bakım uygulaması,7844,0,Satış
+2024-03-15,Stopaj,0,6689,Vergi
+2024-03-16,Elektrik,0,2703,Fatura
+2024-03-18,Manikür ve pedikür,6894,0,Satış
+2024-03-19,Salon kira ödemesi,0,22948,Kira
+2024-03-20,Lazer epilasyon seans,9294,0,Satış
+2024-03-20,İnternet,0,2616,Fatura
+2024-03-21,Yılbaşı paket geliri,9614,0,Satış
+2024-03-21,Manikür ve pedikür,7284,0,Satış
+2024-03-22,Saç kesim hizmet geliri,7979,0,Satış
+2024-03-23,Yılbaşı paket geliri,7462,0,Satış
+2024-03-23,Manikür ve pedikür,9630,0,Satış
+2024-03-23,Manikür ve pedikür,9173,0,Satış
+2024-03-23,Havlu ve tek kullanımlık ürün,0,2061,Sarf
+2024-03-27,Boya ve saç bakım ürünü,0,8980,Tedarik
+2024-03-28,Düğün ve özel gün makyaj,9228,0,Satış
+2024-03-28,Su,0,2659,Fatura
+2024-03-29,Manikür ve pedikür,9107,0,Satış
+2024-03-29,Lazer epilasyon seans,7531,0,Satış
+2024-03-29,Kozmetik ürün satışı,6550,0,Diğer Gelir
+2024-03-29,Saç bakım ürünü satışı,5465,0,Diğer Gelir
+2024-03-30,Erkek tıraş ve sakal şekillendirme,6705,0,Satış
+2024-03-31,Lazer epilasyon seans,7213,0,Satış
+2024-04-01,Saç boyama ve röfle,8207,0,Satış
+2024-04-02,Saç kesim hizmet geliri,8563,0,Satış
+2024-04-02,Resepsiyon personeli maaşı,0,29996,Maaş
+2024-04-04,Saç boyama ve röfle,9207,0,Satış
+2024-04-06,Erkek tıraş ve sakal şekillendirme,8958,0,Satış
+2024-04-06,Salon kira ödemesi,0,23284,Kira
+2024-04-07,Saç boyama ve röfle,10963,0,Satış
+2024-04-07,Saç kesim hizmet geliri,7743,0,Satış
+2024-04-07,Keratin ve fön bakımı,9667,0,Satış
+2024-04-07,Saç bakım ürünü satışı,3399,0,Diğer Gelir
+2024-04-08,Saç bakım ürünü satışı,2985,0,Diğer Gelir
+2024-04-09,Manikür/pedikür malzemesi,0,6593,Tedarik
+2024-04-11,Yılbaşı paket geliri,8168,0,Satış
+2024-04-11,Cilt bakım uygulaması,9057,0,Satış
+2024-04-11,Saç boyama ve röfle,7747,0,Satış
+2024-04-12,Saç kesim hizmet geliri,10007,0,Satış
+2024-04-13,Cilt bakım uygulaması,7701,0,Satış
+2024-04-13,Şampuan toptan alımı,0,6725,Tedarik
+2024-04-14,Erkek tıraş ve sakal şekillendirme,7748,0,Satış
+2024-04-18,Lazer epilasyon seans,8978,0,Satış
+2024-04-18,Resepsiyon personeli maaşı,0,26873,Maaş
+2024-04-18,Su,0,2130,Fatura
+2024-04-19,Elektrik,0,2414,Fatura
+2024-04-20,Düğün ve özel gün makyaj,11099,0,Satış
+2024-04-20,Saç boyama ve röfle,7745,0,Satış
+2024-04-21,Manikür/pedikür malzemesi,0,7552,Tedarik
+2024-04-21,Booksy randevu platform ücreti,0,7450,Pazarlama
+2024-04-21,Temizlik malzemeleri,0,4015,Sarf
+2024-04-22,Yılbaşı paket geliri,8482,0,Satış
+2024-04-22,Su,0,2377,Fatura
+2024-04-23,Stopaj,0,6034,Vergi
+2024-04-26,Manikür/pedikür malzemesi,0,7148,Tedarik
+2024-04-29,Lazer epilasyon seans,9766,0,Satış
+2024-04-29,Kozmetik ürün satışı,3829,0,Diğer Gelir
+2024-04-29,İnternet,0,2162,Fatura
+2024-05-01,Cilt bakım uygulaması,12794,0,Satış
+2024-05-02,Kuaför ve berber maaşları,0,64034,Maaş
+2024-05-04,Keratin ve fön bakımı,12917,0,Satış
+2024-05-06,Düğün ve özel gün makyaj,13095,0,Satış
+2024-05-06,Kozmetik ürün satışı,4808,0,Diğer Gelir
+2024-05-06,Su,0,5209,Fatura
+2024-05-07,Erkek tıraş ve sakal şekillendirme,11831,0,Satış
+2024-05-09,Lazer epilasyon seans,12973,0,Satış
+2024-05-09,Şampuan toptan alımı,0,6807,Tedarik
+2024-05-10,Manikür ve pedikür,13093,0,Satış
+2024-05-10,Lazer epilasyon seans,9485,0,Satış
+2024-05-11,Erkek tıraş ve sakal şekillendirme,10279,0,Satış
+2024-05-11,İnternet,0,5006,Fatura
+2024-05-12,Cilt bakım kozmetik,0,6652,Tedarik
+2024-05-13,Salon kira ödemesi,0,29737,Kira
+2024-05-15,Yılbaşı paket geliri,13135,0,Satış
+2024-05-15,Boya ve saç bakım ürünü,0,6599,Tedarik
+2024-05-16,Lazer epilasyon seans,11652,0,Satış
+2024-05-16,Cilt bakım uygulaması,9344,0,Satış
+2024-05-18,Yılbaşı paket geliri,11231,0,Satış
+2024-05-18,Cilt bakım kozmetik,0,6500,Tedarik
+2024-05-18,Şampuan toptan alımı,0,6432,Tedarik
+2024-05-21,Kozmetik ürün satışı,6223,0,Diğer Gelir
+2024-05-21,Stopaj,0,6328,Vergi
+2024-05-22,Saç boyama ve röfle,11726,0,Satış
+2024-05-22,Instagram reklamı,0,8242,Pazarlama
+2024-05-24,Keratin ve fön bakımı,11069,0,Satış
+2024-05-26,Erkek tıraş ve sakal şekillendirme,11840,0,Satış
+2024-05-26,Keratin ve fön bakımı,10249,0,Satış
+2024-05-26,Havlu ve tek kullanımlık ürün,0,4880,Sarf
+2024-05-27,Saç boyama ve röfle,11873,0,Satış
+2024-06-01,Su,0,6054,Fatura
+2024-06-03,Erkek tıraş ve sakal şekillendirme,15136,0,Satış
+2024-06-05,Cilt bakım uygulaması,14248,0,Satış
+2024-06-05,Saç kesim hizmet geliri,15304,0,Satış
+2024-06-05,Elektrik,0,5111,Fatura
+2024-06-06,Keratin ve fön bakımı,14833,0,Satış
+2024-06-08,Kuaför ve berber maaşları,0,68340,Maaş
+2024-06-08,Manikür/pedikür malzemesi,0,7908,Tedarik
+2024-06-09,Cilt bakım uygulaması,11306,0,Satış
+2024-06-10,Erkek tıraş ve sakal şekillendirme,15038,0,Satış
+2024-06-10,KDV,0,6626,Vergi
+2024-06-12,Saç kesim hizmet geliri,13792,0,Satış
+2024-06-12,Boya ve saç bakım ürünü,0,8471,Tedarik
+2024-06-12,Instagram reklamı,0,2958,Pazarlama
+2024-06-16,Instagram reklamı,0,3565,Pazarlama
+2024-06-18,Yılbaşı paket geliri,10770,0,Satış
+2024-06-19,Lazer epilasyon seans,12383,0,Satış
+2024-06-19,Saç bakım ürünü satışı,7420,0,Diğer Gelir
+2024-06-19,Şampuan toptan alımı,0,8263,Tedarik
+2024-06-20,Saç kesim hizmet geliri,10348,0,Satış
+2024-06-20,Düğün ve özel gün makyaj,11623,0,Satış
+2024-06-20,Cilt bakım kozmetik,0,8067,Tedarik
+2024-06-23,Saç kesim hizmet geliri,14014,0,Satış
+2024-06-23,Saç bakım ürünü satışı,6913,0,Diğer Gelir
+2024-06-24,Cilt bakım uygulaması,11875,0,Satış
+2024-06-25,Cilt bakım uygulaması,10863,0,Satış
+2024-06-28,Salon kira ödemesi,0,25294,Kira
+2024-06-28,Havlu ve tek kullanımlık ürün,0,2107,Sarf
+2024-06-29,Keratin ve fön bakımı,12064,0,Satış
+2024-06-29,Instagram reklamı,0,3138,Pazarlama
+2024-06-29,Temizlik malzemeleri,0,2609,Sarf
+2024-07-02,Manikür ve pedikür,10993,0,Satış
+2024-07-02,Resepsiyon personeli maaşı,0,24507,Maaş
+2024-07-03,Lazer epilasyon seans,9740,0,Satış
+2024-07-03,Yılbaşı paket geliri,9304,0,Satış
+2024-07-04,Saç boyama ve röfle,10174,0,Satış
+2024-07-05,Keratin ve fön bakımı,8775,0,Satış
+2024-07-06,Saç bakım ürünü satışı,3539,0,Diğer Gelir
+2024-07-08,Düğün ve özel gün makyaj,12081,0,Satış
+2024-07-09,Şampuan toptan alımı,0,9836,Tedarik
+2024-07-09,Şampuan toptan alımı,0,9390,Tedarik
+2024-07-10,Elektrik,0,4585,Fatura
+2024-07-13,Saç boyama ve röfle,12198,0,Satış
+2024-07-13,Saç bakım ürünü satışı,4091,0,Diğer Gelir
+2024-07-14,Kozmetik ürün satışı,3031,0,Diğer Gelir
+2024-07-15,Keratin ve fön bakımı,10866,0,Satış
+2024-07-17,Yılbaşı paket geliri,10392,0,Satış
+2024-07-18,KDV,0,5207,Vergi
+2024-07-20,Kuaför ve berber maaşları,0,24840,Maaş
+2024-07-20,Boya ve saç bakım ürünü,0,9581,Tedarik
+2024-07-20,Elektrik,0,4682,Fatura
+2024-07-22,Manikür ve pedikür,11803,0,Satış
+2024-07-23,Cilt bakım uygulaması,10376,0,Satış
+2024-07-23,Cilt bakım uygulaması,10217,0,Satış
+2024-07-24,Instagram reklamı,0,9200,Pazarlama
+2024-07-25,Cilt bakım uygulaması,10827,0,Satış
+2024-07-27,Manikür ve pedikür,11016,0,Satış
+2024-07-27,Salon kira ödemesi,0,21262,Kira
+2024-07-28,Yılbaşı paket geliri,9034,0,Satış
+2024-07-29,Temizlik malzemeleri,0,3835,Sarf
+2024-07-31,Lazer epilasyon seans,11888,0,Satış
+2024-08-01,Yılbaşı paket geliri,10369,0,Satış
+2024-08-02,Cilt bakım uygulaması,11028,0,Satış
+2024-08-03,Cilt bakım uygulaması,11069,0,Satış
+2024-08-03,Su,0,2363,Fatura
+2024-08-05,Yılbaşı paket geliri,12507,0,Satış
+2024-08-08,Keratin ve fön bakımı,8826,0,Satış
+2024-08-08,Kozmetik ürün satışı,6295,0,Diğer Gelir
+2024-08-10,Cilt bakım uygulaması,9447,0,Satış
+2024-08-11,Influencer iş birliği,0,4212,Pazarlama
+2024-08-14,Manikür/pedikür malzemesi,0,7067,Tedarik
+2024-08-15,Güzellik uzmanı maaşı,0,33395,Maaş
+2024-08-16,Düğün ve özel gün makyaj,11196,0,Satış
+2024-08-16,Temizlik malzemeleri,0,1976,Sarf
+2024-08-17,Saç kesim hizmet geliri,12323,0,Satış
+2024-08-17,Kuaför ve berber maaşları,0,29539,Maaş
+2024-08-18,Lazer epilasyon seans,9985,0,Satış
+2024-08-18,Salon kira ödemesi,0,24909,Kira
+2024-08-18,Su,0,2440,Fatura
+2024-08-19,Düğün ve özel gün makyaj,8833,0,Satış
+2024-08-19,Manikür/pedikür malzemesi,0,7631,Tedarik
+2024-08-20,Saç boyama ve röfle,12278,0,Satış
+2024-08-21,Erkek tıraş ve sakal şekillendirme,10566,0,Satış
+2024-08-21,Elektrik,0,2517,Fatura
+2024-08-21,Temizlik malzemeleri,0,2206,Sarf
+2024-08-24,Keratin ve fön bakımı,12322,0,Satış
+2024-08-24,Cilt bakım kozmetik,0,6880,Tedarik
+2024-08-24,Elektrik,0,2773,Fatura
+2024-08-27,Saç kesim hizmet geliri,11298,0,Satış
+2024-08-27,Booksy randevu platform ücreti,0,4793,Pazarlama
+2024-08-28,Saç kesim hizmet geliri,11531,0,Satış
+2024-08-29,Düğün ve özel gün makyaj,12359,0,Satış
+2024-08-29,Saç bakım ürünü satışı,6587,0,Diğer Gelir
+2024-08-29,Stopaj,0,6614,Vergi
+2024-08-30,Erkek tıraş ve sakal şekillendirme,11735,0,Satış
+2024-08-30,Şampuan toptan alımı,0,7259,Tedarik
+2024-09-03,Su,0,2199,Fatura
+2024-09-04,Lazer epilasyon seans,5576,0,Satış
+2024-09-05,Yılbaşı paket geliri,7026,0,Satış
+2024-09-06,İnternet,0,2697,Fatura
+2024-09-06,Stopaj,0,5980,Vergi
+2024-09-07,Lazer epilasyon seans,6092,0,Satış
+2024-09-07,Manikür ve pedikür,5708,0,Satış
+2024-09-08,Saç kesim hizmet geliri,6117,0,Satış
+2024-09-10,Elektrik,0,2781,Fatura
+2024-09-11,Saç boyama ve röfle,5840,0,Satış
+2024-09-12,Yılbaşı paket geliri,7097,0,Satış
+2024-09-12,Manikür ve pedikür,6640,0,Satış
+2024-09-13,Keratin ve fön bakımı,7946,0,Satış
+2024-09-13,Resepsiyon personeli maaşı,0,55060,Maaş
+2024-09-14,Saç bakım ürünü satışı,4570,0,Diğer Gelir
+2024-09-15,Lazer epilasyon seans,7436,0,Satış
+2024-09-15,Saç kesim hizmet geliri,8176,0,Satış
+2024-09-15,Instagram reklamı,0,3656,Pazarlama
+2024-09-17,Düğün ve özel gün makyaj,5928,0,Satış
+2024-09-17,Şampuan toptan alımı,0,9203,Tedarik
+2024-09-18,Saç boyama ve röfle,7306,0,Satış
+2024-09-18,Keratin ve fön bakımı,6118,0,Satış
+2024-09-19,Yılbaşı paket geliri,7490,0,Satış
+2024-09-20,Manikür ve pedikür,6300,0,Satış
+2024-09-20,Kozmetik ürün satışı,4898,0,Diğer Gelir
+2024-09-20,Manikür/pedikür malzemesi,0,10252,Tedarik
+2024-09-20,Temizlik malzemeleri,0,2115,Sarf
+2024-09-21,Cilt bakım uygulaması,5715,0,Satış
+2024-09-24,Cilt bakım uygulaması,7416,0,Satış
+2024-09-24,Influencer iş birliği,0,4269,Pazarlama
+2024-09-25,Keratin ve fön bakımı,6077,0,Satış
+2024-09-26,Keratin ve fön bakımı,6346,0,Satış
+2024-09-27,Manikür/pedikür malzemesi,0,9466,Tedarik
+2024-09-27,Salon kira ödemesi,0,27868,Kira
+2024-09-27,Temizlik malzemeleri,0,1955,Sarf
+2024-09-28,Erkek tıraş ve sakal şekillendirme,5659,0,Satış
+2024-09-28,Manikür ve pedikür,7139,0,Satış
+2024-09-29,Saç kesim hizmet geliri,8103,0,Satış
+2024-09-29,Manikür ve pedikür,6992,0,Satış
+2024-09-29,Elektrik,0,2276,Fatura
+2024-09-30,Cilt bakım uygulaması,5477,0,Satış
+2024-10-01,Düğün ve özel gün makyaj,7500,0,Satış
+2024-10-01,Düğün ve özel gün makyaj,9955,0,Satış
+2024-10-02,Düğün ve özel gün makyaj,7948,0,Satış
+2024-10-02,Lazer epilasyon seans,8696,0,Satış
+2024-10-03,Saç boyama ve röfle,9384,0,Satış
+2024-10-03,Düğün ve özel gün makyaj,7418,0,Satış
+2024-10-03,Influencer iş birliği,0,7513,Pazarlama
+2024-10-05,Düğün ve özel gün makyaj,7273,0,Satış
+2024-10-07,Şampuan toptan alımı,0,5928,Tedarik
+2024-10-07,Temizlik malzemeleri,0,1955,Sarf
+2024-10-08,Elektrik,0,2173,Fatura
+2024-10-09,Saç bakım ürünü satışı,3139,0,Diğer Gelir
+2024-10-11,Erkek tıraş ve sakal şekillendirme,9989,0,Satış
+2024-10-12,Elektrik,0,2593,Fatura
+2024-10-14,Düğün ve özel gün makyaj,9490,0,Satış
+2024-10-15,Lazer epilasyon seans,7219,0,Satış
+2024-10-15,Saç boyama ve röfle,7772,0,Satış
+2024-10-15,Şampuan toptan alımı,0,6334,Tedarik
+2024-10-15,Cilt bakım kozmetik,0,6426,Tedarik
+2024-10-15,İnternet,0,2449,Fatura
+2024-10-17,Saç kesim hizmet geliri,7060,0,Satış
+2024-10-19,Saç bakım ürünü satışı,3544,0,Diğer Gelir
+2024-10-19,Resepsiyon personeli maaşı,0,64073,Maaş
+2024-10-19,İnternet,0,2337,Fatura
+2024-10-20,Lazer epilasyon seans,7883,0,Satış
+2024-10-22,Manikür/pedikür malzemesi,0,7163,Tedarik
+2024-10-22,Salon kira ödemesi,0,24480,Kira
+2024-10-23,Düğün ve özel gün makyaj,7365,0,Satış
+2024-10-25,Düğün ve özel gün makyaj,8772,0,Satış
+2024-10-25,KDV,0,4607,Vergi
+2024-10-26,Saç kesim hizmet geliri,7358,0,Satış
+2024-10-26,Cilt bakım uygulaması,10107,0,Satış
+2024-10-27,Düğün ve özel gün makyaj,10022,0,Satış
+2024-10-28,Kozmetik ürün satışı,3745,0,Diğer Gelir
+2024-10-29,Temizlik malzemeleri,0,2276,Sarf
+2024-10-30,Cilt bakım uygulaması,8893,0,Satış
+2024-11-02,Saç bakım ürünü satışı,3076,0,Diğer Gelir
+2024-11-02,Kozmetik ürün satışı,3713,0,Diğer Gelir
+2024-11-02,Salon kira ödemesi,0,23064,Kira
+2024-11-03,Cilt bakım uygulaması,10566,0,Satış
+2024-11-05,Havlu ve tek kullanımlık ürün,0,2183,Sarf
+2024-11-06,Düğün ve özel gün makyaj,8260,0,Satış
+2024-11-07,Saç bakım ürünü satışı,3535,0,Diğer Gelir
+2024-11-08,Saç kesim hizmet geliri,10679,0,Satış
+2024-11-11,Lazer epilasyon seans,8971,0,Satış
+2024-11-11,Manikür/pedikür malzemesi,0,4914,Tedarik
+2024-11-12,Saç kesim hizmet geliri,7500,0,Satış
+2024-11-12,Yılbaşı paket geliri,9731,0,Satış
+2024-11-12,Elektrik,0,3550,Fatura
+2024-11-13,Su,0,2728,Fatura
+2024-11-13,Instagram reklamı,0,8511,Pazarlama
+2024-11-13,KDV,0,5517,Vergi
+2024-11-14,Havlu ve tek kullanımlık ürün,0,1951,Sarf
+2024-11-15,Manikür ve pedikür,10748,0,Satış
+2024-11-16,Manikür ve pedikür,9561,0,Satış
+2024-11-18,Cilt bakım uygulaması,8660,0,Satış
+2024-11-19,Düğün ve özel gün makyaj,8781,0,Satış
+2024-11-19,Yılbaşı paket geliri,7913,0,Satış
+2024-11-19,Cilt bakım kozmetik,0,5048,Tedarik
+2024-11-20,Manikür ve pedikür,8498,0,Satış
+2024-11-22,Keratin ve fön bakımı,8355,0,Satış
+2024-11-23,Manikür/pedikür malzemesi,0,5520,Tedarik
+2024-11-24,Saç kesim hizmet geliri,8213,0,Satış
+2024-11-24,Saç kesim hizmet geliri,7884,0,Satış
+2024-11-24,Kuaför ve berber maaşları,0,56506,Maaş
+2024-11-25,Şampuan toptan alımı,0,5768,Tedarik
+2024-11-25,Su,0,3244,Fatura
+2024-11-28,Düğün ve özel gün makyaj,9369,0,Satış
+2024-11-28,Erkek tıraş ve sakal şekillendirme,10448,0,Satış
+2024-11-30,Lazer epilasyon seans,7755,0,Satış
+2024-11-30,Manikür/pedikür malzemesi,0,5563,Tedarik
+2024-12-01,İnternet,0,2887,Fatura
+2024-12-02,Erkek tıraş ve sakal şekillendirme,7874,0,Satış
+2024-12-02,Saç kesim hizmet geliri,6986,0,Satış
+2024-12-02,Şampuan toptan alımı,0,6267,Tedarik
+2024-12-04,Güzellik uzmanı maaşı,0,65829,Maaş
+2024-12-04,Cilt bakım kozmetik,0,7540,Tedarik
+2024-12-05,Düğün ve özel gün makyaj,7575,0,Satış
+2024-12-05,Düğün ve özel gün makyaj,8836,0,Satış
+2024-12-06,Erkek tıraş ve sakal şekillendirme,7424,0,Satış
+2024-12-07,Saç bakım ürünü satışı,7099,0,Diğer Gelir
+2024-12-07,Elektrik,0,2646,Fatura
+2024-12-08,Saç kesim hizmet geliri,8862,0,Satış
+2024-12-08,Keratin ve fön bakımı,8442,0,Satış
+2024-12-08,Düğün ve özel gün makyaj,9085,0,Satış
+2024-12-08,Booksy randevu platform ücreti,0,4412,Pazarlama
+2024-12-09,Erkek tıraş ve sakal şekillendirme,9245,0,Satış
+2024-12-09,KDV,0,6801,Vergi
+2024-12-10,İnternet,0,2482,Fatura
+2024-12-11,Manikür ve pedikür,9609,0,Satış
+2024-12-11,Düğün ve özel gün makyaj,8821,0,Satış
+2024-12-12,Saç boyama ve röfle,7174,0,Satış
+2024-12-13,Temizlik malzemeleri,0,2854,Sarf
+2024-12-14,Lazer epilasyon seans,6928,0,Satış
+2024-12-17,Düğün ve özel gün makyaj,8266,0,Satış
+2024-12-18,Saç boyama ve röfle,8906,0,Satış
+2024-12-19,Keratin ve fön bakımı,7163,0,Satış
+2024-12-19,Boya ve saç bakım ürünü,0,7544,Tedarik
+2024-12-19,Instagram reklamı,0,4870,Pazarlama
+2024-12-20,İnternet,0,3086,Fatura
+2024-12-20,Temizlik malzemeleri,0,2139,Sarf
+2024-12-21,Manikür ve pedikür,8136,0,Satış
+2024-12-21,Keratin ve fön bakımı,9649,0,Satış
+2024-12-21,Saç boyama ve röfle,8581,0,Satış
+2024-12-21,Salon kira ödemesi,0,33606,Kira
+2024-12-23,Cilt bakım kozmetik,0,6093,Tedarik
+2024-12-24,Erkek tıraş ve sakal şekillendirme,8841,0,Satış
+2024-12-27,Yılbaşı paket geliri,8356,0,Satış
+2024-12-28,Manikür ve pedikür,8619,0,Satış
+2024-12-28,Kozmetik ürün satışı,6876,0,Diğer Gelir
+2024-12-28,Şampuan toptan alımı,0,6069,Tedarik
+2024-12-29,Manikür ve pedikür,7263,0,Satış
+2024-12-30,Saç boyama ve röfle,9453,0,Satış
+2024-12-30,Düğün ve özel gün makyaj,9537,0,Satış
+2025-01-02,Kozmetik ürün satışı,3628,0,Diğer Gelir
+2025-01-03,Manikür/pedikür malzemesi,0,5309,Tedarik
+2025-01-04,Kozmetik ürün satışı,2524,0,Diğer Gelir
+2025-01-05,Erkek tıraş ve sakal şekillendirme,8851,0,Satış
+2025-01-06,Düğün ve özel gün makyaj,9110,0,Satış
+2025-01-06,Su,0,3096,Fatura
+2025-01-08,Saç kesim hizmet geliri,8279,0,Satış
+2025-01-09,Booksy randevu platform ücreti,0,3820,Pazarlama
+2025-01-10,Yılbaşı paket geliri,7814,0,Satış
+2025-01-11,Su,0,2744,Fatura
+2025-01-12,Düğün ve özel gün makyaj,7795,0,Satış
+2025-01-12,Lazer epilasyon seans,9154,0,Satış
+2025-01-12,Booksy randevu platform ücreti,0,3607,Pazarlama
+2025-01-15,Manikür/pedikür malzemesi,0,5043,Tedarik
+2025-01-16,Keratin ve fön bakımı,7492,0,Satış
+2025-01-16,Saç bakım ürünü satışı,2896,0,Diğer Gelir
+2025-01-17,Cilt bakım uygulaması,8240,0,Satış
+2025-01-18,Keratin ve fön bakımı,8424,0,Satış
+2025-01-18,Cilt bakım kozmetik,0,4695,Tedarik
+2025-01-18,Elektrik,0,2863,Fatura
+2025-01-19,Manikür ve pedikür,9530,0,Satış
+2025-01-20,Güzellik uzmanı maaşı,0,45267,Maaş
+2025-01-21,Lazer epilasyon seans,6587,0,Satış
+2025-01-22,Boya ve saç bakım ürünü,0,5473,Tedarik
+2025-01-22,Stopaj,0,4368,Vergi
+2025-01-23,Düğün ve özel gün makyaj,8461,0,Satış
+2025-01-23,Düğün ve özel gün makyaj,9634,0,Satış
+2025-01-23,Boya ve saç bakım ürünü,0,4314,Tedarik
+2025-01-25,Cilt bakım uygulaması,8845,0,Satış
+2025-01-26,Keratin ve fön bakımı,6805,0,Satış
+2025-01-26,Havlu ve tek kullanımlık ürün,0,4064,Sarf
+2025-01-27,Yılbaşı paket geliri,8829,0,Satış
+2025-01-28,Manikür ve pedikür,8062,0,Satış
+2025-01-28,Düğün ve özel gün makyaj,6974,0,Satış
+2025-01-28,Salon kira ödemesi,0,24239,Kira
+2025-02-01,İnternet,0,2168,Fatura
+2025-02-02,Cilt bakım kozmetik,0,5700,Tedarik
+2025-02-02,Salon kira ödemesi,0,20864,Kira
+2025-02-04,Erkek tıraş ve sakal şekillendirme,7566,0,Satış
+2025-02-04,Lazer epilasyon seans,5651,0,Satış
+2025-02-04,Booksy randevu platform ücreti,0,7171,Pazarlama
+2025-02-06,Yılbaşı paket geliri,7740,0,Satış
+2025-02-06,Yılbaşı paket geliri,5882,0,Satış
+2025-02-06,Lazer epilasyon seans,5976,0,Satış
+2025-02-06,Saç bakım ürünü satışı,3533,0,Diğer Gelir
+2025-02-07,Saç boyama ve röfle,7271,0,Satış
+2025-02-08,Keratin ve fön bakımı,5493,0,Satış
+2025-02-08,Saç bakım ürünü satışı,2950,0,Diğer Gelir
+2025-02-08,Temizlik malzemeleri,0,4153,Sarf
+2025-02-10,Kuaför ve berber maaşları,0,24165,Maaş
+2025-02-11,Düğün ve özel gün makyaj,6905,0,Satış
+2025-02-11,Düğün ve özel gün makyaj,6652,0,Satış
+2025-02-15,Yılbaşı paket geliri,7241,0,Satış
+2025-02-15,Düğün ve özel gün makyaj,6574,0,Satış
+2025-02-16,Keratin ve fön bakımı,7970,0,Satış
+2025-02-16,Cilt bakım kozmetik,0,6518,Tedarik
+2025-02-17,Lazer epilasyon seans,6940,0,Satış
+2025-02-17,Yılbaşı paket geliri,6088,0,Satış
+2025-02-18,Erkek tıraş ve sakal şekillendirme,7386,0,Satış
+2025-02-18,Lazer epilasyon seans,7000,0,Satış
+2025-02-18,Resepsiyon personeli maaşı,0,27286,Maaş
+2025-02-18,İnternet,0,2314,Fatura
+2025-02-20,Cilt bakım uygulaması,5478,0,Satış
+2025-02-20,İnternet,0,1949,Fatura
+2025-02-20,Stopaj,0,4572,Vergi
+2025-02-21,Saç kesim hizmet geliri,7962,0,Satış
+2025-02-21,Yılbaşı paket geliri,7551,0,Satış
+2025-02-21,Manikür/pedikür malzemesi,0,6134,Tedarik
+2025-02-22,Saç bakım ürünü satışı,2696,0,Diğer Gelir
+2025-02-24,Yılbaşı paket geliri,6162,0,Satış
+2025-02-25,Cilt bakım kozmetik,0,6145,Tedarik
+2025-02-26,Lazer epilasyon seans,6781,0,Satış
+2025-02-26,İnternet,0,2217,Fatura
+2025-02-27,Saç kesim hizmet geliri,6689,0,Satış
+2025-03-02,Boya ve saç bakım ürünü,0,9902,Tedarik
+2025-03-03,Lazer epilasyon seans,11994,0,Satış
+2025-03-04,Düğün ve özel gün makyaj,10155,0,Satış
+2025-03-05,Lazer epilasyon seans,10813,0,Satış
+2025-03-07,İnternet,0,2941,Fatura
+2025-03-10,Stopaj,0,5425,Vergi
+2025-03-11,Su,0,2439,Fatura
+2025-03-12,Kozmetik ürün satışı,5662,0,Diğer Gelir
+2025-03-13,Cilt bakım uygulaması,13249,0,Satış
+2025-03-13,Saç boyama ve röfle,11228,0,Satış
+2025-03-13,Şampuan toptan alımı,0,8894,Tedarik
+2025-03-14,Instagram reklamı,0,3958,Pazarlama
+2025-03-14,Temizlik malzemeleri,0,2043,Sarf
+2025-03-15,Manikür ve pedikür,9339,0,Satış
+2025-03-16,Şampuan toptan alımı,0,9357,Tedarik
+2025-03-17,Saç kesim hizmet geliri,12864,0,Satış
+2025-03-18,Düğün ve özel gün makyaj,12082,0,Satış
+2025-03-18,Saç boyama ve röfle,9961,0,Satış
+2025-03-19,Erkek tıraş ve sakal şekillendirme,10585,0,Satış
+2025-03-21,Elektrik,0,2580,Fatura
+2025-03-21,Temizlik malzemeleri,0,1956,Sarf
+2025-03-22,Yılbaşı paket geliri,9070,0,Satış
+2025-03-23,Saç kesim hizmet geliri,12163,0,Satış
+2025-03-23,Keratin ve fön bakımı,10283,0,Satış
+2025-03-23,Kozmetik ürün satışı,4883,0,Diğer Gelir
+2025-03-28,Manikür ve pedikür,9496,0,Satış
+2025-03-28,Salon kira ödemesi,0,29045,Kira
+2025-03-29,Erkek tıraş ve sakal şekillendirme,9668,0,Satış
+2025-03-29,Saç boyama ve röfle,12808,0,Satış
+2025-03-29,Su,0,2406,Fatura
+2025-03-30,Resepsiyon personeli maaşı,0,54252,Maaş
+2025-03-31,Booksy randevu platform ücreti,0,3806,Pazarlama
