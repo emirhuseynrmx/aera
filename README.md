@@ -117,6 +117,12 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 
 ![Örnek Typst Raporu](./docs/image2.png)
 
+---
+
+**What-If Simülasyonu (Örnek)**
+
+![What-If Simülasyonu](./docs/whatif.png)
+
 </td>
 </tr>
 </table>
