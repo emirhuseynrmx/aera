@@ -40,10 +40,6 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
                                │ HTTP/JSON
 ┌──────────────────────────────▼───────────────────────────────────┐
 
-**Örnek Typst Raporu**
-
-![Örnek Typst Raporu](./image2.png)
-
 │  API LAYER  ───  Axum 0.7 · CORS · 10 MB body limit · IP rate-limit│
 │  • POST /api/chat            (3-agent pipeline)                  │
 │  • POST /api/upload/csv      (Polars parse + monthly cache)      │
@@ -116,6 +112,10 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 - **23 sektör** için statik demo + canlı seed'li üretim
 - **24 gerçek teşvik programı** — JSON-driven (`data/incentives.json`), **IDF-ağırlıklı retrieval**
 - **Typst PDF** kurumsal rapor (`templates/report.typ`)
+
+**Örnek Typst Raporu**
+
+![Örnek Typst Raporu](./docs/image2.png)
 
 </td>
 </tr>
