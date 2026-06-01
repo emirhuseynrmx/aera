@@ -11,7 +11,8 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 ![Polars](https://img.shields.io/badge/Polars-0.37-lightblue?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=google)
 ![Tests](https://img.shields.io/badge/Tests-63%2F63_passing-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-BUSL_1.1-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+
 
 ![AERA CFO - Otonom Yapay Zeka CFO Platformu](./docs/download.gif)
 
