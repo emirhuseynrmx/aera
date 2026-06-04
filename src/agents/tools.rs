@@ -1,5 +1,5 @@
-use serde_json::json;
 use crate::infrastructure::gemini::FunctionDeclaration;
+use serde_json::json;
 
 /// Gemini'nin çağırabileceği tüm araç (tool) tanımlarını döndürür.
 /// Bu fonksiyonlar, CFO ajanının otonom karar almasını sağlayan "elleri"dir.

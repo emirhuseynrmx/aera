@@ -53,7 +53,8 @@ pub async fn run(
             Ok(p) => {
                 tracing::info!(
                     "🧭 Planner: {} alt görev | {}",
-                    p.subtasks.len(), p.strategy
+                    p.subtasks.len(),
+                    p.strategy
                 );
                 (p, false)
             }
@@ -83,17 +84,21 @@ pub async fn run(
                 tracing::info!("✅ Critic: PASS");
                 (draft, "PASS".to_string(), Vec::new())
             }
-            Ok(CriticVerdict::Revise { issues, improved_answer }) => {
-                tracing::info!(
-                    "✏️  Critic: REVISE ({} sorun düzeltildi)",
-                    issues.len()
-                );
+            Ok(CriticVerdict::Revise {
+                issues,
+                improved_answer,
+            }) => {
+                tracing::info!("✏️  Critic: REVISE ({} sorun düzeltildi)", issues.len());
                 (improved_answer, "REVISE".to_string(), issues)
             }
             Err(e) => {
                 // Critic patladıysa draft'ı geç — kullanıcı boş yanıt yerine cevap görsün
                 tracing::warn!("⚠️  Critic başarısız ({}), draft korunuyor", e);
-                (draft, "SKIPPED".to_string(), vec![format!("Critic error: {}", e)])
+                (
+                    draft,
+                    "SKIPPED".to_string(),
+                    vec![format!("Critic error: {}", e)],
+                )
             }
         }
     };
@@ -155,7 +160,9 @@ mod tests {
             strategy: "Sohbet".into(),
             requires_tools: false,
             subtasks: vec![SubTask {
-                id: 1, question: "merhaba".into(), suggested_tools: vec![]
+                id: 1,
+                question: "merhaba".into(),
+                suggested_tools: vec![],
             }],
         };
         let out = build_executor_input("merhaba", &plan);
@@ -194,7 +201,9 @@ mod tests {
             strategy: "Tek adım".into(),
             requires_tools: true,
             subtasks: vec![SubTask {
-                id: 1, question: "Veri özeti?".into(), suggested_tools: vec![]
+                id: 1,
+                question: "Veri özeti?".into(),
+                suggested_tools: vec![],
             }],
         };
         let out = build_executor_input("Veri özeti?", &plan);

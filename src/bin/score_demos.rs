@@ -3,8 +3,8 @@
 //
 // Çalıştırma: `cargo run --bin score_demos`
 
-use aera_cfo::infrastructure::polars_engine::PolarsEngine;
 use aera_cfo::infrastructure::data_generator::all_ids;
+use aera_cfo::infrastructure::polars_engine::PolarsEngine;
 use std::fs;
 
 fn main() {
@@ -17,7 +17,9 @@ fn main() {
             Err(_) => continue,
         };
         let mut engine = PolarsEngine::new();
-        if engine.load_csv_from_string(&csv).is_err() { continue; }
+        if engine.load_csv_from_string(&csv).is_err() {
+            continue;
+        }
 
         let h = engine.health_score();
         let skor = h["skor"].as_i64().unwrap_or(0);
@@ -31,7 +33,10 @@ fn main() {
     // Skora göre sırala — A'dan D'ye
     rows.sort_by_key(|r| std::cmp::Reverse(r.1));
 
-    println!("\n{:<22} {:>6} {:>4} {:>10} {:>8}", "Sektör", "Skor", "Harf", "Rezerv(ay)", "G/G");
+    println!(
+        "\n{:<22} {:>6} {:>4} {:>10} {:>8}",
+        "Sektör", "Skor", "Harf", "Rezerv(ay)", "G/G"
+    );
     println!("{}", "─".repeat(56));
     let mut by_grade: std::collections::BTreeMap<String, usize> = std::collections::BTreeMap::new();
     for (id, skor, harf, rezerv, ratio) in &rows {
@@ -43,7 +48,10 @@ fn main() {
             "D" => "🔴",
             _ => "⚪",
         };
-        println!("{} {:<20} {:>6} {:>4} {:>10.2} {:>8.2}", emoji, id, skor, harf, rezerv, ratio);
+        println!(
+            "{} {:<20} {:>6} {:>4} {:>10.2} {:>8.2}",
+            emoji, id, skor, harf, rezerv, ratio
+        );
     }
     println!("\n📊 Dağılım: {:?}", by_grade);
     println!("Toplam: {} sektör\n", rows.len());

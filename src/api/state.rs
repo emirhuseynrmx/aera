@@ -1,9 +1,9 @@
+use crate::agents::orchestrator::CfoOrchestrator;
+use crate::core::error::AeraError;
 use dashmap::DashMap;
 use std::sync::Arc;
 use std::time::Instant;
 use tokio::sync::Mutex;
-use crate::agents::orchestrator::CfoOrchestrator;
-use crate::core::error::AeraError;
 
 // Rate limit (DDoS / maliyet koruması)
 const RATE_LIMIT_PER_MIN: u32 = 300;
@@ -36,7 +36,8 @@ impl AppState {
     /// IP bazlı sliding window rate limiter
     pub fn check_rate_limit(&self, key: &str) -> bool {
         let now = Instant::now();
-        let mut entry = self.request_counts
+        let mut entry = self
+            .request_counts
             .entry(key.to_string())
             .or_insert((0, now));
         let (count, window_start) = entry.value_mut();
@@ -53,7 +54,8 @@ impl AppState {
         &self,
         session_id: &str,
     ) -> Result<Arc<Mutex<CfoOrchestrator>>, AeraError> {
-        self.last_active.insert(session_id.to_string(), Instant::now());
+        self.last_active
+            .insert(session_id.to_string(), Instant::now());
 
         // Varolanı dön
         if let Some(existing) = self.sessions.get(session_id) {
@@ -90,7 +92,8 @@ impl AppState {
         let now = Instant::now();
 
         // Session GC
-        let expired: Vec<String> = self.last_active
+        let expired: Vec<String> = self
+            .last_active
             .iter()
             .filter(|r| now.duration_since(*r.value()).as_secs() > ttl_secs)
             .map(|r| r.key().clone())
@@ -102,13 +105,16 @@ impl AppState {
         }
 
         // Inaktif rate-limit IP'lerini sil
-        let stale: Vec<String> = self.request_counts
+        let stale: Vec<String> = self
+            .request_counts
             .iter()
             .filter(|r| r.value().1.elapsed().as_secs() > RATE_LIMIT_ENTRY_TTL_SECS)
             .map(|r| r.key().clone())
             .collect();
         let stale_len = stale.len();
-        for k in stale { self.request_counts.remove(&k); }
+        for k in stale {
+            self.request_counts.remove(&k);
+        }
         if stale_len > 0 {
             tracing::debug!("🧹 Rate-limit GC: {} eski kayıt silindi", stale_len);
         }

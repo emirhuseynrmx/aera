@@ -1,9 +1,10 @@
+use crate::agents::tools::get_cfo_tools;
 use crate::core::error::{AeraError, AeraResult};
 use crate::infrastructure::gemini::{
-    Content, FunctionCall, FunctionResponse, GeminiClient, GenerationConfig, GeminiRequest, Part, Tool,
+    Content, FunctionCall, FunctionResponse, GeminiClient, GeminiRequest, GenerationConfig, Part,
+    Tool,
 };
 use crate::infrastructure::polars_engine::PolarsEngine;
-use crate::agents::tools::get_cfo_tools;
 
 /// Her session için izole CFO motoru
 pub struct CfoOrchestrator {
@@ -105,9 +106,13 @@ impl CfoOrchestrator {
             // systemInstruction (role alanı boş bırakılmalı)
             system_instruction: Content {
                 role: String::new(),
-                parts: vec![Part::Text { text: SYSTEM_PROMPT.to_string() }],
+                parts: vec![Part::Text {
+                    text: SYSTEM_PROMPT.to_string(),
+                }],
             },
-            tools: vec![Tool { function_declarations: get_cfo_tools() }],
+            tools: vec![Tool {
+                function_declarations: get_cfo_tools(),
+            }],
         }
     }
 
@@ -127,7 +132,7 @@ impl CfoOrchestrator {
             return;
         }
         let first = self.history[0].clone();
-        let tail  = self.history[self.history.len() - MAX_HISTORY_TAIL..].to_vec();
+        let tail = self.history[self.history.len() - MAX_HISTORY_TAIL..].to_vec();
         self.history = std::iter::once(first).chain(tail).collect();
     }
 
@@ -144,7 +149,9 @@ impl CfoOrchestrator {
         // Kullanıcı mesajını history'e ekle
         self.history.push(Content {
             role: "user".to_string(),
-            parts: vec![Part::Text { text: user_message.to_string() }],
+            parts: vec![Part::Text {
+                text: user_message.to_string(),
+            }],
         });
 
         for round in 0..MAX_TOOL_ROUNDS {
@@ -171,7 +178,9 @@ impl CfoOrchestrator {
                         // Tool çağrıları YAPILDIYSA model özetlemeyi reddediyor demektir
                         // (özellikle flash-lite + STOP+empty). Ham sonuçlardan fallback üret.
                         if empty_stop && !tools_used.is_empty() {
-                            tracing::warn!("⚠️  Gemini özetleme katmanı boş döndü, kod fallback'ı devrede");
+                            tracing::warn!(
+                                "⚠️  Gemini özetleme katmanı boş döndü, kod fallback'ı devrede"
+                            );
                             let fallback = build_tool_fallback(
                                 &self.engine,
                                 &tools_used,
@@ -180,7 +189,9 @@ impl CfoOrchestrator {
                             );
                             self.history.push(Content {
                                 role: "model".to_string(),
-                                parts: vec![Part::Text { text: fallback.clone() }],
+                                parts: vec![Part::Text {
+                                    text: fallback.clone(),
+                                }],
                             });
                             return Ok((fallback, tools_used));
                         }
@@ -210,7 +221,8 @@ impl CfoOrchestrator {
                 _ => {
                     let finish = candidates[0]["finishReason"].as_str().unwrap_or("?");
                     return Err(AeraError::GeminiApiError(format!(
-                        "Gemini boş yanıt döndü (finishReason: {})", finish
+                        "Gemini boş yanıt döndü (finishReason: {})",
+                        finish
                     )));
                 }
             };
@@ -254,14 +266,18 @@ impl CfoOrchestrator {
                     let tool_result = self.execute_tool(tool_name, tool_args);
 
                     let result_json = match tool_result {
-                        Ok(v)  => v,
+                        Ok(v) => v,
                         Err(e) => serde_json::json!({ "error": e.to_string() }),
                     };
 
-                    if matches!(tool_name.as_str(),
-                        "analyze_cash_flow" | "get_health_score" | "predict_cashflow" |
-                        "detect_cash_crunch" | "detect_anomalies")
-                    {
+                    if matches!(
+                        tool_name.as_str(),
+                        "analyze_cash_flow"
+                            | "get_health_score"
+                            | "predict_cashflow"
+                            | "detect_cash_crunch"
+                            | "detect_anomalies"
+                    ) {
                         called_financial_tool = true;
                     }
                     if tool_name == "search_incentives" {
@@ -302,9 +318,8 @@ impl CfoOrchestrator {
             if !final_text.contains("[AERA_INCENTIVES]") {
                 if let Some(ref inc) = last_incentives_result {
                     if let Some(programs) = inc.get("tesvik_programlari") {
-                        final_text.push_str(&format!(
-                            "\n[AERA_INCENTIVES]{programs}[/AERA_INCENTIVES]",
-                        ));
+                        final_text
+                            .push_str(&format!("\n[AERA_INCENTIVES]{programs}[/AERA_INCENTIVES]",));
                     }
                 }
             }
@@ -317,9 +332,7 @@ impl CfoOrchestrator {
                             "aylik_trend_gelir": cf["aylik_trend_gelir"],
                             "aylik_trend_gider": cf["aylik_trend_gider"],
                         });
-                        final_text.push_str(&format!(
-                            "\n[AERA_CASHFLOW]{block}[/AERA_CASHFLOW]",
-                        ));
+                        final_text.push_str(&format!("\n[AERA_CASHFLOW]{block}[/AERA_CASHFLOW]",));
                     }
                 }
             }
@@ -327,7 +340,9 @@ impl CfoOrchestrator {
             // Son metin yanıtını history'e ekle
             self.history.push(Content {
                 role: "model".to_string(),
-                parts: vec![Part::Text { text: final_text.clone() }],
+                parts: vec![Part::Text {
+                    text: final_text.clone(),
+                }],
             });
 
             tracing::info!(
@@ -353,7 +368,7 @@ impl CfoOrchestrator {
     ) -> AeraResult<serde_json::Value> {
         match name {
             "analyze_cash_flow" => {
-                let income  = args["income_column"]
+                let income = args["income_column"]
                     .as_str()
                     .map(str::to_string)
                     .unwrap_or_else(|| self.engine.income_col.clone());
@@ -382,14 +397,14 @@ impl CfoOrchestrator {
 
             "search_incentives" => {
                 let query = args["query"].as_str().unwrap_or("KOBİ destek");
-                Ok(crate::infrastructure::incentives_db::search_incentives(query))
+                Ok(crate::infrastructure::incentives_db::search_incentives(
+                    query,
+                ))
             }
 
             "predict_cashflow" => {
                 // Ay sınırı 1-6
-                let months = args["months_ahead"]
-                    .as_u64()
-                    .unwrap_or(3) as usize;
+                let months = args["months_ahead"].as_u64().unwrap_or(3) as usize;
                 let months = months.clamp(1, 6);
                 Ok(self.engine.predict_cashflow(months))
             }
@@ -427,10 +442,12 @@ impl CfoOrchestrator {
                 // Gelen NaN/Inf değerlerini filtrele
                 let raw_inc = args["extra_monthly_income"].as_f64().unwrap_or(0.0);
                 let raw_exp = args["extra_monthly_expense"].as_f64().unwrap_or(0.0);
-                let extra_income  = if raw_inc.is_finite() { raw_inc } else { 0.0 };
+                let extra_income = if raw_inc.is_finite() { raw_inc } else { 0.0 };
                 let extra_expense = if raw_exp.is_finite() { raw_exp } else { 0.0 };
                 let months = (args["months"].as_u64().unwrap_or(3) as usize).clamp(1, 6);
-                Ok(self.engine.simulate_scenario(extra_income, extra_expense, months))
+                Ok(self
+                    .engine
+                    .simulate_scenario(extra_income, extra_expense, months))
             }
 
             // F-NEW: Nakit sıkışıklığı tespiti
@@ -456,7 +473,9 @@ impl CfoOrchestrator {
 
     /// Geçmiş mesaj sayısı
     #[cfg(test)]
-    fn history_len(&self) -> usize { self.history.len() }
+    fn history_len(&self) -> usize {
+        self.history.len()
+    }
 }
 
 // Testlerin yeri (semantic sıralama korundu)
@@ -472,14 +491,17 @@ mod tests {
 
     fn orc_with_data() -> CfoOrchestrator {
         let mut o = CfoOrchestrator::new("test_key".to_string());
-        o.load_data_from_string(TEST_CSV, None, None, None).expect("CSV yüklenemedi");
+        o.load_data_from_string(TEST_CSV, None, None, None)
+            .expect("CSV yüklenemedi");
         o
     }
 
     #[test]
     fn test_tool_health_score() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("get_health_score", &serde_json::json!({})).unwrap();
+        let r = o
+            .execute_tool("get_health_score", &serde_json::json!({}))
+            .unwrap();
         assert!(r["skor"].is_number(), "skor sayısal olmalı");
         assert!(r["harf"].is_string(), "harf string olmalı");
     }
@@ -487,16 +509,25 @@ mod tests {
     #[test]
     fn test_tool_analyze_cash_flow() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("analyze_cash_flow", &serde_json::json!({})).unwrap();
+        let r = o
+            .execute_tool("analyze_cash_flow", &serde_json::json!({}))
+            .unwrap();
         assert!(r["burn_rate"].is_string(), "burn_rate string olmalı");
-        assert!(r["risk_seviyesi"].is_string(), "risk_seviyesi string olmalı");
+        assert!(
+            r["risk_seviyesi"].is_string(),
+            "risk_seviyesi string olmalı"
+        );
     }
 
     #[test]
     fn test_tool_predict_cashflow() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("predict_cashflow", &serde_json::json!({"months_ahead": 3})).unwrap();
-        let proj = r["projeksiyon"].as_array().expect("projeksiyon dizisi olmalı");
+        let r = o
+            .execute_tool("predict_cashflow", &serde_json::json!({"months_ahead": 3}))
+            .unwrap();
+        let proj = r["projeksiyon"]
+            .as_array()
+            .expect("projeksiyon dizisi olmalı");
         assert_eq!(proj.len(), 3, "3 aylık projeksiyon bekleniyor");
         assert!(proj[0]["ci_alt"].is_number(), "CI alanı olmalı");
     }
@@ -504,48 +535,81 @@ mod tests {
     #[test]
     fn test_tool_detect_anomalies() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("detect_anomalies", &serde_json::json!({})).unwrap();
-        assert!(r["anomali_sayisi"].is_number(), "anomali_sayisi sayısal olmalı");
+        let r = o
+            .execute_tool("detect_anomalies", &serde_json::json!({}))
+            .unwrap();
+        assert!(
+            r["anomali_sayisi"].is_number(),
+            "anomali_sayisi sayısal olmalı"
+        );
     }
 
     #[test]
     fn test_tool_detect_cash_crunch() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("detect_cash_crunch", &serde_json::json!({})).unwrap();
+        let r = o
+            .execute_tool("detect_cash_crunch", &serde_json::json!({}))
+            .unwrap();
         assert!(r["risk"].is_string(), "risk string olmalı");
     }
 
     #[test]
     fn test_tool_simulate_scenario() {
         let mut o = orc_with_data();
-        let r = o.execute_tool("simulate_scenario", &serde_json::json!({
-            "extra_monthly_income":  10000.0,
-            "extra_monthly_expense": 0.0,
-            "months":                3
-        })).unwrap();
-        let sim_net = r["simule"]["aylik_net"].as_f64().expect("simule.aylik_net sayısal olmalı");
-        assert!(sim_net > 0.0, "Ek 10K gelir pozitif net üretmeli: {}", sim_net);
+        let r = o
+            .execute_tool(
+                "simulate_scenario",
+                &serde_json::json!({
+                    "extra_monthly_income":  10000.0,
+                    "extra_monthly_expense": 0.0,
+                    "months":                3
+                }),
+            )
+            .unwrap();
+        let sim_net = r["simule"]["aylik_net"]
+            .as_f64()
+            .expect("simule.aylik_net sayısal olmalı");
+        assert!(
+            sim_net > 0.0,
+            "Ek 10K gelir pozitif net üretmeli: {}",
+            sim_net
+        );
     }
 
     #[test]
     fn test_tool_search_incentives_returns_results() {
         let mut o = CfoOrchestrator::new("test".to_string());
-        let r = o.execute_tool("search_incentives", &serde_json::json!({"query": "teknoloji"})).unwrap();
-        assert!(r["sonuc_sayisi"].as_u64().unwrap_or(0) > 0, "Teknoloji sorgusu sonuç dönmeli");
+        let r = o
+            .execute_tool(
+                "search_incentives",
+                &serde_json::json!({"query": "teknoloji"}),
+            )
+            .unwrap();
+        assert!(
+            r["sonuc_sayisi"].as_u64().unwrap_or(0) > 0,
+            "Teknoloji sorgusu sonuç dönmeli"
+        );
     }
 
     #[test]
     fn test_tool_get_data_summary_no_data() {
         let mut o = CfoOrchestrator::new("test".to_string());
-        let r = o.execute_tool("get_data_summary", &serde_json::json!({})).unwrap();
+        let r = o
+            .execute_tool("get_data_summary", &serde_json::json!({}))
+            .unwrap();
         assert_eq!(r["data_loaded"], false, "Veri yüklenmemişken false olmalı");
     }
 
     #[test]
     fn test_tool_unknown_returns_error_field() {
         let mut o = CfoOrchestrator::new("test".to_string());
-        let r = o.execute_tool("var_olmayan_arac", &serde_json::json!({})).unwrap();
-        assert!(r["error"].is_string(), "Bilinmeyen araç error alanı döndürmeli");
+        let r = o
+            .execute_tool("var_olmayan_arac", &serde_json::json!({}))
+            .unwrap();
+        assert!(
+            r["error"].is_string(),
+            "Bilinmeyen araç error alanı döndürmeli"
+        );
     }
 
     #[test]
@@ -555,11 +619,17 @@ mod tests {
         for i in 0..30_usize {
             o.history.push(Content {
                 role: "user".to_string(),
-                parts: vec![Part::Text { text: format!("mesaj {}", i) }],
+                parts: vec![Part::Text {
+                    text: format!("mesaj {}", i),
+                }],
             });
         }
         o.trim_history();
-        assert!(o.history_len() <= 21, "trim_history sonrası max 21 mesaj: {}", o.history_len());
+        assert!(
+            o.history_len() <= 21,
+            "trim_history sonrası max 21 mesaj: {}",
+            o.history_len()
+        );
     }
 
     #[test]
@@ -568,7 +638,9 @@ mod tests {
         for i in 0..25_usize {
             o.history.push(Content {
                 role: "user".to_string(),
-                parts: vec![Part::Text { text: format!("mesaj {}", i) }],
+                parts: vec![Part::Text {
+                    text: format!("mesaj {}", i),
+                }],
             });
         }
         o.trim_history();
@@ -587,10 +659,13 @@ fn build_metrics_block(engine: &crate::infrastructure::polars_engine::PolarsEngi
     let inc_col = engine.income_col.clone();
     let exp_col = engine.expense_col.clone();
 
-    let (net, burn, runway, risk) = match (engine.column_sum(&inc_col), engine.column_sum(&exp_col)) {
+    let (net, burn, runway, risk) = match (engine.column_sum(&inc_col), engine.column_sum(&exp_col))
+    {
         (Ok(total_inc), Ok(total_exp)) => {
             let net = total_inc - total_exp;
-            let months = engine.date_range.as_ref()
+            let months = engine
+                .date_range
+                .as_ref()
                 .map(|d| (d.days as f64 / 30.44).max(1.0))
                 .unwrap_or(1.0);
             let monthly_exp = total_exp / months;
@@ -601,19 +676,24 @@ fn build_metrics_block(engine: &crate::infrastructure::polars_engine::PolarsEngi
             } else {
                 999.0
             };
-            let risk = if runway < 1.0 { "KRİTİK" }
-                else if runway < 3.0 { "YÜKSEK" }
-                else if runway < 6.0 { "ORTA" }
-                else { "DÜŞÜK" };
+            let risk = if runway < 1.0 {
+                "KRİTİK"
+            } else if runway < 3.0 {
+                "YÜKSEK"
+            } else if runway < 6.0 {
+                "ORTA"
+            } else {
+                "DÜŞÜK"
+            };
             (net, burn, runway, risk)
         }
         _ => (0.0, 0.0, 999.0, "ORTA"),
     };
 
     let health = engine.health_score();
-    let skor   = health["skor"].as_i64().unwrap_or(0);
-    let harf   = health["harf"].as_str().unwrap_or("C");
-    let emoji  = health["emoji"].as_str().unwrap_or("🟡");
+    let skor = health["skor"].as_i64().unwrap_or(0);
+    let harf = health["harf"].as_str().unwrap_or("C");
+    let emoji = health["emoji"].as_str().unwrap_or("🟡");
 
     format!(
         "\n[AERA_METRICS]{{\"net_nakit\":{net:.2},\"risk\":\"{risk}\",\"burn_rate\":{burn:.2},\"runway_ay\":{runway:.2},\"health_skor\":{skor},\"health_harf\":\"{harf}\",\"health_emoji\":\"{emoji}\"}}[/AERA_METRICS]"
@@ -689,24 +769,61 @@ fn build_tool_fallback(
 }
 
 // Sektör karşılaştırması (Benchmark)
-fn sector_benchmark(sector: &str, engine: &crate::infrastructure::polars_engine::PolarsEngine) -> serde_json::Value {
+fn sector_benchmark(
+    sector: &str,
+    engine: &crate::infrastructure::polars_engine::PolarsEngine,
+) -> serde_json::Value {
     use serde_json::json;
     let s = sector.to_lowercase();
-    let bm = if s.contains("teknoloji") || s.contains("yazilim") || s.contains("yazılım") || s.contains("it") || s.contains("bilişim") {
+    let bm = if s.contains("teknoloji")
+        || s.contains("yazilim")
+        || s.contains("yazılım")
+        || s.contains("it")
+        || s.contains("bilişim")
+    {
         json!({"sektor":"Teknoloji/Yazılım","ort_runway_ay":4.2,"ort_gelir_gider_orani":1.38,"ort_burn_buyume":"-2%/ay"})
-    } else if s.contains("perakende") || s.contains("magaza") || s.contains("mağaza") || s.contains("ticaret") {
+    } else if s.contains("perakende")
+        || s.contains("magaza")
+        || s.contains("mağaza")
+        || s.contains("ticaret")
+    {
         json!({"sektor":"Perakende","ort_runway_ay":2.1,"ort_gelir_gider_orani":1.18,"ort_burn_buyume":"+3%/ay"})
-    } else if s.contains("uretim") || s.contains("üretim") || s.contains("imalat") || s.contains("fabrika") {
+    } else if s.contains("uretim")
+        || s.contains("üretim")
+        || s.contains("imalat")
+        || s.contains("fabrika")
+    {
         json!({"sektor":"Üretim/İmalat","ort_runway_ay":5.1,"ort_gelir_gider_orani":1.45,"ort_burn_buyume":"+1%/ay"})
-    } else if s.contains("hizmet") || s.contains("danismanlik") || s.contains("danışmanlık") || s.contains("konsultanlik") {
+    } else if s.contains("hizmet")
+        || s.contains("danismanlik")
+        || s.contains("danışmanlık")
+        || s.contains("konsultanlik")
+    {
         json!({"sektor":"Hizmet/Danışmanlık","ort_runway_ay":3.8,"ort_gelir_gider_orani":1.55,"ort_burn_buyume":"-1%/ay"})
-    } else if s.contains("insaat") || s.contains("inşaat") || s.contains("gayrimenkul") || s.contains("emlak") {
+    } else if s.contains("insaat")
+        || s.contains("inşaat")
+        || s.contains("gayrimenkul")
+        || s.contains("emlak")
+    {
         json!({"sektor":"İnşaat/Gayrimenkul","ort_runway_ay":3.2,"ort_gelir_gider_orani":1.22,"ort_burn_buyume":"+5%/ay"})
-    } else if s.contains("gida") || s.contains("gıda") || s.contains("restoran") || s.contains("cafe") || s.contains("yemek") {
+    } else if s.contains("gida")
+        || s.contains("gıda")
+        || s.contains("restoran")
+        || s.contains("cafe")
+        || s.contains("yemek")
+    {
         json!({"sektor":"Gıda/Restoran","ort_runway_ay":1.8,"ort_gelir_gider_orani":1.12,"ort_burn_buyume":"+4%/ay"})
-    } else if s.contains("saglik") || s.contains("sağlık") || s.contains("klinik") || s.contains("hastane") {
+    } else if s.contains("saglik")
+        || s.contains("sağlık")
+        || s.contains("klinik")
+        || s.contains("hastane")
+    {
         json!({"sektor":"Sağlık","ort_runway_ay":4.5,"ort_gelir_gider_orani":1.42,"ort_burn_buyume":"+2%/ay"})
-    } else if s.contains("egitim") || s.contains("eğitim") || s.contains("kurs") || s.contains("okul") {
+    } else if s.contains("egitim")
+        || s.contains("eğitim")
+        || s.contains("kurs")
+        || s.contains("okul")
+    {
         json!({"sektor":"Eğitim","ort_runway_ay":3.6,"ort_gelir_gider_orani":1.35,"ort_burn_buyume":"+1%/ay"})
     } else {
         json!({"sektor":"Genel KOBİ","ort_runway_ay":3.1,"ort_gelir_gider_orani":1.28,"ort_burn_buyume":"+2%/ay"})
@@ -716,28 +833,44 @@ fn sector_benchmark(sector: &str, engine: &crate::infrastructure::polars_engine:
         let inc_col = engine.income_col.clone();
         let exp_col = engine.expense_col.clone();
         if let (Ok(inc), Ok(exp)) = (engine.column_sum(&inc_col), engine.column_sum(&exp_col)) {
-            let months = engine.date_range.as_ref()
+            let months = engine
+                .date_range
+                .as_ref()
                 .map(|d| d.days as f64 / 30.44)
-                .unwrap_or(1.0).max(0.01);
+                .unwrap_or(1.0)
+                .max(0.01);
             let monthly_inc = inc / months;
             let monthly_exp = exp / months;
             let runway = if monthly_exp > monthly_inc {
                 ((inc - exp) / (monthly_exp - monthly_inc) * 10.0).round() / 10.0
-            } else { 24.0 };
-            let ratio = if exp > 0.0 { (inc / exp * 100.0).round() / 100.0 } else { 2.0 };
+            } else {
+                24.0
+            };
+            let ratio = if exp > 0.0 {
+                (inc / exp * 100.0).round() / 100.0
+            } else {
+                2.0
+            };
             json!({"runway_ay": runway, "gelir_gider_orani": ratio})
-        } else { json!(null) }
-    } else { json!(null) };
+        } else {
+            json!(null)
+        }
+    } else {
+        json!(null)
+    };
 
     let sekt_runway = bm["ort_runway_ay"].as_f64().unwrap_or(3.1);
-    let sekt_ratio  = bm["ort_gelir_gider_orani"].as_f64().unwrap_or(1.28);
-    let sektor_adi  = bm["sektor"].as_str().unwrap_or("KOBİ");
+    let sekt_ratio = bm["ort_gelir_gider_orani"].as_f64().unwrap_or(1.28);
+    let sektor_adi = bm["sektor"].as_str().unwrap_or("KOBİ");
 
     let karsilastirma = if let Some(fm) = firma_metrikleri.as_object() {
         let firma_runway = fm.get("runway_ay").and_then(|v| v.as_f64()).unwrap_or(0.0);
-        let firma_ratio  = fm.get("gelir_gider_orani").and_then(|v| v.as_f64()).unwrap_or(0.0);
-        let runway_diff  = firma_runway - sekt_runway;
-        let ratio_diff   = firma_ratio - sekt_ratio;
+        let firma_ratio = fm
+            .get("gelir_gider_orani")
+            .and_then(|v| v.as_f64())
+            .unwrap_or(0.0);
+        let runway_diff = firma_runway - sekt_runway;
+        let ratio_diff = firma_ratio - sekt_ratio;
         format!(
             "Runway: firmanız {:.1} ay ({} sektörü ort. {:.1} ay) — {}. Gelir/gider oranı: firmanız {:.2} (sektör ort. {:.2}) — {}.",
             firma_runway, sektor_adi, sekt_runway,
@@ -746,7 +879,10 @@ fn sector_benchmark(sector: &str, engine: &crate::infrastructure::polars_engine:
             if ratio_diff >= 0.0 { "sektör ÜZERİNDE 👍" } else { "sektörün ALTINDA ⚠️" },
         )
     } else {
-        format!("{} sektörü ortalaması — runway: {:.1} ay, gelir/gider: {:.2}", sektor_adi, sekt_runway, sekt_ratio)
+        format!(
+            "{} sektörü ortalaması — runway: {:.1} ay, gelir/gider: {:.2}",
+            sektor_adi, sekt_runway, sekt_ratio
+        )
     };
 
     json!({
@@ -757,5 +893,3 @@ fn sector_benchmark(sector: &str, engine: &crate::infrastructure::polars_engine:
         "kaynak": "Tahmini sektör ortalamaları"
     })
 }
-
-

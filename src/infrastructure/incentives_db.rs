@@ -57,7 +57,10 @@ fn idf_table() -> &'static HashMap<String, f64> {
                 terms.insert(tag.to_lowercase());
             }
             // Diğer alanlar whitespace ile parçalanır
-            for w in tokens(&p.isim).chain(tokens(&p.aciklama)).chain(tokens(&p.kurum)) {
+            for w in tokens(&p.isim)
+                .chain(tokens(&p.aciklama))
+                .chain(tokens(&p.kurum))
+            {
                 terms.insert(w);
             }
             for t in terms {
@@ -132,9 +135,11 @@ pub fn search_incentives(query: &str) -> serde_json::Value {
     scored.sort_by(|a, b| b.0.partial_cmp(&a.0).unwrap_or(std::cmp::Ordering::Equal));
 
     // Genel sorgular ("teşvik", "destek", "kobi", "hibe"...) tüm programları döndürür.
-    let is_general = ["teşvik", "destek", "kob", "devlet", "hibe", "genel", "uygun", "program", "tümü"]
-        .iter()
-        .any(|kw| q.contains(kw));
+    let is_general = [
+        "teşvik", "destek", "kob", "devlet", "hibe", "genel", "uygun", "program", "tümü",
+    ]
+    .iter()
+    .any(|kw| q.contains(kw));
 
     let results: Vec<serde_json::Value> = if is_general {
         progs.iter().map(program_to_json).collect()
@@ -243,7 +248,11 @@ mod tests {
     #[test]
     fn test_all_programs_have_url() {
         for p in programs() {
-            assert!(p.basvuru_url.starts_with("https://"), "URL https ile başlamalı: {}", p.isim);
+            assert!(
+                p.basvuru_url.starts_with("https://"),
+                "URL https ile başlamalı: {}",
+                p.isim
+            );
         }
     }
 
@@ -253,7 +262,12 @@ mod tests {
         // Smoke test: nadir terim corpus'ta daha yüksek IDF puanı almalı.
         let rare = idf_of("patent");
         let common = idf_of("kosgeb");
-        assert!(rare > common, "Nadir terim daha yüksek IDF almalı: patent={} kosgeb={}", rare, common);
+        assert!(
+            rare > common,
+            "Nadir terim daha yüksek IDF almalı: patent={} kosgeb={}",
+            rare,
+            common
+        );
     }
 
     #[test]
@@ -263,7 +277,11 @@ mod tests {
         let progs = r["tesvik_programlari"].as_array().unwrap();
         let first = progs.first().unwrap();
         assert!(
-            first["isim"].as_str().unwrap().to_lowercase().contains("patent"),
+            first["isim"]
+                .as_str()
+                .unwrap()
+                .to_lowercase()
+                .contains("patent"),
             "Patent sorgusunda ilk sonuç patent programı olmalı: {}",
             first["isim"]
         );

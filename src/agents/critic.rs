@@ -1,9 +1,7 @@
 // Critic Agent
 
 use crate::core::error::{AeraError, AeraResult};
-use crate::infrastructure::gemini::{
-    Content, GeminiClient, GeminiRequest, GenerationConfig, Part,
-};
+use crate::infrastructure::gemini::{Content, GeminiClient, GeminiRequest, GenerationConfig, Part};
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone)]
@@ -97,7 +95,9 @@ pub async fn critique(
 
     let system = Content {
         role: String::new(),
-        parts: vec![Part::Text { text: CRITIC_SYSTEM_PROMPT.to_string() }],
+        parts: vec![Part::Text {
+            text: CRITIC_SYSTEM_PROMPT.to_string(),
+        }],
     };
 
     // Critic deterministik olmalı, yaratıcılık değil tutarlılık hedeflenir.
@@ -123,9 +123,9 @@ pub async fn critique(
 fn extract_text(response: &serde_json::Value) -> AeraResult<String> {
     let parts = response["candidates"][0]["content"]["parts"]
         .as_array()
-        .ok_or_else(|| AeraError::GeminiApiError(
-            "Critic: candidates[0].content.parts bulunamadı".into()
-        ))?;
+        .ok_or_else(|| {
+            AeraError::GeminiApiError("Critic: candidates[0].content.parts bulunamadı".into())
+        })?;
     let mut text = String::new();
     for p in parts {
         if let Some(t) = p["text"].as_str() {
@@ -142,32 +142,38 @@ fn extract_text(response: &serde_json::Value) -> AeraResult<String> {
 
 pub fn parse_critic_response(raw: &str) -> AeraResult<CriticVerdict> {
     let stripped = strip_code_fences(raw);
-    let json_slice = extract_first_json_object(&stripped)
-        .ok_or_else(|| AeraError::AgentExecutionError(
-            "Critic JSON bloğu tespit edilemedi".into()
-        ))?;
+    let json_slice = extract_first_json_object(&stripped).ok_or_else(|| {
+        AeraError::AgentExecutionError("Critic JSON bloğu tespit edilemedi".into())
+    })?;
 
-    let parsed: CriticRawResponse = serde_json::from_str(json_slice)
-        .map_err(|e| AeraError::AgentExecutionError(
-            format!("Critic JSON parse hatası: {}. Ham: {}", e, &json_slice[..json_slice.len().min(200)])
-        ))?;
+    let parsed: CriticRawResponse = serde_json::from_str(json_slice).map_err(|e| {
+        AeraError::AgentExecutionError(format!(
+            "Critic JSON parse hatası: {}. Ham: {}",
+            e,
+            &json_slice[..json_slice.len().min(200)]
+        ))
+    })?;
 
     match parsed.verdict.to_uppercase().as_str() {
         "PASS" => Ok(CriticVerdict::Pass),
         "REVISE" => {
-            let improved = parsed.improved_answer
+            let improved = parsed
+                .improved_answer
                 .filter(|s| !s.trim().is_empty())
-                .ok_or_else(|| AeraError::AgentExecutionError(
-                    "Critic REVISE dedi ama improved_answer boş".into()
-                ))?;
+                .ok_or_else(|| {
+                    AeraError::AgentExecutionError(
+                        "Critic REVISE dedi ama improved_answer boş".into(),
+                    )
+                })?;
             Ok(CriticVerdict::Revise {
                 issues: parsed.issues,
                 improved_answer: improved,
             })
         }
-        other => Err(AeraError::AgentExecutionError(
-            format!("Critic beklenmedik verdict: '{}'", other)
-        )),
+        other => Err(AeraError::AgentExecutionError(format!(
+            "Critic beklenmedik verdict: '{}'",
+            other
+        ))),
     }
 }
 
@@ -189,7 +195,10 @@ fn extract_first_json_object(s: &str) -> Option<&str> {
     let mut in_string = false;
     let mut escape = false;
     for (i, &b) in bytes.iter().enumerate().skip(start) {
-        if escape { escape = false; continue; }
+        if escape {
+            escape = false;
+            continue;
+        }
         match b {
             b'\\' if in_string => escape = true,
             b'"' => in_string = !in_string,
@@ -222,7 +231,10 @@ mod tests {
         let raw = r#"{"verdict":"REVISE","issues":["TL formatı eksik","Tavsiye yok"],"improved_answer":"Sayın kullanıcı, finansal durumunuz...\n[AERA_METRICS]{}[/AERA_METRICS]"}"#;
         let v = parse_critic_response(raw).unwrap();
         match v {
-            CriticVerdict::Revise { issues, improved_answer } => {
+            CriticVerdict::Revise {
+                issues,
+                improved_answer,
+            } => {
                 assert_eq!(issues.len(), 2);
                 assert!(improved_answer.contains("AERA_METRICS"));
             }
@@ -252,7 +264,10 @@ mod tests {
     #[test]
     fn test_verdict_label() {
         assert_eq!(CriticVerdict::Pass.label(), "PASS");
-        let r = CriticVerdict::Revise { issues: vec![], improved_answer: "x".into() };
+        let r = CriticVerdict::Revise {
+            issues: vec![],
+            improved_answer: "x".into(),
+        };
         assert_eq!(r.label(), "REVISE");
     }
 }

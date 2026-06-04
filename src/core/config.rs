@@ -19,8 +19,8 @@ impl AppConfig {
         let gemini_api_key = std::env::var("GEMINI_API_KEY")
             .map_err(|_| crate::core::error::AeraError::EnvVarError("GEMINI_API_KEY".into()))?;
 
-        let server_addr = std::env::var("SERVER_ADDR")
-            .unwrap_or_else(|_| "0.0.0.0:3000".to_string());
+        let server_addr =
+            std::env::var("SERVER_ADDR").unwrap_or_else(|_| "0.0.0.0:3000".to_string());
 
         Ok(Self {
             gemini_api_key,

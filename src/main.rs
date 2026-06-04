@@ -1,5 +1,5 @@
-use aera_cfo::core::config::AppConfig;
 use aera_cfo::api::server;
+use aera_cfo::core::config::AppConfig;
 
 #[tokio::main]
 async fn main() {

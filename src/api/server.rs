@@ -1,12 +1,15 @@
-use axum::{Router, routing::{get, post}};
+use crate::api::{routes, state::AppState};
+use crate::core::config::AppConfig;
+use crate::core::error::AeraResult;
 use axum::extract::DefaultBodyLimit;
 use axum::http::HeaderValue;
+use axum::{
+    routing::{get, post},
+    Router,
+};
 use std::net::SocketAddr;
 use tower_http::cors::CorsLayer;
 use tower_http::services::ServeDir;
-use crate::core::config::AppConfig;
-use crate::core::error::AeraResult;
-use crate::api::{routes, state::AppState};
 
 pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
     let state = AppState::new(config.gemini_api_key.clone());
@@ -24,9 +27,11 @@ pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
     // CORS ayarları (ENV veya localhost)
     let cors_origins = std::env::var("ALLOWED_ORIGINS").ok();
     let origin_list: Vec<String> = match &cors_origins {
-        Some(s) if !s.trim().is_empty() => {
-            s.split(',').map(|x| x.trim().to_string()).filter(|x| !x.is_empty()).collect()
-        }
+        Some(s) if !s.trim().is_empty() => s
+            .split(',')
+            .map(|x| x.trim().to_string())
+            .filter(|x| !x.is_empty())
+            .collect(),
         _ => vec![
             "http://localhost:3000".into(),
             "http://127.0.0.1:3000".into(),
@@ -34,10 +39,8 @@ pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
             "http://localhost:8080".into(),
         ],
     };
-    let allowed_origins: Vec<HeaderValue> = origin_list
-        .iter()
-        .filter_map(|o| o.parse().ok())
-        .collect();
+    let allowed_origins: Vec<HeaderValue> =
+        origin_list.iter().filter_map(|o| o.parse().ok()).collect();
     tracing::info!("🛡️  CORS izinli origin'ler: {:?}", origin_list);
 
     let cors = CorsLayer::new()
@@ -54,17 +57,17 @@ pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
         ]);
 
     // Frontend dizini
-    let frontend_dir = std::env::var("AERA_FRONTEND_DIR")
-        .unwrap_or_else(|_| "frontend".to_string());
+    let frontend_dir =
+        std::env::var("AERA_FRONTEND_DIR").unwrap_or_else(|_| "frontend".to_string());
     tracing::info!("📁 Frontend dizini: {}", frontend_dir);
 
     // Static file fallback
     let app = Router::new()
-        .route("/health",         get(routes::health_check))
-        .route("/api/chat",       post(routes::chat_handler))
+        .route("/health", get(routes::health_check))
+        .route("/api/chat", post(routes::chat_handler))
         .route("/api/upload/csv", post(routes::upload_csv_handler))
         .route("/api/upload/xlsx", post(routes::upload_xlsx_handler))
-        .route("/api/demo",       get(routes::demo_handler))
+        .route("/api/demo", get(routes::demo_handler))
         .route("/api/export/pdf", get(routes::export_pdf_handler))
         .with_state(state)
         .layer(cors)
@@ -73,9 +76,12 @@ pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
 
     let listener = tokio::net::TcpListener::bind(&config.server_addr)
         .await
-        .map_err(|e| crate::core::error::AeraError::AgentExecutionError(
-            format!("Port bağlanamadı {}: {}", config.server_addr, e)
-        ))?;
+        .map_err(|e| {
+            crate::core::error::AeraError::AgentExecutionError(format!(
+                "Port bağlanamadı {}: {}",
+                config.server_addr, e
+            ))
+        })?;
 
     tracing::info!("🌐 AeraCFO → http://{}", config.server_addr);
     tracing::info!("   GET  /health");
@@ -88,9 +94,9 @@ pub async fn start_server(config: &AppConfig) -> AeraResult<()> {
         app.into_make_service_with_connect_info::<SocketAddr>(),
     )
     .await
-    .map_err(|e| crate::core::error::AeraError::AgentExecutionError(
-        format!("Sunucu çöktü: {}", e)
-    ))?;
+    .map_err(|e| {
+        crate::core::error::AeraError::AgentExecutionError(format!("Sunucu çöktü: {}", e))
+    })?;
 
     Ok(())
 }

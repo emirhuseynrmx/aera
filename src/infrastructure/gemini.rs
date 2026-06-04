@@ -1,6 +1,6 @@
+use crate::core::error::{AeraError, AeraResult};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use crate::core::error::{AeraError, AeraResult};
 
 /// Gemini API istemcisi
 pub struct GeminiClient {
@@ -101,8 +101,8 @@ impl GeminiClient {
             .pool_idle_timeout(std::time::Duration::from_secs(90))
             .build()
             .expect("reqwest client oluşturulamadı — TLS backend eksik olabilir");
-        let model = std::env::var("GEMINI_MODEL")
-            .unwrap_or_else(|_| "gemini-2.5-flash".to_string());
+        let model =
+            std::env::var("GEMINI_MODEL").unwrap_or_else(|_| "gemini-2.5-flash".to_string());
         tracing::info!("🤖 Gemini model: {}", model);
         Self {
             client,
@@ -134,7 +134,9 @@ impl GeminiClient {
                         || err_msg.contains("RETRYABLE_EMPTY");
                     if retryable {
                         // 429 ise Google'ın söylediği retryDelay'i kullan, yoksa exponential backoff
-                        let delay = parse_retry_delay_ms(&err_msg).unwrap_or(base_delay).min(35_000);
+                        let delay = parse_retry_delay_ms(&err_msg)
+                            .unwrap_or(base_delay)
+                            .min(35_000);
                         tracing::warn!(
                             "Gemini API yoğunluk hatası ({}). Deneme {}/5 başarısız. {}ms sonra tekrar...",
                             err_msg, attempt + 1, delay
@@ -159,7 +161,8 @@ impl GeminiClient {
             self.model
         );
 
-        let response = self.client
+        let response = self
+            .client
             .post(&url)
             .header("x-goog-api-key", &self.api_key)
             .header("Content-Type", "application/json")
@@ -170,21 +173,22 @@ impl GeminiClient {
         let status = response.status();
         if !status.is_success() {
             let error_body = response.text().await.unwrap_or_default();
-            return Err(AeraError::GeminiApiError(
-                format!("HTTP {}: {}", status.as_u16(), error_body)
-            ));
+            return Err(AeraError::GeminiApiError(format!(
+                "HTTP {}: {}",
+                status.as_u16(),
+                error_body
+            )));
         }
 
         // Yanıt şemasını defensif olarak parse et — API format değişikliğine karşı
-        let body: serde_json::Value = response.json().await
-            .map_err(|e| AeraError::GeminiApiError(
-                format!("Gemini yanıtı JSON parse edilemedi: {}", e)
-            ))?;
+        let body: serde_json::Value = response.json().await.map_err(|e| {
+            AeraError::GeminiApiError(format!("Gemini yanıtı JSON parse edilemedi: {}", e))
+        })?;
 
         // Beklenmedik boş yanıt — erken hata ver, downstream panic yerine
         if !body["candidates"].is_array() && body["promptFeedback"].is_null() {
             return Err(AeraError::GeminiApiError(
-                "Gemini beklenmedik format döndürdü (candidates yok).".into()
+                "Gemini beklenmedik format döndürdü (candidates yok).".into(),
             ));
         }
 
@@ -234,7 +238,10 @@ fn parse_retry_delay_ms(err_msg: &str) -> Option<u64> {
     // Fallback: "Please retry in 31.76s"
     if let Some(idx) = err_msg.find("retry in ") {
         let tail = &err_msg[idx + "retry in ".len()..];
-        let num: String = tail.chars().take_while(|c| c.is_ascii_digit() || *c == '.').collect();
+        let num: String = tail
+            .chars()
+            .take_while(|c| c.is_ascii_digit() || *c == '.')
+            .collect();
         if let Ok(secs) = num.parse::<f64>() {
             return Some(((secs + 1.0) * 1000.0) as u64);
         }
@@ -248,7 +255,8 @@ mod tests {
 
     #[test]
     fn parses_structured_retry_delay() {
-        let msg = r#"HTTP 429: {"error":{"details":[{"@type":"...RetryInfo","retryDelay":"31s"}]}}"#;
+        let msg =
+            r#"HTTP 429: {"error":{"details":[{"@type":"...RetryInfo","retryDelay":"31s"}]}}"#;
         assert_eq!(parse_retry_delay_ms(msg), Some(32_000));
     }
 

@@ -1,9 +1,7 @@
 // Planner Agent
 
 use crate::core::error::{AeraError, AeraResult};
-use crate::infrastructure::gemini::{
-    Content, GeminiClient, GeminiRequest, GenerationConfig, Part,
-};
+use crate::infrastructure::gemini::{Content, GeminiClient, GeminiRequest, GenerationConfig, Part};
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -76,7 +74,9 @@ pub async fn plan(
     };
     let system = Content {
         role: String::new(),
-        parts: vec![Part::Text { text: PLANNER_SYSTEM_PROMPT.to_string() }],
+        parts: vec![Part::Text {
+            text: PLANNER_SYSTEM_PROMPT.to_string(),
+        }],
     };
 
     // Planner sıcaklığı düşük — yaratıcı plan yerine deterministik şema hedeflenir.
@@ -102,9 +102,9 @@ pub async fn plan(
 fn extract_text(response: &serde_json::Value) -> AeraResult<String> {
     let parts = response["candidates"][0]["content"]["parts"]
         .as_array()
-        .ok_or_else(|| AeraError::GeminiApiError(
-            "Planner: candidates[0].content.parts bulunamadı".into()
-        ))?;
+        .ok_or_else(|| {
+            AeraError::GeminiApiError("Planner: candidates[0].content.parts bulunamadı".into())
+        })?;
     let mut text = String::new();
     for p in parts {
         if let Some(t) = p["text"].as_str() {
@@ -124,26 +124,29 @@ fn extract_text(response: &serde_json::Value) -> AeraResult<String> {
 /// arasındaki bloğu çek. Yine de hata olursa kullanıcıya düşmesin — fallback plan üret.
 pub fn parse_plan_response(raw: &str) -> AeraResult<PlanResult> {
     let stripped = strip_code_fences(raw);
-    let json_slice = extract_first_json_object(&stripped)
-        .ok_or_else(|| AeraError::AgentExecutionError(
-            "Planner JSON bloğu tespit edilemedi".into()
-        ))?;
+    let json_slice = extract_first_json_object(&stripped).ok_or_else(|| {
+        AeraError::AgentExecutionError("Planner JSON bloğu tespit edilemedi".into())
+    })?;
 
-    let plan: PlanResult = serde_json::from_str(json_slice)
-        .map_err(|e| AeraError::AgentExecutionError(
-            format!("Planner JSON parse hatası: {}. Ham: {}", e, &json_slice[..json_slice.len().min(200)])
-        ))?;
+    let plan: PlanResult = serde_json::from_str(json_slice).map_err(|e| {
+        AeraError::AgentExecutionError(format!(
+            "Planner JSON parse hatası: {}. Ham: {}",
+            e,
+            &json_slice[..json_slice.len().min(200)]
+        ))
+    })?;
 
     if plan.subtasks.is_empty() {
         return Err(AeraError::AgentExecutionError(
-            "Planner boş subtask listesi döndü".into()
+            "Planner boş subtask listesi döndü".into(),
         ));
     }
     // 4'ten fazla subtask Executor'da round limitini aşar — emniyet kemeri
     if plan.subtasks.len() > 4 {
-        return Err(AeraError::AgentExecutionError(
-            format!("Planner çok fazla subtask döndü: {}. Soruyu basitleştirin.", plan.subtasks.len())
-        ));
+        return Err(AeraError::AgentExecutionError(format!(
+            "Planner çok fazla subtask döndü: {}. Soruyu basitleştirin.",
+            plan.subtasks.len()
+        )));
     }
     Ok(plan)
 }
@@ -166,7 +169,10 @@ fn extract_first_json_object(s: &str) -> Option<&str> {
     let mut in_string = false;
     let mut escape = false;
     for (i, &b) in bytes.iter().enumerate().skip(start) {
-        if escape { escape = false; continue; }
+        if escape {
+            escape = false;
+            continue;
+        }
         match b {
             b'\\' if in_string => escape = true,
             b'"' => in_string = !in_string,
