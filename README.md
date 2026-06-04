@@ -76,13 +76,13 @@ Frontend response / PDF report
 |   |-- core/             # Config and error types
 |   |-- infrastructure/   # Polars engine, Gemini client, incentives DB, demo generator
 |   `-- bin/              # Utility binaries for demo data
+|-- config/               # Environment examples
+|-- deploy/               # Docker and deployment assets
 |-- frontend/             # Static browser UI served by the backend
 |-- data/                 # Demo CSVs and incentive reference data
 |-- docs/                 # Screenshots, GIFs, and visual documentation assets
 |-- templates/            # Typst report template
-|-- Dockerfile
-|-- docker-compose.yml
-`-- README.tr.md          # Turkish README archive
+`-- README.md             # English main README
 ```
 
 ## API Surface
@@ -116,7 +116,7 @@ The Gemini tool layer currently exposes:
 ### 1. Configure environment
 
 ```bash
-cp .env.example .env
+cp config/.env.example .env
 ```
 
 Set your Gemini key:
@@ -141,7 +141,7 @@ http://localhost:3000
 ### 3. Run with Docker
 
 ```bash
-docker compose up --build
+docker compose -f deploy/docker/docker-compose.yml up --build
 ```
 
 ## Useful Commands
@@ -180,4 +180,4 @@ AeraCFO is being prepared for a larger update. The next version is expected to i
 
 This project is licensed under the [MIT License](LICENSE).
 
-For the archived Turkish README, see [README.tr.md](README.tr.md).
+For the archived Turkish README, see [docs/README.tr.md](docs/README.tr.md).

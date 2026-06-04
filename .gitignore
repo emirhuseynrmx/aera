@@ -6,6 +6,7 @@ Cargo.lock
 # AeraCFO specific
 .env
 .env.*
+!config/.env.example
 !data/*.csv
 
 # Logs and outputs
@@ -15,7 +16,11 @@ Cargo.lock
 # Documentation / Marketing / Scratch files
 *.md
 !README.md
-!README.tr.md
+!data/README.md
+!deploy/README.md
+!docs/README.md
+!docs/README.tr.md
+!frontend/README.md
 *.html
 !frontend/index.html
 

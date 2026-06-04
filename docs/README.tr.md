@@ -14,7 +14,7 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 
-![AERA CFO - Otonom Yapay Zeka CFO Platformu](./docs/download.gif)
+![AERA CFO - Otonom Yapay Zeka CFO Platformu](download.gif)
 
 </div>
 
@@ -116,13 +116,13 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 
 **Örnek Typst Raporu**
 
-![Örnek Typst Raporu](./docs/image2.png)
+![Örnek Typst Raporu](image2.png)
 
 ---
 
 **What-If Simülasyonu (Örnek)**
 
-![What-If Simülasyonu](./docs/whatif.png)
+![What-If Simülasyonu](whatif.png)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ CSV veya XLSX yükle → 3 ajanlı pipeline (Planner → Executor → Critic) Ho
 ### 2. Kur ve Çalıştır
 ```bash
 git clone <repo-url> && cd aera_cfo
-cp .env.example .env
+cp config/.env.example .env
 # .env: GEMINI_API_KEY=...
 
 cargo run --release
@@ -161,7 +161,7 @@ Rust toolchain ve Typst kurmak istemiyorsan Docker yeterli:
 
 ```bash
 echo "GEMINI_API_KEY=sk-..." > .env
-docker compose up --build
+docker compose -f deploy/docker/docker-compose.yml up --build
 # → http://localhost:3000
 ```
 

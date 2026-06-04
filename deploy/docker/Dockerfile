@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1.6
 # ─────────────────────────────────────────────────────────────────────────────
 # AeraCFO Dockerfile — multi-stage, slim runtime, rustls (no OpenSSL needed).
-# Build: docker build -t aeracfo .
+# Build: docker build -f deploy/docker/Dockerfile -t aeracfo .
 # Run:   docker run --rm -p 3000:3000 -e GEMINI_API_KEY=xxx aeracfo
 # ─────────────────────────────────────────────────────────────────────────────
 
